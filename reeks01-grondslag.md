@@ -1,7 +1,7 @@
 ---
 layout: course
 course_name: reeks01-grondslag
-title: "Reeks 1 - Grondslag"
+title: "Reeks 1"
 youtubeurl: "https://youtu.be/bO-Wg1JNnIM"
 order: 1
 ---

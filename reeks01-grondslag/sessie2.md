@@ -238,19 +238,19 @@ Ons doel is nie om net argumente te wen nie, maar om mense bekend te stel aan Go
 
 ## Bybelkommentaar oor Sleutelteksgedeeltes
 
-> **Jesaja 40:18 - “Met wie wil julle God dan vergelyk, of watter gelykenis sal julle vir Hom uitsoek?”** (1953-vertaling)
+> **Jesaja 40:18** – “Met wie wil julle God dan vergelyk, of watter gelykenis sal julle vir Hom uitsoek?” (1953-vertaling)
 
 Hierdaag Jesaja die volk uit om te besef dat God totaal uniek is. Enige poging om Hom voor te stel asof Hy deel van die skepping is, misken Sy oneindige verhewenheid.
 
-> **Eksodus 20:4 - “Jy mag vir jou geen gesnede beeld maak of enige gelykenis van wat bo in die hemel of onder op die aarde of in die waters onder die aarde is nie.”** (1953-vertaling)
+> **Eksodus 20:4** – “Jy mag vir jou geen gesnede beeld maak of enige gelykenis van wat bo in die hemel of onder op die aarde of in die waters onder die aarde is nie.” (1953-vertaling)
 
 Die tweede gebod verbied afgodsbeelde, wat insluit verkeerde of verminkte idees van God. Dit herinner ons dat God nie deur ’n beeld of konsep beperk kan word nie.
 
-> **Johannes 4:24 - “God is Gees; en die wat Hom aanbid, moet in gees en waarheid aanbid.”** (1953-vertaling)
+> **Johannes 4:24** – “God is Gees; en die wat Hom aanbid, moet in gees en waarheid aanbid.” (1953-vertaling)
 
 Jesus leer dat God nie ’n liggaamlike wese is wat beperk word deur plek of vorm nie. Om Hom reg te aanbid vereis dat ons Hom ken soos Hy werklik is.
 
-> **Handelinge 17:24–25 - “Die God wat die wêreld gemaak het en alles wat daarin is, Hy wat Here van hemel en aarde is, woon nie in tempels met hande gemaak nie. Hy laat Hom ook nie deur mensehande dien asof Hy iets nodig het nie, omdat Hy self aan almal lewe en asem en alles gee.”** (1953-vertaling)
+> **Handelinge 17:24-25** – “Die God wat die wêreld gemaak het en alles wat daarin is, Hy wat Here van hemel en aarde is, woon nie in tempels met hande gemaak nie. Hy laat Hom ook nie deur mensehande dien asof Hy iets nodig het nie, omdat Hy self aan almal lewe en asem en alles gee.” (1953-vertaling)
 
 Paulus maak dit duidelik dat God nie afhanklik is van die skepping nie, maar dat alles in die skepping totaal afhanklik is van Hom.
 

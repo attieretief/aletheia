@@ -181,7 +181,7 @@ Voel vry om ook ander vrae of onsekerhede te deel wat tydens die gesprek opkom. 
 
 Kom ons grond ons bespreking in die Skrif deur te kyk na twee sleutelbybelverse wat verband hou met hierdie klassieke begrip van God.
 
-> **Exodus 3:14 – “I AM WHO I AM.”**
+> **Eksodus 3:14** – “Ek is wat Ek is.” (1953-vertaling)
 
 Dit is 'n sleutelvers om te verstaan wie God is. In hierdie toneel vra Moses vir God sy Naam, en God antwoord: *“I AM WHO I AM… Say this to the people of Israel, ‘I AM has sent me to you.’”* (In Hebreeus hou *YHWH* verband met die werkwoord “to be.”) Die Griekse vertaling (Septuaginta) weergee dit as *“I am He Who Is”*, en die Latynse Vulgaat het soortgelyk *Ego sum qui sum* (“Ek is wat Ek is”).
 
@@ -191,7 +191,7 @@ Dit is merkwaardig: reeds in Moses se tyd openbaar God dat Sy “Naam” *Bestaa
 
 Wanneer Jesus later in Johannes 8:58 sê: *“Before Abraham was, **I AM**,”* eggo Hy hierdie Goddelike Naam en identifiseer Homself met die “Ek IS” van Eksodus. In ’n toegewyde sin is Eksodus 3:14 diep vertroostend: Die Een wat belowe het om by Moses en Israel te wees, *is* Bestaan self; Hy is onvoorwaardelik daar, dieselfde gister, vandag en vir ewig. Anders as wêreldse dinge wat kom en gaan, verander God nie en misluk Hy nie; Hy IS eenvoudig. As ons op God steun, steun ons op die mees soliede werklikheid moontlik.
 
-> **Handelinge 17:28 – “In Him we live and move and have our being.”**
+> **Handelinge 17:28** – “Want in Hom leef ons, beweeg ons en bestaan ons.” (2020-vertaling)
 
 In Handelinge 17 spreek die apostel Paulus Griekse filosowe in Athene toe. Hy vertel hulle van die ware God en verwys na hulle eie digters wat gesê het: *“we are his offspring.”* Paulus gebruik hierdie aanhaling om by hul intuïsie aan te sluit dat die mensdom van God af kom, en voeg dan by: *“In Him \[God] we live and move and have our being.”*
 

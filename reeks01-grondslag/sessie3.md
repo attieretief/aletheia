@@ -162,27 +162,27 @@ Die uiteindelike doel van hierdie nadenke is om ons oë oop te maak vir die glor
 
 ## Bybelkommentaar oor Sleutelteksgedeeltes
 
-> **Handelinge 17:28 - “Want in Hom leef ons, beweeg ons en bestaan ons.”** (2020-vertaling)
+> **Handelinge 17:28** – “Want in Hom leef ons, beweeg ons en bestaan ons.” (2020-vertaling)
 
 Paulus, wat hier in Athene preek, gebruik ’n aanhaling wat sy hoorders sou herken, maar hy vul dit met Bybelse waarheid. Hierdie vers leer dat God nie net die Oorspronklike Skepper is nie, maar die voortdurende bron van ons bestaan. Ons is nie selfstandig nie; ons bestaan is elke oomblik afhanklik van God se volgehoue handeling. Dit stem ooreen met die klassieke siening van God as *grond van bestaan*.
 
-> **Kolossense 1:17 - “Hy bestaan voor alles, en in Hom hou alles in stand.”** (2020-vertaling)
+> **Kolossense 1:17** – “Hy bestaan voor alles, en in Hom hou alles in stand.” (2020-vertaling)
 
 Paulus beskryf Christus hier as die Een wat nie net voor die skepping bestaan het nie, maar wat alles voortdurend dra. Die Grieks dui op ’n aanhoudende, huidige handeling — Hy “hou” dit in stand, nou. Hierdie vers onderstreep dat skepping en instandhouding nie geskei kan word nie: God se skepperwees is ’n voortdurende daad.
 
-> **Hebreërs 1:3 - “Hy is die afskynsel van God se heerlikheid en die afdruksel van sy wese, en Hy hou alle dinge deur die woord van sy krag in stand.”**(1953-vertaling)
+> **Hebreërs 1:3** – “Hy is die afskynsel van God se heerlikheid en die afdruksel van sy wese, en Hy hou alle dinge deur die woord van sy krag in stand.” (1953-vertaling)
 
 Hier sien ons die Nou-moment van God se handeling: “hou … in stand” dui op ’n voortdurende krag wat alles dra. Dit is nie ’n eenmalige daad lank gelede nie, maar ’n konstante werklikheid. Hierdie teks weerlê die idee van ’n God wat net “aan die begin” ingegryp het.
 
-> **Psalm 8:1, 3–4 - “Here, onse Here, hoe heerlik is u Naam oor die hele aarde! … As ek u hemel aanskou, die werk van u vingers, die maan en die sterre wat U berei het: wat is die mens dat U aan hom dink, en die mensekind dat U hom besoek?”** (1953-vertaling)
+> **Psalm 8:1, 3-4** – “Here, onse Here, hoe heerlik is u Naam oor die hele aarde! … As ek u hemel aanskou, die werk van u vingers, die maan en die sterre wat U berei het: wat is die mens dat U aan hom dink, en die mensekind dat U hom besoek?” (1953-vertaling)
 
 Die psalmis se verwondering oor die skepping lei hom nie na blote bewondering van die kosmos nie, maar na aanbidding van die Skepper. Dit wys die natuurlike reaksie van ’n hart wat die realiteit van God as Skepper en Onderhouer raaksien — ’n reaksie van nederigheid en lof.
 
-> **Romeine 11:36 - “Want uit Hom en deur Hom en tot Hom is alle dinge. Aan Hom behoort die heerlikheid tot in ewigheid! Amen.”** (1953-vertaling)
+> **Romeine 11:36** – “Want uit Hom en deur Hom en tot Hom is alle dinge. Aan Hom behoort die heerlikheid tot in ewigheid! Amen.” (1953-vertaling)
 
 Hier som Paulus die hele Bybelse wêreldbeskouing op: God is die bron (“uit Hom”), die middel (“deur Hom”) en die doel (“tot Hom”) van alles. Hierdie vers sluit perfek aan by die metafisiese argument dat God nie net die eerste oorsaak is nie, maar die voortdurende grond en doel van alle bestaan.
 
-> **Eksodus 3:14 - “En God het aan Moses gesê: Ek is wat Ek is. Ook het Hy gesê: So moet jy aan die kinders van Israel sê: Ek is het my na julle gestuur.”** (1953-vertaling)
+> **Eksodus 3:14** – “En God het aan Moses gesê: Ek is wat Ek is. Ook het Hy gesê: So moet jy aan die kinders van Israel sê: Ek is het my na julle gestuur.” (1953-vertaling)
 
 God se selfopenbaring as “Ek is” wys op sy selfbestaande aard. Hy is nie afhanklik van enigiets anders vir sy bestaan nie. Hierdie selfidentifisering vorm die fondament van die Bybelse verstaan van God as die noodsaaklike werklikheid waaruit alles vloei.
 

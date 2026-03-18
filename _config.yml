@@ -45,6 +45,9 @@ plugins:
   - jekyll-relative-links
   - jekyll-titles-from-headings
 
+exclude:
+  - ROADMAP.md
+
 collections:
   courses:
     output: true
