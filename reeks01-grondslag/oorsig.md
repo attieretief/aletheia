@@ -2,7 +2,8 @@
 layout: lesson
 course: reeks01-grondslag
 lesson: 1
-title:  "Oorsig"
+title: "Oorsig — Grondslag"
+description: "Oorsig van Reeks 1: 'n metafisiese ontdekking van God deur filosofie, rede en die Skrif — agt sessies wat die fondament van die Christelike geloof lê."
 author: Attie Retief
 ---
 # 'n Metafisiese Ontdekking van God

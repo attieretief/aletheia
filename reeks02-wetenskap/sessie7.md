@@ -2,7 +2,8 @@
 layout: lesson
 course: reeks02-wetenskap
 lesson: 8
-title: "Sessie 7"
+title: "Sessie 7 — Naturalisme se Selfvernietiging"
+description: "Plantinga se evolusionêre argument teen naturalisme: as ons denke bloot chemie is, het ons geen rede om enigiets te glo nie — insluitend naturalisme self."
 youtubeurl: "https://youtu.be/DC8HpVYuk9g"
 youtube_start: 724
 youtube_end: 796

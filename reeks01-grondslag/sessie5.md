@@ -2,7 +2,8 @@
 layout: lesson
 course: reeks01-grondslag
 lesson: 7
-title:  "Sessie 5"
+title: "Sessie 5 — Bewussyn, Rede en die Morele Wet"
+description: "Drie verskynsels wat materialisme nie kan verklaar nie: bewussyn, rasionele denke en objektiewe morele waarheid."
 youtubeurl: "https://youtu.be/bO-Wg1JNnIM"
 youtube_start: 983
 youtube_end: 1115

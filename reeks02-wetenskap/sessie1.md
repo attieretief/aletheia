@@ -2,7 +2,8 @@
 layout: lesson
 course: reeks02-wetenskap
 lesson: 2
-title: "Sessie 1"
+title: "Sessie 1 — Wat is Wetenskap Werklik?"
+description: "Die onderskeid tussen wetenskap as metode en sciëntisme as geloofsuitspraak — die sleutel wat die hele reeks oopsluit."
 youtubeurl: "https://youtu.be/DC8HpVYuk9g"
 youtube_start: 342
 youtube_end: 398

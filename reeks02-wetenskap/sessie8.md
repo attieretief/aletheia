@@ -2,7 +2,8 @@
 layout: lesson
 course: reeks02-wetenskap
 lesson: 9
-title: "Sessie 8"
+title: "Sessie 8 — Twee Boeke, Een Outeur"
+description: "NGB Artikel 2: die boek van die natuur en die boek van die Skrif. Hoe leef jy as iemand wat die wetenskap liefhet én God aanbid?"
 youtubeurl: "https://youtu.be/DC8HpVYuk9g"
 youtube_start: 796
 youtube_end: 872

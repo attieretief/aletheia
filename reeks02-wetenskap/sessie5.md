@@ -2,7 +2,8 @@
 layout: lesson
 course: reeks02-wetenskap
 lesson: 6
-title: "Sessie 5"
+title: "Sessie 5 — Evolusie: Wat Staan Werklik op die Spel?"
+description: "Onderskei wat evolusie as wetenskap beweer van die filosofiese toevoeging dat dit ongeleid en doelloos is. Bavinck, Plantinga en die Gereformeerde tradisie."
 youtubeurl: "https://youtu.be/DC8HpVYuk9g"
 youtube_start: 592
 youtube_end: 658

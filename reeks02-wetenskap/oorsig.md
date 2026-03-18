@@ -2,7 +2,8 @@
 layout: lesson
 course: reeks02-wetenskap
 lesson: 1
-title: "Oorsig"
+title: "Oorsig — Wetenskap & Werklikheid"
+description: "Oorsig van Reeks 2: agt sessies wat ondersoek of die wetenskap God oorbodig gemaak het, of juis Sy vingerafdrukke onthul."
 author: Attie Retief
 ---
 # Wetenskap & Werklikheid

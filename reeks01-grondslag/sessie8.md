@@ -2,7 +2,8 @@
 layout: lesson
 course: reeks01-grondslag
 lesson: 10
-title:  "Sessie 8"
+title: "Sessie 8 — Jesus Christus: Die Finale Openbaring"
+description: "Die historiese Jesus, die drie-enige God en die hart van die Christelike geloof: God word mens om ons na Hom terug te bring."
 youtubeurl: "https://youtu.be/bO-Wg1JNnIM"
 youtube_start: 1351
 youtube_end: 1500

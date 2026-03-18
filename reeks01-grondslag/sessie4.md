@@ -2,7 +2,8 @@
 layout: lesson
 course: reeks01-grondslag
 lesson: 6
-title:  "Sessie 4"
+title: "Sessie 4 — Hoekom is Daar Iets Eerder as Niks?"
+description: "Die kontingensie-argument: waarom die bestaan van enigiets 'n verklaring vereis wat buite die heelal self lê."
 youtubeurl: "https://youtu.be/bO-Wg1JNnIM"
 youtube_start: 861
 youtube_end: 983

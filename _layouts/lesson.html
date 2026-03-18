@@ -6,7 +6,7 @@ layout: default
   {% include back-forward_has-lessons.html %}
 </div>
 
-<article class="container mx-auto px-2" itemscope itemtype="http://schema.org/BlogPosting">
+<article class="container mx-auto px-2" itemscope itemtype="http://schema.org/Article">
   <div class="mt-4 mb-2 clearfix header-text">
     <div class="clearfix mb-1 py-1">
       {% assign course_page = site.pages | where: "layout", "course" | where: "course_name", page.course | first %}
@@ -56,6 +56,22 @@ layout: default
     <script type="application/json" id="glossary-exclude-terms">
       {{ page.exclude_terms | jsonify }}
     </script>
+  {% endif %}
+
+  {% if page.youtubeurl %}
+  {% assign vid_id = page.youtubeurl | split: '/' | last | split: '?' | first %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "{{ page.title | escape }} — {{ course_page.title | escape }}",
+    "description": "{{ page.excerpt | strip_html | strip_newlines | truncate: 160 | escape }}",
+    "thumbnailUrl": "https://img.youtube.com/vi/{{ vid_id }}/hqdefault.jpg",
+    "uploadDate": "2026-03-18",
+    "contentUrl": "{{ page.youtubeurl }}",
+    "embedUrl": "https://www.youtube.com/embed/{{ vid_id }}"
+  }
+  </script>
   {% endif %}
 </article>
 

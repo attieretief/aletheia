@@ -2,7 +2,8 @@
 layout: lesson
 course: reeks01-grondslag
 lesson: 5
-title:  "Sessie 3"
+title: "Sessie 3 — God en die Werklikheid: Hoe Hou God Alles in Stand?"
+description: "God se verhouding tot die skepping: nie 'n horlosiemaker wat wegstap nie, maar die voortdurende Grond van alle bestaan."
 youtubeurl: "https://youtu.be/bO-Wg1JNnIM"
 youtube_start: 746
 youtube_end: 860

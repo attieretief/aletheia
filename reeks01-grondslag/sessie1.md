@@ -2,7 +2,8 @@
 layout: lesson
 course: reeks01-grondslag
 lesson: 3
-title:  "Sessie 1"
+title: "Sessie 1 — Wat Bedoel Ons met 'God'?"
+description: "Wat die Christelike tradisie werklik bedoel wanneer ons van 'God' praat — nie 'n wese onder ander nie, maar die bron van alle bestaan."
 youtubeurl: "https://youtu.be/bO-Wg1JNnIM"
 youtube_start: 529
 youtube_end: 630

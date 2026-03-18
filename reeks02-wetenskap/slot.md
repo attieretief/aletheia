@@ -2,7 +2,8 @@
 layout: lesson
 course: reeks02-wetenskap
 lesson: 10
-title: "Slot"
+title: "Slot — Verwondering"
+description: "Die wetenskap verminder nie die werklikheid van God nie — dit vergroot dit. 'n Persoonlike meditasie oor verwondering, aanbidding en die pad vorentoe na Reeks 3."
 author: Attie Retief
 ---
 

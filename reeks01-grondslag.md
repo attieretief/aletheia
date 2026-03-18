@@ -1,7 +1,8 @@
 ---
 layout: course
 course_name: reeks01-grondslag
-title: "Reeks 1"
+title: "Reeks 1 — Grondslag"
+description: "Wie is God werklik? 'n Gereformeerde ontdekking van God deur filosofie, rede en die Skrif — agt sessies wat die metafisiese fondament van die Christelike geloof lê."
 youtubeurl: "https://youtu.be/bO-Wg1JNnIM"
 order: 1
 ---

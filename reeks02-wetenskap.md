@@ -1,7 +1,8 @@
 ---
 layout: course
 course_name: reeks02-wetenskap
-title: "Reeks 2"
+title: "Reeks 2 — Wetenskap & Werklikheid"
+description: "Het die wetenskap God oorbodig gemaak? Agt sessies oor sciëntisme, die oerknal, fyninstelling, evolusie, bewussyn en naturalisme — vanuit die Gereformeerde tradisie."
 youtubeurl: "https://youtu.be/DC8HpVYuk9g"
 order: 2
 ---

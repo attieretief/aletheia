@@ -2,10 +2,10 @@
 layout: lesson
 course: reeks01-grondslag
 lesson: 9
-title:  "Sessie 7"
+title: "Sessie 7 — Die God wat Praat: Openbaring en die Skrif"
+description: "Waarom die God van die klassieke teïsme nie 'n stil god sou bly nie — openbaring, die Skrif en die lewende Woord."
 youtubeurl: "https://youtu.be/bO-Wg1JNnIM"
 youtube_start: 1233
-youtube_end: 1350
 youtube_end: 1393
 author: Attie Retief
 ---

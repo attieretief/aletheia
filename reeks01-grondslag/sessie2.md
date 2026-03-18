@@ -2,7 +2,8 @@
 layout: lesson
 course: reeks01-grondslag
 lesson: 4
-title:  "Sessie 2"
+title: "Sessie 2 — Die God wat Nie Afbeeldbaar Is Nie"
+description: "Waarom God nie afgebeeld kan word nie, en hoe die klassieke tradisie ons beskerm teen afgodery en verkeerde godsbeelde."
 youtubeurl: "https://youtu.be/bO-Wg1JNnIM"
 youtube_start: 630
 youtube_end: 745

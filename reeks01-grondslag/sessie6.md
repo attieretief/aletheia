@@ -2,7 +2,8 @@
 layout: lesson
 course: reeks01-grondslag
 lesson: 8
-title:  "Sessie 6"
+title: "Sessie 6 — Verlange, Skoonheid en die Numinose"
+description: "C.S. Lewis se argument uit verlange: die diep onvervulde hunkering in die menslike hart wys na 'n werklikheid wat dit kan vervul."
 youtubeurl: "https://youtu.be/bO-Wg1JNnIM"
 youtube_start: 1116
 youtube_end: 1232

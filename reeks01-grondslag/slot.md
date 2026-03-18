@@ -2,7 +2,8 @@
 layout: lesson
 course: reeks01-grondslag
 lesson: 11
-title:  "Slot"
+title: "Slot — Ontsag en Verlange"
+description: "'n Persoonlike getuienis van ontsag en verlange — die hart van die geloof is nie 'n argument nie, maar 'n ontmoeting."
 youtubeurl: "https://youtu.be/4cU7574vCZQ"
 author: Attie Retief
 ---

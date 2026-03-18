@@ -2,7 +2,8 @@
 layout: lesson
 course: reeks02-wetenskap
 lesson: 3
-title: "Sessie 2"
+title: "Sessie 2 — Die Geskiedenis wat Niemand Vertel Nie"
+description: "Hoe die Christelike geloof die wetenskap moontlik gemaak het, en waarom die Galileo-verhaal nie is wat jy dink dit is nie."
 youtubeurl: "https://youtu.be/DC8HpVYuk9g"
 youtube_start: 398
 youtube_end: 457

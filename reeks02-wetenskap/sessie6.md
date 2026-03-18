@@ -2,7 +2,8 @@
 layout: lesson
 course: reeks02-wetenskap
 lesson: 7
-title: "Sessie 6"
+title: "Sessie 6 — Brein, Bewussyn en die Siel"
+description: "Die 'hard problem of consciousness': hoekom kan neurowetenskappe nie bewuste ervaring verklaar nie, en wat beteken dit vir die Christelike verstaan van die siel?"
 youtubeurl: "https://youtu.be/DC8HpVYuk9g"
 youtube_start: 658
 youtube_end: 724

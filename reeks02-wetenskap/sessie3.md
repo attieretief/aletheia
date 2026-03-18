@@ -2,7 +2,8 @@
 layout: lesson
 course: reeks02-wetenskap
 lesson: 4
-title: "Sessie 3"
+title: "Sessie 3 — Die Heelal het 'n Begin"
+description: "Die oerknal, kosmiese agtergrondstraling en die kosmologiese argument: die wetenskap het nie God weerlê nie, maar Sy vingerafdrukke op die begin van alles gevind."
 youtubeurl: "https://youtu.be/DC8HpVYuk9g"
 youtube_start: 457
 youtube_end: 521

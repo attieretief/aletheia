@@ -2,7 +2,8 @@
 layout: lesson
 course: reeks02-wetenskap
 lesson: 5
-title: "Sessie 4"
+title: "Sessie 4 — Fyninstelling: Die Radikale Kontingensie van die Kosmos"
+description: "Die heelal se konstantes is met onverstaanbare presisie ingestel vir lewe. Wat beteken hierdie radikale kontingensie vir die vraag na God?"
 youtubeurl: "https://youtu.be/DC8HpVYuk9g"
 youtube_start: 521
 youtube_end: 592
