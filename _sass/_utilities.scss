@@ -112,7 +112,10 @@
   .right-lg { float: right !important; }
   .left-lg { float: left !important; }
 
-  .absolute-lg { position: absolute; }
+  .absolute-lg {
+    position: fixed;
+    max-width: 220px;
+  }
 
   .block-lg { display: block !important; }
   .inline-block-lg { display: inline-block; }

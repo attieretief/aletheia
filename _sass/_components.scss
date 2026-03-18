@@ -255,10 +255,11 @@ code {
   }
 }
 
-// Add padding to body to prevent content from going under the logo (desktop only)
+// Add padding to body to prevent content from going under the logo and nav (desktop only)
 body {
   @media (min-width: $breakpoint-lg) {
     padding-left: 308px; // Keep original spacing, logo fills the available space
+    padding-right: 240px; // Reserve space for the right-side navigation menu
   }
 }
 
