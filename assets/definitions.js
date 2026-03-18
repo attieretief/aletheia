@@ -1,15 +1,35 @@
-// Definitions Tooltip System - Updated URLs v2
+// Definitions Tooltip System - Updated URLs v3
 // Dynamically loads woordelys pages and highlights terms with hover cards
+// Supports: first-occurrence-only linking, .no-glossary exclusion zones,
+// and page-level exclude_terms via frontmatter
 
 class DefinitionsTooltips {
     constructor() {
         this.wordList = new Map();
+        this.matchedTerms = new Set(); // tracks which terms have already been linked on this page
+        this.excludeTerms = new Set(); // page-level excluded terms from frontmatter
         this.init();
     }
 
     async init() {
+        this.loadExcludeTerms();
         await this.loadWoordelysPages();
         this.processCurrentPage();
+    }
+
+    // Read page-level exclude_terms from a <script> tag in the page
+    loadExcludeTerms() {
+        const el = document.getElementById('glossary-exclude-terms');
+        if (el) {
+            try {
+                const terms = JSON.parse(el.textContent);
+                for (const t of terms) {
+                    this.excludeTerms.add(t.toLowerCase());
+                }
+            } catch (e) {
+                console.warn('Could not parse glossary-exclude-terms');
+            }
+        }
     }
 
     async loadWoordelysPages() {
@@ -92,6 +112,11 @@ class DefinitionsTooltips {
             return;
         }
 
+        // Skip elements (and their children) marked with .no-glossary
+        if (element.classList && element.classList.contains('no-glossary')) {
+            return;
+        }
+
         // Only process children that are not links, headings, or buttons
         const forbidden = ['A', 'BUTTON', 'H1', 'H2', 'H3', 'H4', 'H5', 'H6', 'SCRIPT', 'STYLE', 'CODE', 'PRE', 'NAV', 'HEADER'];
         for (const child of Array.from(element.childNodes)) {
@@ -106,23 +131,40 @@ class DefinitionsTooltips {
     }
 
     processTextNode(textNode) {
-        const str = textNode.textContent;
+        // Skip text nodes inside .no-glossary ancestors
+        if (textNode.parentNode && textNode.parentNode.closest && textNode.parentNode.closest('.no-glossary')) {
+            return;
+        }
+
         let nodes = [textNode];
         let matchFound = false;
 
         for (const [word, wordData] of this.wordList) {
+            // Skip terms excluded at the page level via frontmatter
+            if (this.excludeTerms.has(word)) {
+                continue;
+            }
+
+            // First-occurrence-only: skip if this glossary entry has already been linked
+            // (keyed by the canonical title, so all variations of one term share one slot)
+            const termKey = wordData.title.toLowerCase();
+            if (this.matchedTerms.has(termKey)) {
+                continue;
+            }
+
             const newNodes = [];
+            let termMatched = false;
             for (const node of nodes) {
                 if (node.nodeType === Node.TEXT_NODE) {
                     const text = node.textContent;
                     const regex = new RegExp(`\\b${this.escapeRegex(word)}\\b`, 'gi');
                     let lastIndex = 0;
                     let m;
-                    while ((m = regex.exec(text)) !== null) {
+                    // Only match once per term (first occurrence on the page)
+                    if (!termMatched && (m = regex.exec(text)) !== null) {
                         if (m.index > lastIndex) {
                             newNodes.push(document.createTextNode(text.slice(lastIndex, m.index)));
                         }
-                        // Create the span for the matched word
                         const span = document.createElement('span');
                         span.className = 'definitions-term';
                         span.setAttribute('data-title', this.escapeHtml(wordData.title));
@@ -130,14 +172,20 @@ class DefinitionsTooltips {
                         span.textContent = m[0];
                         newNodes.push(span);
                         matchFound = true;
+                        termMatched = true;
                         lastIndex = m.index + m[0].length;
-                    }
-                    if (lastIndex < text.length) {
-                        newNodes.push(document.createTextNode(text.slice(lastIndex)));
+                        if (lastIndex < text.length) {
+                            newNodes.push(document.createTextNode(text.slice(lastIndex)));
+                        }
+                    } else {
+                        newNodes.push(node);
                     }
                 } else {
                     newNodes.push(node);
                 }
+            }
+            if (termMatched) {
+                this.matchedTerms.add(termKey);
             }
             nodes = newNodes;
         }
@@ -204,8 +252,6 @@ class DefinitionsTooltips {
                 return temp.innerHTML;
             }
             content = unwrapFullFormatting(content);
-            // DEBUG: Log the sanitized HTML content to the console
-            console.log('DEFINITIONS CARD CONTENT:', content);
 
             // Create and show the card
             const card = document.createElement('div');

@@ -1,7 +1,7 @@
 ---
 layout: lesson
 course: reeks01-grondslag
-lesson: 98
+lesson: 2
 title:  "Kontroversie"
 author: Attie Retief
 ---
@@ -34,9 +34,9 @@ Hierdie taal beklemtoon God se selfbestaan en eenvoud, maar kan sonder verduidel
 Ek praat graag oor God se teenwoordigheid "in alles" (Hand. 17:28). Dit is Bybels, maar kan deur sommige gehoor word asof ek God en skepping vermeng. Die Skepper-skepsel-onderskeid moet altyd duidelik bly.
 
 ### 4. Universele verlange na God
-**Relevante Belydenisverwysings:** NGB Art. 2; DL 3/4.1–4
+**Relevante Belydenisverwysings:** NGB Art. 2; DL 3/4.1–4; Rom. 1:18–21; Rom. 3:11
 
-Ek verwys na die *sensus divinitatis* en 'n ingeboude smagting na God. Die belydenis leer egter dat enige ware soeke na God deur die Heilige Gees begin word, en dat die mens in sy natuurlike staat nie God waarlik soek nie.
+Ek verwys na die *sensus divinitatis* en die rusteloosheid wat dit in elke mens skep. Hier is noukeurige onderskeiding nodig. Calvyn leer dat God 'n bewussyn van Homself in alle mense ingeplant het (*Institusie* I.3.1), maar dat gevalle mense hierdie bewussyn aktief **onderdruk** en verdraai (*Institusie* I.4; Rom. 1:18–21). Die *sensus divinitatis* produseer dus 'n onrustigheid en 'n besef dat daar iets groter is, maar lei op sigself nie tot ware Godskennis of opregte soeke na God nie — Romeine 3:11 is ondubbelsinnig: *"Daar is niemand wat God soek nie."* Enige werklike beweging van die hart na God toe word deur die **Heilige Gees** gewerk (DL 3/4.11–12). Waar Hart of ander denkers praat van 'n "natuurlike verlange na God" by ongelowiges, moet ons dit verstaan as die rusteloosheid wat die *sensus divinitatis* nalaat, nie as 'n ongehoude menslike vermoë om God te soek of te vind nie.
 
 ### 5. Erkenning van gedeelde klassieke teïsme met ander gelowe
 **Relevante Belydenisverwysings:** NGB Art. 2, 7; DL 2.5
@@ -47,6 +47,17 @@ Ek wys daarop dat sekere eienskappe van God deur ander godsdienste erken word. D
 **Relevante Belydenisverwysings:** NGB Art. 7; HK Sondag 21
 
 Ek wil hê mense moet vry voel om vrae te vra en selfs te verskil. Party mag dit as te "oop" ervaar in 'n streng belydenisgebonde konteks.
+
+### 7. David Bentley Hart se universalisme
+**Relevante Belydenisverwysings:** NGB Art. 37; DL 1.15; HK Sondag 19, V/A 52
+
+Ek moet eerlik wees oor iets wat sommige lesers sal opval. Hierdie reeks steun sterk op die filosofiese raamwerk van David Bentley Hart, veral soos uiteengesit in sy boek *The Experience of God: Being, Consciousness, Bliss* (2013). Dit is 'n uitstekende werk oor klassieke teisme, en ek gebruik dit met oortuiging.
+
+Sedert 2019 het Hart egter in sy boek *That All Shall Be Saved* openlik 'n universalistiese standpunt ingeneem -- hy verwerp die leer van ewige verdoemenis en voer aan dat alle mense uiteindelik gered sal word. Dit staan in regstreekse spanning met ons gereformeerde belydenis. Die Nederlandse Geloofsbelydenis (Art. 37) bely dat die goddeloses "die ewige straf" sal ontvang. Die Dordtse Leerreels (1.15) leer dat God nie almal verkies het nie, maar sommige in hul val en verderf gelaat het. En die Heidelbergse Kategismus (Sondag 19, V/A 52) troos ons juis met die verwagting dat Christus as Regter sal kom wat al sy en my vyande "in die ewige verdoemenis sal werp."
+
+Ek wil dit nie wegsteek nie. Eerlikheid vra dat ek erken: die man wie se filosofiese werk ek hier gebruik, het teologiese oortuigings wat op hierdie punt wesenlik van ons belydenis verskil. Wat ek wel in hierdie reeks gebruik, is Hart se *filosofiese* raamwerk oor God se wese, nie sy soteriologiese gevolgtrekkings nie. Sy beskrywing van God as die oneindige grond van bestaan, bewussyn en goedheid staan in 'n lang klassieke tradisie (Augustinus, Aquinas, die Kappadosiers) en is nie afhanklik van sy latere universalistiese standpunt nie.
+
+Ek vra jou om hier met onderskeiding te lees: neem wat waar en nuttig is, en toets alles aan die Skrif en ons belydenis.
 
 ## Punte van Volle Ooreenstemming
 

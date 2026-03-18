@@ -552,18 +552,24 @@ body {
 // Scroll to top/bottom buttons
 .scroll-buttons {
   position: fixed;
-  left: calc(50vw - 600px); // Position relative to content area
+  // On large screens the sidebar is 308px; content is centred in the remaining space.
+  // Place the buttons at the left edge of the content area, offset inward.
+  left: calc(308px + (100vw - 308px - 1200px) / 2 - 60px);
   top: 50%;
-  transform: translateY(-50%) translateX(-60px); // Move left from content edge
+  transform: translateY(-50%);
   z-index: 500;
   display: flex;
   flex-direction: column;
   gap: $spacer-1;
-  
-  // Fallback for smaller screens - use simple left positioning
-  @media (max-width: 1300px) {
+
+  // When the content area is narrow enough that buttons would overlap the sidebar
+  @media (max-width: 1600px) {
+    left: calc(308px + #{$spacer-2});
+  }
+
+  // Below the large breakpoint the sidebar collapses
+  @media (max-width: $breakpoint-lg) {
     left: $spacer-2;
-    transform: translateY(-50%);
   }
 }
 

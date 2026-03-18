@@ -1,7 +1,7 @@
 ---
 layout: lesson
 course: reeks01-grondslag
-lesson: 3
+lesson: 4
 title:  "Sessie 2"
 youtubeurl: "https://youtu.be/bO-Wg1JNnIM"
 youtube_start: 630
@@ -14,7 +14,7 @@ author: Attie Retief
 
 In vandag se skeptiese wêreld kry karikature van God dikwels die meeste aandag. Gewilde ateïstiese boeke en internet-memes verklein God tot ’n “onsigbare lugfeëtjie” of ’n nors ou man met ’n baard wat op ’n wolk sit. Sulke beelde is maklik om belaglik te maak, maar dit is strooipoppe – wanvoorstellings waarin geen ernstige Christen glo nie. Wanneer kritici God gelykstel aan kinderagtige bygeloof of aan ’n wispelturige ‘man daar bo’, is hulle nie besig om werklik die klassieke Christelike siening van God aan te spreek nie. In werklikheid val baie skeptici ’n “klaarblyklik belaglike strooipop” aan, eerder as die ware begrip van God. Soos een kommentator gesê het, maak dit dit vir hulle makliker – hulle oorwin ’n onbenullige idee in plaas daarvan om met die werklikheid te worstel.
 
-In hierdie sessie wil ons die spot vervang met begrip – ons gaan ’n paar algemene wanopvattings oor God ondersoek en dit geduldig regstel. Ons gaan sien dat die moderne ateïsme dikwels die klassieke begrip van God verkeerd verstaan, en ons gaan onsself uitdaag om God te sien soos Hy werklik is: nie net ’n vergrote weergawe van onsself nie, maar die transendente Skepper wat bo alles verhewe is. Ons gaan ook oor ons eie denke nadink, want selfs toegewyde gelowiges kan soms in ’n te beperkte idee van God verval. Die Skrif herinner ons dat God sowel die Almagtige Koning is wat bo ruimte en tyd verhewe is, as die liefdevolle Vader wat selfs elke haar op ons kop tel (Matteus 10:30). Hierdie balans versterk ons geloof en beskerm ons teen verwarring.
+Moderne ateïsme verstaan dikwels die klassieke begrip van God verkeerd. Selfs toegewyde gelowiges kan soms in ‘n te beperkte idee van God verval. Die Skrif herinner ons dat God sowel die Almagtige Koning is wat bo ruimte en tyd verhewe is, as die liefdevolle Vader wat selfs elke haar op ons kop tel (Matteus 10:30). Hierdie balans versterk ons geloof en beskerm ons teen verwarring.
 
 ## Mite 1: “God is net ’n antieke bygeloof of ’n sielkundige kruk.”
 
@@ -28,7 +28,7 @@ Selfs ateïstiese filosowe erken dat die vraag oor bestaan ’n diepgaande een i
 
 Dit is ook belangrik om te noem dat baie briljante, rasionele mense in God glo, wat die idee weerlê dat geloof slegs ’n kruk vir die oningeligtes is. Die ateïstiese geleerde Thomas Nagel het self erken dat hy ontsteld was oor die feit dat *“some of the most intelligent and well-informed people”* wat hy geken het, teïste was.
 
-Hulle geloof het nie uit domheid of blote wensdenkery gekom nie, maar dikwels uit deeglike nadenke en selfs persoonlike ervaring. Natuurlik kan troos ’n aspek van geloof wees – God bring inderdaad vertroosting aan die wat seer het – maar dit beteken nie dat God slegs ’n menslike uitvinding vir troos is nie.
+Hulle geloof het nie uit domheid of blote wensdenkery gekom nie, maar dikwels uit deeglike nadenke en selfs persoonlike ervaring. Natuurlik kan troos ‘n aspek van geloof wees; God bring inderdaad vertroosting aan die wat seer het. Maar dit beteken nie dat God slegs ‘n menslike uitvinding vir troos is nie.
 
 Om ’n geloof vals te noem bloot omdat dit vertroostend is, is om die sogenaamde *genetic fallacy* te pleeg – om die oorsprong van ’n idee te verwar met sy waarheid. Ons moet vriendelik daarop wys dat waarheid nie bepaal word deur hoe ’n geloof ons laat voel nie.
 
@@ -55,9 +55,9 @@ Inteendeel, God word verstaan as die grondslag van alle bestaan – die rede waa
 
 Elke hartklop, elke natuurwet, elke oomblik van bestaan is afhanklik van God se onderhoudende wil.
 
-Dit is ’n belangrike onderskeid: God is die primêre oorsaak van bestaan self, terwyl die wetenskap sekondêre oorsake beskryf – die meganismes binne die skepping. Ons hoef nie tussen God en wetenskap te kies nie; God is nie in kompetisie met natuurwette nie – Hy is die Skrywer van die natuur waarop daardie wette berus.
+Dit is ‘n belangrike onderskeid: God is die primêre oorsaak van bestaan self, terwyl die wetenskap sekondêre oorsake beskryf, die meganismes binne die skepping. Ons hoef nie tussen God en wetenskap te kies nie; God is nie in kompetisie met natuurwette nie — Hy is die Skrywer van die natuur waarop daardie wette berus.
 
-Die karikatuur van ’n “god van die gapings” – ’n god wat net ingeroep word om te verduidelik wat die wetenskap nog nie verduidelik het nie – verteenwoordig glad nie klassieke teïsme nie. Soos Thomas Aquinas verduidelik het, is God nie ’n plekhouer vir onkunde nie, maar die noodsaaklike grondslag, selfs vir ’n volledig verstaanbare natuurlike wêreld.
+Die karikatuur van ‘n “god van die gapings”, ‘n god wat net ingeroep word om te verduidelik wat die wetenskap nog nie verduidelik het nie, verteenwoordig glad nie klassieke teïsme nie. Soos Thomas Aquinas verduidelik het, is God nie ’n plekhouer vir onkunde nie, maar die noodsaaklike grondslag, selfs vir ’n volledig verstaanbare natuurlike wêreld.
 
 Selfs as elke fisiese proses verklaar is, bly die vraag: *“Waarom bestaan daar enigiets? Waarom geld hierdie wette?”* En dit wys weer na God.
 
@@ -77,7 +77,7 @@ Die verskil tussen Skepper en skepsel is kwalitatief, nie net kwantitatief nie. 
 
 Wanneer iemand dus spot: *“Jy glo in ’n magiese man in die lug”*, kan ons sê: Nee, ek glo in ’n transendente Gees wat die rede is waarom enigiets bestaan en funksioneer. Om Hom tot ’n “ou man” te reduseer, is soos om die son tot ’n kersvlammetjie te reduseer – ’n absurde verkleining.
 
-Deur hierdie misverstaande beeld aan te val, het kritici nog nie die God van die Christelike geloof geraak nie – net ’n strooipop. Ons kan hulle nooi om met die **werklike** visie van God in gesprek te tree: Een wat die heelal op elke oomblik onderhou, maar nie beperk is soos ’n skepsel nie. Hierdie visie verduidelik juis waarom ’n geordende heelal kan bestaan – omdat dit afhanklik is van die Uiteindelike Ordegewer.
+Deur hierdie misverstaande beeld aan te val, het kritici nog nie die God van die Christelike geloof geraak nie — net ‘n strooipop. Ons kan hulle nooi om met die werklike visie van God in gesprek te tree: Een wat die heelal op elke oomblik onderhou, maar nie beperk is soos ‘n skepsel nie. Hierdie visie verduidelik juis waarom ‘n geordende heelal kan bestaan, omdat dit afhanklik is van die Uiteindelike Ordegewer.
 
 Daar is geen “gapings” waar God nie aan die werk is nie – soos Handelinge 17:27 sê:
 
@@ -89,15 +89,15 @@ Op die oog af klink hierdie vraag slim – dit word dikwels in ’n *aha*-toon g
 
 Richard Dawkins, byvoorbeeld, skryf in *The God Delusion* dat die idee van God die raaisel net verdiep, want *“wie het die Ontwerper ontwerp?”*
 
-Maar hierdie beswaar misverstaan wat Christene bedoel met die woord “God”. Per definisie is God die **Onveroorsaakte Eerste Oorsaak** – die uiteindelike werklikheid wat nog altyd bestaan het. Om te vra: *“Wie het die Ongeskape Skepper geskep?”* is ’n **kategorie-fout**, soos om te vra: *“Met wie is die vrygesel getroud?”* of *“Hoe proe die kleur rooi?”*
+Maar hierdie beswaar misverstaan wat Christene bedoel met die woord “God”. Per definisie is God die **Onveroorsaakte Eerste Oorsaak**, die uiteindelike werklikheid wat nog altyd bestaan het. Om te vra: *”Wie het die Ongeskape Skepper geskep?”* is ‘n **kategorie-fout**, soos om te vra: *“Met wie is die vrygesel getroud?”* of *“Hoe proe die kleur rooi?”*
 
-As ons die konsep van God reg verstaan, weet ons Hy is **ewig** en **noodsaaklik** – sonder begin en sonder oorsaak. Alle groot Christelike tradisies leer dat God *ase* (uit Homself) bestaan, terwyl alles anders *ab alio* (uit iets anders) bestaan.
+As ons die konsep van God reg verstaan, weet ons Hy is ewig en noodsaaklik, sonder begin en sonder oorsaak. Alle groot Christelike tradisies leer dat God *ase* (uit Homself) bestaan, terwyl alles anders *ab alio* (uit iets anders) bestaan.
 
-Dus is die vraag *“Wie het God gemaak?”* sinloos – want ons glo nie in ’n **gemaakte** God nie. As iets gemaak of veroorsaak is, sou dit per definisie nie God wees nie.
+Dus is die vraag *”Wie het God gemaak?”* sinloos, want ons glo nie in ‘n gemaakte God nie. As iets gemaak of veroorsaak is, sou dit per definisie nie God wees nie.
 
 Die verwarring kom gewoonlik van ’n slordige formulering van die argument. Skeptici sê soms: *“Wel, julle sê mos dat alles ’n Skepper nodig het; dus moet God ook een hê.”* Maar dit is nie wat Christene sê nie. Die tradisionele argument lui: *“Alles wat begin bestaan het, of wat kontingent is, het ’n oorsaak nodig.”*
 
-God, anders as die heelal, het nie begin bestaan nie en is nie kontingent nie. Hy is die **Noodsaaklike Wese** – die Een wie se wese self bestaan is, en wat nie kan ophou bestaan nie.
+God, anders as die heelal, het nie begin bestaan nie en is nie kontingent nie. Hy is die **Noodsaaklike Wese**: die Een wie se wese self bestaan is, en wat nie kan ophou bestaan nie.
 
 Die heelal daarenteen is kontingent – dit hoef nie te bestaan nie, en volgens die beste wetenskaplike insigte het dit ’n begin gehad (bv. die oerknal). Selfs as ons die ketting van oorsake terugvoer tot ’n oerknal, bly die vraag: *“Hoekom is daar ’n heelal? Hoekom het dit wette?”*
 
@@ -105,7 +105,7 @@ Die heelal daarenteen is kontingent – dit hoef nie te bestaan nie, en volgens 
 
 Stel jou ’n ketting voor wat in die lug hang: selfs al is die ketting oneindig lank, verduidelik dit nie hoekom dit in die lug bly hang nie. Daar moet ’n **haak** wees wat buite die ketting self is, wat dit dra. So ook moet daar ’n Uiteindelike Oorsaak buite die reeks van kontingente dinge wees wat dit alles grond.
 
-Aquinas het dit mooi gestel: daar moet ’n Eerste Oorsaak wees wie se wese en bestaan een en dieselfde is – ’n wese wat **blote bestaan self** is, en nie bestaan ontvang van iets anders nie.
+Aquinas het dit mooi gestel: daar moet ‘n Eerste Oorsaak wees wie se wese en bestaan een en dieselfde is, ‘n wese wat blote bestaan self is, en nie bestaan ontvang van iets anders nie.
 
 Leibniz het soortgelyk gevra: *“Hoekom is daar iets eerder as niks?”* en tot die gevolg gekom dat die antwoord lê in ’n noodsaaklike wese wat die rede vir sy eie bestaan in homself dra (*sufficient reason*).
 
@@ -113,7 +113,7 @@ Daarom maak die vraag *“Wie het God gemaak?”* ’n verkeerde aanname – dit
 
 As iemand sê: *“Ek sal net ’n wetenskaplike oorsaak aanvaar, nie God as die oorsaak nie,”* kan jy vra: *“En wat het daardie wetenskaplike oorsaak veroorsaak?”* Uiteindelik kom selfs die skeptikus by iets wat hy as onveroorsaak aanvaar – of dit nou materie/energie is, of natuurwette, of iets anders.
 
-Die vraag is dan: watter een is ’n beter kandidaat vir ’n **onveranderlike, selfbestaande grond van alles** – ’n blote, dooie natuurstof, of ’n ewige, intelligente Gees?
+Die vraag is dan: watter een is ‘n beter kandidaat vir ‘n onveranderlike, selfbestaande grond van alles: ‘n blote, dooie natuurstof, of ‘n ewige, intelligente Gees?
 
 Christene glo laasgenoemde maak veel meer sin – omdat dit die orde, rede en doelgerigtheid van die skepping beter verklaar. Soos Psalm 90:2 sê:
 
@@ -123,15 +123,15 @@ Christene glo laasgenoemde maak veel meer sin – omdat dit die orde, rede en do
 
 Skeptici wys soms na gedeeltes in die Ou Testament waar God met menslike eienskappe uitgebeeld word – Hy “wandel” byvoorbeeld in die tuin van Eden (Genesis 3:8), Hy toon toorn of berou, of Hy word as “Vader” beskryf met hande en oë. Dan sê hulle: *“Sien? Julle eie Bybel maak van God ’n mensagtige wese met emosies. Is Hy nie maar net ’n groot ou met superkragte nie?”*
 
-Dit is waar dat die Bybel menslike taal gebruik om God se dade en gevoelens te beskryf. Maar Christelike teologie het lankal erken dat hierdie uitdrukkings **figure van spraak** is – nie letterlike stellings dat God fisies of emosioneel ’n mens is nie.
+Dit is waar dat die Bybel menslike taal gebruik om God se dade en gevoelens te beskryf. Maar Christelike teologie het lankal erken dat hierdie uitdrukkings **figure van spraak** is, nie letterlike stellings dat God fisies of emosioneel ‘n mens is nie.
 
-Hierdie manier van praat het name: *antropomorfisme* (om menslike vorm aan God toe te skryf) en *antropopatisme* (om menslike emosies aan God toe te skryf). Dit is **analogiese taal** – beelde wat ons help om iets van God se werklikheid te verstaan, sonder om te sê dat Hy presies soos ons is.
+Hierdie manier van praat het name: *antropomorfisme* (om menslike vorm aan God toe te skryf) en *antropopatisme* (om menslike emosies aan God toe te skryf). Dit is **analogiese taal**: beelde wat ons help om iets van God se werklikheid te verstaan, sonder om te sê dat Hy presies soos ons is.
 
 Wanneer Genesis 3:8 sê:
 
 > “En hulle het die stem van die Here God gehoor terwyl Hy wandel in die tuin in die aandwind,”
 
-... beteken dit nie dat God letterlik voete het wat voetstappe maak nie. Dit dui aan dat Sy teenwoordigheid op ’n besondere wyse ervaar is. God is volgens Sy wese **Gees** (Johannes 4:24) en alomteenwoordig – Hy hoef nie te loop om êrens te wees nie, en Hy het geen fisiese liggaam nie (voor Christus se menswording).
+... beteken dit nie dat God letterlik voete het wat voetstappe maak nie. Dit dui aan dat Sy teenwoordigheid op ’n besondere wyse ervaar is. God is volgens Sy wese **Gees** (Johannes 4:24) en alomteenwoordig; Hy hoef nie te loop om êrens te wees nie, en Hy het geen fisiese liggaam nie (voor Christus se menswording).
 
 Net so dui verse oor God se “oë” of “hande” op Sy kennis of dade, nie op vleeslike liggaamsdele nie. Die Bybel waarsku selfs hierteen:
 
@@ -153,7 +153,7 @@ Wanneer die Bybel sê “God het berou gehad” of “God was bedroef”, moet o
 
 Soos Augustinus al in die vierde eeu gesê het: God “praat met ons soos ’n ouer wat vir ’n kind lispel” – Hy pas Sy openbaring by ons vermoë om te verstaan.
 
-Daarom is die bewering dat “Christene glo God is ’n bebaarde ou man met buie” ’n strooipop. Geen ortodokse Christelike kerk leer dit nie. Ons glo God is persoonlik – Hy kan ’n verhouding hê met mense en Hy kan liefhê, oordeel en vergewe – maar Hy is ook volmaak en vry van die beperkinge en gebrokenheid van menslike emosies.
+Daarom is die bewering dat “Christene glo God is ’n bebaarde ou man met buie” ’n strooipop. Geen ortodokse Christelike kerk leer dit nie. Ons glo God is persoonlik: Hy kan ‘n verhouding hê met mense en Hy kan liefhê, oordeel en vergewe. Maar Hy is ook volmaak en vry van die beperkinge van menslike emosies.
 
 Selfs ons eie denke kan soms verkeerd afglip: ons kan God begin voorstel as ’n ou man met ’n spesifieke gesig, of sy liefde as net ’n groter weergawe van ons eie. Ons moet onsself herinner dat God in ’n klas van Sy eie is – Skepper, nie skepsel nie.
 
@@ -165,16 +165,16 @@ Wanneer ons dit reg verstaan, verdiep dit ons aanbidding. God is **tegelyk verhe
 
 ## Van karikatuur na werklikheid
 
-Deur hierdie sessie heen was ons doel om die **karikature** van God te vervang met ’n duideliker beeld van wat Christene werklik glo.
-As skeptici die geloof in God wil kritiseer, is dit net regverdig dat hulle eers die **ware** argumente en definisies aanspreek, eerder as om ’n strooipop aan te val.
+Deur hierdie sessie heen was ons doel om die karikature van God te vervang met ‘n duideliker beeld van wat Christene werklik glo.
+As skeptici die geloof in God wil kritiseer, is dit net regverdig dat hulle eers die ware argumente en definisies aanspreek, eerder as om ‘n strooipop aan te val.
 
-Dit is merkwaardig hoe sommige *New Atheist*-skrywers soos Richard Dawkins ’n baie simplistiese en growwe idee van God aanvaar – basies ’n supermens binne die heelal – en dit dan maklik afmaak. Maar soos ons gesien het, is dit **nie** die God van die Christelike geloof nie.
+Sommige *New Atheist*-skrywers soos Richard Dawkins aanvaar ‘n simplistiese idee van God, basies ‘n supermens binne die heelal, en maak dit dan maklik af. Maar soos ons gesien het, is dit nie die God van die Christelike geloof nie.
 
 Net soos ons sou verwag dat iemand wat ’n vak soos fisika kritiseer eers regte fisika moet verstaan, so behoort kritici van Christelike geloof ook die klassieke konsep van God reg te verstaan voordat hulle dit verwerp.
 
-Wanneer ons die strooipoppe wegvee, sien ons dat die **ware** visie van God in die Christelike geloof oneindig ryker en meer aantreklik is as die karikature:
+Wanneer ons die strooipoppe wegvee, sien ons dat die ware visie van God in die Christelike geloof ryker is as die karikature:
 
-* God is nie ’n wispelturige tiran of ’n afsydige afgod nie, maar **die volheid van Bestaan**, die bron van alle skoonheid, waarheid en goedheid, wat uit liefde geskep het.
+* God is nie ’n wispelturige tiran of ’n afsydige afgod nie, maar die volheid van Bestaan, die bron van alle skoonheid, waarheid en goedheid, wat uit liefde geskep het.
 * Hy is die Een “in wie ons leef en beweeg en is” (Handelinge 17:28), en tog het Hy ons so lief dat Hy Homself ten volle in Jesus Christus geopenbaar het.
 * Hierdie kombinasie van **transendensie** (verhewenheid) en **immanensie** (teenwoordigheid) maak die God van die Bybel uniek – ver verwyderd van enige heidense gode of denkbeeldige “onsigbare vriende”.
 
@@ -194,7 +194,7 @@ Die Bybel bring hierdie balans: God is verhewe bó alles, maar ook naby aan alma
 
 As iemand dus ’n karikatuur van God as “wreed”, “kleinlik” of “denkbeeldig” uitbeeld, kan ons innerlik sê: *“Dis nie my God wat jy daar beskryf nie.”*
 
-En dan kan ons sag en nederig verduidelik wat die **Christelike** begrip van God werklik is – met die hoop dat selfs al verwerp hulle dit, hulle ten minste die regte God verwerp en nie ’n strooipop nie.
+En dan kan ons sag en nederig verduidelik wat die Christelike begrip van God werklik is — met die hoop dat selfs al verwerp hulle dit, hulle ten minste die regte God verwerp en nie ’n strooipop nie.
 
 Ons doel is nie om net argumente te wen nie, maar om mense bekend te stel aan God soos Hy werklik is – die lewende, heilige en liefdevolle Here wat in die Skrif en in Christus geopenbaar is.
 
@@ -268,7 +268,7 @@ Paulus maak dit duidelik dat God nie afhanklik is van die skepping nie, maar dat
   In hierdie hoofstuk (oorspronklik ’n radiopraatjie) onderskei Lewis tussen verskillende idees oor God in die wêreld – van panteïsme tot dualisme tot die Christelike siening.
   Hy verduidelik hoekom nie alle “gode” dieselfde is nie, en gebruik analogieë soos wiskunde: daar is net een regte antwoord, maar sommige verkeerde antwoorde is nader aan die regte een as ander.
   Hy verduidelik ook die verskil tussen ’n blote “lewenskrag” of ’n onpersoonlike god, en die persoonlike God waarin Christene glo.
-  Dit is ’n uitstekende, toeganklike verduideliking wat help om duidelik te maak wat Christene **nie** glo oor God, sowel as wat ons **wél** glo.
+  Dit is ‘n toeganklike verduideliking wat help om duidelik te maak wat Christene nie glo oor God, sowel as wat ons wél glo.
 
 * **Edward Feser – *Five Proofs of the Existence of God*, Inleiding**
   Filosof Edward Feser bied ’n moderne verdediging van klassieke argumente vir God se bestaan.
@@ -280,16 +280,14 @@ Paulus maak dit duidelik dat God nie afhanklik is van die skepping nie, maar dat
   R.C. Sproul, ’n bekende Bybelleraar in die Gereformeerde tradisie, was bekend daarvoor dat hy teologie verstaanbaar gemaak het.
   In *The Character of God* bespreek Sproul God se eienskappe (heiligheid, soewereiniteit, alwetendheid, ens.) op ’n pastorale en boeiende manier.
   Hy spreek onderweg baie gewilde wanopvattings aan – soos die idee dat God “net soos ons maar groter” is.
-  Een van sy bekende stellings is dat God nie eenvoudig bo-aan die “ketting van lewe” is nie – Hy is van ’n **heel ander orde**.
-  Hierdie bron sal jou verwondering oor God verdiep en jou toerus om wanbegrippe reg te stel deur mense na die volle Bybelse beeld van die Almagtige te wys.
-
-*(Hierdie leeswerk versterk Sessie 2 se tema deur wanbegrippe op beide ’n akademiese én ’n populêre vlak aan te spreek. Plantinga weerlê direk ’n vooraanstaande ateïs se strooiman-argumente; Lewis gebruik analogie om die Christelike begrip van God te verduidelik; Feser bied filosofiese diepte oor wat ons met “God” bedoel; Sproul bring dit huis toe op ’n pastorale wyse, en korrigeer die idee dat God bloot ’n groter mens is. Saam sal hulle jou help om skeptici met helderheid te ontmoet en jou eie insig te verdiep.)*
+  Een van sy bekende stellings is dat God nie eenvoudig bo-aan die “ketting van lewe” is nie – Hy is van ‘n heel ander orde.
+  Hierdie bron verdiep verwondering oor God en toerus vir gesprekke oor wanbegrippe.
 
 ---
 
-## **Bibliografie**
+## Bibliografie
 
-### **Primêre Artikels en Analises**
+### Primêre Artikels en Analises
 
 * **Plantinga, Alvin.** “The Dawkins Confusion: Naturalism ‘ad absurdum’.” *Books & Culture*, Mar/Apr 2007.
   *(Plantinga bied ’n logies gestruktureerde kritiek op Richard Dawkins se oppervlakkige verstaan van God en die aard van geloof. Hy wys hoe Dawkins ’n strooipop aanval wat nie die ware God van klassieke teïsme verteenwoordig nie.)*
@@ -309,7 +307,7 @@ Paulus maak dit duidelik dat God nie afhanklik is van die skepping nie, maar dat
 * **The Daily Apologist.** “Who Created God?” Blog post, 23 Januarie 2019.
   *(Die artikel verduidelik waarom die vraag “Wie het God gemaak?” op ’n verkeerde aanname berus, en gee ’n verstaanbare uiteensetting van God se noodsaaklike bestaan.)*
 
-### **Teologiese en Filosofiese Verduidelikings**
+### Teologiese en Filosofiese Verduidelikings
 
 * **Feser, Edward.** *Five Proofs of the Existence of God.* San Francisco: Ignatius Press, 2017.
   *(Veral die inleiding is waardevol vir Sessie 2: Feser wys hoe belangrik dit is om eers duidelik te definieer wat met “God” bedoel word. Hy spreek algemene besware aan en help om klassieke argumente te verstaan.)*
@@ -323,12 +321,12 @@ Paulus maak dit duidelik dat God nie afhanklik is van die skepping nie, maar dat
 * **Barrett, Matthew.** “Surprised by the Perfect Being.” *Tabletalk Magazine*, 12 Julie 2019.
   *(Barrett verduidelik hoe klassieke teïsme God verstaan as die “maksimaal volmaakte wese” – nie ’n wese onder ander nie, maar Bestaan self.)*
 
-### **Hermeneutiek en Bybeluitleg**
+### Hermeneutiek en Bybeluitleg
 
 * **Christian Research Institute.** “Recognizing and Interpreting Anthropomorphic Language.” *Christian Research Journal*, vol. 33, no. 2 (2010).
   *(Hierdie artikel bespreek hoe menslike beelde van God in die Bybel verstaan moet word – as metaforiese of analogiese taal wat God se werklikheid vir ons toeganklik maak, sonder om Hom te vermenslik.)*
 
-### **Skrifverwysings en Bybelse Konteks**
+### Skrifverwysings en Bybelse Konteks
 
 * **Die Bybel (2020-vertaling en 1953-vertaling).** Bybelgenootskap van Suid-Afrika.
   *(Alle Skrifaanhalings in die sessie kom uit hierdie vertalings, afhangend van konteks en stylkeuse.)*

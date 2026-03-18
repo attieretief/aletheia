@@ -10,14 +10,4 @@ variations:
   - purus
 ---
 
-*Aktus Purus* (Latyn vir “suiwer akt”) verwys na die idee dat God geen potensiaal of onvolledigheid in Hom het nie. God is volledig aktualiseer, volkome in Sy wese, en verander nie. Hierdie konsep kom uit die Aristoteliaanse en Thomistiese tradisie van teologie.
-
-## Byvoorbeeld:
-
-’n Mens het potensiaal — om te groei, leer of verander. God het nie sulke potensiaal nie, want Hy is reeds volkome — niks kan bygevoeg of verander word nie.
-
-## Ons kan dit so verwoord:
-
-> "God is *Aktus Purus* — suiwer akt, sonder potensiaal of verandering, volkome en volledig in Homself."
-
-Hierdie begrip help om God se onveranderlikheid, ewigheid en volmaaktheid te verstaan.
+*Aktus Purus* (Latyn vir “suiwer akt”) verwys na die idee dat God geen potensiaal of onvolledigheid in Hom het nie. Waar ‘n mens potensiaal het om te groei, te leer of te verander, is God reeds volkome -- niks kan bygevoeg of verander word nie. Hy is volledig geaktualiseer in Sy wese. Hierdie konsep, afkomstig uit die Aristoteliaanse en Thomistiese tradisie, help om God se onveranderlikheid, ewigheid en volmaaktheid te verstaan: as suiwer akt, sonder enige onvervulde potensiaal, is God volkome en volledig in Homself.

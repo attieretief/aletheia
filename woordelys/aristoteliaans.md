@@ -10,14 +10,4 @@ variations:
   - aristotelianisme
 ---
 
-“Aristoteliaans” verwys na idees of benaderings wat afkomstig is van of beïnvloed is deur die denke van die Griekse filosoof Aristoteles (384–322 v.C.). In teologie en metafisika dui dit spesifiek op ’n benadering wat klem lê op substansie, vorm-en-materie, potensiaal en akt, en oorsaaklikheid — vier “uiteindelike oorsake” vir die bestaan en wese van dinge.
-
-## Byvoorbeeld:
-
-Aristoteles het onderskei tussen potensialiteit (wat iets kan wees) en aktualiteit (wat dit tans is), en hierdie onderskeid het groot invloed gehad op hoe teoloë God as *Aktus Purus* (suiwer akt) verstaan.
-
-## Ons kan dit so verwoord:
-
-> "Die Aristoteliaanse benadering beklemtoon orde, doelgerigtheid en oorsaaklikheid in die skepping, en lê ’n filosofiese grondslag vir die verstaan van God en die heelal."
-
-In klassieke teïsme is baie idees oor God se onveranderlikheid, ewigheid en eenvoud gebou op Aristoteliaanse metafisika.
+“Aristoteliaans” verwys na idees of benaderings wat afkomstig is van of beinvloed is deur die denke van die Griekse filosoof Aristoteles (384--322 v.C.). In teologie en metafisika dui dit spesifiek op ‘n benadering wat klem le op substansie, vorm-en-materie, potensiaal en akt, en oorsaaklikheid. Aristoteles het byvoorbeeld onderskei tussen potensialiteit (wat iets kan wees) en aktualiteit (wat dit tans is), en hierdie onderskeid het groot invloed gehad op hoe teoloe God as *Aktus Purus* (suiwer akt) verstaan. In klassieke teisme is baie idees oor God se onveranderlikheid, ewigheid en eenvoud gebou op Aristoteliaanse metafisika, wat orde, doelgerigtheid en oorsaaklikheid in die skepping beklemtoon.

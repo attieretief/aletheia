@@ -51,6 +51,12 @@ layout: default
       {{ page.variations | jsonify }}
     </script>
   {% endif %}
+
+  {% if page.exclude_terms %}
+    <script type="application/json" id="glossary-exclude-terms">
+      {{ page.exclude_terms | jsonify }}
+    </script>
+  {% endif %}
 </article>
 
 

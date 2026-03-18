@@ -24,6 +24,12 @@ layout: default
   <div class="prose py-2" itemprop="articleBody">
       {{ content }}
   </div>
+
+  {% if page.exclude_terms %}
+    <script type="application/json" id="glossary-exclude-terms">
+      {{ page.exclude_terms | jsonify }}
+    </script>
+  {% endif %}
 </article>
 
 <div class="container mx-auto px-2 py-2 clearfix">

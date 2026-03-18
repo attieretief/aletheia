@@ -8,8 +8,8 @@ order: 1
 
 # Reeks 1 - Grondslag
 
-**Reeks 1** vorm die fondament van ons studieprogram en is ontwerp om 'n stewige grondslag te lê vir alle verdere Bybelse studies. Hierdie reeks fokus op die kernwaarhede van die Christelike geloof en help gelowiges om 'n duidelike begrip te ontwikkel van wie God is, wat Hy gedoen het, en hoe ons daarop moet reageer.
+In hierdie eerste reeks vra ons die mees basiese vrae: Wie is God? Hoe ken ons Hom? En wat beteken dit vir hoe ons leef en dink? Dit is nie vrae wat ons klaar beantwoord en dan agter ons los nie — hulle bly saam met ons deur elke verdere studie.
 
-Die reeks is prakties gerig en bedoel om gelowiges toe te rus met die nodige gereedskap om hulle geloof te verstaan en uit te leef. Dit bou voort op die grondslag wat in die **Christelike Lewensbeskouing** gelê is en berei die weg voor vir meer gevorderde studies in die toekoms.
+Die reeks bou voort op die **Christelike Lewensbeskouing** en is bedoel as 'n gesprek, nie 'n lesing nie. Ons doel is om saam te dink oor die fondamente van ons geloof — eerlik, deeglik, en met verwondering.
 
-Hierdie is 'n noodsaaklike vertrekpunt vir elkeen wat ernstig is oor geestelike groei en 'n dieper verstaan van God se Woord wil verkry.
+Omdat hierdie reeks filosofiese denke as hulpmiddel gebruik, het ek 'n [persoonlike nota oor kontroversie](reeks01-grondslag/kontroversie) geskryf waarin ek eerlik die moontlike spanningspunte met ons gereformeerde belydenis bespreek. Ek beveel aan dat jy dit vroeg lees.
