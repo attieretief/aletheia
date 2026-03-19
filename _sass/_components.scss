@@ -190,39 +190,37 @@ code {
   }
 }
 
-// Sticky header
+// Sticky header (mobile only — desktop nav is in sidebar)
 .sticky-header {
   position: sticky;
   top: 0;
   z-index: 1000;
   background-color: $color-background;
-  
-  // Hide desktop navigation on mobile
-  @media (max-width: $breakpoint-lg) {
-    .right-lg {
-      display: none;
-    }
+
+  @media (min-width: $breakpoint-lg) {
+    position: static; // not sticky on desktop, sidebar handles nav
+    background: none;
   }
 }
 
-// Site logo
+// Site logo + sidebar
 .site-logo {
   position: fixed;
   top: 0;
   left: 0;
-  z-index: 1001; // Higher than sticky header
+  z-index: 1001;
   display: none; // Hidden on mobile by default
-  
+
   a {
     text-decoration: none !important;
     border: none !important;
-    
+
     &:hover {
       text-decoration: none !important;
       border: none !important;
     }
   }
-  
+
   .logo-image {
     width: 240px;
     height: 240px;
@@ -231,35 +229,123 @@ code {
     transition: opacity 0.2s ease;
     border: none !important;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-    
+
     &:hover {
       opacity: 0.8;
     }
   }
-  
+
   @media (min-width: $breakpoint-lg) {
-    display: flex; // Use flexbox for centering
-    justify-content: center; // Center horizontally
-    align-items: flex-start; // Align to top
-    background-color: $burgundy; // Match the logo's background color
-    width: 308px; // Full width of the left container
-    min-height: 100vh; // Minimum full height of viewport, extends with content
-    padding: 40px 20px; // Add padding around the logo (top/bottom: 40px, left/right: 20px)
-    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: $burgundy;
+    width: 308px;
+    height: 100vh;
+    overflow: hidden; // sidebar itself doesn't scroll — nav inside does
+    padding: 30px 20px 20px;
+
     .logo-image {
-      width: 260px; // Slightly smaller to account for padding
-      height: 260px;
-      border-radius: 0; // Remove rounded corners
-      box-shadow: none; // Remove drop shadow
+      width: 200px;
+      height: 200px;
+      border-radius: 0;
+      box-shadow: none;
+      flex-shrink: 0;
     }
   }
 }
 
-// Add padding to body to prevent content from going under the logo and nav (desktop only)
+// Sidebar navigation (desktop only, inside .site-logo)
+.sidebar-nav {
+  display: none;
+
+  @media (min-width: $breakpoint-lg) {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    min-height: 0; // crucial: allows flex child to shrink and scroll
+    width: 100%;
+    margin-top: $spacer-2;
+    overflow-y: auto;
+
+    // Custom scrollbar
+    &::-webkit-scrollbar { width: 4px; }
+    &::-webkit-scrollbar-track { background: transparent; }
+    &::-webkit-scrollbar-thumb {
+      background: rgba($white, 0.3);
+      border-radius: 2px;
+    }
+  }
+}
+
+.sidebar-nav-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.sidebar-nav-item {
+  margin-bottom: $spacer-1;
+}
+
+.sidebar-nav-link {
+  color: rgba($white, 0.7);
+  text-decoration: none;
+  font-style: italic;
+  font-size: 16px;
+  display: block;
+  padding: 3px 0;
+  transition: color 0.2s ease;
+
+  &:hover {
+    color: $white;
+  }
+
+  &.active {
+    color: $white !important;
+    font-weight: bold;
+    border-left: 3px solid $white;
+    padding-left: $spacer-1;
+  }
+}
+
+// Sub-lessons in sidebar
+.sidebar-nav .course-lessons-menu {
+  border-top: 1px solid rgba($white, 0.2);
+  border-bottom: 1px solid rgba($white, 0.2);
+  margin: $spacer-1 0;
+  padding: $spacer-1 0 $spacer-1 $spacer-1;
+  max-height: 25vh;
+  overflow-y: auto;
+
+  .course-lesson-item {
+    margin-bottom: 2px;
+
+    a {
+      color: rgba($white, 0.7);
+      font-size: 14px;
+
+      &:hover { color: $white; }
+      &.active {
+        color: $white;
+        font-weight: bold;
+        border-left: 2px solid $white;
+        padding-left: $spacer-1;
+      }
+    }
+  }
+}
+
+// Language toggle in sidebar — hidden, using fixed floating button instead
+.sidebar-lang-toggle {
+  display: none;
+}
+
+// Body padding — left sidebar + right column for scroll buttons
 body {
   @media (min-width: $breakpoint-lg) {
-    padding-left: 308px; // Keep original spacing, logo fills the available space
-    padding-right: 240px; // Reserve space for the right-side navigation menu
+    padding-left: 308px;
+    padding-right: 60px; // space for scroll buttons column
   }
 }
 
@@ -550,12 +636,9 @@ body {
   }
 }
 
-// Scroll to top/bottom buttons
+// Scroll to top/bottom buttons — fixed right column on desktop
 .scroll-buttons {
   position: fixed;
-  // On large screens the sidebar is 308px; content is centred in the remaining space.
-  // Place the buttons at the left edge of the content area, offset inward.
-  left: calc(308px + (100vw - 308px - 1200px) / 2 - 60px);
   top: 50%;
   transform: translateY(-50%);
   z-index: 500;
@@ -563,12 +646,12 @@ body {
   flex-direction: column;
   gap: $spacer-1;
 
-  // When the content area is narrow enough that buttons would overlap the sidebar
-  @media (max-width: 1600px) {
-    left: calc(308px + #{$spacer-2});
+  // Desktop: right column
+  @media (min-width: $breakpoint-lg) {
+    right: 10px;
   }
 
-  // Below the large breakpoint the sidebar collapses
+  // Mobile: left edge
   @media (max-width: $breakpoint-lg) {
     left: $spacer-2;
   }
@@ -633,16 +716,14 @@ body {
   transition: color 0.3s ease;
 }
 
-// Active lesson highlighting
-.course-lesson-item a.active,
+// Active lesson highlighting (mobile only — sidebar has its own styles)
 .mobile-lesson-item a.active {
   color: $color-primary-link !important;
   border-left: 3px solid $color-primary-link;
   padding-left: $spacer-1;
 }
 
-// Active course highlighting
-.course-menu-item a.active,
+// Active course highlighting (mobile only)
 .mobile-nav-item a.active {
   color: $color-primary-link !important;
   border-left: 3px solid $color-primary-link;
@@ -653,5 +734,93 @@ body {
 @media (max-width: 480px) {
   .scroll-buttons {
     display: none;
+  }
+}
+
+// ── Content preview (listing pages) ─────────────────────────────────
+// Keeps lang-af/lang-en divs intact so CSS can toggle them,
+// while visually truncating the preview.
+
+.content-preview {
+  max-height: 12em;    // ~6 lines of prose
+  overflow: hidden;
+  position: relative;
+
+  // Fade-out at the bottom edge
+  &::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 3em;
+    background: linear-gradient(to bottom, transparent, $color-background);
+    pointer-events: none;
+  }
+}
+
+.content-preview--short {
+  max-height: 8em;     // shorter for course blocks
+}
+
+// ── Language toggle ──────────────────────────────────────────────────
+
+// Language toggle: hide/show content by language.
+// The JS adds class "lang-en" to <html> when English is active.
+// We use :not(html) so that hiding .lang-en never hides <html> itself.
+
+:not(html).lang-en {
+  display: none !important;
+}
+
+html.lang-en :not(html).lang-af {
+  display: none !important;
+}
+
+html.lang-en span.lang-en {
+  display: inline !important;
+}
+
+html.lang-en div.lang-en,
+html.lang-en p.lang-en,
+html.lang-en li.lang-en {
+  display: block !important;
+}
+
+// Language toggle — fixed floating button, always visible
+.lang-toggle-fixed {
+  position: fixed;
+  top: $spacer-1;
+  right: $spacer-1;
+  z-index: 1002;
+
+  @media (min-width: $breakpoint-lg) {
+    top: $spacer-2;
+    right: $spacer-2;
+  }
+}
+
+.lang-toggle-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background-color: $burgundy;
+  color: $white;
+  border: 2px solid $burgundy;
+  border-radius: 6px;
+  cursor: pointer;
+  font-family: $body-font-family;
+  font-size: 14px;
+  font-weight: bold;
+  font-style: italic;
+  padding: 6px 14px;
+  transition: all 0.2s ease;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  white-space: nowrap;
+
+  &:hover {
+    background-color: darken($burgundy, 10%);
+    border-color: darken($burgundy, 10%);
+    transform: scale(1.05);
   }
 }

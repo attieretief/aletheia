@@ -1,17 +1,15 @@
 <!-- Use if you want to show back and forward for posts. -->
-{% assign user_url = site.url | append: site.baseurl %}
-{% assign full_base_url = user_url | default: site.github.url %}
 {% if page.previous %}
 <div class="col-4 sm-width-full left mr-lg-4 mt-3">
-  <a class="no-underline-hover py-1 block" href="{{ page.previous.url | prepend: full_base_url }}">
-    <span class="h4 bold chevron-left">{{ page.previous.title | truncate:30 }}</span>
+  <a class="no-underline-hover py-1 block" href="{{ page.previous.url | relative_url }}">
+    <span class="h4 bold chevron-left"><span class="lang-af">{{ page.previous.title | truncate:30 }}</span>{% if page.previous.title_en %}<span class="lang-en">{{ page.previous.title_en | truncate:30 }}</span>{% else %}<span class="lang-en">{{ page.previous.title | truncate:30 }}</span>{% endif %}</span>
   </a>
 </div>
 {% endif %}
 {% if page.next %}
 <div class="col-4 sm-width-full right mt-3">
-  <a class="no-underline-hover py-1 block" href="{{ page.next.url | prepend: full_base_url }}">
-    <span class="h4 bold right chevron-right">{{ page.next.title | truncate:30 }}</span>
+  <a class="no-underline-hover py-1 block" href="{{ page.next.url | relative_url }}">
+    <span class="h4 bold right chevron-right"><span class="lang-af">{{ page.next.title | truncate:30 }}</span>{% if page.next.title_en %}<span class="lang-en">{{ page.next.title_en | truncate:30 }}</span>{% else %}<span class="lang-en">{{ page.next.title | truncate:30 }}</span>{% endif %}</span>
   </a>
 </div>
 {% endif %}

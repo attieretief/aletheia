@@ -1,9 +1,52 @@
+{% assign course_pages = site.pages | where: "layout", "course" | sort: "order" %}
+{% assign main_courses = course_pages | where_exp: "item", "item.order < 90" %}
+{% assign ref_pages = course_pages | where_exp: "item", "item.order >= 90" %}
+
 <header class="px-2 clearfix sticky-header">
-  <!-- Logo in top left corner -->
+  <!-- Logo + sidebar nav (desktop) -->
   <div class="site-logo">
     <a href="{{ site.baseurl }}/">
       <img src="{{ '/assets/images/aletheia.svg' | prepend: site.baseurl }}" alt="{{ site.title }}" class="logo-image">
     </a>
+
+    <!-- Desktop sidebar navigation (below logo) -->
+    <nav class="sidebar-nav">
+      <ul class="sidebar-nav-list">
+        <!-- Main courses -->
+        {% for my_page in main_courses %}
+          {% if my_page.title %}
+          {% include sidebar_nav_item.html nav_page=my_page %}
+          {% endif %}
+        {% endfor %}
+
+        <!-- Articles -->
+        {% if site.posts.size > 0 %}
+        <li class="sidebar-nav-item course-menu-item">
+          <a class="sidebar-nav-link {% if page.layout == 'post' %}active{% endif %}" href="{{ site.baseurl }}/posts/">
+            <span class="lang-af">{{ site.data.i18n.articles.af }}</span><span class="lang-en">{{ site.data.i18n.articles.en }}</span>
+          </a>
+          {% if page.layout == 'post' %}
+          <ul class="course-lessons-menu">
+            {% for post in site.posts limit: 10 %}
+            <li class="course-lesson-item">
+              <a class="sidebar-nav-link {% if post.url == page.url %}active{% endif %}" href="{{ post.url | prepend: site.baseurl }}">
+                <span class="lang-af">{{ post.title | truncate:30 }}</span>{% if post.title_en %}<span class="lang-en">{{ post.title_en | truncate:30 }}</span>{% else %}<span class="lang-en">{{ post.title | truncate:30 }}</span>{% endif %}
+              </a>
+            </li>
+            {% endfor %}
+          </ul>
+          {% endif %}
+        </li>
+        {% endif %}
+
+        <!-- Reference pages -->
+        {% for my_page in ref_pages %}
+          {% if my_page.title %}
+          {% include sidebar_nav_item.html nav_page=my_page %}
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </nav>
   </div>
 
   <!-- Mobile hamburger menu button -->
@@ -14,7 +57,7 @@
       <span class="hamburger-line"></span>
     </button>
   </div>
-  
+
   <!-- Mobile navigation menu (hidden by default) -->
   <div class="mobile-nav-menu">
     <ul class="mobile-nav-list">
@@ -23,139 +66,45 @@
           {{ site.title }}
         </a>
       </li>
-      {% assign regular_pages = site.pages | where: "layout", "page" | where_exp: "item", "item.permalink != '/posts/'" | sort: "title" %}
-      {% assign course_pages = site.pages | where: "layout", "course" | sort: "order" %}
-      {% assign all_pages = regular_pages | concat: course_pages %}
-      
-      <!-- Add Posts section -->
+
+      <!-- Main courses -->
+      {% for my_page in main_courses %}
+        {% if my_page.title %}
+        {% include mobile_nav_item.html nav_page=my_page %}
+        {% endif %}
+      {% endfor %}
+
+      <!-- Articles -->
       {% if site.posts.size > 0 %}
       <li class="mobile-nav-item">
         <a class="italic no-underline h4" href="{{ site.baseurl }}/posts/">
-          Artikels
+          <span class="lang-af">{{ site.data.i18n.articles.af }}</span><span class="lang-en">{{ site.data.i18n.articles.en }}</span>
         </a>
         <ul class="mobile-course-lessons">
           {% for post in site.posts limit: 10 %}
           <li class="mobile-lesson-item">
             <a class="italic no-underline {% if post.url == page.url %}active{% endif %}" href="{{ post.url | prepend: site.baseurl }}">
-              {{ post.title | truncate:30 }}
+              <span class="lang-af">{{ post.title | truncate:30 }}</span>{% if post.title_en %}<span class="lang-en">{{ post.title_en | truncate:30 }}</span>{% else %}<span class="lang-en">{{ post.title | truncate:30 }}</span>{% endif %}
             </a>
           </li>
           {% endfor %}
         </ul>
       </li>
       {% endif %}
-      
-      {% for my_page in all_pages %}
+
+      <!-- Reference pages -->
+      {% for my_page in ref_pages %}
         {% if my_page.title %}
-        <!-- Check if this is the current course -->
-        {% assign current_course = false %}
-        {% if page.layout == "course" and page.course_name == my_page.course_name %}
-          {% assign current_course = true %}
-        {% elsif page.layout == "lesson" and page.course == my_page.course_name %}
-          {% assign current_course = true %}
-        {% endif %}
-        
-        <li class="mobile-nav-item">
-          <a class="italic no-underline h4 {% if current_course %}active{% endif %}" href="{{ my_page.url | prepend: site.baseurl }}">
-            {{ my_page.title }}
-          </a>
-          
-          <!-- Show lessons for current course in mobile menu too -->
-          {% if current_course %}
-            {% if my_page.course_name == "woordelys" %}
-              {% assign lessons = site.pages | where: "course", my_page.course_name | where_exp: "item", "item.lesson != nil" | sort: "title" %}
-            {% else %}
-              {% assign lessons = site.pages | where: "course", my_page.course_name | where_exp: "item", "item.lesson != nil" | sort: "lesson" %}
-            {% endif %}
-            {% if lessons.size > 0 %}
-            <ul class="mobile-course-lessons">
-              {% for lesson in lessons %}
-              <li class="mobile-lesson-item">
-                <a class="italic no-underline {% if lesson.url == page.url %}active{% endif %}" href="{{ lesson.url | prepend: site.baseurl }}">
-                  {{ lesson.title | truncate:30 }}
-                </a>
-              </li>
-              {% endfor %}
-            </ul>
-            {% endif %}
-          {% endif %}
-        </li>
+        {% include mobile_nav_item.html nav_page=my_page %}
         {% endif %}
       {% endfor %}
-    </ul>
-  </div>
-  
-  <!-- Desktop navigation menu -->
-  <div class="right-lg absolute-lg right-0 top-0">
-    <ul class="mt-1 mt-lg-2 mr-2 mr-lg-3">
-      <li class="inline-block block-lg text-right ml-1 ml-lg-0">
-        <a class="italic h4 bold no-underline" href="{{ site.baseurl }}/">
-          {{ site.title }}
-        </a>
+
+      <!-- Language toggle (mobile) -->
+      <li class="mobile-nav-item" style="border: none;">
+        <button class="lang-toggle-btn" onclick="toggleLang()" aria-label="Toggle language">
+          <span class="lang-af">English</span><span class="lang-en">Afrikaans</span>
+        </button>
       </li>
-      {% assign regular_pages = site.pages | where: "layout", "page" | where_exp: "item", "item.permalink != '/posts/'" | sort: "title" %}
-      {% assign course_pages = site.pages | where: "layout", "course" | sort: "order" %}
-      {% assign all_pages = regular_pages | concat: course_pages %}
-      
-      <!-- Add Posts section -->
-      {% if site.posts.size > 0 %}
-      <li class="inline-block block-lg text-right ml-1 ml-lg-0 course-menu-item">
-        <a class="italic no-underline h4 {% if page.layout == 'post' %}active{% endif %}" href="{{ site.baseurl }}/posts/">
-          Artikels
-        </a>
-        
-        <!-- Show recent posts if we're on a post page -->
-        {% if page.layout == 'post' %}
-        <ul class="course-lessons-menu">
-          {% for post in site.posts limit: 10 %}
-          <li class="course-lesson-item">
-            <a class="italic no-underline {% if post.url == page.url %}active{% endif %}" href="{{ post.url | prepend: site.baseurl }}">
-              {{ post.title | truncate:30}}
-            </a>
-          </li>
-          {% endfor %}
-        </ul>
-        {% endif %}
-      </li>
-      {% endif %}
-      
-      {% for my_page in all_pages %}
-        {% if my_page.title %}
-        <!-- Check if this is the current course -->
-        {% assign current_course = false %}
-        {% if page.layout == "course" and page.course_name == my_page.course_name %}
-          {% assign current_course = true %}
-        {% elsif page.layout == "lesson" and page.course == my_page.course_name %}
-          {% assign current_course = true %}
-        {% endif %}
-        
-        <li class="inline-block block-lg text-right ml-1 ml-lg-0 course-menu-item">
-          <a class="italic no-underline h4 {% if current_course %}active{% endif %}" href="{{ my_page.url | prepend: site.baseurl }}">
-            {{ my_page.title }}
-          </a>
-          
-          <!-- Expand lessons if this is the current course -->
-          {% if current_course %}
-            {% if my_page.course_name == "woordelys" %}
-              {% assign lessons = site.pages | where: "course", my_page.course_name | where_exp: "item", "item.lesson != nil" | sort: "title" %}
-            {% else %}
-              {% assign lessons = site.pages | where: "course", my_page.course_name | where_exp: "item", "item.lesson != nil" | sort: "lesson" %}
-            {% endif %}
-            {% if lessons.size > 0 %}
-            <ul class="course-lessons-menu">
-              {% for lesson in lessons %}
-              <li class="course-lesson-item">
-                <a class="italic no-underline {% if lesson.url == page.url %}active{% endif %}" href="{{ lesson.url | prepend: site.baseurl }}">
-                  {{ lesson.title | truncate:30}}
-                </a>
-              </li>
-              {% endfor %}
-            </ul>
-            {% endif %}
-          {% endif %}
-        </li>
-        {% endif %}
-      {% endfor %}
     </ul>
   </div>
 </header>

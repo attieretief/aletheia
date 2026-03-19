@@ -11,14 +11,18 @@ layout: default
     <div class="clearfix mb-1 py-1">
       {% assign course_page = site.pages | where: "layout", "course" | where: "course_name", page.course | first %}
       <p class="h4 lh-condensed">
-        <a class="no-underline" href="{{ course_page.url | prepend: site.baseurl }}">{{ course_page.title }}</a>
+        <a class="no-underline" href="{{ course_page.url | prepend: site.baseurl }}">
+          <span class="lang-af">{{ course_page.title }}</span>{% if course_page.title_en %}<span class="lang-en">{{ course_page.title_en }}</span>{% else %}<span class="lang-en">{{ course_page.title }}</span>{% endif %}
+        </a>
       </p>
       <div class="col-1 sm-width-full border-top-thick">
       </div>
     </div>
-    <h1 class="h0 inline-block py-2 mt-1 mb-0 header-title">{{ page.title }}</h1>
+    <h1 class="h0 inline-block py-2 mt-1 mb-0 header-title">
+      <span class="lang-af">{{ page.title }}</span>{% if page.title_en %}<span class="lang-en">{{ page.title_en }}</span>{% else %}<span class="lang-en">{{ page.title }}</span>{% endif %}
+    </h1>
     {% if page.author %}
-      <p class="h4 text-gray-600 mt-0 mb-3 font-light">— deur {{ page.author }}</p>
+      <p class="h4 text-gray-600 mt-0 mb-3 font-light">— <span class="lang-af">{{ site.data.i18n.by_author.af }}</span><span class="lang-en">{{ site.data.i18n.by_author.en }}</span> {{ page.author }}</p>
     {% endif %}
   </div>
 

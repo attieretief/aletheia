@@ -3,12 +3,15 @@ layout: lesson
 course: reeks02-wetenskap
 lesson: 4
 title: "Sessie 3 — Die Heelal het 'n Begin"
+title_en: "Session 3 — The Universe Had a Beginning"
 description: "Die oerknal, kosmiese agtergrondstraling en die kosmologiese argument: die wetenskap het nie God weerlê nie, maar Sy vingerafdrukke op die begin van alles gevind."
+description_en: "The Big Bang, cosmic background radiation and the cosmological argument: science did not disprove God, but found His fingerprints on the beginning of everything."
 youtubeurl: "https://youtu.be/DC8HpVYuk9g"
 youtube_start: 457
 youtube_end: 521
 author: Attie Retief
 ---
+<div class="lang-af" markdown="1">
 
 # Die Heelal het 'n Begin
 
@@ -488,3 +491,483 @@ Paulus leer hier dat die skepping self getuig van God se bestaan. Sy "ewige krag
 
 * Calvyn, Johannes. *Institusie van die Christelike Godsdiens*, Boek 1.
    – Calvyn se behandeling van God as Skepper en die *sensus divinitatis* wat in elke mens teenwoordig is.
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+# The Universe Had a Beginning
+
+## Introduction
+
+For most of Western intellectual history, many thinkers assumed that the universe was eternal. Aristotle taught that the cosmos always was and always would be. Even many modern scientists believed deep into the twentieth century that the universe was static and unchanging — an eternal backdrop within which stars and planets go about their business. The idea of a beginning was uncomfortable for many, because it immediately opened a question that science could not easily answer: **What caused the universe to begin?**
+
+And yet the twentieth century changed everything. Through a series of discoveries — mathematical, observational, and experimental — science reached a conclusion that overturned centuries of philosophical assumptions: the universe is not eternal. It had a beginning. There was a boundary at which time, space, matter, and energy came into being.
+
+This discovery is one of the most theologically significant scientific findings in history. If the universe had a beginning, it is not self-existent. Not the ultimate reality. In the language of Series 1: **contingent** — dependent on something else for its existence.
+
+In Series 1, Session 3, we posed the great question: "Why is there something rather than nothing?" Everything we observe is contingent. The Principle of Sufficient Reason drives us to search for an ultimate explanation, and that explanation must lie in a necessary reality: God as the ground of being. That argument was purely philosophical. It did not depend on scientific discoveries.
+
+But now we see something remarkable: science has independently arrived at a finding that fits precisely with what philosophy and Scripture have always taught. The universe is not self-explanatory. It had a beginning. It is created.
+
+A word of clarity before we proceed. We are not reasoning from neutral ground *towards* God, as if the evidence must first convince us of what we do not yet know. Scripture is clear: "The heavens declare the glory of God" (Ps. 19:1), and what can be known about God is plain to all people, "because God has shown it to them" (Rom. 1:19–20, ESV). In Series 1 we already learned *who* God is: the necessary, eternal Creator. What we now discover in cosmology is not a new argument that must *prove* that truth. It is the confirmation of what Genesis 1:1 has always proclaimed: "In the beginning, God created the heavens and the earth." Science clears intellectual stumbling blocks from the path, and for that we are grateful. But it is the Holy Spirit who opens hearts, not our arguments.
+
+## The Discovery of the Big Bang
+
+### Einstein's General Theory of Relativity (1915)
+
+The story begins with mathematics. In 1915, Albert Einstein published his General Theory of Relativity — one of the greatest intellectual achievements in human history. This theory changed our understanding of gravity. Gravity is no longer a force acting over a distance; it is the curvature of space-time itself by mass and energy.
+
+But Einstein's own equations revealed something that deeply unsettled him. The equations showed that the universe is **dynamic**. It cannot remain static. It must either expand or contract. A static, eternal universe is mathematically unstable within the framework of General Relativity.
+
+Einstein would not accept it. He was so convinced that the universe must be eternal and unchanging that he inserted an extra term into his equations: the so-called **cosmological constant** (lambda, Lambda), specifically to keep the universe static. This term served as a counterweight against gravity, so that the universe would neither collapse nor expand.
+
+Years later, when the evidence for an expanding universe became overwhelming, Einstein called this addition his **"greatest blunder."** He had distrusted his own mathematics because the consequences looked too radical. The universe his equations described was not the eternal, quiet cosmos he had expected. It was a universe in motion — a universe with a history, and therefore, by implication, a beginning.
+
+The mathematics had shown the truth, but the scientist first tried to escape it. Why? Because a beginning raises uncomfortable questions. If the universe was not always there, where does it come from? That is a question beyond physics. A metaphysical question. And for many, it was a question that came too close to theology.
+
+### Friedmann and Lemaitre: The Universe Expands
+
+It was not Einstein himself who fully thought through the implications of his theory. It was two other scientists, almost simultaneously, who took the step of saying: the equations mean what they say. The universe is expanding.
+
+**Alexander Friedmann**, a Russian mathematician and cosmologist, published solutions to Einstein's field equations in 1922 showing that the universe could expand or contract. Friedmann's models were mathematically correct, but Einstein initially regarded them as an error. (He later had to acknowledge that Friedmann was right.)
+
+But the most remarkable figure in this story is **Georges Lemaitre**, a Belgian Catholic priest who was also a brilliant physicist. In 1927, Lemaitre, independently of Friedmann, reached the same conclusion: the universe is expanding. But he went further. If the universe is expanding, it was smaller in the past. Play the history backwards like a film you are rewinding, and everything comes closer and closer together, until you reach a point where all matter and energy was compressed into an unimaginably dense, small starting point.
+
+Lemaitre called this the **"primeval atom"**: a cosmological explosion from this primordial state. A beginning of everything.
+
+Here is a man who was both priest and physicist, who followed the mathematics to its logical conclusion, and who proclaimed that the universe had a beginning. He did not start from the Bible and try to fit the science in. He started from the physics and discovered that science points in the same direction as Genesis 1:1.
+
+When Lemaitre presented his idea to Einstein, Einstein's reaction was telling. He said: *"Vos calculs sont corrects, mais votre physique est abominable"* — "Your calculations are correct, but your physics is abominable." Einstein acknowledged the mathematics but rejected the consequences. The idea of a beginning was too uncomfortable for him.
+
+This resistance to the idea of a beginning was not unique to Einstein. It was a broad sentiment in the scientific community. A beginning has theistic implications. If the universe is not eternal — if it has a cause — we stand before a question that the naturalistic worldview cannot easily answer.
+
+### Edwin Hubble's Observations (1929)
+
+While Friedmann and Lemaitre worked out the theory, the empirical confirmation came from an unexpected quarter. **Edwin Hubble**, the American astronomer, discovered something in 1929 with the great telescope on Mount Wilson that would change cosmology forever.
+
+Hubble studied the light of distant galaxies and noticed that the light was consistently shifted towards the red end of the spectrum — a phenomenon known as **redshift**. When a light source moves away from you, the wavelength of its light is stretched and it shifts towards the red end of the spectrum. (The same principle as when an ambulance siren sounds lower as it drives away from you: the Doppler effect.)
+
+Hubble discovered that virtually all galaxies are moving away from us, and the farther away they are, the faster they are moving away. The universe is **expanding**. Not that the galaxies are flying through space like shrapnel after an explosion, but that space itself is stretching — like dots on a balloon that is being blown up. Every dot (galaxy) moves away from every other dot, not because they themselves are moving, but because the balloon (space) is stretching.
+
+This observation confirmed Lemaitre's theory. The universe is expanding. Reverse the process, and the universe was earlier smaller, denser, hotter. Go far enough back, and you reach a point where everything began.
+
+The universe has a history. It is not eternal and unchanging. It had a beginning.
+
+### The Cosmic Microwave Background Radiation (1965)
+
+The most dramatic confirmation of the Big Bang came in 1965. Almost by accident.
+
+**Arno Penzias** and **Robert Wilson**, two radio astronomers at Bell Laboratories in New Jersey, were calibrating a sensitive antenna for satellite communication. They picked up a persistent, low-level noise that they could not explain. It came from every direction. Not from a specific star or galaxy, but from the sky itself — evenly distributed in all directions.
+
+They first thought it was a technical fault. They even chased pigeons off the antenna, wondering if the noise came from pigeon droppings. But the signal remained. It was everywhere. Always the same. And it matched precisely the type of radiation that theoretical physicists had predicted as the remnant of the Big Bang.
+
+What they had discovered was the **cosmic microwave background radiation** (CMB) — the "afterglow" of creation. When the universe was still young and tremendously hot, all matter and energy was in a dense, glowing plasma. As the universe expanded and cooled, this radiation was "released" and began to fill the universe. Over billions of years it cooled to microwaves. That is precisely what Penzias and Wilson picked up.
+
+This discovery was a turning point. No longer a theory or a mathematical model. There was a physical, measurable remnant of the beginning of the universe. We can, literally, hear the afterglow of creation.
+
+The static you would see as "snow" on your television (in the old days of analogue television) is partly derived from this cosmic background radiation. A fraction of that noise is the last whisper of the moment when the universe came into being. We live in the afterglow of creation.
+
+Penzias and Wilson received the Nobel Prize for Physics in 1978 for this discovery. Penzias later said: *"The best data we have are exactly what I would have predicted had I nothing to go on but the first five books of Moses, the Psalms, and the Bible as a whole."*
+
+### The Irony of Fred Hoyle
+
+There is a particular irony in the history of cosmology.
+
+The term **"Big Bang"** was not coined by a proponent of the theory. It was minted by **Fred Hoyle**, a British astronomer and committed atheist, during a BBC radio programme in 1949. Hoyle used the term as a **nickname of derision**. He found the idea of a beginning laughable and contemptuously called it a "big bang."
+
+Why was Hoyle so opposed to the Big Bang theory? Because he recognised its theistic implications. If the universe has a beginning, it is easier to argue that it has a Creator. Hoyle acknowledged this openly. He preferred to defend the **Steady State model**, which taught that the universe is eternal and that new matter continually arises spontaneously to keep the density constant as the universe expands.
+
+Hoyle's model was not foolish. It was a serious scientific proposal. But it had a clear ideological motivation: to avoid the implication of a beginning. Hoyle even acknowledged that the Big Bang theory reminded him of the biblical creation account, and that this troubled him.
+
+The irony? The cosmic microwave background radiation definitively refuted Hoyle's model. The universe has a beginning, and Hoyle's mockery became the name by which the whole world knows this beginning.
+
+This history shows that scientific resistance to the beginning of the universe was not always purely scientifically motivated. Sometimes philosophical and ideological prejudices played a role. The resistance to a beginning was, for some, resistance to the possibility of a Creator.
+
+## The Borde-Guth-Vilenkin Theorem (2003)
+
+After the original confirmation of the Big Bang, some cosmologists tried to evade the beginning. They proposed models in which the Big Bang was not really the **absolute** beginning. Perhaps there was something "before" the Big Bang. Perhaps the universe went through eternal cycles of expansion and contraction. Perhaps our universe is just one of many in an eternal multiverse.
+
+In 2003, three prominent cosmologists — **Arvind Borde**, **Alan Guth** and **Alexander Vilenkin** — proved a theorem that closed off these evasion routes. The Borde-Guth-Vilenkin theorem (BGV theorem) proves that **any universe that has on average been expanding throughout its history must have a past space-time boundary**. In other words: a beginning.
+
+This theorem is remarkable in its generality. It does not matter what the specific physics of the early universe was. It does not matter whether the universe went through inflation or not. And if there is a multiverse that is on average expanding (and all known models assume this), then the multiverse itself has a beginning.
+
+Alexander Vilenkin stated it unequivocally:
+
+> *"All the evidence we have says that the universe had a beginning."*
+
+And elsewhere:
+
+> *"It is said that an argument is what convinces reasonable men and a proof is what it takes to convince even an unreasonable man. With the proof now in place, cosmologists can no longer hide behind the possibility of a past-eternal universe. There is no escape."*
+
+The weight of this theorem must be appreciated. It is not a theological argument. It is a mathematical proof, published in a peer-reviewed physics journal, by three leading cosmologists of whom none is a theist. Vilenkin himself is an agnostic. Guth is one of the architects of inflationary cosmology. They were not trying to prove the existence of God. They followed the mathematics to its logical conclusion.
+
+And that conclusion is: the universe had a beginning.
+
+What does "beginning" mean here? Not that there was a moment in time "before" the beginning, because time itself came into being with the beginning. It means that the past is **finite** — that you cannot go infinitely far back in time. There is a boundary, a point at which the universe, including time itself, began to exist.
+
+For the materialistic worldview, this is a serious challenge. If the universe was always there, one could argue that it needs no explanation — that it is just a "brute fact," a bare fact without reason. But if the universe has a beginning, it is difficult to escape the question: **What caused it?**
+
+## The Kalam Cosmological Argument
+
+The **Kalam cosmological argument** is one of the simplest arguments in the philosophy of religion. It has been formalised in its modern form by the philosopher **William Lane Craig**, but has deep roots in medieval Islamic philosophy (especially in thinkers such as al-Ghazali and al-Kindi) and is fully compatible with classical Christian theism. (Craig himself is a Molinist, a theological tradition that differs from the Reformed tradition on certain points, but the Kalam argument itself is independent of his specific theology and works fully within the framework of classical theism and the Reformed confession.)
+
+The argument has three simple steps:
+
+1. **Everything that begins to exist has a cause.**
+2. **The universe began to exist.**
+3. **Therefore the universe has a cause.**
+
+### Premise 1: Everything that begins to exist has a cause
+
+This premise seems almost too self-evident to defend. Things do not appear without reason. If you wake up in the morning and there is a horse in your living room, you immediately assume there is an explanation. You do not for a moment consider that the horse came into existence out of nothing.
+
+The principle that something cannot come from nothing (*ex nihilo nihil fit*, "from nothing, nothing comes") is one of the foundational principles of rational thought. It underlies all science, all history, all everyday logic. Reject it, and you have no reason to explain anything — because then anything can appear at any time without reason out of nothing.
+
+Yet some sceptics have questioned this premise. The most common objection comes from quantum mechanics: "But subatomic particles 'appear' spontaneously in a quantum vacuum!" We return to this below, but a quantum vacuum is not "nothing." It is a physical state with energy, laws and structure. Particles that "appear" in a quantum vacuum are fluctuations within an already existing physical framework — not something coming into being out of absolute nothing.
+
+Absolute nothing — no space, no time, no energy, no laws, no potential, no quantum field — can produce nothing. As Leibniz put it: "Why is there something rather than nothing? For nothing is simpler and easier than something." If there were truly nothing, there would be nothing forever.
+
+### Premise 2: The universe began to exist
+
+This premise is supported by two kinds of evidence: philosophical arguments and scientific evidence.
+
+**Philosophical arguments:**
+
+The idea of an actual, completed infinite past is philosophically problematic. An actual infinity cannot be completed by successive addition. You cannot count to infinity by adding one at a time. If the past were truly infinite, the present moment could never have been reached, because you would have had to live through an infinite number of moments to get here. It is like trying to read through a library with infinitely many books. You can never finish — and yet we claim that we are "done" with the past today.
+
+**Scientific evidence:**
+
+As we have seen, General Relativity, Hubble's observations, the cosmic microwave background radiation and the BGV theorem all support the conclusion that the universe had a beginning. The scientific evidence over the past century has consistently pointed in one direction: the past is finite.
+
+### Conclusion: The universe has a cause
+
+If the two premises are true, the conclusion follows inescapably: the universe has a cause. But what can we infer about this cause?
+
+Here the argument becomes particularly interesting. If the cause brought the **entire** universe into being — all matter, all energy, all space and all time — then this cause must itself stand **outside** matter, energy, space and time. We can therefore infer that the cause of the universe must have the following properties:
+
+- **Timeless** — for time itself began with the universe. The cause cannot exist within time before there was time.
+- **Spaceless** — for space itself began with the universe. The cause does not exist "somewhere" in physical space.
+- **Immaterial** — for all matter and energy began with the universe. The cause is not physical.
+- **Enormously powerful** — for it brought the entire universe into being.
+- **Personal** — and this point is critical.
+
+Why personal? Consider: if the cause is timeless and unchanging, how can a temporal effect (the universe) ever come into being? If an operative cause is necessary and eternal, you would expect the effect to be eternal too. If the conditions for the universe's existence were always present, why does the universe not always exist?
+
+The only way to explain this is if the cause is a **free agent** — a being with the capacity to **choose** to create. A personal being can bring about a new effect through a free act of will, even though it had the power to do so all along. An impersonal cause does not have this capacity. If the conditions were always fulfilled, the effect would always exist.
+
+In other words: the cause of the universe is timeless, spaceless, immaterial, enormously powerful and personal. This is precisely what the classical Christian tradition has always said about God. Not a "god of the gaps," but a logical inference from the nature of the cause itself.
+
+### Honest Engagement with Objections
+
+An honest intellectual conversation requires that we take the strongest objections to this argument seriously.
+
+**Objection 1: Quantum vacuum fluctuations**
+
+Some have argued that in quantum mechanics, particles can "appear from nothing" — so-called quantum vacuum fluctuations. If particles can arise without cause, why not the entire universe?
+
+The answer is that a quantum vacuum is not "nothing." This is one of the common errors in this debate. A quantum vacuum is a physical state: it has energy, it obeys laws, it has a structure. When particles "appear" in a quantum vacuum, this happens within an already existing physical framework with specific properties. Not creation from nothing, but a process within an already existing reality.
+
+To try to explain the universe from a quantum vacuum merely pushes the question back one step: where does the quantum vacuum itself come from? Who or what established the laws and properties that make quantum fluctuations possible?
+
+As the physicist and agnostic Paul Davies put it: *"There is no free lunch. Someone has to pay the bill."* The quantum vacuum is not "nothing." It is a physical state that itself requires explanation.
+
+**Objection 2: Hawking's No-Boundary Proposal**
+
+Stephen Hawking proposed in his famous book *A Brief History of Time* (and later in *The Grand Design*) that the universe has no boundary in time — that time near the "beginning" changes form and becomes like a closed surface, like the South Pole of the earth. Just as there is nothing "south of the South Pole," there is nothing "before the beginning." Not because there is a beginning, but because the question no longer makes sense.
+
+This is an ingenious proposal, but it has serious limitations.
+
+First, it is mathematically speculative. It uses so-called "imaginary time," a mathematical tool that does not necessarily represent physical reality. Even Hawking acknowledged that the question of whether imaginary time is real remains an open question.
+
+Second, even if the model were correct, it does not eliminate the need for an explanation. The universe in Hawking's model is still finite in the past. It still has a "beginning" in the sense that it does not stretch eternally into the past. The question remains: **why does this closed, finite universe exist?** Why is there this specific quantum-gravitational state rather than nothing?
+
+Hawking himself posed this question, in a remarkable way, in *A Brief History of Time*:
+
+> *"What is it that breathes fire into the equations and makes a universe for them to describe?"*
+
+This is perhaps the most theologically suggestive question a physicist has ever asked. Even if you have the complete mathematical description of the universe — all the equations, all the laws — the question remains: why is there anything for those equations to describe? Mathematics alone cannot explain why there is reality. Equations exist on paper. They do not create universes.
+
+Hawking's later attempts to answer this question were ironically even less satisfying. In *The Grand Design* (2010) he claimed that the universe could "create itself from nothing" on the basis of the law of gravity. But the law of gravity is not "nothing." It is a physical law with specific properties. To say that the universe arose from the law of gravity does not answer the question of why there is a law of gravity in the first place, or why it has these specific properties.
+
+The philosopher John Lennox summarised it aptly: *"Because there is a law of gravity, the universe can and will create itself from nothing. The laws of physics can produce something from nothing. But what produces the laws of physics?"*
+
+## The Connection with Series 1
+
+The connections with Series 1 are remarkable.
+
+In Series 1, Session 3, we posed the great question: **"Why is there something rather than nothing?"** We looked at the distinction between contingent and necessary existence. Everything we observe is contingent: it owes its existence to something else. We discussed the Principle of Sufficient Reason — the idea that for anything that exists, there must be a reason why it is so and not otherwise.
+
+And we reached the conclusion that there must be a necessary reality — something that is not itself dependent on anything else, but that is the ultimate ground and bearer of everything that exists. In the Christian understanding, this is God: the self-existent, eternal Creator.
+
+That argument was purely philosophical. It did not depend on any scientific discovery. Even if the universe were eternal, the contingency argument would still hold, because even an eternal universe is contingent. It does not explain its own existence.
+
+But now we see that science has independently arrived at a finding that strengthens and supplements this philosophical argument. The universe **is** not eternal. It **did** have a beginning. It **is** not self-existent. It is precisely as contingent as philosophy always suspected — and now cosmology confirms it.
+
+The two lines of evidence — the philosophical and the scientific — converge. The contingency argument says: the universe, whether eternal or not, cannot be its own ultimate explanation. The Kalam argument adds: and in fact, the universe is not even eternal. It had a beginning, making the need for a cause even more acute.
+
+Together these arguments point to precisely what classical Christian theism has always taught: a created, dependent world that owes its existence to a necessary, self-existent God. Not a coincidental overlap. This is what we would expect if the Christian worldview is true.
+
+Romans 1:20 says: *"For his invisible attributes, namely, his eternal power and divine nature, have been clearly perceived, ever since the creation of the world, in the things that have been made. So they are without excuse."* (ESV) The apostle Paul did not know about the Big Bang, but he knew that creation itself points to the Creator. And now, two thousand years later, the best cosmological science confirms precisely that.
+
+## Multiverse Hypotheses
+
+When the evidence for the beginning of the universe is discussed, the **multiverse** hypothesis almost always comes up as an attempt to evade the implications.
+
+### What Is the Multiverse?
+
+The idea of a multiverse proposes that our universe is not the only one — that perhaps countless universes exist, each with potentially different natural laws and properties. There are several versions of this idea:
+
+**The "String Landscape":** In certain versions of string theory, there is an enormous number of possible configurations of the basic physical constants — perhaps 10^500 or more. Some physicists have proposed that all of these configurations are actually realised in different universes.
+
+**Eternal Inflation:** According to this model, the inflationary expansion that characterised our universe's early history is not a one-time event. Inflation continues in most of space, and occasionally a piece "breaks off" and forms a new universe with its own properties. The process continues forever into the future, even though it had a beginning in the past (as the BGV theorem confirms).
+
+**The Many-Worlds Interpretation:** In quantum mechanics, this interpretation proposes that every quantum measurement "splits" the universe into branches, so that every possible outcome is realised in a separate reality.
+
+### Does the Multiverse Eliminate the Need for an Explanation?
+
+No.
+
+**First**, even if a multiverse exists, it itself needs an explanation. If there is a mechanism that generates universes — whether eternal inflation or a quantum landscape — then the question is immediately: **Where does this mechanism come from?** Who or what established the laws and conditions that make the generation of universes possible?
+
+The multiverse merely pushes the question back one level. Instead of asking "Why does this universe exist?" we now ask "Why does this multiverse exist?" The fundamental question — "Why is there something rather than nothing?" — remains unanswered. A multiverse is just as contingent as a single universe. It does not explain its own existence.
+
+**Second**, as we have seen, the BGV theorem has shown that even a multiverse that is on average expanding must have had a beginning. The multiverse does not escape the beginning.
+
+**Third**, the multiverse is **not empirically testable**. We cannot observe other universes. We cannot design experiments to confirm or refute the existence of a multiverse. It is, in the strictest sense of the word, a **theoretical construction** — a speculation, however mathematically sophisticated.
+
+Here lies a deep irony. The same people who often demand "scientific evidence" for the existence of God readily accept a multiverse for which there is no direct empirical evidence. The multiverse is not believed because it has been observed, but because it offers a way to explain the fine-tuning of the universe without presupposing a Creator. It is, in reality, a **metaphysical** commitment presented as science.
+
+We are not saying that the multiverse is impossible. Perhaps it is true. But even if it is true, it changes nothing about the fundamental question. The multiverse, just like a single universe, is contingent. It has a beginning. It does not explain its own existence. The need for a necessary, self-existent ground of all reality remains unchanged.
+
+### Roger Penrose's Critique
+
+The brilliant mathematical physicist **Sir Roger Penrose**, a Nobel laureate and one of the most respected thinkers in theoretical physics, has voiced sharp criticism of the use of the multiverse as an explanation.
+
+Penrose has pointed out that the multiverse does not really explain anything. It is a way to avoid the need for explanation. If you say that everything that is possible is realised somewhere in a multiverse, you explain nothing, because you have excluded nothing. A "theory" that explains everything in reality explains nothing.
+
+Penrose has also done calculations showing that the specific state of our universe's beginning is so improbable that even a multiverse does not help. The chance that our specific universe would arise by accident from a multiverse with the low entropy (order) that it has is so small (Penrose calculates it at 1 in 10^(10^123)) that it is not rational to attribute it to chance, even within a multiverse of unimaginable size.
+
+Penrose is not a theist. He did not do these calculations to prove God's existence. But his work shows that the multiverse is not the easy escape that some hope for. The precise beginning of our universe calls for an explanation that goes deeper than "chance across many universes."
+
+## What Physics Cannot Answer
+
+There is a widespread assumption that science, especially physics, can in principle answer all questions. If we just do enough research, conduct enough experiments, collect enough data, we will eventually know everything. This view is sometimes called **scientism**: the belief that science is the only reliable source of knowledge.
+
+But physics has inherent limitations. These are not limitations of technology or knowledge that will one day be bridged. They are limitations of the nature of what physics **is** and what it **can** do.
+
+Physics can describe the **how** of the universe. It can tell us what happened from the first Planck time (10^-43 seconds) after the Big Bang. It can model the expansion of the universe, describe the formation of atoms, explain the formation of galaxies.
+
+But physics cannot answer the **why**.
+
+Why is there a universe governed by these laws? Why are there laws at all? Why do these laws have specifically the properties they have? Why is there anything for physics to describe?
+
+These questions fall outside the scope of physics. Not because physicists do not try hard enough, but because physics by nature studies the patterns and regularities of an **already existing** reality. It cannot explain why there is anything to study.
+
+It is like asking why music exists by analysing the sound waves. You can precisely describe how the waves propagate, what frequencies are involved, how the ear perceives them. But you still have not explained why there is music — why there is a universe in which sound and ears and consciousness and beauty exist.
+
+Hawking recognised this limitation. In *A Brief History of Time* he asked:
+
+> *"What is it that breathes fire into the equations and makes a universe for them to describe? Why does the universe go to all the bother of existing?"*
+
+A beautiful formulation. The equations of physics describe the structure of the universe. But equations by themselves are just patterns, rules, abstractions. They have no power to bring anything into being. A mathematical equation can describe a circle, but it cannot create a circle. Likewise, the laws of physics can describe the universe, but they cannot explain why there is a universe to describe.
+
+Hawking later, as we mentioned, tried to answer this question by saying that the law of gravity could "create" the universe. But this is circular reasoning: you already presuppose the existence of a physical law (gravity) to explain the existence of physical reality. The question is precisely: why are there physical laws at all?
+
+The honest acknowledgement is that physics cannot answer the deepest metaphysical question. It can describe the **structure** of reality, but not explain the **existence** of reality. For that answer, we must look to metaphysics, to philosophy, to theology. And as we have seen, the best philosophical reasoning points to a necessary, self-existent, personal God as the ultimate ground of all reality.
+
+This is not an admission of ignorance. It is an acknowledgement of different levels of explanation. The physicist can ask how the universe works. The philosopher can ask why it exists. The theologian can ask who created it and what its purpose is. These questions are not in competition with each other. They complement each other — like different windows looking out on the same reality.
+
+John Lennox, the Oxford mathematician and Christian thinker, uses the analogy of a car. You can explain a car on two levels. On one level you talk about internal combustion engines, fuel, pistons and spark plugs — the "how" of how the car works. On the other level you talk about Henry Ford, who designed the car, and why he made it — the "who" and the "why." These two explanations do not contradict each other. Both are true. Both are needed for a complete understanding.
+
+So too with the universe. Physics can tell us how the universe works. But for the question of why it exists — what it is that "breathes fire into the equations" — we need an answer that reaches beyond physics. That answer, says the Christian tradition, is the living God who created out of free will.
+
+## The Biblical Perspective
+
+What does Scripture say?
+
+**Genesis 1:1** — *"In the beginning, God created the heavens and the earth."* (ESV)
+
+Perhaps the most famous sentence in the entire Bible, and one of the most remarkable statements in all ancient literature. In a world where most peoples believed the universe was eternal, or that it was formed from pre-existing matter by a limited god or gods, Genesis declares that God **created** the heavens and the earth. The Hebrew word *bara* denotes a creative act attributed solely to God. Not the rearrangement of existing material. The bringing forth of something new.
+
+"In the beginning": there was a beginning. Not an eternal cycle. Not an infinite past. A beginning. Time, space and matter had a starting point, and that starting point was God's creative act.
+
+This was a **radical** statement in the ancient world. The Greeks, the Egyptians, the Babylonians: most assumed that the basic stuff of reality was eternal. Genesis stands virtually alone in the ancient world with the claim that **everything** — even the basic stuff of reality — had a beginning in God's free creative decision.
+
+And this is precisely what modern cosmology confirmed in the twentieth century. The universe has a beginning. It is not eternal. It is not self-explanatory. It is created.
+
+**Hebrews 11:3** — *"By faith we understand that the universe was created by the word of God, so that what is seen was not made out of things that are visible."* (ESV)
+
+This verse is remarkable. It teaches that visible reality did not arise from pre-existing visible things. It is an early, biblical expression of what theology calls *creatio ex nihilo*: creation from nothing. God did not build the universe out of material that was already available. He called it into being by his Word.
+
+**Psalm 33:6, 9** — *"By the word of the LORD the heavens were made, and by the breath of his mouth all their host. ... For he spoke, and it came to be; he commanded, and it stood firm."* (ESV)
+
+Here we see the absolute sovereignty of God's creative act. He **spoke**, and it was. No struggle, no effort, no limitation. The entire universe came into being by the mere word of God. "He commanded, and it stood firm."
+
+These verses sketch a picture of a God who does not labour to create, but who with absolute freedom and power decides that something shall be. The distance between "nothing" and "everything" is bridged by a single word of the Almighty.
+
+**Isaiah 40:26** — *"Lift up your eyes on high and see: who created these? He who brings out their host by number, calling them all by name; by the greatness of his might and because he is strong in power, not one is missing."* (ESV)
+
+The prophet invites us to look up — at the stars, at the heavens — and ask: Who created these? Not "what," but "Who." The question of the origin of the universe is not an impersonal, mechanical question. It leads to a Person.
+
+### Not a "God of the Gaps"
+
+The biblical understanding of God as Creator is not a "God of the gaps" argument. A "God of the gaps" argument says: "We do not know how this phenomenon works, therefore God did it." That is an argument from ignorance, and it becomes weaker as science progresses.
+
+That is not what we are doing here. The argument from the beginning of the universe is an argument from the **best available scientific knowledge**, read alongside deep philosophical reasoning. We are not saying: "We do not understand the Big Bang, therefore God." We are saying: "We understand the Big Bang very well, and its implications — that the universe has a beginning, that time and space came into being, that the cause must lie outside the physical reality — point to a transcendent, personal Creator."
+
+Nor is it a coincidence that the Bible and cosmology converge. The Bible has taught for millennia that the universe has a beginning — at a time when this claim was counter-cultural. Science caught up only in the twentieth century.
+
+The theologian Robert Jastrow, an agnostic and the first director of NASA's Goddard Institute for Space Studies, put it this way:
+
+> *"For the scientist who has lived by his faith in the power of reason, the story ends like a bad dream. He has scaled the mountains of ignorance; he is about to conquer the highest peak; as he pulls himself over the final rock, he is greeted by a band of theologians who have been sitting there for centuries."*
+
+The theologians were first at the summit. Science came later and confirmed what Scripture had always taught.
+
+## Wonder and Worship
+
+When we consider these things — the unfolding of the universe from a beginning, the precise physical laws, the fact that we live in a universe that came into being through a single word of the Almighty — it ought to bring us to wonder and worship.
+
+We are not talking here about abstract theory. We are talking about the reality in which we participate every day. Every star you see at night, every breath you take, every moment of consciousness: all of this exists because God spoke. The afterglow of that creation still fills the universe — literally, in the form of the cosmic microwave background radiation. We live in the reverberation of God's creative Word.
+
+Psalm 19:1–3 says: *"The heavens declare the glory of God, and the sky above proclaims his handiwork. Day to day pours out speech, and night to night reveals knowledge. There is no speech, nor are there words, whose voice is not heard."* (ESV)
+
+The universe speaks. Not in words, but by its very existence. It testifies to its Creator. That there is something rather than nothing, that this something has a beginning, that this beginning presupposes a Beginner: this is a silent but deafening testimony.
+
+And the correct response to this testimony is not merely intellectual assent. It is worship. The recognition that we are small, that the universe is great, and that the God who created it is infinitely greater than anything we can conceive.
+
+Revelation 4:11 says: *"Worthy are you, our Lord and God, to receive glory and honor and power, for you created all things, and by your will they existed and were created."* (ESV)
+
+By your will they existed. Not by chance. Not by blind processes without reason. By God's will. The universe exists because God willed it to exist. And every moment that it continues to exist, it is because God continually sustains it by the word of his power (Hebrews 1:3).
+
+## Bridge to the Next Session
+
+The universe had a beginning. Science confirms it. Philosophy explains the implications. Scripture has always taught it. The universe is not eternal, not self-existent, not self-explanatory. It is created. It is contingent. It has a cause: a timeless, spaceless, immaterial, powerful, personal Creator.
+
+But the story goes further. The universe did not merely have a beginning. It had a **very specific** beginning. The physical constants and initial conditions of the universe are "set" with remarkable precision — so precisely that even the smallest change would make life, or even matter, impossible.
+
+How precise? And what does it mean?
+
+That is the subject of the next session: the fine-tuning of the universe. The universe did not merely begin. It began with an unimaginable precision that points to a rational Ground — a Logos who laid order and purpose into creation.
+
+## Notable Quotations
+
+> "All the evidence we have says that the universe had a beginning."
+– Alexander Vilenkin, *Many Worlds in One*
+
+> "What is it that breathes fire into the equations and makes a universe for them to describe? Why does the universe go to all the bother of existing?"
+– Stephen Hawking, *A Brief History of Time*
+
+> "The best data we have are exactly what I would have predicted had I nothing to go on but the first five books of Moses, the Psalms, and the Bible as a whole."
+– Arno Penzias (Nobel laureate, co-discoverer of the cosmic microwave background radiation)
+
+> "For the scientist who has lived by his faith in the power of reason, the story ends like a bad dream. He has scaled the mountains of ignorance; he is about to conquer the highest peak; as he pulls himself over the final rock, he is greeted by a band of theologians who have been sitting there for centuries."
+– Robert Jastrow, *God and the Astronomers*
+
+> "Almost everyone now believes that the universe, and time itself, had a beginning at the Big Bang."
+– Stephen Hawking, *The Nature of Space and Time*
+
+> "In the beginning God created the heavens and the earth."
+– Genesis 1:1
+
+## Commentary on Key Scripture Passages
+
+> **Genesis 1:1** — "In the beginning, God created the heavens and the earth." (ESV)
+
+These opening words of the Bible are at once simple and unfathomably deep. "In the beginning" immediately establishes that there was a beginning; time is not eternal. "God" is named without prior explanation. He is presented as the self-evident reality — the One who is before all other things. "Created" (*bara*) is a verb used in the Old Testament exclusively for God's creative act — a deed that only God can perform. "The heavens and the earth" is a merism — an expression that denotes the totality. God created everything: all that there is.
+
+Herman Bavinck observes that Genesis 1:1 is the foundation of the entire biblical worldview: God is absolutely sovereign, the world is entirely dependent on Him, and there is a radical distinction between the Creator and the creation. This Creator-creature distinction is one of the most fundamental principles in Christian theology.
+
+> **Hebrews 11:3** — "By faith we understand that the universe was created by the word of God, so that what is seen was not made out of things that are visible." (ESV)
+
+This verse teaches *creatio ex nihilo* — creation from nothing. The visible reality was not formed from pre-existing visible material. It was called into being by God's Word. The author says we understand this "by faith." Not a truth that can be reached by empirical observation alone, but also not irrational. A faith-insight confirmed by reason.
+
+> **Psalm 33:6, 9** — "By the word of the LORD the heavens were made, and by the breath of his mouth all their host. ... For he spoke, and it came to be; he commanded, and it stood firm." (ESV)
+
+The Psalmist describes creation as an act of God's Word. The emphasis lies on the sovereignty and freedom of God's creative speech. No effort, no resistance, no limitation. God speaks, and reality obeys. Calvin comments that these verses teach us that God did not need tools or materials. His mere Word was sufficient to bring the entire creation into being.
+
+> **Isaiah 40:26** — "Lift up your eyes on high and see: who created these? He who brings out their host by number, calling them all by name; by the greatness of his might and because he is strong in power, not one is missing." (ESV)
+
+In the context of Isaiah 40, the people in exile are comforted with the reminder of God's unlimited power. The invitation to "look up" at the stars is an invitation to remember the Creator. The fact that God calls every star "by name" indicates intimate knowledge and sovereign control. The same God who called billions of galaxies into existence knows you by name.
+
+> **Romans 1:20** — "For his invisible attributes, namely, his eternal power and divine nature, have been clearly perceived, ever since the creation of the world, in the things that have been made. So they are without excuse." (ESV)
+
+Paul teaches here that creation itself testifies to God's existence. His "eternal power" and "divine nature" are visible in what He has made. Not an argument from ignorance, but from what we can **see** and **understand** when we honestly consider creation. That the universe has a beginning, that it is ordered, that it is comprehensible: all of this points to the Creator.
+
+## Discussion Questions
+
+* In Series 1 we looked at the contingency argument — the idea that the universe cannot explain its own existence. How does the scientific discovery of the Big Bang strengthen this philosophical argument? Does it change your conviction, or confirm what you already believed?
+
+* Einstein distrusted his own mathematical results because the implications (a beginning of the universe) made him uncomfortable. Can you think of other examples where people rejected scientific or philosophical findings because the consequences were unwelcome? What does this teach us about the relationship between evidence and worldviews?
+
+* Hawking asked: "What is it that breathes fire into the equations and makes a universe for them to describe?" How would you answer this question? Can physics alone answer it, or do we need a different kind of explanation?
+
+* The Kalam cosmological argument concludes that the cause of the universe must be timeless, spaceless, immaterial, powerful, and personal. How does this description compare with the biblical picture of God? Are there differences or points of tension?
+
+* Some people invoke the multiverse to avoid the need for a Creator. Why does the multiverse not eliminate the fundamental question? What do you think motivates the popularity of this idea: scientific evidence, or philosophical preference?
+
+* Genesis 1:1 was counter-cultural for centuries; most ancient peoples believed the universe was eternal. Science confirmed the biblical position only in the twentieth century. How does this fact affect your confidence in Scripture?
+
+* The Bible teaches that God did not merely create once but continually sustains all things (Hebrews 1:3, Colossians 1:17). How does this change your understanding of the Big Bang? Is it merely something that happened long ago, or does it have ongoing significance?
+
+* Robert Jastrow said the scientist climbing the mountain of ignorance is greeted at the top by theologians who have been sitting there for centuries. How do you respond to this image? Is it encouraging to you, or does it bring up other feelings?
+
+## Recommended Reading
+
+- **William Lane Craig — *Reasonable Faith* (Chapters 3–4)**
+  A thorough and accessible exposition of the Kalam cosmological argument, with full discussion of the scientific and philosophical evidence for the beginning of the universe.
+
+- **John Lennox — *God's Undertaker: Has Science Buried God?***
+  An Oxford mathematician's clear and balanced treatment of the relationship between science and faith, with particular attention to cosmology and the limits of physics.
+
+- **Robert Jastrow — *God and the Astronomers***
+  A short, readable book by the agnostic NASA scientist who tells the story of the cosmological discoveries and honestly acknowledges their theological implications.
+
+- **Stephen Hawking — *A Brief History of Time***
+  Hawking's classic work on cosmology, notable for its honest philosophical questions, even if his answers are not always satisfying. Important to read as a primary source.
+
+- **David Bentley Hart — *The Experience of God: Being, Consciousness, Bliss***
+  As discussed in Series 1, Hart provides the deepest philosophical framework for understanding God as the ground of being — the metaphysical background that gives the cosmological argument its full weight.
+
+- **Alexander Vilenkin — *Many Worlds in One: The Search for Other Universes***
+  The cosmologist who co-authored the BGV theorem writes about the beginning of the universe and the multiverse from a scientific perspective.
+
+## Bibliography
+
+* Borde, Arvind, Alan H. Guth, and Alexander Vilenkin. "Inflationary spacetimes are incomplete in past directions." *Physical Review Letters* 90, no. 15 (2003): 151301.
+  — The original publication of the BGV theorem proving that any on-average-expanding universe must have had a beginning.
+
+* Craig, William Lane. *Reasonable Faith: Christian Truth and Apologetics*. 3rd ed. Crossway, 2008.
+  — A comprehensive treatment of the Kalam cosmological argument, including philosophical and scientific evidence.
+
+* Hawking, Stephen. *A Brief History of Time*. Bantam Books, 1988.
+  — Hawking's well-known popular exposition of cosmology, with the famous question about what "breathes fire into the equations."
+
+* Hawking, Stephen, and Leonard Mlodinow. *The Grand Design*. Bantam Books, 2010.
+  — Hawking's later attempt to argue that the universe could create itself from nothing — a position that has been widely criticised.
+
+* Hart, David Bentley. *The Experience of God: Being, Consciousness, Bliss*. Yale University Press, 2013.
+  — The metaphysical framework for understanding God as the ground of being, giving the cosmological argument its deepest philosophical context.
+
+* Jastrow, Robert. *God and the Astronomers*. W.W. Norton, 1978.
+  — An agnostic astronomer's account of the cosmological discoveries and their theological implications.
+
+* Lennox, John C. *God's Undertaker: Has Science Buried God?* Lion Hudson, 2009.
+  — A balanced treatment of the relationship between science and faith by an Oxford mathematician.
+
+* Lemaitre, Georges. "Un univers homogene de masse constante et de rayon croissant rendant compte de la vitesse radiale des nebuleuses extra-galactiques." *Annales de la Societe Scientifique de Bruxelles* 47 (1927): 49–59.
+  — Lemaitre's original article proposing the expanding universe.
+
+* Penrose, Roger. *The Road to Reality: A Complete Guide to the Laws of the Universe*. Jonathan Cape, 2004.
+  — Penrose's comprehensive treatment of physics, with important critiques of the multiverse and calculations on the improbability of our universe's initial conditions.
+
+* Vilenkin, Alexander. *Many Worlds in One: The Search for Other Universes*. Hill and Wang, 2006.
+  — The cosmologist's own account of the BGV theorem and its implications for the beginning of the universe.
+
+* Bavinck, Herman. *Reformed Dogmatics*, Vol. 2.
+  — A Reformed theological treatment of God as Creator and the doctrine of *creatio ex nihilo*.
+
+* Calvin, John. *Institutes of the Christian Religion*, Book 1.
+  — Calvin's treatment of God as Creator and the *sensus divinitatis* present in every person.
+
+</div>

@@ -8,7 +8,7 @@ layout: page
       <header class="post-header">
         <h2 class="h2 mb-1">
           <a class="no-underline" href="{{ post.url | prepend: site.baseurl }}">
-            {{ post.title }}
+            <span class="lang-af">{{ post.title }}</span>{% if post.title_en %}<span class="lang-en">{{ post.title_en }}</span>{% else %}<span class="lang-en">{{ post.title }}</span>{% endif %}
           </a>
         </h2>
         <div class="post-meta text-gray-600 mb-2">
@@ -16,26 +16,32 @@ layout: page
             {{ post.date | date: "%-d %b, %Y" }}
           </time>
           {% if post.author %}
-            <span class="author"> — deur {{ post.author }}</span>
+            <span class="author"> — <span class="lang-af">{{ site.data.i18n.by_author.af }}</span><span class="lang-en">{{ site.data.i18n.by_author.en }}</span> {{ post.author }}</span>
           {% endif %}
         </div>
       </header>
-      
+
       {% if post.excerpt %}
         <div class="post-excerpt prose">
           {{ post.excerpt | strip_html | truncatewords: 50 }}
         </div>
-        <a class="read-more" href="{{ post.url | prepend: site.baseurl }}">Lees meer →</a>
+        <a class="read-more" href="{{ post.url | prepend: site.baseurl }}">
+          <span class="lang-af">{{ site.data.i18n.read_more.af }}</span><span class="lang-en">{{ site.data.i18n.read_more.en }}</span>
+        </a>
       {% else %}
         <div class="post-excerpt prose">
           {{ post.content | strip_html | truncatewords: 50 }}
         </div>
-        <a class="read-more" href="{{ post.url | prepend: site.baseurl }}">Lees meer →</a>
+        <a class="read-more" href="{{ post.url | prepend: site.baseurl }}">
+          <span class="lang-af">{{ site.data.i18n.read_more.af }}</span><span class="lang-en">{{ site.data.i18n.read_more.en }}</span>
+        </a>
       {% endif %}
     </article>
   {% endfor %}
 </div>
 
 {% if site.posts.size == 0 %}
-  <p class="text-gray-600">Geen artikels beskikbaar nie.</p>
+  <p class="text-gray-600">
+    <span class="lang-af">{{ site.data.i18n.no_articles.af }}</span><span class="lang-en">{{ site.data.i18n.no_articles.en }}</span>
+  </p>
 {% endif %}

@@ -3,12 +3,16 @@ layout: lesson
 course: reeks02-wetenskap
 lesson: 3
 title: "Sessie 2 — Die Geskiedenis wat Niemand Vertel Nie"
+title_en: "Session 2 — The History Nobody Tells"
 description: "Hoe die Christelike geloof die wetenskap moontlik gemaak het, en waarom die Galileo-verhaal nie is wat jy dink dit is nie."
+description_en: "How the Christian faith made science possible, and why the Galileo story is not what you think it is."
 youtubeurl: "https://youtu.be/DC8HpVYuk9g"
 youtube_start: 398
 youtube_end: 457
 author: Attie Retief
 ---
+<div class="lang-af" markdown="1">
+
 # Die Geskiedenis wat Niemand Vertel Nie
 
 ## Inleiding
@@ -405,3 +409,406 @@ Die oorlogstesis is 'n mite. Die Galileo-verhaal is veel meer genuanseerd as die
 Maar geskiedenis is een ding; die feite self is iets anders. In die volgende sessie skuif ons van geskiedenis na inhoud. Nou dat ons weet wetenskap en geloof nie vyande is nie: wat vertel moderne kosmologie ons werklik oor die oorsprong van die heelal? As die Christelike geloof die wortels van die wetenskaplike boom is, wat lewer daardie boom op? Wat ontdek die wetenskap wanneer dit na die begin van alles kyk?
 
 Die antwoord is verrassend.
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+# The History Nobody Tells
+
+## Introduction
+
+There is a story almost everyone knows. It goes like this: the church was the great enemy of science. For centuries priests and theologians tried to extinguish the light of knowledge, and only when brave scientists freed themselves from religious bonds could humanity advance. The climax of this narrative is usually Galileo standing before the Inquisition — the lone hero of reason against the power of superstition.
+
+It is a powerful story. Dramatic, simple, satisfying. There is just one problem: it is largely false.
+
+The real history of faith and science looks entirely different. Not because we are in denial about mistakes the church made. There were mistakes, and we look at them honestly. But the real story is richer and more surprising than the myth we have been taught. For believers, the true history is liberating: the scientific enterprise did not arise *despite* the Christian faith, but in an important sense *from within it*.
+
+## 1. The Conflict Myth: Where Does It Come From?
+
+### The Two Books That Changed Everything
+
+If you ask anyone today whether science and religion have always been in conflict, most people will say: "Of course!" It feels so self-evident that it hardly needs an argument. But this "self-evidence" has a specific birth date and specific parents.
+
+The idea that Christianity and science are locked in a perpetual war comes mainly from two nineteenth-century books:
+
+**John William Draper's** *History of the Conflict Between Religion and Science* (1874) and **Andrew Dickson White's** *A History of the Warfare of Science with Theology in Christendom* (1896).
+
+Draper, a British-American chemist, wrote his book in the wake of the First Vatican Council (1869–1870), where the Roman Catholic Church proclaimed the doctrine of papal infallibility. Draper was furious about this and wrote a sweeping narrative in which he presented the entire history of Christianity as one long suppression of science. His book was a hit: ten editions in five years, translated into ten languages. But it was not history; it was polemic. Draper distorted facts, ignored context, and created a caricature that had more to do with his own anti-Catholic sentiments than with what actually happened.
+
+White was the co-founder and first president of Cornell University, which he established as a non-sectarian institution. When churchmen criticised him for this, he struck back with a massive two-volume work that rewrote history as an epic struggle between "science" (the hero) and "theology" (the villain). White's book was more sophisticated than Draper's, with impressive footnotes and detailed stories. But modern historians have shown that he used his sources selectively, presented legends as facts, and that his overarching framework is simply not supported by the evidence.
+
+### How a Myth Became Canon
+
+The irony is that these two books, which today are regarded by virtually every serious historian of science as outdated and misleading, permanently shaped the popular imagination. They established the "conflict thesis" (*conflict thesis* or *warfare thesis*): the idea that science and religion are inherently opposed, and that the history of their relationship is one of perpetual conflict.
+
+The historian **Ronald Numbers**, himself an agnostic who is not trying to advance any religious cause, has thoroughly examined this myth. In his influential book *Galileo Goes to Jail and Other Myths about Science and Religion* (2009), he writes:
+
+> "The greatest myth in the history of science and religion holds that they have been in a state of constant conflict."
+
+Numbers and his co-authors, among the foremost historians of science in the world, analyse twenty-one such myths and show how each one rests on inaccurate or oversimplified accounts of history.
+
+**David Lindberg**, a leading historian of medieval science, wrote in his *The Beginnings of Western Science* that the relationship between church and science through the centuries is better described as a spectrum: from support and patronage to tension and sometimes conflict, but never as simple warfare. The overwhelming majority of interactions were positive. The church was the primary patron of learning for most of Western history. The few examples of conflict (such as the Galileo affair) were atypical rather than representative.
+
+**Peter Harrison**, an Australian historian who specifically researches how religious ideas influenced the development of science, has demonstrated that the conflict thesis is not only historically inaccurate, but that the precise *opposite* is closer to the truth: Christian theology played an indispensable role in the rise of modern science.
+
+### Why It Matters
+
+The conflict myth has real consequences. It makes believers think they must choose between their faith and intellectual honesty. It gives sceptics a rhetorical weapon built on a false history. And it conceals the deep theological roots of the scientific enterprise.
+
+If we think the church has always been against science, we will be defensive. We will feel as though we have something to hide. But if we know the real history, we can speak with confidence and honesty. Not because the church was flawless, but because the story of faith and science is much more our own story than we think.
+
+## 2. The Galileo Affair: What Really Happened?
+
+No conversation about faith and science is complete without Galileo. His name has become a symbol: the heroic scientist persecuted by the intolerant church because he proclaimed the truth. In popular culture, the Galileo story is the definition of "church vs. science."
+
+But the real history is so much more nuanced that it is virtually a different story from the myth.
+
+### Galileo the Believer
+
+First: Galileo Galilei (1564–1642) was a devoted Catholic. No martyr for atheism or secularism. He believed in God his entire life, served the church, and saw his science as a way to understand God's creation better. Both of his daughters were nuns. He did not want to leave or undermine the church. He wanted to help her understand correctly how creation fits together.
+
+In a famous letter to the Grand Duchess Christina (1615), Galileo wrote that the Bible and nature both come from God and therefore cannot truly conflict with each other. If they appear to conflict, we must be either misinterpreting Scripture or misunderstanding the science. This is a deeply theological position, not an anti-religious one.
+
+### Powerful Supporters in the Church
+
+Galileo initially enjoyed strong ecclesiastical support. Cardinal Maffeo Barberini, a personal friend, encouraged him and later became Pope himself as Urban VIII. The Jesuit astronomers at the Collegio Romano confirmed Galileo's telescope discoveries and honoured him. Cardinal Roberto Bellarmino, one of the most powerful figures in the Roman Catholic Church, acknowledged that if proof could truly be provided that the earth orbits the sun, Scripture would need to be reinterpreted. A remarkably open position.
+
+The problem was not that the church was in principle opposed to new scientific insights. The problem was much more personal and political.
+
+### Politics and Personality
+
+Galileo was brilliant, but also aggressive, sarcastic and tactically unwise. In his famous *Dialogo sopra i due massimi sistemi del mondo* (1632), he had the Ptolemaic system (earth at the centre) defended by a character named "Simplicio" — literally "the simpleton." Many people, including the Pope himself, believed that Simplicio was a mockery of the Pope. Whether or not Galileo intended it that way, the personal insult turned a former patron into an enemy.
+
+The period was also politically charged. The Counter-Reformation was in full swing. The Roman Catholic Church was in a struggle with the Protestants over who had the right to interpret Scripture. In this tense context, the church was particularly sensitive to anyone — even a loyal Catholic — who presumed to determine how the Bible should be read. Galileo's argument was not merely scientific; it touched on the question of who holds authority over biblical interpretation. And that was the central nerve of the Reformation era.
+
+### Scientific Incompleteness
+
+Something seldom mentioned: Galileo's science was at that point *incomplete*. He believed the earth orbits the sun (heliocentrism), and he was ultimately right. But he could not conclusively prove it.
+
+One of the strongest arguments against heliocentrism was the absence of **stellar parallax** — the apparent shift of nearby stars relative to distant stars as the earth moves around the sun. If the earth truly moves, we should see this shift. Galileo could not demonstrate it. Stellar parallax was only observed in 1838 by Friedrich Bessel, nearly two centuries later. The reason was that the stars are so much farther away than anyone in Galileo's time realised, making the effect too small to measure with the instruments of the day.
+
+Galileo's own alternative "proof" of the earth's motion — his tidal theory — was also wrong. He claimed that the tides were caused by the earth's motion, and rejected Kepler's correct connection with the moon's gravitational pull.
+
+This does not mean the church was *right* to condemn Galileo. But the situation was not as simple as "proven science vs. unreasonable faith." It was a convergence of incomplete science, ecclesiastical politics, personal egos and theological authority disputes.
+
+The majority of Galileo's scientific opponents were not theologians but *other scientists* — especially Aristotelian philosophy professors whose entire intellectual system was threatened by his new ideas. Much of the resistance to Galileo was therefore not "church vs. science," but "old science vs. new science," with the church unfortunately drawn into the politics of an academic dispute.
+
+### The Verdict and Its Aftermath
+
+Galileo was tried by the Inquisition in 1633 and found guilty of "strong suspicion of heresy." He was not tortured, not thrown into a dungeon, not burned. He was placed under house arrest at his own villa near Florence, where he lived and worked for another nine years, including writing his most important scientific work, the *Discorsi* (1638), on mechanical physics.
+
+The famous phrase "Eppur si muove" ("And yet it moves") that Galileo supposedly whispered after his trial is almost certainly apocryphal — a later addition to the legend.
+
+### Why This One Case Is Endlessly Rehashed
+
+The Galileo affair is real. It was an injustice, and the Roman Catholic Church formally acknowledged this in 1992. But this ONE case, with all its personal and political complications, is constantly repeated as if it represents the *entire* relationship between Christianity and science. It is as if you highlight one marital argument from a thirty-year happy marriage and declare: "See! This marriage was a war!"
+
+As the historian **John Hedley Brooke** showed in his groundbreaking *Science and Religion: Some Historical Perspectives*, the relationship between church and science throughout history was predominantly one of mutual enrichment and support. The Galileo affair is the exception, not the rule. And even this exception is so much more nuanced than the myth.
+
+## 3. The Christian Foundations of Modern Science
+
+### The Core Question
+
+Why did modern empirical science arise specifically in Christian Europe?
+
+The ancient Greeks were brilliant thinkers. The Chinese made remarkable technological inventions. The Islamic golden age yielded mathematical and medical advances. But the specific combination of systematic empirical investigation, mathematical modelling and organised research that we call "modern science" arose in one specific cultural context: the Christian West, especially from the sixteenth and seventeenth centuries onward.
+
+Was this coincidence? Or was there something in the Christian worldview that made scientific investigation possible?
+
+### The Theological Presuppositions
+
+Historians of science have increasingly recognised that several core convictions of the Christian faith provided the intellectual foundation upon which modern science could grow.
+
+#### a) Creation *ex nihilo*: The World Is Not Divine
+
+In many ancient cultures, nature itself was divine — full of spirits, demons and gods. The sun was a god. The river was a goddess. The trees were sacred. In such a world, it is culturally impossible to approach nature as an object of investigation. You do not analyse a deity; you worship it.
+
+The Christian doctrine of *creatio ex nihilo* (creation from nothing) drew a radical distinction: God is the Creator; nature is the creation. The world is not divine. It is good, yes, because God made it good (Gen. 1:31), but it is not sacred in the sense of being untouchable. It can be studied, measured, analysed and understood.
+
+As **Peter Harrison** demonstrated in *The Bible, Protestantism, and the Rise of Natural Science* (1998), this "disenchantment" of nature (not that it is without wonder, but that it need not be treated as divine) created the intellectual space within which empirical investigation could take place.
+
+The philosopher **Alfred North Whitehead**, himself not an orthodox Christian, wrote in his *Science and the Modern World* (1925) that medieval theology provided the indispensable foundation for modern science — especially the conviction that there is a rational order in nature, grounded in a rational Creator. Whitehead's precise words deserve attention:
+
+> "The greatest contribution of medievalism to the formation of the scientific movement... I mean the inexpugnable belief that every detailed occurrence can be correlated with its antecedents in a perfectly definite manner... It must come from the medieval insistence on the rationality of God."
+
+This insight from an outsider — a mathematician and philosopher rather than a theologian or apologist — is all the more convincing precisely because it comes from honest historical analysis.
+
+Consider also the contrast with other cultures. In ancient Hinduism, the material world is *maya* — illusion. Why would you systematically study an illusion? In many animistic cultures, natural phenomena are the capricious deeds of spirits — unpredictable and not subject to fixed laws. Only within a framework where nature is real, good, but non-divine does it become meaningful to treat it as an investigable object.
+
+#### b) Contingency: God Chose Freely
+
+The ancient Greeks largely believed that the world is *necessarily* the way it is — that the structure of reality can be deduced through pure reason without empirical investigation. Plato's philosophers need not dirty their hands with experiments; they could figure everything out from their chairs.
+
+The Christian doctrine of creation brought an entirely different perspective. If God freely chose to create *this* world with *these* laws — if He could just as well have created differently — then you cannot simply sit and think up the laws of nature. You have to go **look**. You have to *investigate* nature to discover how God chose to make it.
+
+This is precisely the impulse behind empirical science: the conviction that the laws of nature are contingent (they need not necessarily be this way) and therefore must be discovered through observation rather than deduced through speculation.
+
+The theologian **Thomas F. Torrance** treated this point at length in several works. He showed that the Christian doctrine of contingent creation provided the logical foundation for the empirical method: if the world is freely created by a sovereign God, then the only way to know the world is to investigate it. Pure rationalism (just thinking) is not enough; you need empirical testing (go and look).
+
+#### c) Rational Order: The Universe Is Comprehensible
+
+If the world is not divine (a) and not necessary (b), why would a person even try to understand it? Perhaps it is a chaos, a meaningless coincidence.
+
+Here the third Christian conviction enters: a rational God created the world, and therefore the world is *rationally ordered*. It follows laws, patterns, mathematical relationships. It is not chaos; it is cosmos.
+
+This conviction — that nature is comprehensible — is not self-evident. In a world without God, there is no obvious reason why the universe should be comprehensible. Albert Einstein famously made this point:
+
+> "The most incomprehensible thing about the universe is that it is comprehensible."
+
+For the Christian, this is not mysterious: the universe is comprehensible because it is the work of a comprehensible God. The laws of nature are an expression of God's faithful, consistent character. As Jeremiah 33:25–26 suggests: God's covenant with day and night, the fixed order of heaven and earth, is a ground for trust.
+
+**Rodney Stark**, a sociologist of religion, argued in his book *For the Glory of God: How Monotheism Led to Reformations, Science, Witch-Hunts, and the End of Slavery* (2003) that this conviction in a rational Creator-God was the necessary condition for the rise of science. Stark writes:
+
+> "The rise of science was not an extension of classical learning. It was the natural outgrowth of Christian doctrine: nature exists because it was created by God. In order to love and honour God, it is necessary to fully appreciate the wonders of his handiwork. Because God is perfect, his handiwork functions in accord with immutable principles. By the full use of our God-given powers of reason and observation, we ought to be able to discover these principles."
+
+#### d) The *Imago Dei*: Our Minds Are Made to Know
+
+Even if the world is rationally ordered, our minds must be capable of grasping that order. The Christian doctrine that humanity is created in the image of God (*imago Dei*, Gen. 1:27) provides precisely this assurance. We are made by the same God who made the universe, and our minds reflect, in a limited, creaturely way, the Divine Mind that structured nature.
+
+Johannes Kepler, one of the founding figures of modern astronomy, expressed this beautifully. He understood his scientific work as literally "thinking God's thoughts after Him." For Kepler, the discovery of the mathematical laws of planetary motion was not merely an intellectual achievement; it was an act of worship.
+
+These four convictions together formed the intellectual ecosystem within which modern science germinated and grew. The world is not divine, is contingent, is rationally ordered, and can be known by our minds.
+
+## 4. The Middle Ages: Not the "Dark Ages"
+
+### A Myth Within a Myth
+
+If the conflict thesis is the great myth, then the idea of the "Dark Ages" is its faithful companion. The story goes like this: after the fall of Rome, the Christian church plunged Europe into a millennium of intellectual darkness. Only with the "Renaissance" and the "Enlightenment" was the light rekindled.
+
+This picture is so distorted that it takes on almost comic proportions when compared with the facts.
+
+### The University: A Christian Invention
+
+The university — one of the most distinctive institutions of Western civilisation — is a medieval Christian invention. There was nothing comparable in the ancient world. The university as a permanent institution with a structured curriculum, formal degrees and academic freedom is a product of the Christian Middle Ages.
+
+- **Bologna** (founded c. 1088), the oldest university in the Western world
+- **Paris** (c. 1150), the great centre of theological and philosophical study
+- **Oxford** (c. 1167), established by scholars who came from Paris
+- **Cambridge** (1209), founded by scholars from Oxford
+
+By the end of the Middle Ages, there were more than sixty universities across Europe, all founded under ecclesiastical protection or with ecclesiastical approval. The curriculum included not only theology but also logic, mathematics, grammar, rhetoric, music, astronomy and natural philosophy.
+
+The historian **Edward Grant** showed in his *God and Reason in the Middle Ages* (2001) that the medieval university was one of the foremost intellectual achievements in human history — an institution that fostered systematic, critical thinking on a scale previously unknown.
+
+### Medieval Scientific Progress
+
+The Middle Ages were not stagnant.
+
+**Optics:** Roger Bacon (c. 1214–1294), a Franciscan friar, did pioneering work in optics and advocated for experimental science. His fellow friar Robert Grosseteste (c. 1175–1253), the Bishop of Lincoln, developed a theory of light and is regarded by some historians as one of the earlier proponents of the scientific method. Witelo, a Polish monk, wrote a comprehensive work on optics in the thirteenth century that was used as a standard text into the seventeenth century.
+
+**Logic and Philosophy:** The medieval scholastics did not merely preserve Aristotelian logic but significantly expanded and refined it. Theologians such as Thomas Aquinas, Duns Scotus and William of Ockham developed sophisticated intellectual frameworks that laid the groundwork for later scientific thinking. Ockham's famous parsimony principle ("Entities must not be multiplied without necessity") remains a foundational principle of scientific methodology to this day.
+
+**Technology:** Medieval Europe displayed a remarkable technological dynamism. The watermill and windmill were deployed on a massive scale. The mechanical clock was developed in the thirteenth century, bringing a revolution in the measurement of time. Innovations in agriculture (the three-field system, the heavy plough, the horse collar) made a population explosion possible, which in turn freed more people for intellectual labour.
+
+**Astronomy and Cosmology:** Jean Buridan, a fourteenth-century priest and philosopher at the University of Paris, developed the concept of *impetus*, a forerunner of Newton's concept of inertia. Nicole Oresme, also a priest, argued in the fourteenth century that it is more economical to assume that the earth rotates rather than that the heavens rotate — an argument Copernicus would later repeat.
+
+### The Church as Patron of Learning
+
+The Christian church was the primary patron of learning and education in the Western world for most of a millennium. Monastic orders copied and preserved ancient texts. Cathedral schools laid the groundwork for universities. Bishops and popes founded, funded and protected universities.
+
+Even the preservation of the Greek and Latin intellectual heritage (Aristotle, Plato, Cicero, Euclid) was largely the work of Christian monks who copied these texts through the centuries. Without the Benedictine and other monastic orders, large parts of the ancient heritage would have been lost.
+
+### The Flat Earth Myth
+
+One of the most persistent sub-myths within the "Dark Ages" narrative is the idea that medieval people believed the earth was flat and that the church enforced this belief. The story usually accompanies Columbus: brave Columbus wanted to sail west, but the Church said the earth was flat and he would fall off the edge.
+
+This is simply not true. Educated people have known since antiquity that the earth is round. Eratosthenes calculated the circumference of the earth around 240 BC, and his calculation was remarkably accurate. Medieval scholars such as Thomas Aquinas, Roger Bacon, Jean Buridan and Nicole Oresme all took the spherical earth as self-evident.
+
+Columbus's opponents did not think the earth was flat. They thought his calculation of the distance westward to Asia was *wrong*. And they were right! Columbus dramatically underestimated the circumference of the earth. Had America not happened to be in the way, he and his crew would probably have perished at sea.
+
+The historian **Jeffrey Burton Russell** showed in his *Inventing the Flat Earth: Columbus and Modern Historians* (1991) that the "flat earth myth" is largely a nineteenth-century invention, created to present the Middle Ages as dark and the modern era as enlightened. Washington Irving's novel about Columbus (1828) contributed to this distortion, and the conflict thesis writers Draper and White adopted it as fact.
+
+## 5. Great Believing Scientists
+
+### Not an Argument from Authority
+
+A qualification up front: the fact that a great scientist believed in God does not prove that God exists. That is not the point. The point is to counter the conflict myth. If science and faith were inherently in conflict, we would expect the history of science to be a history of growing unbelief. This is not the case. From the founders of modern science to contemporary top researchers, believing people have stood at the forefront.
+
+### The Founders of Modern Science
+
+**Nicolaus Copernicus (1473–1543)** was a canon of the Roman Catholic Church. He dedicated his *De Revolutionibus* to Pope Paul III. His motivation for his work was not to undermine the church, but to find a more elegant and accurate model of God's creation.
+
+**Galileo Galilei (1564–1642)**, despite his conflict with the ecclesiastical institution, never lost his faith. He lived to the end of his life as a devoted Catholic. His science was for him an expression of his faith, not a replacement for it.
+
+**Johannes Kepler (1571–1630)**, the discoverer of the laws of planetary motion, was a devout Lutheran. He explicitly understood his scientific work as tracing God's thoughts. In his *Harmonices Mundi* he writes:
+
+> "I was merely thinking God's thoughts after him. Since we astronomers are priests of the highest God in regard to the book of nature, it benefits us to be thoughtful, not of the glory of our minds, but rather, above all else, of the glory of God."
+
+Kepler's sense that the universe is mathematically structured was directly rooted in his Christian conviction that a rational God has ordered creation.
+
+**Isaac Newton (1643–1727)** is probably regarded as the greatest scientist who ever lived. Few people know that Newton wrote more about theology than about physics and mathematics combined. He left behind more than a million words on biblical interpretation and theology. In his *Principia Mathematica* he writes:
+
+> "This most beautiful system of the sun, planets, and comets, could only proceed from the counsel and dominion of an intelligent and powerful Being."
+
+Newton did not see his discovery of the law of gravity as a replacement for God, but as a revelation of how God structured the universe.
+
+**Michael Faraday (1791–1867)**, whose work laid the foundation for electromagnetism and electrical technology, was a devoted member of the Sandemanian church, a small, strict Christian community. He believed that the unity he discovered in the forces of nature reflected the unity of God's creative work.
+
+**James Clerk Maxwell (1831–1879)**, whose equations form the basis of all modern electromagnetism and optics, was a devoted Presbyterian who actively participated in church life and regarded his science as a calling from God. After his death, a prayer was found on his desk that he regularly prayed, asking God to help him understand creation correctly.
+
+**Georges Lemaitre (1894–1966)** was the Belgian Catholic priest who proposed the Big Bang theory. The theory that many atheists today regard as an argument against God was originally proposed by a priest. Lemaitre developed his theory independently of Edwin Hubble, and Einstein initially rejected it. Lemaitre was careful to distinguish his cosmology from his theology, but he never experienced any tension between them.
+
+### The Priest Behind the Big Bang
+
+The case of Georges Lemaitre deserves special attention, because it literally turns the conflict myth on its head.
+
+In the 1920s, most scientists, including Einstein, believed that the universe was eternal and static. It had always existed and always would. The idea that the universe had a beginning sounded more like religion than science.
+
+Then came Lemaitre, a Roman Catholic priest with a doctorate in physics from MIT, who proposed that the universe is expanding from what he called a "primeval atom" — a single point of immense density from which everything unfolded. The British astronomer Fred Hoyle, an atheist who hated the theory, mockingly called it the "Big Bang." The name stuck.
+
+The theory that many people today regard as an argument against God was proposed by a priest. And the theory that at the time was considered the "scientific" alternative (the eternal, static universe) was the one more in line with atheistic expectations. History stubbornly refuses to follow the conflict myth's script.
+
+Lemaitre himself was keenly aware of this. He insisted that his cosmology was based on physics, not on theology. When Pope Pius XII in 1951 welcomed the Big Bang theory as confirmation of the doctrine of creation, Lemaitre privately requested the Pope not to do so again. He understood that science and theology each have their own integrity — an attitude deeply in accordance with the Reformed principle of sphere sovereignty.
+
+### Contemporary Believing Scientists
+
+The tradition does not end in the past.
+
+**Francis Collins** (b. 1950), the leader of the Human Genome Project, is a committed Christian. He began as an atheist, but came to faith through the work of C.S. Lewis and his own reflection on the moral law. In his book *The Language of God* (2006), he writes about how his faith and his science enrich each other.
+
+**John Lennox** (b. 1943), emeritus professor of mathematics at the University of Oxford, is an outspoken Christian who regularly appears in debates with leading atheists, including Richard Dawkins and Christopher Hitchens. Lennox argues that science makes sense precisely *within* a theistic framework, and that it is atheism that struggles to explain the rationality of the universe.
+
+**Ard Louis** (b. 1975), a Dutch theoretical physicist at the University of Oxford, is an active Christian doing research on the physical foundations of biological self-organisation. An example of a new generation of scientists who investigate the deepest scientific questions within a framework of faith, without intellectual discomfort.
+
+This list could be much longer: Robert Boyle, the "father of chemistry" who funded theological lectures; Blaise Pascal, mathematician and philosopher of religion; Gregor Mendel, the Augustinian monk who laid the foundations of genetics; Werner Heisenberg and Max Planck, founders of quantum physics, who both spoke openly about their faith.
+
+The point is not that every great scientist was a believer. The point is that the conflict myth makes a prediction — namely, that science and faith are irreconcilable — and history contradicts this prediction in the most direct way possible.
+
+## 6. The Protestant Reformation and Science
+
+The Protestant Reformation did not merely reform the church; it also created an intellectual and cultural environment favourable to scientific development.
+
+### Calvin and Creation as the Theatre of God's Glory
+
+John Calvin, in his *Institutes of the Christian Religion*, used a beautiful image of direct relevance to our subject. In Book I, chapter 14, paragraph 20, he writes:
+
+> "Let us not be ashamed to take pious delight in the clear and manifest works of God in this beautiful theatre."
+
+For Calvin, creation is a *theatrum gloriae Dei* — a theatre of God's glory. Not merely an elegant figure of speech, but a theological programme. If creation is a theatre in which God's glory is displayed, then the study of creation is an act of religion. The scientist who investigates creation is, as it were, a spectator in God's theatre who attends the performance with attention.
+
+Calvin also emphasised that the Holy Spirit is the source of all truth, including truth discovered by non-believers. In his *Institutes* (II.2.15–16) he writes that if we read the works of pagan writers and recognise the truth and insight in them, we must acknowledge these as gifts of the Spirit. This created an openness to scientific discovery from any source.
+
+### Literacy and Education
+
+The Reformation placed a strong emphasis on literacy and education. If every believer had to be able to read the Bible for himself (*sola Scriptura*), every believer had to be literate. Luther, Calvin and other Reformers argued passionately for schools and universities. This emphasis on universal education created a broader culture of learning that benefited science.
+
+The historian **Robert K. Merton** showed as early as 1938 in his famous thesis that Puritans and other Protestants were disproportionately overrepresented in the early Royal Society and in scientific contributions in general. The Protestant work ethic, combined with the conviction that the study of nature honours God, was a powerful stimulus for scientific activity.
+
+### Bavinck on General and Special Revelation
+
+**Herman Bavinck**, one of the great Reformed theologians, provided a framework that is particularly useful for the relationship between faith and science. Bavinck distinguished between God's *special revelation* (Scripture, the Word of God) and God's *general revelation* (creation, nature, history, the human conscience).
+
+These two revelations come from the same God and therefore cannot truly be in conflict with each other. If they *appear* to clash, it means we are either misunderstanding Scripture or misunderstanding nature. Bavinck refused to choose: both revelations must be taken seriously, and both must be correctly interpreted.
+
+In his *Reformed Dogmatics*, Bavinck writes that the book of nature and the book of Scripture mutually illuminate each other. Scripture is not an encyclopaedia of scientific facts; it is the revelation of God's redemptive work. And nature is not a theological handbook; it is the stage on which God's creative work becomes visible. Each has its own nature, its own language, its own method of interpretation. But both point to the same God.
+
+This framework frees us from the false dilemma: "Do you choose the Bible or science?" The answer is: we choose God's truth, and we strive to read both Scripture and creation correctly. Sometimes that means we must revise our scientific understanding; sometimes it means we must refine our interpretation of Scripture. In both cases we seek truth, because all truth is God's truth.
+
+### Kuyper and Sphere Sovereignty
+
+**Abraham Kuyper**, the great Reformed statesman, theologian and founder of the Free University of Amsterdam, developed a concept of direct relevance: *sphere sovereignty* (*souvereiniteit in eigen kring*).
+
+Kuyper's idea was that God created different spheres or domains of society (the church, the state, the family, the arts, science) and that each has a measure of autonomy within its own domain. The church may not dominate the state; the state may not dominate the church; and science has its own authority and integrity within its domain.
+
+This does not mean that science is independent of God. All spheres ultimately stand under God's authority. But the church must not prescribe to science how to practise physics or biology, just as science must not prescribe to the church how to proclaim the gospel.
+
+Kuyper's famous statement gives the heart of his vision:
+
+> "There is not a square inch in the whole domain of our human existence over which Christ, who is Sovereign over all, does not cry: 'Mine!'"
+
+Everything belongs to Christ — including science. But Christ's lordship over science does not mean the church dominates science; it means that scientists must do their work as a calling before God's face, with honesty and integrity.
+
+This Reformed framework offers a clear middle way. On one side stands the fundamentalism that distrusts science and treats the Bible as a scientific textbook. On the other side stands the secularism that tries to disconnect science from all theological ties. The Reformed vision says: science is a gift from God, a calling within his creation, a way to discover his glory. But it must be practised according to its own methods and standards, with the freedom and integrity that befits its own sphere.
+
+## 7. Why the Myth Persists
+
+### Academically Dead, Culturally Alive
+
+Among professional historians of science, the conflict thesis is virtually dead. No serious historian still defends it. The historiography of science and religion has moved away from the conflict model toward a nuanced approach that acknowledges the complexity of the relationship.
+
+But in popular culture — on social media, in television documentaries, in most university lecture halls outside the history department, and in the rhetoric of the New Atheism — the conflict myth still lives powerfully. Why?
+
+### The New Atheism
+
+The so-called New Atheism — the movement around figures such as Richard Dawkins, Sam Harris, Christopher Hitchens and Daniel Dennett — has used the conflict thesis as a central rhetorical weapon. Dawkins's *The God Delusion* (2006), Harris's *The End of Faith* (2004) and Hitchens's *God Is Not Great* (2007) all frame their arguments within the narrative that science and religion are locked in a zero-sum struggle.
+
+For the New Atheism, this narrative is indispensable. If history shows that Christianity and science were partners rather than enemies, they lose their most powerful rhetorical instrument. These writers do not deliberately lie; they have largely absorbed the popular version without consulting the specialist historiography.
+
+### Secularist Ideology
+
+Broader than just the New Atheism, the conflict myth functions as a cornerstone of a secularist worldview. If religion was "always" against progress, then the solution is clear: remove religion from public life, confine it to the private sphere, and let "reason" (defined as secularism) guide society.
+
+The myth also serves an identity function. For many intellectuals in the West, "rational" and "scientific" are synonymous with "secular" and "non-religious." The conflict thesis confirms this identity: "I am on the side of science and reason; believers are on the other side." To relinquish this narrative is to relinquish a piece of one's own identity. That is psychologically difficult, even when the evidence demands it.
+
+### Institutional Inertia
+
+Textbooks are updated slowly. Lecturers teach what they themselves were taught. Popular culture feeds on stories, not on academic nuances. The conflict myth is a "good story": it has heroes (scientists), villains (ecclesiastical oppressors), and a clear message (reason triumphs over superstition). The real history is more nuanced and less dramatic. Nuance does not sell as well as war.
+
+### Real Tension vs. False War
+
+That said, it would be dishonest to pretend that there was *never* tension between faith and science. There was and there is real intellectual challenges: questions about evolution, about the age of the earth, about neuroscientific explanations of consciousness. But there is a world of difference between real intellectual tension (which can be healthy and productive) and the claim that science and faith are inherently and permanently at war.
+
+Real tension is like the tension in a good conversation: it forces both parties to think more sharply. A false war is propaganda that makes conversation impossible.
+
+The historian **Colin Russell** summarised it well: the conflict thesis has been so widely rejected by serious historians that it can be called "largely the creation of two men" (Draper and White), rather than a genuine reflection of history. Yet the myth persists in popular culture, like a medical quackery that continues to be believed and spread long after it has been exposed. Good historiography must be actively taught and transmitted; it does not seep through to the popular consciousness on its own.
+
+## 8. What Does This Mean for Us?
+
+### No Intellectual Refugees
+
+If everything we have discussed so far is true — and the historical evidence is overwhelming — then believers need not feel as though they are intellectually homeless. The conflict myth has made many Christians believe they must choose: either you take your faith seriously and bury your head in the sand about science, or you take science seriously and quietly surrender your faith.
+
+This dilemma is false. It is a product of propaganda, not of history.
+
+The scientific enterprise is at its roots a theistic project. The convictions that made science possible — that the world is not divine, that it is contingently created, that it is rationally ordered, and that our minds are able to know it — are all Christian convictions. The people who founded modern science were predominantly believers. The institution within which science grew — the university — is a Christian invention.
+
+This does not mean that science is only for Christians, or that every scientific discovery confirms the Christian faith. It does mean that the claim "science has made God redundant" turns history on its head. It is like saying the tree has made the roots redundant.
+
+### Engaged, Not Afraid
+
+This finding has practical consequences for how we as a congregation speak with our children and young people. If a young person goes to university and hears the conflict myth there for the first time — often presented with great confidence — and he or she has never heard the real history, the effect is devastating. The young person thinks: "My parents and my church told me a lie. They led me to believe that faith and reason go together, but look, history says the opposite."
+
+But if that young person knows about Draper and White, about the nuances of the Galileo affair, about the Christian roots of science, about Lemaitre and Collins, then he or she stands on solid ground. Not because we have equipped them with propaganda weapons, but because we have equipped them with the truth.
+
+This history ought to free us to approach science with *confidence* rather than *fear*. We need not be afraid of scientific discoveries, because all truth is God's truth. If a scientific discovery is correct, it discovers something about God's creation — and it ultimately cannot be in conflict with what God has revealed about Himself.
+
+There are difficult questions. We will investigate some of them in later sessions. But we do not approach them from a position of intellectual weakness. We approach them as heirs of a tradition that made the scientific project possible in the first place.
+
+### The Liberation of Truth
+
+Perhaps the most important lesson of this session is simply this: the truth liberates. Jesus said: "You will know the truth, and the truth will set you free" (John 8:32, ESV). This applies also to the truth about history. As long as we believe the conflict myth, we are trapped in a defensive position. As soon as we know the real history, we are freed to think with openness, honesty and wonder about what science teaches us about God's creation.
+
+Calvin said creation is a theatre of God's glory. If that is true, then every scientific discovery is a new scene in that theatre — a new way in which the Creator's wisdom and power are displayed. The scientist and the believer do not stand opposed to each other. They are, at their best, the same person.
+
+## Summary
+
+| Myth | Reality |
+|------|---------|
+| Science and faith were always at war | The "conflict thesis" is a nineteenth-century invention, academically debunked |
+| Galileo was persecuted because he told the truth | The Galileo affair was a complex mix of politics, personality and incomplete science |
+| The Middle Ages were the "Dark Ages" | The church founded universities, funded scholarship and supported significant scientific progress |
+| Medieval people believed the earth was flat | Educated people have known since antiquity that the earth is round |
+| Science developed despite religion | Christian theology provided the intellectual foundation for modern science |
+| Believing scientists are the exception | The founders of modern science were predominantly deeply believing people |
+
+## For Further Study
+
+- Ronald Numbers (ed.), *Galileo Goes to Jail and Other Myths about Science and Religion* (Harvard University Press, 2009)
+- Peter Harrison, *The Bible, Protestantism, and the Rise of Natural Science* (Cambridge University Press, 1998)
+- Peter Harrison, *The Territories of Science and Religion* (University of Chicago Press, 2015)
+- Rodney Stark, *For the Glory of God: How Monotheism Led to Reformations, Science, Witch-Hunts, and the End of Slavery* (Princeton University Press, 2003)
+- David Lindberg, *The Beginnings of Western Science* (University of Chicago Press, 2007)
+- John Hedley Brooke, *Science and Religion: Some Historical Perspectives* (Cambridge University Press, 1991)
+- James Hannam, *God's Philosophers: How the Medieval World Laid the Foundations of Modern Science* (Icon Books, 2009)
+- Francis Collins, *The Language of God: A Scientist Presents Evidence for Belief* (Free Press, 2006)
+
+## Bridge to Session 3
+
+The conflict thesis is a myth. The Galileo story is far more nuanced than the legend. The Christian worldview provided the foundation for modern science. Some of the greatest scientific minds in history were deeply believing people.
+
+But history is one thing; the facts themselves are another. In the next session we shift from history to content. Now that we know science and faith are not enemies: what does modern cosmology truly tell us about the origin of the universe? If the Christian faith is the roots of the scientific tree, what does that tree yield? What does science discover when it looks at the beginning of everything?
+
+The answer is surprising.
+
+</div>

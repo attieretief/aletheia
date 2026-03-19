@@ -3,7 +3,10 @@ layout: lesson
 course: belydenisse
 lesson: 4
 title: "Nederlandse Geloofsbelydenis"
+title_en: "The Belgic Confession"
 ---
+
+<div class="lang-af" markdown="1">
 
 ## Inleiding
 Die regsinnige Christelike belydenis van die Nederlandse kerke wat die hoofinhoud van die leer in verband met God en die ewige saligheid van siele insluit. In ’n tyd van groot vervolging van Protestantse Kerke is hierdie Belydenisskrif deur Guido de Brès opgestel. Dit was in die jaar 1561 in die Suidelike Nederlande (vandag België). Verskeie Sinodes in die 16de eeu asook die Nasionale Sinode van Dordrecht (1618-1619) het dit as een van die Belydenisskrifte van die Gereformeerde Kerke aanvaar.
@@ -550,3 +553,553 @@ Daarom leef ons in die verwagting van sy koms, met waaksaamheid en gebed, sodat 
 3: Johannes 5:28-29; 1 Korintiërs 15:51-54; Openbaring 21:1-4  
 4: Handelinge 17:31; Hebreërs 9:27  
 5: Matteus 24:42-44; 1 Tessalonisense 5:2-6
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+## Introduction
+The orthodox Christian confession of the Dutch churches, containing the main substance of the doctrine concerning God and the eternal salvation of souls. In a time of great persecution of the Protestant churches, this confession was composed by Guido de Bres. It was written in the year 1561 in the Southern Netherlands (present-day Belgium). Various synods in the 16th century, as well as the National Synod of Dort (1618-1619), adopted it as one of the confessional standards of the Reformed churches.
+
+## Article 1: The Only God
+We all believe with the heart and confess with the mouth¹ that there is one only simple and spiritual Being, which we call God². He is eternal³, incomprehensible⁴, invisible⁵, immutable⁶, infinite⁷, almighty⁸, perfectly wise⁹, just¹⁰, good¹¹, and the overflowing fountain of all good¹².
+
+1: Romans 10:10
+2: Deuteronomy 6:4; Isaiah 44:6; John 4:24; Romans 1:20-21; Ephesians 4:6; 1 Corinthians 8:4, 6; 2 Corinthians 3:17; 1 Timothy 2:5
+3: Psalm 90:2; Isaiah 40:28
+4: Romans 11:33
+5: Colossians 1:15; 1 Timothy 1:17; 1 Timothy 6:16
+6: Malachi 3:6; James 1:17
+7: 1 Kings 8:27; Jeremiah 23:24
+8: Genesis 17:1; Matthew 19:26; Revelation 1:8
+9: Romans 16:27
+10: Jeremiah 12:1; Romans 3:25-26; Romans 9:14; Revelation 16:5; Revelation 16:7
+11: Matthew 19:17
+12: 1 Chronicles 29:10-12; Isaiah 40:14; James 1:17
+
+## Article 2: The Means by Which We Know God
+We know him by two means:
+First, by the creation, preservation, and government of the universe. For it is before our eyes as a most elegant book¹, wherein all creatures, great and small, are as so many letters leading us to perceive clearly the invisible things of God, namely, his eternal power and divinity, as the apostle Paul says (Romans 1:20). All which things are sufficient to convince men and leave them without excuse².
+Second, he makes himself more clearly and fully known to us by his holy and divine Word³, that is to say, as far as is necessary for us to know in this life, to his glory and our salvation⁴.
+
+1: Psalm 19:2-5
+2: Romans 1:20; Ephesians 4:6
+3: Psalm 19:8-9; 1 Corinthians 1:18-21
+4: Deuteronomy 6:4; 1 Corinthians 12:6; 1 Timothy 2:5
+
+## Article 3: The Written Word of God
+We confess that this Word of God was not sent nor delivered by the will of man, but that holy men of God spoke as they were moved by the Holy Spirit, as the apostle Peter says¹.
+Afterwards God, from a special care which he has for us and our salvation, commanded his servants, the prophets and apostles, to commit his revealed Word to writing² and he himself wrote with his own finger the two tables of the law³.
+Therefore we call such writings holy and divine Scriptures⁴.
+
+1: 2 Peter 1:21
+2: Exodus 24:4; Exodus 34:27; Psalm 102:19; Habakkuk 2:2; Revelation 1:11; Revelation 1:19
+3: Exodus 31:18
+4: 2 Timothy 3:16
+
+## Article 4: The Canonical Books of Holy Scripture
+We comprehend the Holy Scripture in two parts: the Old and the New Testament. They are the canonical books against which nothing can be alleged. Their number in the church of God is as follows:
+- **The books of the Old Testament**:
+  - The five books of Moses: Genesis, Exodus, Leviticus, Numbers, and Deuteronomy
+  - Joshua, Judges, Ruth
+  - 1 and 2 Samuel, 1 and 2 Kings, 1 and 2 Chronicles (called Paralipomenon)
+  - Ezra, Nehemiah, Esther, Job
+  - The Psalms of David
+  - Three books of Solomon: Proverbs, Ecclesiastes, and Song of Solomon
+  - The four major prophets: Isaiah, Jeremiah, Ezekiel, and Daniel
+  - The twelve minor prophets: Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah, and Malachi
+- **The books of the New Testament**:
+  - Four evangelists: Matthew, Mark, Luke, and John
+  - The Acts of the Apostles
+  - The fourteen epistles of the apostle Paul: to the Romans, two to the Corinthians, to the Galatians, the Ephesians, the Philippians, the Colossians, two to the Thessalonians, two to Timothy, to Titus, Philemon, and the Hebrews
+  - The seven epistles of the other apostles: the epistle of James, two of Peter, three of John, and the epistle of Jude
+  - The Revelation of the apostle John
+
+## Article 5: The Authority of Holy Scripture
+We receive¹ all these books, and these only, as holy and canonical, for the regulation, foundation, and confirmation of our faith².
+We believe without any doubt all things contained in them, not so much because the church receives and approves them as such, but especially because the Holy Spirit witnesses in our hearts that they are from God³.
+They also carry the evidence of this in themselves, since even the blind can perceive that the things foretold in them are being fulfilled⁴.
+
+1: 1 Thessalonians 2:13
+2: 2 Timothy 3:16-17
+3: 1 Corinthians 12:3; 1 John 4:6; 1 John 5:6-7
+4: Deuteronomy 18:21-22; 1 Kings 22:28; Jeremiah 28:9; Ezekiel 33:33
+
+## Article 6: The Difference Between the Canonical and Apocryphal Books
+We distinguish these holy books from the apocryphal books:
+- The third and fourth books of Esdras, the book of Tobit, Judith, Wisdom, Jesus Sirach, Baruch, the appendix to the history of Esther, the Prayer of the Three Men in the Furnace, the History of Susanna, the Image of Bel and the Dragon, the Prayer of Manasseh, and the two books of the Maccabees.
+
+The church may certainly read these books and learn from them insofar as they agree with the canonical books. However, they have no such power or authority that anyone could confirm any point of faith or of the Christian religion from their testimony. They may in no way detract from the authority of the other, the holy books.
+
+## Article 7: The Sufficiency of Holy Scripture
+We believe that this Holy Scripture fully contains the will of God and that everything that man must believe for salvation is sufficiently taught therein¹.
+Since the entire manner of worship which God requires of us is written in them at length, no one, not even an apostle, ought to teach otherwise than what the Holy Scriptures have already taught us² — not even if it were an angel from heaven, as the apostle Paul says (Galatians 1:8). And since it is forbidden to add to or take away from the Word of God (Deuteronomy 12:32)³, it is evident that the doctrine thereof is most perfect and complete in all respects⁴.
+Neither may we equate any writings of men, however holy the men may have been, with the divine Scriptures; nor may we equate custom or the great multitude or antiquity or succession of times or of persons or church councils, ordinances, or decrees with the truth of God, for the truth is above all⁵.
+For all men are of themselves liars and more vain than vanity itself (Psalm 62:10)⁶.
+We therefore reject with all our hearts whatever does not agree with this infallible rule, as the apostles teach us: "test the spirits, whether they are of God" (1 John 4:1) and: "If anyone comes to you and does not bring this doctrine, do not receive him into your house..." (2 John 10)⁷.
+
+1: Proverbs 30:6; John 4:25; 2 Timothy 3:16-17; 1 Peter 1:10-12
+2: Romans 15:4; 1 Timothy 1:3; 1 Corinthians 15:2-3; 2 Timothy 3:14-15; 1 Peter 4:11
+3: Deuteronomy 4:2; Deuteronomy 12:32; Proverbs 30:6; Acts 26:22; 1 Corinthians 4:6; Galatians 1:8; Revelation 22:18-19
+4: Psalm 19:8-9; Matthew 17:5; John 15:15; Acts 18:28; Acts 20:27; Romans 15:4; 1 Corinthians 2:4
+5: Isaiah 1:12; Matthew 15:3; Mark 7:7-9; Acts 4:19; Romans 3:4; Colossians 2:8; 2 Timothy 4:3-4; 1 John 2:19
+6: Deuteronomy 4:5-6; Psalm 62:10; Isaiah 8:20; 1 Corinthians 3:11; Ephesians 4:4-6; 2 Thessalonians 2:2; 2 Timothy 3:14-15
+7: 1 John 4:1; 2 John 10
+
+## Article 8: God Is One in Essence, Yet Distinguished in Three Persons
+According to this truth and this Word of God, we believe in one only God¹, one single essence, in whom are three Persons, namely the Father, and the Son, and the Holy Spirit, who are really and truly and eternally distinct according to their incommunicable properties².
+The Father is the cause, origin, and beginning of all things visible and invisible³.
+The Son is the Word, the Wisdom, and the Image of the Father⁴.
+The Holy Spirit is the eternal Power and Might proceeding from the Father and the Son⁵.
+Nevertheless, this distinction does not divide God into three, since the Holy Scriptures teach us that the Father, and the Son, and the Holy Spirit each has his own personal existence, distinguished by their properties in such a way that these three Persons are only one God. It is therefore evident that the Father is not the Son, nor the Son the Father; likewise that the Holy Spirit is neither the Father nor the Son. Nevertheless, these Persons, who are thus distinguished, are not divided nor mixed together. For the Father and the Holy Spirit did not assume flesh, but the Son only. The Father was never without his Son⁶ or without his Holy Spirit, for all three are co-eternal in one and the same essence. There is neither first nor last, for all three are one in truth, power, goodness, and mercy.
+
+1: Isaiah 43:10; 1 Corinthians 8:4-6
+2: Matthew 3:16-17; Matthew 28:19; Galatians 4:6; 1 John 5:6-7
+3: Ephesians 3:14-16
+4: Proverbs 8:22-31; John 1:14; John 1:18; John 5:17-26; 1 Corinthians 1:24; Philippians 2:6-8; Colossians 1:15-20; Hebrews 1:3; Revelation 19:13
+5: John 15:26
+6: Micah 5:2; John 1:1-2
+
+## Article 9: The Scriptural Witness on the Doctrine of the Trinity
+All this we know both from the testimonies of Holy Scripture¹ and from the operations of the Persons, especially those we perceive in ourselves. The testimonies of Holy Scripture that teach us to believe in this holy Trinity are written in many places of the Old Testament, which are not necessary to enumerate but only to select with discretion:
+- Genesis 1:26-27: *And God said, Let us make man in our image, after our likeness... So God created man in his own image; male and female he created them.*
+- Genesis 3:22: *Then the Lord God said, Behold, the man has become like one of us.*
+
+When God says: *Let us make man in our image*, it appears that there is more than one Person in the Godhead. And when he says: *God created*, he indicates the unity of the Godhead. It is true that he does not say how many Persons there are, but that which seems somewhat obscure to us in the Old Testament is very clear in the New Testament. For when the Lord was baptised in the Jordan, the voice of the Father was heard, saying: *This is my beloved Son* (Matthew 3:17). The Son was seen in the water, and the Holy Spirit appeared in the form of a dove².
+Furthermore, for the baptism of all believers this formula has been instituted by Christ: *Baptise them in the name of the Father and the Son and the Holy Spirit* (Matthew 28:19). In the Gospel of Luke the angel Gabriel said to Mary, the mother of the Lord: *The Holy Spirit will come upon you, and the power of the Most High will overshadow you. Therefore the Holy One who is to be born will be called the Son of God* (Luke 1:35); likewise: *The grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Spirit be with you all* (2 Corinthians 13:13) and: *For there are three that bear witness in heaven: the Father, the Word, and the Holy Spirit; and these three are one. And there are three that bear witness on earth: the Spirit, the water, and the blood; and these three agree as one* (1 John 5:7-8)³.
+In all these places we are fully taught that there are three Persons in one single divine Being. And although this doctrine far surpasses human understanding, we now believe it by means of the Word, while we wait to know and enjoy it fully in heaven.
+Furthermore, we must observe the particular offices and operations of the three Persons toward us: The Father is called our Creator by his power; the Son is our Saviour and Redeemer by his blood; the Holy Spirit is our Sanctifier by his dwelling in our hearts.
+The doctrine of the holy Trinity has always been maintained and preserved in the true church since the time of the apostles until now, against Jews, Muslims, and certain false Christians and heretics such as Marcion, Mani, Praxeas, Sabellius, Samosatenus, Arius, and the like, who have been rightly condemned by the orthodox fathers.
+Therefore, in this respect, we gladly accept the three creeds — namely, that of the Apostles, of Nicaea, and of Athanasius — and likewise what the ancient fathers decided in agreement with them.
+
+1: John 14:16; John 15:26; Acts 2:32-33; Romans 8:9; Galatians 4:6; Titus 3:4-6; 1 Peter 1:2; 1 John 4:13-14; 1 John 5:5-12; Jude 20-21; Revelation 1:4-5
+2: Genesis 1:26-27; Genesis 3:22; Psalm 45:8; Isaiah 61:1; Matthew 3:16-17
+3: Matthew 28:19; Luke 1:35; 1 Corinthians 6:17; 2 Corinthians 13:13; 1 John 5:7-8
+
+## Article 10: The Deity of Jesus Christ
+We believe that Jesus Christ, according to his divine nature, is the only-begotten Son of God¹.
+He is begotten from eternity; he is not made nor created, for then he would be a creature; he is one in essence with the Father, co-eternal with him, the express image of the Person of the Father, co-eternal with him, the brightness of his glory (Hebrews 1:3) and in all things like unto him (Philippians 2:6)².
+He is from eternity the Son of God, and not only since he assumed our nature; as the following testimonies teach us when compared with each other. Moses says that God created the world³ and the apostle John says that all things were made by the Word, which he calls God (Genesis 1:1 and John 1:3)⁴.
+The apostle says that God made the world by his Son⁵ and also that God created all things through Jesus Christ (Hebrews 1:2 and Colossians 1:16)⁶.
+Therefore he who is called God, the Word, the Son, and Jesus Christ must have existed already when all things were created by him. And therefore the prophet Micah says: *His goings forth are from of old, from everlasting* (Micah 5:2) and the apostle says: *He is without beginning of days or end of life* (Hebrews 7:3). He is therefore the true, eternal God, the Almighty, whom we invoke, worship, and serve⁷.
+
+1: Matthew 17:5; John 1:14; John 1:18; John 3:16; John 20:17; John 20:31; Romans 1:4; Galatians 4:4; Hebrews 1:1; 1 John 5:5-12
+2: John 5:18; John 5:23; John 10:30; John 14:9; John 20:28; Romans 9:5; Philippians 2:6-8; Colossians 1:15; Titus 2:13; Hebrews 1:3; Revelation 5:13
+3: John 8:58; John 17:5; Hebrews 13:8
+4: Genesis 1:1; John 1:3
+5: John 1:1-3
+6: Colossians 1:16; Hebrews 1:2
+7: Micah 5:1; 1 Corinthians 8:6; Hebrews 7:3
+
+## Article 11: The Deity of the Holy Spirit
+We believe and confess also that the Holy Spirit from eternity proceeds from the Father and the Son; that he is neither made nor created nor begotten but only proceeds from both of them¹; that he is in order the third Person of the Trinity; that he is of one and the same essence, majesty, and glory with the Father and the Son; that he is indeed true and eternal God, as the Holy Scriptures teach us².
+
+1: Psalm 33:6; Isaiah 48:16; Isaiah 61:1; John 14:16-17; John 14:25-26; John 15:26; Romans 8:9; Galatians 4:6
+2: Genesis 1:2; Psalm 139:7; Matthew 28:19; Acts 5:3-4; 1 Corinthians 2:10-14; 1 Corinthians 3:16; 1 Corinthians 6:11; 1 Corinthians 6:19; 1 John 5:6
+
+## Article 12: The Creation of All Things, Especially the Angels
+We believe that the Father, when it seemed good to him, by his Word — that is to say, by his Son — created from nothing the heaven, the earth, and all creatures¹.
+He gave to every creature its being, form, and appearance, and several offices to serve its Creator. He still upholds and governs them all by his eternal providence and infinite power for the service of man, to the end that man may serve his God; and he also created the angels good, to be his messengers and to serve his elect².
+Some of the angels fell from the excellence in which God created them into everlasting perdition³, but the others have by the grace of God remained steadfast and continued in their first estate. The devils and evil spirits have so degenerated that they are enemies of God and of everything that is good⁴.
+They lie in wait like murderers for the church — and for every member of it — to destroy and lay waste everything by their wiles⁵.
+They are therefore by their own wickedness condemned to everlasting damnation and daily expect their horrible torments⁶.
+Therefore we reject also the error of the Sadducees, who deny that there are spirits and angels⁷; and also the error of the Manicheans, who say that the devils have their origin from themselves and are wicked by their own nature and not by their corruption.
+
+1: Genesis 1:1; Genesis 2:3; Isaiah 40:26; Jeremiah 32:17; John 1:3; 1 Corinthians 8:6; Colossians 1:15-16; 1 Timothy 4:3; Hebrews 11:3; Revelation 4:11
+2: Genesis 1:29-30; Psalm 34:8; Psalm 103:20-21; Matthew 4:11; Acts 17:25; 1 Corinthians 6:20; Hebrews 1:14
+3: John 8:44; 2 Peter 2:4; Jude 6
+4: Genesis 3:1-5; Luke 8:30-31; 1 Peter 5:8
+5: 2 Corinthians 2:10-11; 2 Corinthians 11:3; 2 Corinthians 11:14; Ephesians 6:12; Revelation 12:4; Revelation 12:13-17; Revelation 20:7-9
+6: Matthew 8:29; Matthew 25:41; Luke 8:31; Revelation 20:10
+7: Acts 23:8
+
+## Article 13: The Providence of God
+We believe that the good God, after he created all things, did not abandon them or give them up to fortune or chance¹ but so rules and governs them according to his holy will that nothing happens in this world without his orderly arrangement².
+Yet God is not the author of the sins which are committed, nor does he bear the blame for them³.
+His power and goodness are so great and incomprehensible that he ordains and executes his work in the most excellent and just manner, even when the devils and wicked men act unjustly⁴.
+We do not wish to inquire with undue curiosity into what he does that surpasses human understanding; but in all humility and reverence we adore the just judgements of God which are hidden from us⁵.
+We are content to be disciples of Christ, to learn only what he reveals to us in his Word, without going beyond those limits⁶.
+This doctrine affords us unspeakable consolation, for we learn thereby that nothing can befall us by chance but only by the arrangement of our gracious heavenly Father. He watches over us with fatherly care and so rules over all creatures that not a hair from our head — for they are all numbered — nor even a sparrow shall fall to the ground without the will of our Father (Matthew 10:29-30).
+In this we trust, because we know that he holds the devils and all our enemies in check, so that they cannot hurt us without his permission and will⁷.
+Therefore we reject the damnable error of the Epicureans, who say that God involves himself in nothing and leaves all things to chance.
+
+1: John 5:17; Hebrews 1:3
+2: Psalm 115:3; Proverbs 16:1; Proverbs 16:9; Proverbs 16:33; Proverbs 21:1; Lamentations 3:37-38; Ephesians 1:11-12; James 4:13-15
+3: James 1:13; 1 John 2:16
+4: Job 1:21; Isaiah 10:5-7; Isaiah 45:7; Amos 3:6; Acts 2:23; Acts 4:27-28
+5: Genesis 45:8; 2 Samuel 16:10; 1 Kings 22:19-23; Psalm 75:7-8; Proverbs 16:4; Ezekiel 14:9; Romans 1:28; Romans 11:33-34; 2 Thessalonians 2:11
+6: Deuteronomy 29:29; 1 Corinthians 4:6
+7: Genesis 45:8; Genesis 50:20; 2 Samuel 16:10; Job 1:12; Job 2:6; Matthew 10:29-30; Romans 8:28; Romans 8:38-39
+
+## Article 14: The Creation of Man, the Fall, and Its Consequences
+We believe that God created man out of the dust of the earth¹; he made and formed him after his own image and likeness, good, righteous, and holy², so that with his will he might in all things agree with the will of God. But when he was in honour he understood it not, neither knew his excellency. He willingly subjected himself to sin and consequently to death and the curse, lending his ear to the word of the devil³.
+For he transgressed the commandment of life which he had received and by his sin separated himself from God, who was his true life; so he corrupted his whole nature and thereby deserved temporal and eternal death⁴.
+Having become wicked, perverse, and corrupt in all his ways, he lost all his excellent gifts which he had received from God⁵ and retained none of them except for small remnants, which, however, are sufficient to leave him without excuse⁶.
+For all the light which is in us has changed into darkness⁷, as the Scripture teaches us: *The light shines in the darkness, and the darkness has not overcome it*, where the apostle John calls men darkness⁸.
+Therefore we reject all that is taught contrary to this concerning the free will of man, since man is nothing but a slave of sin and: *A man can receive nothing unless it has been given him from heaven*⁹.
+For who will boast that he of himself can do any good, since Christ says: *No one can come to me unless the Father who sent me draws him*?¹⁰
+Who will glory in his own will, since he understands that *the mind of the flesh is enmity against God*?¹¹
+Who will boast of his own knowledge, since the natural man does not receive the things of the Spirit of God?¹²
+In short, who shall presume upon any thought, since he understands that we are not sufficient of ourselves to think anything as of ourselves, but that our sufficiency is of God?¹³
+Therefore what the apostle says ought justly to stand firm, for it is God who works in you, both to will and to work for his good pleasure¹⁴.
+For there is no understanding and no will conformable to the understanding and will of God unless Christ has wrought it in man. This he teaches us when he says: *Without me you can do nothing*¹⁵.
+
+1: Genesis 2:7; Genesis 3:19; Ecclesiastes 12:7
+2: Genesis 1:26-27; Genesis 1:31; Ephesians 4:24; Colossians 3:10
+3: Genesis 3:16-19; Ecclesiastes 7:29; Romans 5:12
+4: Genesis 2:17; Isaiah 59:2; Ephesians 2:1; Ephesians 4:17-19
+5: Psalm 49:21; Psalm 94:11; Romans 3:10; Romans 8:6
+6: Romans 1:20-21
+7: Ephesians 5:8
+8: John 1:5
+9: Isaiah 26:12; John 3:27
+10: John 6:44
+11: Romans 7:5; Romans 8:7
+12: 1 Corinthians 3:5
+13: 2 Corinthians 3:5
+14: Philippians 2:13
+15: John 15:5
+
+## Article 15: Original Sin
+We believe that through the disobedience of Adam original sin is extended to all mankind¹.
+It is a corruption of the whole nature² and a hereditary defect with which even infants in the mother's womb are infected³.
+It is this root which produces in man every sort of sin. It is therefore so vile and abominable in the sight of God that it is sufficient to condemn all mankind⁴.
+It is not even abolished or wholly eradicated by baptism, since sin always streams forth from this woeful source as water from a poisonous spring⁵.
+Nevertheless, it is not imputed to the children of God unto condemnation, but by his grace and mercy is forgiven them⁶.
+Not that they may rest securely in sin, but that the awareness of this corruption may make them often groan in the desire to be delivered from this body of death⁷.
+We therefore reject the error of the Pelagians, who say that this sin proceeds from nothing other than imitation.
+
+1: Romans 5:12-14; Romans 5:19
+2: Romans 3:10
+3: Job 14:4; Psalm 51:7; John 3:6
+4: Ephesians 2:3
+5: Romans 7:8-13; Romans 7:17-18; Romans 7:20-24
+6: Ephesians 2:3-5
+7: Romans 7:24
+
+## Article 16: The Eternal Election of God
+We believe that, when the entire offspring of Adam plunged into perdition and ruin by the sin of the first man¹, God showed himself to be as he is, namely merciful and just. God is merciful, since he delivers and preserves from this perdition all whom he in his eternal and unchangeable counsel² has elected in Christ Jesus our Lord³, out of his mere goodness and without any regard to their works⁴.
+God is just in that he leaves the others in the fall and perdition into which they have cast themselves⁵.
+
+1: Romans 3:12
+2: 1 Samuel 12:22; Psalm 65:5; Acts 2:47; Acts 13:48; Romans 9:15-16; Romans 11:5-6; Titus 1:1; 1 Peter 1:2; 1 John 4:10
+3: Malachi 1:2-3; Romans 9:11-13; Ephesians 2:8-10; 2 Timothy 1:9; Titus 3:4-5
+4: John 6:37; John 6:44; John 10:29; John 17:2; John 17:9; John 17:12
+5: Romans 9:17-22; 1 Peter 2:7-8
+
+## Article 17: The Recovery of Fallen Man
+We believe that our gracious God, in his admirable wisdom and goodness, seeing that man had thus thrown himself into temporal and eternal death and made himself wholly miserable, was pleased to seek and comfort him when he tremblingly fled from his presence¹.
+God comforted him with the promise of giving him his Son, who would be born of a woman to bruise the head of the serpent and to make him blessed².
+
+1: Genesis 3:8-9; Genesis 3:19
+2: Genesis 3:15; Genesis 22:18; Isaiah 7:14; John 1:14; John 5:46; John 7:42; Acts 13:32-33; Romans 1:2-3; Galatians 3:16; Galatians 4:4; 2 Timothy 2:8; Hebrews 7:14
+
+## Article 18: The Incarnation of Jesus Christ
+We confess that God fulfilled the promise which he made to the fathers by the mouth of the holy prophets¹ when he sent into the world, at the time appointed by him, his own only-begotten and eternal Son².
+He took the form of a servant and became like man, truly assuming a real human nature with all its infirmities³, sin excepted⁴.
+He was conceived in the womb of the blessed virgin Mary by the power of the Holy Spirit without the means of man⁵.
+He did not only assume human nature as to the body but also a true human soul, that he might be a real man. For since the soul was lost as well as the body, it was necessary that he should take both upon him to save both⁶.
+Against the heresy of the Anabaptists, who deny that Christ assumed human flesh from his mother, we therefore confess that Christ partook of the flesh and blood of the children⁷; that he is a fruit of the loins of David, according to the flesh⁸; a fruit of the womb of Mary⁹; born of a woman¹⁰; a branch of David¹¹; a shoot from the root of Jesse¹²; sprung from the tribe of Judah¹³; descended from the Jews as to the flesh¹⁴; of the seed of Abraham, since he took on him the seed of Abraham, being made in all things like his brethren — yet without sin¹⁵.
+We confess indeed that he is truly our Immanuel, that is to say, God with us¹⁶.
+
+1: Genesis 26:4; 2 Samuel 7:12-16; Psalm 132:11; Luke 1:55; Acts 13:23
+2: Galatians 4:4
+3: Matthew 26:38; John 12:27; Philippians 2:7; 1 Timothy 2:5; 1 Timothy 3:16; Hebrews 2:14
+4: 2 Corinthians 5:21; Hebrews 7:26; 1 Peter 2:22
+5: Matthew 1:18; Luke 1:35
+6: Luke 1:34-35
+7: Hebrews 2:14
+8: Psalm 132:11; Acts 2:30; Romans 1:3
+9: Luke 1:42
+10: Luke 1:31; Galatians 4:4
+11: Jeremiah 33:15
+12: Isaiah 11:1
+13: Hebrews 7:14
+14: Romans 9:5
+15: Hebrews 2:16-17; Hebrews 4:15
+16: Isaiah 7:14; Matthew 1:23
+
+## Article 19: The Two Natures of Christ
+We believe that by this conception the Person of the Son is inseparably united and joined with the human nature¹; so that there are not two Sons of God, nor two persons, but two natures united in one single Person, yet each nature retaining its own distinct properties. Just as the divine nature has always remained uncreated, without beginning of days or end of life (Hebrews 7:3), filling heaven and earth², so also the human nature has not lost its properties; it remained a creature, having beginning of days, being a finite nature and retaining all the properties of a true body.
+Although he gave it immortality by his resurrection, he did not change the reality of his human nature³, since our salvation and resurrection also depend on the reality of his body⁴.
+These two natures are so closely united in one person that they were not separated even by his death. What he committed to his Father when he died was therefore a real human spirit departing from his body⁵.
+In the meantime the divine nature always remained united with the human, even when he lay in the grave⁶.
+The Godhead did not cease to be in him, just as it was in him when he was a little child, although it did not manifest itself for a while. Therefore we confess that he is true God and true man: true God in order to conquer death by his power, and true man in order that he might die for us according to the infirmity of his flesh.
+
+1: John 1:14; John 10:30; Romans 9:5; Philippians 2:6-8
+2: Matthew 28:20; Hebrews 7:3
+3: Matthew 26:11; Luke 24:39; John 20:25; Acts 1:3; Acts 1:11; Hebrews 2:9
+4: 1 Corinthians 15:13; 1 Corinthians 15:21; Philippians 3:21
+5: Matthew 27:50; Luke 23:46
+6: Romans 1:4
+
+## Article 20: God's Justice and Mercy in Christ
+We believe that God, who is perfectly merciful and just, sent his Son to assume that nature in which the disobedience was committed¹.
+He had to make satisfaction in the human nature and bear the punishment of sin by his most bitter suffering and death².
+God therefore manifested his justice against his Son when he laid our iniquities upon him and poured out his goodness and mercy upon us, who were guilty and worthy of damnation. For out of a most perfect love he gave his Son to die for us and raised him for our justification³, that through him we might obtain immortality and life eternal⁴.
+
+1: Romans 8:3
+2: Isaiah 53:6; John 1:29; Hebrews 2:14
+3: Romans 3:25-26; Romans 8:32; 1 John 4:9
+4: Romans 4:25
+
+## Article 21: The Atonement Through Christ
+We believe that Jesus Christ is — ordained with an oath — an eternal High Priest after the order of Melchizedek¹.
+He presented himself in our behalf before his Father to appease his wrath by his full satisfaction² by offering himself on the tree of the cross and pouring out his precious blood to purge away our sins³, as the prophets had foretold⁴.
+For it is written that the chastisement for our peace was upon the Son of God and by his stripes we are healed⁵; he was led as a lamb to the slaughter and numbered with the transgressors⁶; he was condemned as a criminal by Pontius Pilate, who first declared him innocent⁷.
+He restored what he had not stolen⁸; he suffered in body and soul⁹ as the just for the unjust¹⁰; he felt the terrible punishment which our sins had deserved, so that his sweat became like drops of blood falling to the ground¹¹ and he cried out: *My God, my God, why have you forsaken me*¹².
+All this he endured for the forgiveness of our sins. We therefore rightly say with the apostle Paul that we know nothing but Jesus Christ and him crucified¹³; that we count all things as loss for the surpassing worth of knowing Christ Jesus our Lord¹⁴; that we find all consolation in his wounds and have no need to seek or invent any other means of reconciliation with God than this one sacrifice, once offered, by which the believers are perfected forever¹⁵.
+This is also the reason why he was called by the angel of God Jesus, that is, Saviour, because he would save his people from their sins¹⁶.
+
+1: Psalm 110:4; Hebrews 5:10; Hebrews 7:15-17
+2: Romans 3:24-25; Romans 5:8-9; Romans 8:32; Galatians 3:13; Colossians 2:14; Hebrews 2:9; Hebrews 2:17; Hebrews 9:11-15
+3: Acts 2:23; Philippians 2:8; 1 Timothy 1:15; 1 Timothy 2:6; Hebrews 9:22; 1 Peter 1:18-19; 1 John 1:7; Revelation 7:14
+4: Luke 24:25-27; Romans 3:21-22; 1 Corinthians 15:3
+5: 1 Peter 2:24
+6: Isaiah 53:5; Isaiah 53:7; Isaiah 53:9; Mark 15:28
+7: John 18:38; Acts 13:28
+8: Psalm 69:5
+9: Psalm 22:16
+10: Romans 5:6; 1 Peter 3:18
+11: Luke 22:44
+12: Psalm 22:2; Matthew 27:46
+13: 1 Corinthians 2:2
+14: Philippians 3:8
+15: Hebrews 7:26-28; Hebrews 9:24-28; Hebrews 10:14
+16: Matthew 1:21; Luke 1:31; Acts 4:12
+
+## Article 22: Our Justification Through Faith
+We believe that the Holy Spirit kindles a true faith in our hearts¹ to obtain the true knowledge of this great mystery².
+There are therefore only two possibilities: either all that is necessary for our salvation is not in Jesus Christ, or all is in him and then he who possesses Jesus Christ through faith has complete salvation³.
+To claim that Christ is not sufficient but that something more is needed besides him would be a most outrageous blasphemy, for it would mean that Christ is only a half-Saviour. We therefore rightly say with Paul that we are justified by faith alone, or by faith apart from works⁴.
+To be precise: we do not mean that faith itself justifies us⁵, for faith is only the instrument by which we embrace Christ our righteousness; but Jesus Christ is our righteousness. He imputes to us all his merits and all the holy works he has done for us and in our place⁶, while faith is the instrument that keeps us in communion with all his benefits. And when those benefits have become ours, they are more than sufficient to acquit us of our sins.
+
+1: John 16:13-14; 1 Corinthians 2:12; Ephesians 1:17-18; Ephesians 3:16-17
+2: John 14:6; Acts 4:12; Galatians 2:21
+3: Psalm 32:1; Matthew 1:21; Luke 1:77; Acts 13:38-39; Romans 8:1
+4: Romans 3:28; Romans 8:1; Romans 8:33; Romans 10:4-11; Galatians 2:16; Philippians 3:9
+5: 1 Corinthians 4:7
+6: Jeremiah 27:5; Matthew 20:28; Romans 8:33; 1 Corinthians 1:30-31; 2 Corinthians 5:21; 1 John 4:10; 1 Peter 1:4-5
+
+## Article 23: Our Righteousness Before God
+We believe that our blessedness lies in the forgiveness of our sins for Jesus Christ's sake, and that therein our righteousness before God consists¹.
+David and Paul teach us this when they declare that man is blessed to whom God imputes righteousness apart from works. The same apostle says that we are freely, that is, by grace, justified through the redemption that is in Christ Jesus².
+We therefore always hold fast to this foundation: We give all the glory to God³, humble ourselves before him, acknowledge ourselves to be what we are, and do not presume upon ourselves or our merits⁴, but rest and rely solely upon the obedience of the crucified Christ⁵.
+This obedience is ours when we believe in him⁶; it is also sufficient to cover all our iniquities and to free the conscience from fear, dismay, and terror, and to give us boldness to approach God, while we do not act as our first father Adam, who tremblingly tried to hide himself with fig leaves⁷.
+Truly, if we were to appear before God relying, in however small a measure, upon ourselves or any other creature, we should — alas! — be consumed⁸.
+And therefore everyone must say with David: *Enter not into judgment with your servant, for no one living is righteous before you*⁹.
+
+1: Psalm 32:1-2; Luke 1:77; Romans 4:6-7; Colossians 1:13-14; 1 John 2:1
+2: Psalm 32:1-2; Romans 3:24; Romans 4:2; Romans 4:6; 2 Corinthians 5:18-19; Ephesians 2:8; 1 Timothy 2:6
+3: Psalm 115:1; Revelation 7:10-12
+4: 1 Corinthians 4:4; 1 Corinthians 4:7; Hebrews 11:6-7; James 2:10
+5: Acts 4:12; Romans 5:19; Hebrews 10:20
+6: Romans 4:23-25; Romans 5:1
+7: Genesis 3:7; Isaiah 33:14; Zephaniah 3:11; Hebrews 4:16; James 2:10; 1 John 4:17-19
+8: Deuteronomy 27:26; Psalm 130:3; Luke 16:15; Ephesians 3:12; Philippians 3:4-9
+9: Psalm 143:2
+
+## Article 24: Our Sanctification and Good Works
+We believe that this true faith, produced in man by the hearing of the Word of God and by the working of the Holy Spirit¹, regenerates him and makes him a new man², causes him to live a new life, and frees him from the slavery of sin³.
+It is therefore impossible that this justifying faith should make men indifferent to living a pious and holy life⁴; on the contrary, without it they would never do anything out of love for God⁵ but only out of self-love and fear of condemnation. It is therefore impossible that this faith should remain idle in man; for we do not speak of an empty faith but of what Scripture calls a faith working through love, which moves man to continually exercise himself in those works which God has commanded in his Word.
+These works, when they spring from the good root of faith, are good and acceptable in the sight of God, since they are all sanctified by his grace. Yet they do not count toward our justification, for it is by faith in Christ that we are justified, even before we do good works⁶.
+Otherwise they could not be good, any more than the fruit of a tree can be good before the tree itself is good⁷.
+We therefore do good works, but not to merit anything — for what could we merit? Rather, we are indebted to God for the good works we do, and not he to us, since it is he who works in us⁸.
+He makes us willing and able to do his good pleasure (Philippians 2:13). Let us therefore attend to what is written: *When you have done all that you are commanded, say, We are unworthy servants; we have done what was our duty* (Luke 17:10). In the meantime we do not wish to deny that God rewards good works⁹, but it is through his grace that he crowns his gifts. Furthermore, although we do good works, we do not at all make them the basis of our salvation, for we can do no work that is not polluted by our flesh and also worthy of punishment¹⁰.
+And even if we could produce one good work, the remembrance of one sin is enough for God to reject it¹¹.
+In this way we would always be in doubt, tossed back and forth without any certainty, and our poor conscience would be continually tormented if it did not rest on the merit of the suffering and death of our Saviour¹².
+
+1: Acts 16:14; Romans 10:17; 1 Corinthians 12:3; 1 Thessalonians 1:4-5
+2: Ezekiel 36:26-27; John 1:12-13; John 3:5; John 6:29; Acts 15:9; Ephesians 2:4-6; Titus 3:5; 1 Peter 1:23
+3: John 5:24; John 8:36; Romans 6:4-6; 1 John 3:9
+4: Galatians 5:22; Titus 2:12
+5: John 15:5; Romans 14:23; 1 Timothy 1:5; 2 Timothy 1:9; Titus 3:8; Hebrews 11:4; Hebrews 11:6
+6: Romans 4:5; Galatians 5:6; 1 Thessalonians 2:13
+7: Matthew 7:17
+8: Romans 11:6; 1 Corinthians 1:30-31; 1 Corinthians 4:7; Ephesians 2:10
+9: Luke 17:10; Romans 2:5-7; 1 Corinthians 3:14; Philippians 2:13; 2 John 8; Revelation 2:23
+10: Romans 7:20-24
+11: James 2:10
+12: Habakkuk 2:4; Matthew 11:28; Romans 10:11
+
+## Article 25: The Ceremonial Law Fulfilled in Christ
+We believe that the ceremonies and symbols of the law ceased at the coming of Christ and that all shadows have been accomplished¹.
+Their use must therefore be abolished among Christians. Yet the truth and substance of them remain for us in Jesus Christ, in whom they have their fulfilment².
+We continue to use the testimonies of the law and the prophets to confirm us in the gospel and also to regulate our life in all honesty to the glory of God, according to his will³.
+
+1: Matthew 27:51; Romans 10:4; Hebrews 9:9-10
+2: Matthew 5:17; Galatians 3:24; Galatians 5:2-4; Colossians 2:17
+3: Romans 13:8-10; Romans 15:4; 2 Peter 1:19; 2 Peter 3:2; 2 Peter 3:18
+
+## Article 26: Christ Our Intercessor
+We believe that we have no access to God except through the only Mediator¹ and Advocate, Jesus Christ the Righteous².
+For this purpose he became man and united the divine and human natures in himself, so that we men might have access to the divine Majesty³, which access would otherwise be closed to us. But this Mediator whom the Father has appointed between himself and us must not by his majesty make us afraid, so that we should seek another mediator according to our own fancy. For there is no creature in heaven or on earth who loves us more than Jesus Christ⁴, who, though he was in the form of God, emptied himself, taking the form of a man and of a servant for us, and was made in all things like his brethren⁵.
+If then we had to find another mediator who would be favourably inclined toward us, whom could we find who loves us more than he who laid down his life for us, even while we were still his enemies?⁶
+And if we seek one who has power and authority, who has more than he who sits at the right hand of his Father⁷ and has all power in heaven and on earth?⁸
+And who will sooner be heard than the own beloved Son of God?⁹
+It was only through a distrust that this custom of dishonouring the saints instead of honouring them was introduced. They did what the saints never did and never sought, but what they steadfastly and faithfully rejected, as appears from their writings¹⁰.
+Here it must not be alleged that we are unworthy. For it is not a question of offering our prayers on the basis of our own worthiness. We do it only on the basis of the excellence and worthiness of Jesus Christ¹¹, whose righteousness is ours by faith¹².
+Therefore the apostle — in order to remove from us this foolish fear or rather this distrust — rightly says that Jesus was made in all things like his brethren, so that he might be a merciful and faithful High Priest before God to make propitiation for the sins of the people. Because he himself has suffered and been tempted, he is able to help those who are tempted¹³.
+And to encourage us more to approach him, the apostle says: *Since then we have a great High Priest who has passed through the heavens, Jesus the Son of God, let us hold fast our confession. For we do not have a high priest who is unable to sympathise with our weaknesses, but one who in every respect has been tempted as we are, yet without sin. Let us then with confidence draw near to the throne of grace, that we may receive mercy and find grace to help in time of need*¹⁴.
+The same apostle says: *Therefore, brothers, since we have confidence to enter the holy places by the blood of Jesus... let us draw near with a true heart in full assurance of faith...*¹⁵.
+And further: *But he holds his priesthood permanently, because he continues forever. Consequently, he is able to save to the uttermost those who draw near to God through him, since he always lives to make intercession for them*¹⁶.
+What more is needed, since Christ himself says: *I am the way, and the truth, and the life. No one comes to the Father except through me*¹⁷?
+Why should we seek another advocate, since it has pleased God to give us his Son as our Advocate? Let us not leave him to take another, or rather to seek another, without ever finding one. For God well knew, when he gave him to us, that we were sinners. According to the command of Christ, we therefore call upon the heavenly Father through Christ, our only Mediator¹⁸, as we are taught in the Lord's Prayer¹⁹; and we are assured that everything we ask the Father in his name will be given to us²⁰.
+
+1: 1 Timothy 2:5
+2: 1 John 2:1
+3: Ephesians 3:12
+4: Matthew 11:28; John 15:13; Ephesians 3:19; 1 John 4:10
+5: Philippians 2:6-8; Hebrews 2:17
+6: Jeremiah 2:13; Jeremiah 2:33; Hosea 13:9; John 10:11; Romans 5:6-10
+7: Mark 16:19; Colossians 3:1; Hebrews 1:3; Hebrews 8:1
+8: Matthew 28:18
+9: Matthew 3:17; John 11:42; Ephesians 1:6
+10: Acts 10:26; Acts 14:15
+11: Jeremiah 17:5; Jeremiah 17:7; Daniel 9:18; Acts 4:12
+12: 1 Corinthians 1:30-31
+13: Hebrews 2:17-18
+14: Hebrews 4:14-16
+15: John 10:9; Ephesians 2:18; Hebrews 9:24; Hebrews 10:19; Hebrews 10:22
+16: Romans 8:34; Hebrews 7:24-25
+17: John 14:6
+18: Psalm 44:21; Hebrews 13:15
+19: Matthew 6:9-13; Luke 11:2-4
+20: John 14:13; John 16:23
+
+## Article 27: The Catholic Christian Church
+We believe and confess one single catholic or universal church¹, a holy congregation² of all true Christian believers, who expect their entire salvation in Jesus Christ³, are washed by his blood, and are sanctified and sealed by the Holy Spirit⁴.
+This church has existed from the beginning of the world and will last until the end, for Christ is an eternal King, who cannot be without subjects⁵.
+This holy church is not confined to any one place or limited to any one time, but is spread and dispersed over the whole world, and yet is joined and united in heart and will, in one and the same spirit, by the power of faith¹.
+We believe that this church is preserved and sustained by the blood of Christ, and that it exists not by human power or institution, but by the working of God's Spirit².
+Therefore we reject the error of those who say that the church exists only in one place or among one group of people, for the church is the body of Christ, gathered by the Holy Spirit from all nations and all ages³.
+
+1: John 10:16; Ephesians 4:3-6; 1 Corinthians 12:12-13
+2: Matthew 16:18; Acts 20:28; Ephesians 5:25-27
+3: Revelation 7:9; Ephesians 2:19-22
+
+## Article 28: The Obligation to Join the True Church
+We believe that no one ought to withdraw from or separate himself from this holy assembly, since all believers are obliged to join the church of God and to live in communion with it¹.
+This church is the place where God has his Word purely preached, where the sacraments are administered according to the institution of Christ, and where church discipline is applied in love².
+It is therefore the duty of all believers to join themselves to the true church, to live in unity with other believers, and to bear the yoke of Christ by obeying his Word³.
+We reject the error of those who say that a person can live outside the church and still be saved, for outside the church there is no salvation, since Christ is the Head of his church and no one can live apart from him⁴.
+
+1: Acts 2:42; Hebrews 10:25
+2: Matthew 18:15-18; Acts 20:28; 1 Corinthians 5:4-5
+3: Matthew 11:29-30; John 15:10
+4: John 15:5; Ephesians 4:15-16
+
+## Article 29: The Marks of the True Church
+We believe that the true church of God must be distinguished from the false church by the marks which the Holy Scripture gives us. The true church is marked by the following:
+- The pure preaching of the gospel¹.
+- The pure administration of the sacraments as Christ instituted them².
+- The exercise of church discipline to correct sin³.
+
+By these marks the body of Christ and his true church can be clearly recognised. It is not necessary to seek a great multitude or outward splendour, but where these things are present in simplicity and sincerity, there is the church of God⁴.
+We reject the false church which bases its authority on human institutions, traditions, or outward ceremonies rather than on the Word of God⁵.
+Therefore all believers must carefully examine where the true church is and join themselves to it, while avoiding the false church that distorts the Word of God⁶.
+
+1: Galatians 1:8-9; 1 Timothy 3:15
+2: Matthew 28:19; 1 Corinthians 11:23-25
+3: Matthew 18:15-18; 1 Corinthians 5:11-13
+4: Acts 2:42; Ephesians 2:20
+5: Matthew 15:9; Colossians 2:22-23
+6: 2 Timothy 2:17-20
+
+## Article 30: The Government of the Church
+We believe that the true church must be governed according to the Word of God and not by human inventions¹.
+Therefore the church must have officebearers — ministers, elders, and deacons — who are appointed according to the rules of Scripture, to lead the congregation, preach the Word, administer the sacraments, and care for the poor².
+This ministry is not instituted to lord it over the congregation but to serve, and to promote order and unity in the church³.
+We therefore reject all human inventions and ministries not grounded in the Word of God, such as the papacy and other hierarchical structures that oppress the freedom of the church⁴.
+
+1: 1 Timothy 3:1-13; Titus 1:5-9
+2: Acts 6:1-4; Acts 20:28; Ephesians 4:11-12
+3: Matthew 20:25-28; 1 Peter 5:1-4
+4: Matthew 23:8-10; Colossians 2:18-19
+
+## Article 31: The Appointment of Officebearers
+We believe that ministers, elders, and deacons ought to be elected to their offices by a lawful election by the church, with prayer and in the fear of God, according to the rules given in Holy Scripture¹.
+Those who are appointed must be competent and have a good testimony, so that the church may be built up by their service².
+We reject the appointment of officebearers by human power or force, for the authority of the officebearers comes from the Word of God and not from human authority³.
+Therefore the church must choose these officebearers with great care and prayer, so that the glory of God and the welfare of the congregation may be advanced⁴.
+
+1: Acts 1:23-26; Acts 6:3; 1 Timothy 3:1-7
+2: 1 Timothy 3:8-10; Titus 1:7-9
+3: John 10:1-2; Acts 20:28
+4: Acts 14:23; Titus 1:5
+
+## Article 32: The Order and Discipline of the Church
+We believe that the church must have an order and discipline to preserve the purity of doctrine and the holiness of the lives of its members¹.
+This discipline must be applied in love and with wisdom, according to the precepts of the Word of God, to lead the sinner to repentance and to protect the congregation from the evil of sin².
+We reject excessive severity or laxity in church discipline, for it must always serve the glory of God and the edification of the congregation³.
+Therefore the officebearers and the congregation must work together to maintain this order, with patience and prayer, so that the church may live in peace and holiness⁴.
+
+1: Matthew 18:15-18; 1 Corinthians 5:4-5
+2: 2 Corinthians 2:6-8; Galatians 6:1
+3: 1 Corinthians 14:40; 1 Thessalonians 5:14
+4: Hebrews 12:11; James 5:16
+
+## Article 33: The Sacraments
+We believe that our gracious God, having regard to our weakness, has ordained two sacraments in his church to strengthen our faith and to unite us with Christ: Baptism and the Lord's Supper¹.
+These sacraments are visible signs and seals of the invisible grace of God, uniting us through the Holy Spirit with the merits of Christ².
+We reject the view that the sacraments possess power or grace in themselves, for their power lies in the promise of God and the faith of the recipient³.
+Therefore the sacraments must be administered in accordance with the institution of Christ, and we reject all additions or alterations that corrupt the simplicity of this institution⁴.
+
+1: Matthew 28:19; 1 Corinthians 11:23-25
+2: Romans 4:11; Acts 2:38; 1 Corinthians 10:16-17
+3: Hebrews 11:6; 1 Peter 3:21
+4: 1 Corinthians 11:20-22; Galatians 5:2-4
+
+## Article 34: Holy Baptism
+We believe that baptism with water was instituted to signify the washing away of our sins through the blood of Christ¹.
+Baptism is a sign and seal of the covenant of God's grace, by which we are received into the fellowship of the church and marked as members of Christ's body².
+We also believe that the children of believers are included in this covenant and therefore ought to be baptised, since the promise has been given to them and to their offspring³.
+We reject the error of the Anabaptists, who deny infant baptism and say that baptism is only for adult believers, for Scripture teaches that the covenant of God also includes children⁴.
+Baptism must be administered simply with water in the name of the Father, the Son, and the Holy Spirit, according to the institution of Christ⁵.
+
+1: Acts 2:38; Acts 22:16; 1 Peter 3:21
+2: Romans 6:3-4; Galatians 3:27
+3: Genesis 17:7; Acts 2:39; 1 Corinthians 7:14
+4: Matthew 19:14; Acts 16:15; Acts 16:33
+5: Matthew 28:19
+
+## Article 35: The Lord's Supper
+We believe and confess that our Lord Jesus Christ instituted the Lord's Supper to nourish and sustain our faith through the communion with his body and blood¹.
+In this sacrament we are, through the working of the Holy Spirit, united with the crucified and risen Christ, so that we receive his merits and are strengthened in him².
+We reject the view that the bread and wine in the Lord's Supper are literally changed into the body and blood of Christ, for Scripture teaches that the bread and wine remain signs, but that through faith we truly partake of Christ³.
+We also reject the abuse of the Lord's Supper where it is regarded as a sacrifice for sins, for Christ's sacrifice on the cross was once for all and sufficient for all time⁴.
+Therefore the Lord's Supper must be celebrated in accordance with the institution of Christ, with thanksgiving and in communion with the believers⁵.
+
+1: Matthew 26:26-28; 1 Corinthians 11:23-25
+2: 1 Corinthians 10:16-17; John 6:56
+3: 1 Corinthians 11:24-25; John 6:63
+4: Hebrews 7:27; Hebrews 9:26; Hebrews 10:10
+5: Acts 2:42; 1 Corinthians 11:33
+
+## Article 36: The Civil Government
+We believe that our gracious God, because of human depravity, has appointed the civil government to maintain order in society, to protect the good, and to punish the evil¹.
+It is therefore the duty of the government to promote and protect the preaching of the Word of God, so that the church may exist in peace and the glory of God may be advanced².
+We also believe that all people must obey and respect the government insofar as this does not conflict with the Word of God, and that we should pray for the government so that God may bless their work³.
+We reject the error of those who despise the government or incite rebellion against it, for this is contrary to the ordinance of God⁴.
+Yet we acknowledge that where the government compels us to act contrary to God's Word, we must obey God rather than men⁵.
+
+1: Romans 13:1-4; 1 Peter 2:13-14
+2: 1 Timothy 2:1-2; Psalm 82:1-4
+3: Romans 13:7; 1 Timothy 2:1-2
+4: Romans 13:2; Jude 8-10
+5: Acts 4:19; Acts 5:29
+
+## Article 37: The Last Judgement
+We believe that the Lord Jesus Christ will return on the last day with great majesty and glory to judge the living and the dead¹.
+On that day the wicked will be condemned to eternal punishment in hell, where they will experience the terrible wrath of God².
+But the believers, clothed in the righteousness of Christ, will receive eternal life and will be united with God in the new heaven and new earth, where there will be no more sin, pain, or death³.
+We reject the error of those who deny that there will be a resurrection of the body or a last judgement, for Scripture clearly teaches that Christ will return to judge the world⁴.
+Therefore we live in expectation of his coming, with vigilance and prayer, so that we may be ready to meet him when he comes⁵.
+
+1: Matthew 25:31-46; Acts 1:11; Revelation 20:11-15
+2: Matthew 13:41-42; 2 Thessalonians 1:7-9; Revelation 21:8
+3: John 5:28-29; 1 Corinthians 15:51-54; Revelation 21:1-4
+4: Acts 17:31; Hebrews 9:27
+5: Matthew 24:42-44; 1 Thessalonians 5:2-6
+
+</div>

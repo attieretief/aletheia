@@ -8,6 +8,13 @@
 
     {% include header.html %}
 
+    <!-- Language toggle (fixed floating button) -->
+    <div class="lang-toggle-fixed">
+      <button class="lang-toggle-btn" onclick="toggleLang()" aria-label="Toggle language">
+        <span class="lang-af">English</span><span class="lang-en">Afrikaans</span>
+      </button>
+    </div>
+
     <!-- Scroll to top/bottom buttons -->
     <div class="scroll-buttons">
       <a href="#top" class="scroll-btn" onclick="scrollToTop(); return false;">
@@ -68,9 +75,7 @@
     </script>
 
     <!-- Woordelys Simple Tooltips -->
-    {% assign user_url = site.url | append: site.baseurl %}
-    {% assign full_base_url = user_url | default: site.github.url %}
-  <script src="{{ "/assets/definitions.js?v=20250824" | prepend: full_base_url }}"></script>
+  <script src="{{ "/assets/definitions.js?v=20250824" | relative_url }}"></script>
 
   </body>
 

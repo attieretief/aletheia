@@ -3,9 +3,13 @@ layout: lesson
 course: reeks02-wetenskap
 lesson: 1
 title: "Oorsig — Wetenskap & Werklikheid"
+title_en: "Overview — Science & Reality"
 description: "Oorsig van Reeks 2: agt sessies wat ondersoek of die wetenskap God oorbodig gemaak het, of juis Sy vingerafdrukke onthul."
+description_en: "Overview of Series 2: eight sessions examining whether science has made God redundant, or in fact reveals His fingerprints."
 author: Attie Retief
 ---
+<div class="lang-af" markdown="1">
+
 # Wetenskap & Werklikheid
 
 ## Inleiding
@@ -143,3 +147,147 @@ Die Psalmdigter het dit lank voor die moderne wetenskap geweet:
 Kom ons luister saam. Na die wetenskap, na die Skrif, en na die God wat deur albei praat.
 
 Bring jou vrae en jou nuuskierigheid. Alle waarheid is God se waarheid.
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+# Science & Reality
+
+## Introduction
+
+In our first series we walked a deep road together. We asked: *Who is God really?* We discovered that the God of Scripture and the great Christian tradition is not merely the biggest thing in the universe. He is the infinite ground of all existence, pure Being itself, on whom everything depends and who depends on nothing. We began at Exodus 3:14, walked through the classical tradition of Aquinas and Bavinck, and ultimately stood before the wonder of the living God: simple, infinite, personal, ineffably near.
+
+That foundation is indispensable for what follows. For we live in a world that has erected another authority, an authority that for many people has taken the place of God. You hear it every day in the news, on social media, in classrooms, even in coffee-shop conversations. Always the same phrase:
+
+*"Science says..."*
+
+And once science has "spoken," the conversation for many people is over.
+
+This series, *Science & Reality*, does not aim to discredit science. On the contrary: science is one of the most beautiful gifts to have emerged from the Christian tradition, and a deep respect for scientific inquiry belongs entirely to our faith. But the question remains: *What can science truly tell us, and what can it not?* Where does scientific knowledge end and scientific presumption begin? And how does the physical world that science reveals fit with the God whom we came to know in Series 1?
+
+We do this again as a congregation, together. Not as defenders trying to build a wall around the faith, but as pilgrims who want to think honestly about the reality in which we live. The truth does not need our protection. It invites us to discover it.
+
+## Why this series?
+
+There are few places where the tension between faith and culture is felt as sharply as around the word *science*. Many believers, especially young people heading to university or parents who have to answer their children's questions, feel a quiet unease. They have gained the impression that science contradicts faith, that the universe came "from nothing" without anyone making it, that the brain is merely a machine, that evolution has made the idea of a Creator redundant.
+
+These impressions are not accidental. They are actively promoted by a specific philosophical position: *scientism*, the belief that the natural sciences are the only source of true knowledge. Scientism is not science; it is a philosophical conviction about science, and one that contradicts itself.
+
+Its influence is wide. It has created a cultural climate in which believers feel they must choose: either you are a thinking person who follows science, or you are a believer groping in the dark. This false choice, this artificial divide, is what we want to unmask. Not with rhetoric, but with honest inquiry.
+
+The Christian faith is not in tension with science. It is precisely the ground from which modern science grew. And the most surprising discoveries of modern physics, cosmology and neuroscience resonate on a deep level with what Scripture has been teaching us for centuries.
+
+## The road ahead: Eight sessions
+
+Here is an overview of the journey that lies before us. Each session builds on the previous one, but each can also stand on its own as a self-contained conversation.
+
+### Session 1 — What Is Science Really?
+
+*What is science, actually?* Most people use the word as if it were one simple thing, but reality is richer and more complex. The philosophy of science, the branch of thought that investigates this question, has undergone a fascinating journey in the twentieth century.
+
+Karl Popper showed that science works through *falsifiability*: a theory is scientific if it can in principle be proved wrong. Thomas Kuhn added that science does not follow a straight line of progress but moves in "paradigm shifts" — entire frameworks that are replaced by new ways of looking at reality. Michael Polanyi reminded us that even scientific knowledge has a personal dimension: there are convictions, intuitions and traditions underlying every scientist's work.
+
+The difference between *science* and *scientism* is decisive here. Science is a method for investigating the natural world. Scientism is the philosophical claim that this method is the only path to truth. Ironically, that claim is itself not scientifically verifiable. It is a statement of faith. This distinction alone clears up much of the confusion in our culture.
+
+### Session 2 — The History Nobody Tells
+
+One of the most persistent myths of our time is the idea that the Christian faith was the enemy of scientific progress. The popular narrative goes like this: the Middle Ages were a "dark age" of superstition, until the Enlightenment and science broke the church's power. Galileo is the hero who was persecuted by the church because he spoke the truth.
+
+The real history is entirely different — and far more interesting. The Christian doctrine of a rational Creator who made an orderly creation laid the intellectual foundation for the rise of modern science. Thinkers such as Roger Bacon, Nicolaus Copernicus, Johannes Kepler, Robert Boyle and Isaac Newton explicitly understood their scientific work as a way of reading God's "second book" — nature.
+
+The Galileo story deserves an honest look. Yes, there was a conflict, but the reality is far more nuanced than the popular account. The church's position was partly scientific (the science of the day did not unambiguously support Galileo), partly political, partly theological. A tragic episode, but not a war between faith and reason.
+
+Historians such as Rodney Stark and James Hannam have convincingly shown that the "conflict myth" — the idea that faith and science are inherently in opposition — was itself a nineteenth-century invention. Not a historical fact.
+
+### Session 3 — The Universe Had a Beginning
+
+In the twentieth century, cosmology made one of the most surprising discoveries in the history of science: the universe had a beginning. The Big Bang is not just a theory. It is supported by several independent lines of evidence: the expansion of the universe, the cosmic microwave background radiation, the distribution of light elements.
+
+What does this mean? If the universe had a beginning, then it needs a cause. This simple insight lies at the heart of the *Kalam cosmological argument*, developed in our time especially by philosopher William Lane Craig: *Everything that began to exist has a cause. The universe began to exist. Therefore the universe has a cause.*
+
+How does this argument work? What objections are raised against it? And how does it fit with the metaphysical foundation we laid in Series 1? The beginning of the universe is not merely a scientific fact. It is a window into the deepest reality.
+
+### Session 4 — Fine-Tuning: The Radical Contingency of the Cosmos
+
+Science has made yet another surprising discovery: the basic constants of physics — the strength of gravity, the mass of the electron, the strength of the strong nuclear force, and dozens more — are "set" with almost incomprehensible precision to values that make life possible. Change any one of these constants by a fraction of a percent, and the universe would have no stars, no planets, no life.
+
+The mathematical physicist Roger Penrose has calculated that the specific entropy value at the Big Bang represents a probability of one in 10^(10^123). A number so large that it cannot even be written out in the universe.
+
+What does this mean? In Series 1 we saw that the universe is contingent — that it cannot account for its own existence. Fine-tuning deepens that contingency radically: the universe is not only contingent in the *fact* that it exists, but in its *specific character*. The constants need not have these values. The laws need not take this form. This radical contingency calls for a sufficient ground — a necessary, rational Source from whom this specific order flows. We also examine the popular *multiverse* hypothesis: is it genuine science, or is it a metaphysical escape route?
+
+### Session 5 — Evolution: What Is Really at Stake?
+
+No scientific topic causes more tension in churches than evolution. All the more reason to speak about it carefully and honestly.
+
+The first step is to distinguish what evolution as a scientific theory actually says, from what some people add to it as philosophical interpretation. That organisms change over time and that natural selection is a real mechanism: this is well-established science. But that this process is *unguided* and *purposeless*, that there is *no intelligence* behind it — this is not a scientific observation. It is a metaphysical claim.
+
+The Reformed tradition has a rich heritage here. Herman Bavinck wrote already in the early twentieth century that we must not confuse the *fact* of God's creation with the *manner* in which He created. The *that* is a truth of faith; the *how* is a scientific question. Alvin Plantinga has convincingly shown in our time that evolution and theism are logically entirely compatible, provided you drop the unjustified metaphysical addition of "unguided."
+
+We will not pretend that all believers agree on this matter. There are honest, intelligent Christians who stand at different points on the spectrum. Our aim is not to impose a position, but to distinguish the real issues from the apparent ones.
+
+### Session 6 — Brain, Consciousness and the Soul
+
+The neurosciences have made great advances in recent decades. We can now see which parts of the brain become active when someone thinks, feels or decides. Does this mean that the "soul" is an outdated idea? That we are nothing more than our brains?
+
+Here we encounter one of the deepest problems in philosophy: the *hard problem of consciousness*, as philosopher David Chalmers named it. We can in principle explain every neuronal process in the brain, but that still does not explain why there is a *conscious experience*. Why does red feel like red? Why is there "something it is like" to be you? Physical science can describe the brain as a machine. It cannot explain why there is an inner world of experience.
+
+C.S. Lewis made this point with characteristic clarity: if our thoughts are nothing more than the result of chemical processes in the brain, then we have no reason to believe anything at all — including the theory that our thoughts are nothing more than chemical processes. The materialist view of the mind undermines itself.
+
+The Christian understanding of the human person as a body-and-soul unity, which the Bible teaches from Genesis to Revelation, offers a deeper and more coherent account than the impoverished materialism that dominates our culture.
+
+### Session 7 — The Self-Destruction of Naturalism
+
+Here we draw the threads together. The dominant philosophy behind much modern science is *naturalism*: the conviction that nature is all there is, that there is nothing above or behind the physical world.
+
+The distinction that matters here: *Methodological naturalism* — the approach of looking only for natural causes in the laboratory — is a useful scientific tool. *Metaphysical naturalism* — the philosophical claim that nature really is all there is — is something quite different. It is not a scientific conclusion; it is a presupposition that enters science as philosophy in disguise.
+
+And here is the irony: metaphysical naturalism undermines science itself. If our brains are nothing more than the product of blind, purposeless evolutionary processes — processes aimed at survival, not at truth — then we have no reason to trust that our cognitive faculties lead us to the truth. This is Alvin Plantinga's famous *Evolutionary Argument Against Naturalism*: naturalism, combined with unguided evolution, undermines the reliability of our rational faculties. And with it the reliability of science itself.
+
+C.S. Lewis foresaw this already in 1947 in *Miracles*: "If naturalism is true, we cannot know it; for if naturalism is true, our thinking is merely the result of irrational causes, and then we have no reason to trust it." Christian theism, by contrast, offers a robust foundation for scientific knowledge: we are created by a rational God in His image, with faculties directed toward knowing reality.
+
+### Session 8 — Two Books, One Author
+
+We close the series by drawing everything together. The Belgic Confession, Article 2, gives us the key:
+
+> **Belgic Confession Article 2** — "We know Him by two means. First, by the creation, preservation, and government of the universe. It is before our eyes as a most elegant book, wherein all creatures, great and small, are as so many letters leading us to perceive clearly the invisible things of God... Second, He makes Himself more clearly and fully known to us by His holy and divine Word."
+
+Two books. One Author. The book of nature and the book of Scripture can never truly contradict each other, for they come from the same God of truth. Where they appear to clash, it is *our* understanding of the one or the other (or both) that is incomplete.
+
+This final session becomes practical: How does a believer read scientific research? How do you distinguish between data and interpretation? How do you respond when a child, a student or a colleague says: "But science has proven that..."? And how do you live with open questions without surrendering either your faith or your intellect?
+
+## The spirit of our conversation
+
+Before we begin, there are a few principles we want to uphold together.
+
+We seek truth, not victory. This series is not a debate against science. We are not here to "win." We are here to understand. The truth is large enough to withstand every honest question.
+
+We are honest about what we know and what we do not know. There are things about which science provides clear answers, and we accept them with joy. There are things science is still searching for, and we live with those open questions in patience. And there are things that fall outside the reach of science — questions about meaning, purpose, beauty, love and God — and we acknowledge this without shame.
+
+We respect science without idolising it. Science is a gift, an instrument through which we can unravel something of God's creation. But it is an instrument, not a god. To elevate science to the final arbiter of all truth is to burden it with something it cannot bear.
+
+We think together as a congregation. We are not each on our own. We walk this road together, in the light of Scripture, led by the Holy Spirit, in the communion of believers who for centuries before us have asked the same questions. We carry one another's questions, and we bear with one another's uncertainty.
+
+We read nature through the lens of Scripture. The Belgic Confession (Article 2) confesses that we know God through two means — creation and Scripture — but it adds a telling phrase: Scripture makes Him known to us *"more clearly and fully."* There is a hierarchy. Calvin explained this with a striking image: sinful people need Scripture as an elderly person needs spectacles in order to read (*Institutes* I.6.1). Creation is full of God's glory, but our fallen eyes read it wrongly. We see the letters, but we miss the meaning. Scripture is the lens that brings our eyes into focus, so that we can read the book of nature correctly. Creation is God's first book, but it is Scripture that teaches us how to read that book. This does not diminish the value of scientific inquiry. On the contrary, it gives science its proper place within a larger framework of truth. We welcome every honest discovery, for all truth is God's truth. But we also know: it is the Word that casts the final light.
+
+## Whom will we meet?
+
+As in Series 1, on this journey we will encounter a rich variety of thinkers. Some are believers, some are not; all have something to teach us.
+
+On the philosophy-of-science side we listen to Karl Popper (the master of falsifiability), Thomas Kuhn (paradigm shifts) and Michael Polanyi (personal knowledge). On the cosmological side we meet William Lane Craig (the Kalam argument), Roger Penrose (fine-tuning) and Alexander Vilenkin (the beginning of the universe). On consciousness and the mind we engage with David Chalmers (the hard problem), Thomas Nagel (the boundaries of materialism) and C.S. Lewis (the self-refutation of naturalism).
+
+Throughout the series run the voices of the Reformed tradition: Herman Bavinck, who wrote with such wisdom about nature and grace; Abraham Kuyper, who reminded us that every square inch of creation belongs to Christ; Alvin Plantinga, who as a philosopher demonstrated that the Christian faith is rationally fully warranted; and the great confessional documents that keep us on course.
+
+## An invitation
+
+This series is an invitation to discover that faith need not fear science, and that science, honestly practised, brings us back again and again to wonder. Wonder at a universe that had a beginning, that is fine-tuned for life, that has brought forth conscious beings who can think, ask and worship.
+
+The Psalmist knew this long before modern science:
+
+> **Psalm 19:1-2** — "The heavens declare the glory of God; the skies proclaim the work of his hands. Day after day they pour forth speech; night after night they reveal knowledge." (NIV)
+
+Let us listen together. To science, to Scripture, and to the God who speaks through both.
+
+Bring your questions and your curiosity. All truth is God's truth.
+
+</div>

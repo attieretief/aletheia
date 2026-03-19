@@ -3,12 +3,16 @@ layout: lesson
 course: reeks01-grondslag
 lesson: 6
 title: "Sessie 4 — Hoekom is Daar Iets Eerder as Niks?"
+title_en: "Session 4 — Why Is There Something Rather Than Nothing?"
 description: "Die kontingensie-argument: waarom die bestaan van enigiets 'n verklaring vereis wat buite die heelal self lê."
+description_en: "The contingency argument: why the existence of anything requires an explanation that lies beyond the universe itself."
 youtubeurl: "https://youtu.be/bO-Wg1JNnIM"
 youtube_start: 861
 youtube_end: 983
 author: Attie Retief
 ---
+
+<div class="lang-af" markdown="1">
 
 # God as die Werklikheid agter alle Werklikhede (Transendensie en Immanensie)
 
@@ -240,3 +244,236 @@ Hierdie merkwaardige vers plaas God se transendensie en immanensie duidelik lang
 
 * **Van Genderen, J. & Velema, W.H.** *Concise Reformed Dogmatics.* Vertaal deur G. Bilkes. Phillipsburg: P\&R, 2008.
   *(Hierdie bondige dogmatiek, oorspronklik in Nederlands, het nuttige hoofstukke oor God se eigenschapppe, insluitend alomteenwoordigheid en eenvoud, met baie Bybelse verwysings. Dit sit die Gereformeerde verstaan sistematies uiteen.)*
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+# God as the Reality behind All Realities (Transcendence and Immanence)
+
+## Introduction
+
+In our journey through **Classical Theism** thus far we have seen what we mean by "God" (Session 1), unmasked modern *straw man* ideas about God (Session 2), and investigated the question "why there is something rather than nothing" (Session 3). One theme has constantly surfaced: the Christian understanding of God describes Him as simultaneously exalted above creation and intimately present within creation.
+
+In this session we build on this. We focus on God's relationship to creation as *transcendent* (exalted, totally other, inaccessible in His essence) and *immanent* (present, sustaining and involved in everything). How can God be simultaneously so exalted above us, and yet near enough to be in and with us? We shall see how classical sources, the Bible and theological concepts such as **actus purus** and **divine simplicity** help us to understand this puzzle.
+
+A right understanding of His exaltation and nearness is both awe-inspiring and comforting.
+
+## God's Transcendence
+
+When we say God is *transcendent*, we mean He is **far above and other than creation**. God is not part of the space, time and matter He has made — He surpasses all of it. Solomon confesses in 1 Kings 8:27: *"Behold, heaven and the highest heaven cannot contain you."* God cannot be confined by any temple or universe. He inhabits eternity (Isaiah 57:15) and is enthroned above His creation. In simple terms: God is "in a class of His own." He is the Creator; everything else is creature.
+
+The Bible uses rich imagery to express this exaltation. God is described as the **Most High** (Isa. 57:15) whose Name is *Holy* (set apart, unique). He dwells in "unapproachable light" (1 Tim. 6:16) — an image of absolute holiness that no creature can approach without mediation. Jesus also teaches: *"God is spirit"* (John 4:24), meaning He is not a physical being with limits like ours. God is not an object in the universe that can be tracked down with a telescope; He is the **Source of the universe**.
+
+Classical theology has used lofty concepts to explain God's transcendence. A core idea is that God is **actus purus** — *pure actuality*. This means God's being is *fully* actualised and complete; there is no **potentiality** in Him that still needs to be realised. He is infinitely perfect. Thomas Aquinas (13th century) pointed to this by saying God is *ipsum esse subsistens* — **Being-itself that subsists from itself**. All created things possess "existence" as a gift from outside themselves; God **is** in His essence that very Existence. He is therefore entirely independent and self-sufficient. *"From everlasting to everlasting you are God"* (Ps. 90:2). This radical otherness implies: God has no cause, no beginning and no end. He is **infinite** (unlimited in power, knowledge and presence) and **immutable** in His perfection. As the Belgic Confession (1561) says in Article 1, we confess a God who is *"one single, simple and spiritual being"*: He is **unique in kind**, **undividedly one** in essence, and of a **spiritual order** other than any material being.
+
+Because God is transcendent, He surpasses all comprehension. Augustine prayed: *"O God, you surpass everything that I can think at my highest…"* We can never fully fathom God — our words fall short of describing His greatness. In Isaiah 55:8–9 God reminds us: *"For as the heavens are higher than the earth, so are my ways higher than your ways."* Every time we think we grasp His majesty, He is greater still. Stephen Charnock, a Puritan writer, observes that whatever we imagine as the highest, God is yet higher; our minds can only approach Him to a degree. This **incomparability** of God makes Him worthy of worship: *"For who in the skies can be compared to the LORD?"* (Ps. 89:6). No creature, however exalted, shares God's class.
+
+Transcendence also means God is **independent** of creation. He *does not need us*. *"Nor is he served by human hands, as though he needed anything, since he himself gives to all mankind life and breath and everything"* (Acts 17:25). Unlike the pagan gods of antiquity, who "needed" temples and sacrifices to keep going, the true God is complete in Himself. He creates and sustains out of free love, not out of need. This independence secures His exaltation: God is never trapped within the changes and vicissitudes of the world — on the contrary, *"from him and through him and to him are all things"* (Rom. 11:36).
+
+Finally, transcendence implies that God's ways are not our ways. He is free to do whatever pleases Him, and no one can resist or restrain Him. His will and plans stand firm, even when we do not always understand them. At the same time we know: because He is good and wise, His exaltation is for us a source of trust — He can do what is impossible for man. A transcendent God can *truly work miracles*, for He is not bound by the created order; He transcends natural laws and can suspend or override them if He wills. We see therefore: God's transcendence underscores His majesty and omnipotence. It fills us with adoring awe — *"Our God is in the heavens; he does all that he pleases"* (Ps. 115:3).
+
+But if that were all we could say about God, He would remain distant and unknowable to us. Yet the Bible simultaneously reveals another side of God's relationship to the world: His **immanent presence** everywhere and always.
+
+## God's Immanence
+
+While God is exalted above creation, Scripture clearly teaches that He is also **fully and continually present within creation**. *Immanence* means God is **not an absent God** — He is here, everywhere, *"not far from each one of us"* (Acts 17:27). In contrast to deism (the idea of a distant God who leaves the world to itself), the Bible teaches that God is intimately involved with His creatures at every moment. Paul says in the same Athenian address: *"In him we live and move and have our being"* (Acts 17:28). These words point to a deep mystery: every creature exists in a sense "within" God's presence and power. There is no corner of reality where God's **"sustaining hand"** is absent.
+
+The classical term for this all-encompassing presence is **omnipresence** — God is present everywhere. But we must understand this correctly: God is not merely *everywhere* like air in a room; He is *wholly present* at every place, with His entire Being. Because He is spirit and infinite, He is not divided into parts (a "piece" of Him here and a "piece" there) like water spread across the earth. No, God is undividedly present at every atom and in every galaxy. *"Do I not fill heaven and earth?"* the LORD asks rhetorically (Jer. 23:24). And Psalm 139:7–10 declares poetically: *"Where shall I go from your Spirit? Or where shall I flee from your presence? … If I take the wings of the morning … even there your hand shall lead me."* God's Spirit is everywhere; there is no hiding place beyond His reach. Even hell (the realm of the dead) lies open before Him (Ps. 139:8) — not that He has fellowship with evil, but His knowledge and power penetrate even there.
+
+Because God is immanent, He sustains everything that exists, at every moment. He is also the **Continuous Cause** that upholds creation. If God were to *withdraw*, all things would cease to exist — like a projector's light switching off, causing the images on the screen to vanish. Hebrews 1:3 says: *"He upholds the universe by the word of his power."* Christ Himself is described as the One in whom *"all things hold together"* (Col. 1:17). This *sustaining work* of God is a fundamental part of His immanent presence. Every natural law, every heartbeat happens within God's sustained "support". We exist in Him — in other words, His power and presence envelop us at all times, whether we are aware of it or not.
+
+Immanence also means God is personally near. He is not an impersonal force flowing through nature (as pantheists believe); He is a **living Person** who is conscious and involved in our lives. In Acts 17 Paul even says that God determined the appointed times and boundaries of every nation *"that they should seek God … and find him, though he is not far from each one of us"* (Acts 17:27).
+
+God desires relationship — He is *Emmanuel*, "God with us". The *intimacy* of God's nearness is evident throughout Scripture: He hears our prayers, He counts our tears (Ps. 56:8), He knows our deepest thoughts (Ps. 139:1–4). Jesus presents God as a **Father** who sees in secret (Matt. 6:6) and who has *"even numbered the hairs of your head"* (Luke 12:7). This imagery shows how completely and lovingly God *knows* and *cares for* us. Unlike the idol of Baal who was perhaps "on a journey" and could not hear his prophets (1 Kings 18:27), the Lord is always near His children. *"The LORD is near to all who call on him"* (Ps. 145:18).
+
+It is important to realise that God's immanence does not cancel His transcendence. God is *with* everything, but not a part *of* everything. He permeates creation with His power, but He does not merge with creation as pantheism would claim. Creation remains something other than God — it is truly *dependent on Him*, not a "part" of Him. A simplified analogy: just as the sun's light fills the earth and makes everything alive, yet the sun itself remains *up there* and other than the earth, so God's presence is everywhere while He remains God and does not *become* what He sustains. God is nearer to us than we are to ourselves, and yet immeasurably higher than our comprehension.
+
+Stephen Charnock puts it strikingly: God is *"nearer to us than our flesh to our bones, nearer than the air to our breath."* We live in Him more than a fish lives in water. *"Can a man hide himself in secret places so that I cannot see him?"* God asks (Jer. 23:24). This is both reassuring and admonishing: God is always present, even when we might wish to ignore Him. On the other hand, His constant presence means we are never alone — not in the deepest darkness, not in the loneliest sorrow. As Paul said on Mars Hill: *"He is actually not far from each one of us."* God's immanence gives substance to His promise: *"I will never leave you nor forsake you"* (Heb. 13:5).
+
+## Transcendence **and** Immanence — How Can Both Be True at Once?
+
+At first glance it seems paradoxical: How can God be simultaneously so remote and so near? Must we not choose — either He is up there, or He is here with us? The classical answer is that we must hold these two truths *together*, even though it surpasses our understanding. History shows that when people focus on only one side at the expense of the other, serious errors arise. **Deism** preserved God's transcendence but denied His immanence — the result was a cold, distant God and an empty, mechanical worldview. **Pantheism** (and panentheism) exaggerated God's immanence and abandoned His transcendence — the result was that God was stripped of His personality and holiness and essentially equated with the world itself. The *biblical* God is in no way an uninvolved *"god from afar"* or a mere *"soul of the cosmos."* He is *simultaneously* the exalted King of Heaven and the intimate Father.
+
+Theologians emphasise that God's transcendence and immanence are not contradictory, precisely because God's manner of being present is *different* from that of a physical being. A human or angelic being can be either here or there, but not everywhere, and if they are *in* something, they are part of it. God, however, is wholly unique in how He is present: He is *"over all and through all and in all"* (Eph. 4:6). Note this threefold description: *over* all (transcendent, reigning), *through* all (penetrating with His power), *in* all (immanent, sustaining). God "fills" creation without being filled by creation. He is *in* all things **in a manner that only God can be** — as Sovereign and Sustainer, not as a part or similar component.
+
+We must therefore not think God's transcendent and immanent *"parts"* balance each other, as though He is half heavenly, half worldly. No, God is in His full being transcendent and in His full being immanent. His entire being is transcendent above the world, and at the same time His entire being is immanent *present throughout the world*.
+
+This mystery becomes more understandable when we consider **God's simplicity** (discussed below). Because God is not composed of parts, He is not "divided" between heaven and earth — He is one undivided presence that both reigns above creation and permeates creation. Herman Bavinck, a Reformed theologian, expressed it thus: God is immanent "in every part of creation with all His perfections and His entire being," but *"nevertheless, in that most intimate union He remains transcendent. His being is of a different and higher order than that of the world."* In other words, God is everywhere *present*, but He remains everywhere God — He does not *share* in the limitations or deficiency of creation. Just as an artist's mind is *visible in* his artwork but the artist himself is not *confined to* the canvas, so God's presence is in our world without His being *locked into* it. God is above and beyond the framework of creation, yet every drop of existence within the framework is totally dependent on Him.
+
+A classical analogy (drawn from ancient philosophical thought) says: *God is like a circle whose centre is everywhere and whose circumference is nowhere.* This image tries to express that God's being pervades every corner of reality (the centre everywhere) and at the same time is unlimited (no circumference). Of course God is not literally a circle, but the intention is to emphasise: God's presence has no boundaries, and yet He is confined nowhere. We get a faint impression of this in things like air and light: air is invisibly everywhere around us; light fills every space where it shines — yet God's presence is even far more intimate and still higher than any creature.
+
+Ultimately we must acknowledge that we stand before a *mystery*. No analogy ever exhaustively captures God's *being*. The **Creator-creature distinction** stands: God is *immanently present* with everything, but He is not any of those things — He remains the Creator and they remain creatures. Yet it is precisely this tension between transcendence and immanence that allows us to know God with wonder. Were He only transcendent, He would remain forever unknown; were He only immanent (and thus part of nature), He would never be worthy of our worship. But because He is **both**, we can know Him as *the Most High who stooped low* to be near us.
+
+## Divine Simplicity — One Undivided Being
+
+How can God be present everywhere without "becoming part" of creation? One answer lies in the doctrine of **Divine Simplicity**. This classical Christian doctrine says that God is **not composed** of different parts, components or attributes assembled together. He *is* one single Being. For us as human beings there is a clear difference between, say, body and spirit, or between different attributes (today we are happy, tomorrow perhaps sad; we are changeable). With God it is not so: He does not merely *have* love, power or knowledge; He *is* love, *is* power, *is* knowledge. His attributes are not separate "pieces" of Him that can be thought of independently; each attribute is simply a human way of describing *the one infinite God Himself*. That is why we call Him *"simple"* — not in the sense of "primitive," but in the sense of "undivided." God's being is **indivisibly one**.
+
+This abstract idea has great implications. It means, among other things, that God cannot be in *conflict* with Himself. His justice does not war with His love; His mercy does not provoke His truth — all His attributes are *one harmonious reality* in Him. When God does something, *He does it with His whole being*. He does not need first to switch on His "power department" and then later His "love department" — no, God *is always wholly God* in everything He does. Therefore we can fully trust that God is always consistent: *"Every good gift and every perfect gift is from above, coming down from the Father of lights, with whom there is no variation or shadow due to change"* (James 1:17).
+
+For transcendence and immanence, Divine Simplicity is *very important*. Because God is undivided, His *omnipresence* is also undivided. He is not like a *jigsaw puzzle* with pieces scattered everywhere; He is with His entire being at every place. So when we say God is immanent *within* creation, we must not think a "part" of God is stuck here while the rest of God is somewhere else. No — the complete God is in heaven and on earth. As God Himself declares in Jeremiah 23:23–24: *"Am I a God at hand … and not a God far away? … Do I not fill heaven and earth?"* He is both near and far, wholly and entirely, everywhere.
+
+God's transcendence and immanence are not two "sides" or departments of God — they are two different ways of describing how the one simple God relates to His creation. In *essential nature* He remains totally other (transcendent), but in *activity* He is present in everything (immanent). Because He is simple and one, these two are not in competition. God remains the same single God, whether viewed above the cosmos or here at my bedside. This gives peace to our limited minds: we need not think God's "greatness" crowds out His "nearness", or vice versa, as if He can only be one at a time. He is simply *God*: infinite and intimate, almighty and intimately involved.
+
+Interestingly, the Christian tradition has from the earliest times insisted on God's simplicity precisely in order to understand His mysterious presence better. A composite, changeable god could at times be "more here" and at times "more there", or get out of balance — but the true God does not change and never departs from any place. Therefore Moses could pray in Psalm 90: *"Lord, you have been our dwelling place in all generations"* — God Himself is the "space" in which we live, our constant *home*. He can be this because He is simple and infinite.
+
+The Belgic Confession (1561) names God *"simple"* in its first article, before also naming His omnipresence. This confession follows the logic: because God is not composed of parts, **He is omnipresent as a whole** — nothing can exist outside Him, for everything "moves in Him." The same applies to time: as *one* eternal God He is present in all times, *"Jesus Christ is the same yesterday and today and forever"* (Heb. 13:8). Thus we see that the doctrine of God's simplicity is not dry speculation, but a safeguard against erroneous ideas (for example that God would be a body with parts or that He could be divided) and an aid to understanding His omnipresence. A grasp of God's simplicity also brings *humility*: we realise God's being is totally other than our composite, limited existence. It drives us to worship Him reverently for the **indivisible perfection** that He is.
+
+## Christ — The Union of Transcendence and Immanence
+
+The supreme *revelation* of God's transcendence and immanence is found in the person of **Jesus Christ**. In Christ the highest and the lowest come together in a wondrous way: *the infinite God takes on a finite human nature*. John 1:14 says it simply: *"The Word (who is God) became flesh and dwelt among us."* Here we see the transcendent God literally **becoming immanent**: He enters His creation, time and space, by becoming human. Yet He does not lose His transcendence: the entire fullness of the Godhead dwells in Christ's humanity *"bodily"* (Col. 2:9). Jesus is not half God and half human; He is 100% God (transcendent) and 100% human (with us, immanent) in one person. Therefore He could simultaneously say *"I and the Father are one"* (John 10:30) — a statement of His divine exaltation, and *"I am with you always, to the end of the age"* (Matt. 28:20) — a promise of His eternal nearness.
+
+In Christ abstract concepts become concrete. He shows us what it means that God is *simultaneously* high and lowly. On the one hand we see in Jesus the transcendent glory of God: He controls nature with a word (the wind and sea obey Him), He forgives sins (something only God can do), He is before Abraham and calls Himself *"I am"* (John 8:58, referring to God's eternal Name).
+
+On the Mount of Transfiguration His face shone like the sun — a glimpse of His inherent majesty. He tells the people: *"Something greater than Solomon is here"* (Matt. 12:42) and *"Before Abraham was, I am."* These moments reveal that Jesus is **more than a prophet** — He is the transcendent God in their midst. *"The whole fullness of God's glory"* radiates from Him (John 1:14).
+
+Yet, on the other hand, in Jesus we see God's intimate immanence in a new way: He touches lepers, He eats with sinners, He washes His disciples' feet. His title is rightly *Emmanuel* — "God with us." In Christ, God is so near to our humanity that He Himself undergoes human experiences: hunger, weariness, joy, grief. The transcendent God of Isaiah who says *"My thoughts are not your thoughts"* has in Christ *assumed a human mind and will*; He who *"dwells above the heavens"* lay as a newborn baby in a manger. This incomprehensible condescension (self-humiliation, Phil. 2:6–7) does not mean God ceased to be transcendent; it means God's transcendence itself is the source of His grace. Precisely because He is God, He could descend and save us. The infinite love of God becomes visible in Jesus' immanent walk with us.
+
+In Jesus Christ the character of God's transcendence and immanence becomes further clear to us. We see that God's exaltation does not mean He is cold or uninvolved. The Most High comes Himself to our rescue. His immanent presence also does not mean He loses His glory; He reveals His glory precisely through His nearness in Christ. As John puts it: *"No one has ever seen God; the only God, who is at the Father's side, he has made him known"* (John 1:18). Jesus is God from God, but He is also God with us, and therefore the perfect "declaration" of God's being to us.
+
+When Philip asks to see the Father, Jesus answers: *"Whoever has seen me has seen the Father"* (John 14:9). In Christ we see *simultaneously* the transcendent Father (for Jesus is one with Him in Godhead) and the immanent Father (for Jesus reveals God's heart in human action). Christ is as it were the **"bridge"** between God's unapproachable light and our dark world — in Him the Light comes into the world, *"and the darkness has not overcome it"* (John 1:5).
+
+There is yet another way in which Christ resolves the tension between transcendence and immanence: **in His atoning work**. On the cross He cries: *"My God, my God, why have you forsaken me?"* — words that express the *distance* between God's holiness and our sin. That distance (transcendent separation) Jesus bears in our place, *so that* we who were far off might be brought near (Eph. 2:13). The holy God cannot have fellowship with sin — therefore Jesus experiences the godforsaken state on our behalf. But the loving God is so near to us that He Himself went through this in order to save us.
+
+God's *transcendent holiness* requires the cross, and God's *immanent love* provides it. After the resurrection the risen Christ says to His disciples: *"Peace be with you!"* — the gulf is bridged. And He promises: *"I am with you always."* The Transcendent One who existed *before* all time (John 1:1) now stands *in our midst* and declares His ever-present immanence among His people.
+
+Jesus thus teaches us that God is not *either* far *or* near — He is both, in ways that we can only rightly understand in Christ. The visible presence of Jesus on earth was temporary, but it led to an intensified immanence: through His Spirit Jesus dwells *in* our hearts (Eph. 3:17). The Holy Spirit, the third Person of the Trinity, is described in Scripture as *"God in us."* Through the Spirit we experience every day the reality that the transcendent God is also the inner Guide and Comforter of our souls. As Jesus promised: *"We (the Father and the Son) will come to him and make our home with him"* (John 14:23). What a wonder! The Sovereign heavenly God makes my heart His dwelling — not because I am worthy, but by grace through Christ.
+
+## In Conclusion
+
+When we reflect on God's transcendence and immanence, we realise we stand on holy ground. These two truths complement each other and give us a vision of God that is simultaneously supremely exalted and intimately loving. Such a God is incomprehensibly majestic. He stirs our *worship*. And He is at the same time reliably near. He stirs our *trust*. This has deep practical implications for faith and worship:
+
+* Because God is **transcendent**, we *fear* Him with holy awe. We recognise that He is the Almighty who holds our lives fully in His hand. His holiness makes our knees tremble — as Isaiah cries out: *"Woe is me! For I am lost; for I am a man of unclean lips … for my eyes have seen the King, the LORD of hosts!"* (Isa. 6:5). We also hear the heavenly praise in Revelation: *"Holy, holy, holy, is the Lord God Almighty."* This exalted picture of God preserves our faith: it reminds us that God is not our "buddy" or a mere helper, but the worthy Object of worship. It prevents us from ever thinking lightly of Him or watering Him down to our own image.
+
+* Because God is **immanent**, we *trust* Him with childlike confidence. He is with us every day, knows what we need and carries us through our pain and joy. His nearness brings *comfort*: *"Even though I walk through the valley of the shadow of death, I will fear no evil, for you are with me"* (Ps. 23:4). A God who is so near hears our whispers and understands our sighs (Rom. 8:26). When we feel alone or afraid, we can know: He is *there* — more than that, He is *here with me*. *"The LORD your God is in your midst, a mighty one who will save"* (Zeph. 3:17). This nearness of God supports our faith: it assures us that God is *involved* in our lives and that we can draw near to Him in prayer knowing that He listens.
+
+Transcendence and immanence together give us a balanced, healthy life of faith. If we emphasise only God's transcendence, we may lapse into a cold piety or fatalism — God may then seem fearsome but far from my daily struggles. If we emphasise only His immanence, we run the risk of becoming familiar in a way that damages His holiness — we may forget who He truly is and regard Him as an "automatic helper." But when we embrace both, we grow in *awe* and in *love*. We approach God with *reverent respect* and *heartfelt boldness*. Like a child who respects his father because he is big and strong, but also trusts him because he is loving and near, so we learn to *fear* God and to *trust* Him.
+
+Finally, these truths lead us to worship full of wonder and comfort. Who else is like the Lord? *"To whom then will you liken God?"* asks Isaiah (Isa. 40:18). No god or idol in any culture offers this picture. The pagans of old had mighty gods, but they were capricious and locally limited (neither almighty nor omnipresent). Modern "New Age" spirituality offers a god who is in everything, but that god has no holy will and no power over evil. Only the Triune God of the Bible — Father, Son and Holy Spirit — is simultaneously so exalted and so compassionately near. This makes Him worthy to be served with our whole heart. We can cry out with the prophet Jeremiah: *"There is none like you, great and mighty … You are the true God … You are near, Lord, and you see everything!"* And we can rest in the assurance that this almighty God is our refuge and dwelling place (Ps. 90:1), now and forever. To Him be all the glory!
+
+---
+
+## Notable Quotations
+
+> "God is **higher than my highest** and **more inward than my innermost self**."
+— St. Augustine, *Confessions*
+
+> "Although God is immanent in every part and sphere of creation with all His perfections and all His being, nevertheless in that most intimate union **He remains transcendent**. **His being is of a different and higher kind than that of the world**."
+— Herman Bavinck, *Philosophy of Revelation*
+
+> "He is not only near, but **in everything**… **nearer to us than our flesh to our bones, than the air to our breath**."
+— Stephen Charnock, *The Existence and Attributes of God*
+
+> "God is **the infinite fullness of being**, omnipotent, omnipresent, and omniscient, **from whom all things come and upon whom all things depend for every moment of their existence**."
+— David Bentley Hart, *The Experience of God*
+
+## Bible Commentary on Key Passages
+
+> **1 Kings 8:27** — "But will God indeed dwell on the earth? Behold, heaven and the highest heaven cannot contain you; how much less this house that I have built!" (ESV)
+
+In Solomon's prayer at the temple dedication he acknowledges God's transcendence. Even the vast expanse of the heavens (the "highest heaven") is too small to contain God's full presence. God infinitely surpasses creation; no building or place can confine Him. This verse guards against *any* thought that God is merely a local or physically bounded being. If even the cosmos cannot contain Him, it means God is greater than all space and matter — He is truly **transcendent**. Yet Solomon has just built the temple as a place where God would cause His Name to dwell; God's transcendence therefore does not exclude His immanent presence with us (verses 30 and 52 imply He *hears* and *sees* from heaven). 1 Kings 8:27 beautifully states the tension: God is far above, yet also with His people — just not confined to a place.
+
+> **Psalm 139:7–10** — "Where shall I go from your Spirit? Or where shall I flee from your presence? If I ascend to heaven, you are there! If I make my bed in Sheol, you are there! If I take the wings of the morning and dwell in the uttermost parts of the sea, even there your hand shall lead me, and your right hand shall hold me." (ESV)
+
+Here David celebrates God's omnipresent immanence. He poses it in rhetorical questions: *"Where can I go where you are not?"* The implication is: nowhere! Whether he *ascends* to the highest conceivable place (heaven) or *descends* to the lowest (Sheol, the realm of the dead), God is already there. East and west — from the farthest point of the dawn to the most distant sea, even there God's hand leads him. This poetic language shows that no distance in space or condition of life can separate us from God's presence. Note also the personal tone: "Your hand shall lead me … your right hand shall hold me." God's omnipresence is not a cold concept but a source of comfort and guidance. This psalm accords with Jeremiah 23:24 where God Himself declares that no one can hide from Him in "secret places," for He fills heaven and earth. Together they underscore God's immanence: He is everywhere present. In every dimension of existence He is already actively present.
+
+> **Isaiah 57:15** — "For thus says the One who is high and lifted up, who inhabits eternity, whose name is Holy: 'I dwell in the high and holy place, **and also** with him who is of a contrite and lowly spirit, to revive the spirit of the lowly, and to revive the heart of the contrite.'" (ESV)
+
+This remarkable verse places God's transcendence and immanence clearly side by side. On the one hand God is *"high and lifted up"*, the *"Lofty One"*, the Eternal Dweller, Holy — this emphasises His incomprehensible majesty and separation from creation. Yet the same God immediately says: *"I dwell… with him who is contrite in spirit."* In other words, He identifies Himself intimately with the humble and sorrowful person. He is both in the "high and holy place" (transcendent) **and** with the lowliest (immanent). And His presence with the humble has a purpose: to revive and restore. This shows His compassion and saving involvement. This text is a powerful affirmation that God's exaltation does not mean aloof uninvolvement. Precisely the High and Holy One bends down to heal the broken. It offers enormous comfort: the God who reigns unapproachably far above us is the same God who chooses to *dwell near* the least of us. No wonder Isaiah 57:15 is sometimes called "the pinnacle" of the Old Testament's understanding of God; it holds God's otherness and His nearness in perfect balance.
+
+## Discussion Questions
+
+* **Transcendence in worship:** How does knowing that God is **almighty and exalted** above all affect your attitude in prayer and worship? What practical difference does it make if you pray to a God who is *overwhelmingly holy and almighty*, versus an "easy" god who is only slightly bigger than you?
+
+* **Immanence in life:** In what ways does it bring you **comfort** to know God is **always with you**? Think of a time of hardship or loneliness in your life — how does the truth of God's nearness (that He knows you intimately and supports you) make a difference in how you handle or understand that situation?
+
+* **Balance and imbalance:** Think of the two "sides" of God's nature that we have discussed. Do you perhaps see tendencies in your own faith life or in the church where one side is over-emphasised at the expense of the other? For example, are there times when we present God as *so* exalted that He seems almost uninvolved? Or times when we *so* focus on His love and nearness that we forget His holiness? How can we practically maintain a **healthy balance** in our thinking and teaching about who God is?
+
+* **Divine Simplicity explained:** How would you explain to a fellow believer (or a newcomer to the faith) what it means that God is **"simple" (undivided)**? What simple example or comparison might help to show why it matters that God is not composed of parts — especially in connection with His omnipresence and reliability?
+
+* **Christ as revelation:** In Jesus Christ we see the supreme demonstration of God's transcendence and immanence together. Which examples from Jesus' life and ministry show you His **divine exaltation** (that He is truly God)? And which examples show His **human nearness** (that He is truly with us)? How does it strengthen your faith to know that the *same* Jesus who has almighty power over the storms is also the One who compassionately wipes away our tears?
+
+---
+
+## Recommended Reading
+
+* **A.W. Tozer — *The Knowledge of the Holy***
+    A short, classic work that discusses God's character and attributes in a deep, worshipful manner. Chapters 13 and 14 ("The Transcendence of God" and "The Immanence of God") deal specifically with these two attributes and how to grasp them spiritually. Tozer's imagery and humble tone help to stir our wonder at God's greatness and nearness.
+
+* **Matthew Barrett — *None Greater: The Undomesticated Attributes of God***
+    An accessible modern book that explains the *classical understanding of God* (such as His simplicity, immutability, infinity) for today's readers. Barrett shows why concepts like God's simplicity and omnipresence are not mere abstractions but are necessary for a proper grasp of God's majesty. An excellent resource for deepening yourself in the *greatness* of God.
+
+* **Stephen Charnock — *The Existence and Attributes of God***
+    A 17th-century Puritan classic (available in modern English) that is extensive but valuable. Charnock's discourses on God's *infinity* and *omnipresence* are particularly insightful. He combines deep theological reflection with worshipful applications. This work requires time but rewards the reader with a much deeper piety and insight into God's transcendent perfections.
+
+* **R.C. Sproul — *The Character of God*** (video series or book form)
+    Sproul's series on God's character attributes is an excellent introduction from a Reformed perspective. In accessible language he discusses God's holiness, omnipotence, omniscience, etc. and emphasises how *other* God is compared to us. At the same time he stresses that this exalted God makes Himself known to us and brings us into a covenant with Him. Sproul's well-known statement that God is *"not simply at the top of a continuum of beings, but of an entirely different order of being"* captures transcendence well. He also shows practically how this awareness should influence our worship and life.
+
+*(This reading offers a blend of devotional and theological material. Tozer and Sproul are excellent for stirring your heart in wonder and trust; Barrett and Charnock give further theological depth to your understanding. Together they will help you better grasp and worship God's exaltation and nearness.)*
+
+## Bibliography
+
+### Primary Source
+
+* **Hart, David Bentley.** *The Experience of God: Being, Consciousness, Bliss.* New Haven: Yale University Press, 2013.
+  *(A modern work that sets out the classical understanding of God — also led to a series of lectures on which this course is built.)*
+
+### Classical Christian Theologians and Philosophers
+
+* **Augustine of Hippo.** *Confessions* (Translations in English or Afrikaans available).
+  *(Especially Book III, Chapter 6, where Augustine declares that God "is more inward than my innermost self and higher than my utmost height".)*
+
+* **Thomas Aquinas.** *Summa Theologiae*, Part I. Translated by the Dominican Fathers (English) or others.
+  *(See especially Question 3 on God's simplicity, and Question 8 on God's omnipresence. Aquinas's concept of *actus purus* and *ipsum esse* forms the foundation for understanding why God is transcendent above all things, yet pervades all things.)*
+
+* **Ps.-Dionysius the Areopagite.** *The Divine Names.* (c. 5th century).
+  *(Mystical theology describing God's incomprehensible exaltation and His permeation of all things. Dionysius's ideas about God as the "ultimate" who transcends all names influenced classical theism.)*
+
+### Reformation Sources
+
+* **Calvin, John.** *Institutes of the Christian Religion*, Book I. (Various translations available.)
+  *(Calvin emphasises God's sovereignty and *otherness*, but also the *sensus divinitatis* — the awareness that He is near and makes Himself known to all. See especially chapters 10–13 on God's attributes and how He reveals Himself.)*
+
+* **Belgic Confession (1561).** Article 1.
+  *(This Reformed confessional article describes God as "one single, simple, incomprehensible, invisible, immutable, infinite, almighty…" and notes that He *created all things from nothing and sustains them*. It serves as a concise historical summary of God's transcendent and immanent attributes.)*
+
+* **Charnock, Stephen.** *The Existence and Attributes of God.* (English edition, 1682, reprinted in modern English by Baker Books, 2000s.)
+  *(Charnock's work contains long sermons on God's infinity, omnipresence and immutability. He offers Scripture-rich arguments for why God is at all times present and yet remains exalted. Useful for those who wish to taste the Reformation tradition's dogmatics on God.)*
+
+* **Bavinck, Herman.** *Reformed Dogmatics*, Vol. 2: *God and Creation*. Kampen: Zomer & Keuning, 1895–1899. (Translated as *Reformed Dogmatics*, Vol. 2. Baker Academic, 2004.)
+  *(Bavinck, a 19th-century Reformed theologian, discusses God's transcendence and immanence at length. He warns against both deism and pantheism and states clearly that God is "simultaneously above the world and in the world." His work helps to see the continuity between the church's historical confession and these doctrines.)*
+
+### Contemporary Christian Thinkers
+
+* **Sproul, R.C.** *The Character of God.* Orlando: Ligonier Ministries, 1995.
+  *(Sproul's work (also in video and audio) provides insight into God's uniqueness. He explains concepts such as God's omnipresence and simplicity in an accessible way, with practical applications. His famous illustration that God is not merely one link higher on the "scale of beings" but an entirely different *order of being* helps to understand transcendence.)*
+
+* **Barrett, Matthew.** *None Greater: The Undomesticated Attributes of God.* Grand Rapids: Baker Books, 2019.
+  *(A modern presentation aimed at bringing God's exaltation and immeasurability before a 21st-century audience. Barrett discusses, among others, God's simplicity, infinity and omnipresence, and how these doctrines protect us against a diminished, "domesticated" image of God.)*
+
+* **Packer, J.I.** *Knowing God.* London: Hodder & Stoughton, 1973.
+  *(A classic evangelical book that speaks in a warm tone about who God is. Chapters such as "God Only Wise" and "The Majesty of God" emphasise His transcendence, while "God's Love" and "God as Father" illuminate His intimate side. Packer's balance between doctrine and devotion makes this book particularly useful for touching readers' hearts with the reality of God's greatness and His nearness.)*
+
+### Philosophical and Cross-Tradition Sources
+
+* **Aristotle.** *Metaphysics.* Translated by W. D. Ross, 1924.
+  *(In Book XII Aristotle describes an "Unmoved Mover" who stands above the cosmos — an early philosophical sounding towards a transcendent First Cause. This idea later influenced Christian thought on God's transcendence.)*
+
+* **Plato.** *Timaeus* and *The Republic*. Various translations.
+  *(Plato's ideas about a supreme "Form of the Good" that transcends all reality, and a soul that permeates the cosmos, are foreshadowings of the transcendence and immanence concepts that were later more fully developed in theology.)*
+
+* **Leibniz, G.W.** "The Conformity of Faith with Reason" and "On the Ultimate Origination of Things" (1697). In *Leibniz: Philosophical Essays*, translated by R. Ariew & D. Garber. Indianapolis: Hackett, 1989.
+  *(Leibniz, a theist and philosopher, discusses how God must necessarily be transcendent as the ultimate reason for everything, and yet works immanently in and through nature according to a pre-established harmony. His *Principle of Sufficient Reason* underscores why a transcendent but ever-active God is philosophically necessary.)*
+
+### Biblical References and Commentary
+
+* **The Holy Bible, English Standard Version (ESV)** and **Afrikaans translations (1953 and 2020)**.
+  *(Scripture quotations are from the ESV unless otherwise noted. Psalm 139 and Isaiah 57 are key OT passages. Acts 17 and Hebrews 1 in the NT confirm God's continuous sustaining. Commentary on the verses has been provided for context.)*
+
+* **Henry, Matthew.** *Commentary on the Whole Bible* (1706).
+  *(Matthew Henry's timeless commentary offers worshipful insights; e.g. on Isa. 57:15 he notes how wonderful it is that the Exalted God dwells with the lowly. His devout perspective helps to apply this doctrine practically and spiritually.)*
+
+* **Van Genderen, J. & Velema, W.H.** *Concise Reformed Dogmatics.* Translated by G. Bilkes. Phillipsburg: P&R, 2008.
+  *(This concise dogmatics, originally in Dutch, has useful chapters on God's attributes, including omnipresence and simplicity, with many biblical references. It sets out the Reformed understanding systematically.)*
+
+</div>

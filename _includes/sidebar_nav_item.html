@@ -1,0 +1,31 @@
+{% assign current_course = false %}
+{% if page.layout == "course" and page.course_name == include.nav_page.course_name %}
+  {% assign current_course = true %}
+{% elsif page.layout == "lesson" and page.course == include.nav_page.course_name %}
+  {% assign current_course = true %}
+{% endif %}
+
+<li class="sidebar-nav-item course-menu-item">
+  <a class="sidebar-nav-link {% if current_course %}active{% endif %}" href="{{ include.nav_page.url | prepend: site.baseurl }}">
+    <span class="lang-af">{{ include.nav_page.title }}</span>{% if include.nav_page.title_en %}<span class="lang-en">{{ include.nav_page.title_en }}</span>{% else %}<span class="lang-en">{{ include.nav_page.title }}</span>{% endif %}
+  </a>
+
+  {% if current_course %}
+    {% if include.nav_page.course_name == "woordelys" %}
+      {% assign lessons = site.pages | where: "course", include.nav_page.course_name | where_exp: "item", "item.lesson != nil" | sort: "title" %}
+    {% else %}
+      {% assign lessons = site.pages | where: "course", include.nav_page.course_name | where_exp: "item", "item.lesson != nil" | sort: "lesson" %}
+    {% endif %}
+    {% if lessons.size > 0 %}
+    <ul class="course-lessons-menu">
+      {% for lesson in lessons %}
+      <li class="course-lesson-item">
+        <a class="sidebar-nav-link {% if lesson.url == page.url %}active{% endif %}" href="{{ lesson.url | prepend: site.baseurl }}">
+          <span class="lang-af">{{ lesson.title | truncate:30 }}</span>{% if lesson.title_en %}<span class="lang-en">{{ lesson.title_en | truncate:30 }}</span>{% else %}<span class="lang-en">{{ lesson.title | truncate:30 }}</span>{% endif %}
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+  {% endif %}
+</li>

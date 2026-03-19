@@ -17,23 +17,23 @@
     {% endif %}
   {% endfor %}
 {% endif %}
-{% assign user_url = site.url | append: site.baseurl %}
-{% assign full_base_url = user_url | default: site.github.url %}
 {% if prev_lesson %}
 <div class="col-4 sm-width-full left mr-lg-4 mt-3">
-  <a class="no-underline-hover py-1 block" href="{{ prev_lesson.url | prepend: full_base_url }}">
-    <span class="h5 bold chevron-left">Vorige</span>
-    <p class="bold h3 link-primary mb-1">{{ prev_lesson.title | truncate:30 }}</p>
-    <p>{{ prev_lesson.content | markdownify | strip_html | truncate:300 }}</p>
+  <a class="no-underline-hover py-1 block" href="{{ prev_lesson.url | relative_url }}">
+    <span class="h5 bold chevron-left"><span class="lang-af">{{ site.data.i18n.previous.af }}</span><span class="lang-en">{{ site.data.i18n.previous.en }}</span></span>
+    <p class="bold h3 link-primary mb-1">
+      <span class="lang-af">{{ prev_lesson.title | truncate:30 }}</span>{% if prev_lesson.title_en %}<span class="lang-en">{{ prev_lesson.title_en | truncate:30 }}</span>{% else %}<span class="lang-en">{{ prev_lesson.title | truncate:30 }}</span>{% endif %}
+    </p>
   </a>
 </div>
 {% endif %}
 {% if next_lesson %}
 <div class="col-4 sm-width-full right mt-3">
-  <a class="no-underline-hover py-1 block right" href="{{ next_lesson.url | prepend: full_base_url }}">
-    <span class="h5 bold chevron-right">Volgende</span>
-    <p class="bold h3 link-primary mb-1">{{ next_lesson.title | truncate:30 }}</p>
-    <p>{{ next_lesson.content | markdownify | strip_html | truncate:300}}</p>
+  <a class="no-underline-hover py-1 block right" href="{{ next_lesson.url | relative_url }}">
+    <span class="h5 bold chevron-right"><span class="lang-af">{{ site.data.i18n.next.af }}</span><span class="lang-en">{{ site.data.i18n.next.en }}</span></span>
+    <p class="bold h3 link-primary mb-1">
+      <span class="lang-af">{{ next_lesson.title | truncate:30 }}</span>{% if next_lesson.title_en %}<span class="lang-en">{{ next_lesson.title_en | truncate:30 }}</span>{% else %}<span class="lang-en">{{ next_lesson.title | truncate:30 }}</span>{% endif %}
+    </p>
   </a>
 </div>
 {% endif %}

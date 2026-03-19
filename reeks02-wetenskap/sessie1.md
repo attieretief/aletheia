@@ -3,12 +3,16 @@ layout: lesson
 course: reeks02-wetenskap
 lesson: 2
 title: "Sessie 1 — Wat is Wetenskap Werklik?"
+title_en: "Session 1 — What Is Science Really?"
 description: "Die onderskeid tussen wetenskap as metode en sciëntisme as geloofsuitspraak — die sleutel wat die hele reeks oopsluit."
+description_en: "The distinction between science as method and scientism as a statement of faith — the key that unlocks the entire series."
 youtubeurl: "https://youtu.be/DC8HpVYuk9g"
 youtube_start: 342
 youtube_end: 398
 author: Attie Retief
 ---
+<div class="lang-af" markdown="1">
+
 # Wat is Wetenskap Werklik?
 
 ## Inleiding: "Die Wetenskap Sê..."
@@ -400,3 +404,401 @@ Die **Skrif** moedig ondersoek aan. Die skepping is God se werk, en om dit te be
 Die volgende sessie duik in die *geskiedenis* van wetenskap en geloof. Ons ondersoek die bewering dat wetenskap en godsdiens altyd in oorlog was, die sogenaamde "konflik-tese." Hierdie narratief is histories onhoudbaar, en die werklike geskiedenis vertel 'n veel ryker en verrassender verhaal. Van die Middeleeuse kerklike universiteite wat die moderne wetenskap moontlik gemaak het, tot die diep gelowige wetenskaplikes soos Kepler, Newton en Faraday: die verhouding tussen geloof en wetenskap is 'n verhaal wat die moeite werd is om reg te ken.
 
 Tot dan.
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+# What Is Science Really?
+
+## Introduction: "Science Says..."
+
+There are few phrases in our culture that carry as much authority as these three words: *"Science says."* It is the trump card in almost every conversation — about health, about politics, about the origin of the universe, about whether God exists. Someone need only say "science says" and the debate is over. Who is going to argue against science?
+
+But here is the irony: most people who use this phrase have never really thought about what science *is* and what it *is not*. They use "science" like a talisman, a magic word that automatically answers all questions and removes all doubt. In reality, science is a beautiful but *limited* instrument. To use it correctly, you first need to understand what it can do and what falls beyond its reach.
+
+Think about it: if you ask someone "What is science?", most people will say something like "it is when scientists do research" or "it is what happens in laboratories." But that is like saying music is "when people play instruments." Technically true, but it misses the deeper point entirely.
+
+What is science *really*? Its method, its history, its power and its limits. Not to tear science down. On the contrary. To *respect* science for what it truly is, rather than deifying it into something it was never meant to be. Because when we inflate science into an omniscient authority, we are no longer doing science. We are doing *philosophy*. And usually bad philosophy.
+
+This series, *Science & Reality*, builds on Series 1, where we laid the metaphysical foundation: God as the infinite Ground of all being, the *Logos* behind reality. Now we ask: how does science relate to that foundation? Has science made God redundant, or does it discover precisely the order and beauty that the Creator has woven into his creation?
+
+## 1. The Scientific Method: What Science Actually Does
+
+Science is, at its core, a *method*. A disciplined way of acquiring knowledge about the natural world. Not a body of eternal truths engraved on stone tablets, but a process of asking and answering, of testing and revising. That process has a specific structure:
+
+**Observation.** Everything begins with the attentive eye. A scientist notices something in nature that catches his attention. Apples fall to the ground, not upwards. Certain plants grow better in the shade. Light bends when it passes through water. Science begins with *empirical observation*: the careful, systematic study of what we can see, measure and weigh in the physical world.
+
+**Hypothesis.** On the basis of observation, the scientist forms an explanation — a *hypothesis*. Perhaps apples fall because there is a force that pulls objects towards the earth. Perhaps those plants grow better in the shade because they need less light for photosynthesis. The hypothesis is a provisional answer that still needs to be tested.
+
+**Testing.** This is where the experiment comes in. The scientist designs a way to test his hypothesis — to see whether the prediction holds. If the hypothesis is true, then X should happen under conditions Y. The test must be *repeatable*: other scientists must be able to replicate it and obtain the same results. This is one of the great strengths of the scientific method. It does not depend on one person's word. It is a communal enterprise.
+
+**Rejection or Confirmation.** If the experiment contradicts the hypothesis, it is rejected or adjusted. If it supports the hypothesis, the hypothesis is strengthened — but never absolutely proven. Science works through *provisional confirmation*, not through final proofs. Even the strongest theory remains open to revision if new data contradicts it. Newton's laws of gravity appeared untouchable for more than two centuries, until Einstein showed that they were a special case of a deeper reality.
+
+**Peer review.** Scientific results are submitted to the broader community for assessment. Other experts try to find errors, offer alternative explanations, replicate the work. This process is not perfect. It is influenced by social pressure, funding, fashions and personalities. But it is an essential mechanism of self-correction.
+
+The beauty of the scientific method lies in its combination of *boldness* and *humility*. Boldness, because the scientist dares to say: "I think I know how this works." Humility, because he always adds: "But I may be wrong, and I invite you to test me."
+
+This method has borne fruit that has transformed our lives. We understand the structure of atoms, the workings of the immune system, the age of stars. The scientific method has led to medicines that save millions of lives, technology that has reshaped the human experience, and a deeper appreciation of the complexity and beauty of nature.
+
+No one need be against science. The question is not whether science has value. It has tremendous value. The question is whether science is the *only* way to acquire truth.
+
+But note: the scientific method is designed to study the *natural*, *physical*, *measurable* world. It works with what is *empirically* accessible: matter, energy, space, time. It measures what is repeatable, tests what is experimentable, and observes what is observable through the senses or instruments.
+
+This means that the scientific method, *by its very nature*, is not equipped to answer questions that fall outside the empirical domain. It cannot pronounce on God, on morality, on the meaning of life, on love as more than chemical reactions, on the nature of consciousness, or on why there is something rather than nothing at all.
+
+This is not a failure of science. It is a *feature* of science — just as the fact that a telescope cannot hear music is not a failure of the telescope. It simply is not what it was designed for. Science's power is also its limitation: it focuses on the measurable, and thereby necessarily misses everything that is not measurable.
+
+Peter Medawar, the Nobel Prize winner for medicine, put it clearly in his book *The Limits of Science* (1984):
+
+> *"The existence of a limit to science is, however, made clear by its inability to answer childlike elementary questions having to do with first and last things — questions such as 'How did everything begin?' 'What are we all here for?' 'What is the point of living?'"*
+
+Medawar was not a theologian. He was one of the twentieth century's leading scientists. But he understood that the power of science lies precisely in its limitedness. By acknowledging what it *cannot* do, we also protect what it *can* do.
+
+## 2. The Philosophy of Science: How Scientists Really Think
+
+Most people think science is a simple, straight-line process: you do an experiment, get an answer, and move on. But the history and philosophy of science reveal a more complex picture. In the twentieth century, a series of thinkers researched how science actually functions, and their findings are surprising.
+
+### Karl Popper: Falsifiability and the Limits of Proof
+
+The Austrian-British philosopher Karl Popper (1902–1994) is often regarded as the most important philosopher of science of the twentieth century. His core insight was simple: science advances not by *proving* things, but by *refuting* them.
+
+Popper called this the *principle of falsification*. A statement is scientific if it is in principle refutable — if there is a possible observation that could prove it wrong. If someone says "all swans are white," that is scientific, because you can in principle find a black swan. (And indeed, when European explorers found black swans in Australia, the statement was refuted.) But if someone says "there are invisible elves in my garden who withdraw themselves from any possible observation," then that is *not* scientific. Not because it is necessarily untrue, but because no possible observation could refute it.
+
+Popper developed this principle partly in response to two influential schools of thought of his time: Marxism and Freudianism. He noticed that adherents of these systems could explain *any* possible observation within their framework. If a Marxist prediction did not come true, the theory was not adjusted; the data was reinterpreted. If a patient accepted a Freudian interpretation, it proved the interpretation; if he rejected it, that was "resistance," which also proved it. Such systems were, according to Popper, irrefutable — and precisely for that reason not scientific. He contrasted this with Einstein's theory of relativity, which made specific, testable predictions that could in principle be wrong. When Arthur Eddington measured the bending of light during a solar eclipse in 1919, the observation confirmed the theory. But the point was that it also *could have* refuted the theory. That was the mark of true science.
+
+This principle has far-reaching implications.
+
+A theory that has survived a thousand tests is strongly confirmed, but it is not *proven*. The thousand-and-first test may still refute it. That is why scientists speak of "theories" rather than "truths" — not because they are uncertain about everything, but because the scientific method acknowledges that all knowledge is provisional.
+
+Then there is the asymmetry of proof and refutation. You can never prove that all swans are white (because you have not examined all swans), but you can prove with one black swan that not all swans are white. Science advances by *eliminating* hypotheses, not by establishing them forever. Popper wrote that we never reach certainty; we simply become ever better at identifying our mistakes.
+
+And then the point that is often missed: what is not falsifiable is not scientific, but it is not necessarily *nonsense*. Popper's principle is a *demarcation criterion* that distinguishes science from non-science. But it does not say that everything that is non-science is worthless. Ethics, aesthetics, metaphysics, theology: these disciplines fall outside the scientific method, but that does not mean they are without value or truth. They simply yield a different type of knowledge from empirical science.
+
+Popper's work shows that science itself acknowledges that it cannot prove everything, and that the boundaries of science are not the boundaries of reality.
+
+### Thomas Kuhn: Paradigm Shifts and the Human Side of Science
+
+If Popper showed us how science *ought* to work, Thomas Kuhn (1922–1996) showed us how it *actually* works. In his book *The Structure of Scientific Revolutions* (1962), Kuhn traced the history of science and found something surprising: science does not progress in a smooth, cumulative line. It moves in sudden leaps.
+
+Kuhn introduced the concept of the *paradigm*. A paradigm is the prevailing framework within which scientists work at any given time. Not just a theory, but an entire way of seeing: a set of assumptions, methods, and questions considered important.
+
+Most of the time, Kuhn says, scientists do what he calls *"normal science."* They work within the paradigm, solve problems defined by the paradigm, apply the framework to new cases. Like solving puzzles within the rules of a particular game.
+
+But sometimes anomalies begin to accumulate — observations that do not fit within the paradigm. Initially they are ignored or explained away. Over time they become too many and too serious. Then a crisis erupts, and eventually a *paradigm shift* occurs: the old framework is discarded and a new one takes its place.
+
+Think of the history: the Ptolemaic model placed the earth at the centre of the universe, with the sun, moon and planets orbiting it in circles. For more than a thousand years it worked — reasonably well, with certain adjustments (such as the famous *epicycles*, small circles on top of large circles, to explain the observed motions of the planets). But anomalies accumulated. Copernicus, Kepler and Galileo proposed a new paradigm: the sun is at the centre, and the earth orbits it. This was not just a minor adjustment. It was a *total change of perspective*.
+
+A more recent example: at the end of the nineteenth century, Newtonian physics was considered nearly complete. Lord Kelvin is reported to have said that there were only two small clouds on the horizon of physics. Those two "clouds" exploded into the two greatest revolutions of twentieth-century physics: quantum mechanics and Einstein's theory of relativity. The entire framework within which physicists had thought was overturned: the absolute character of time and space, the predictability of particles, the nature of light. Not because the old physics was "wrong" (Newton's laws still work excellently for everyday applications), but because a deeper reality had become visible that required a larger framework.
+
+Kuhn's work yields several important insights for us.
+
+Science is not a purely rational process. Paradigm shifts are not driven by data alone, but also by social, cultural and psychological factors. Scientists are human. They have loyalties, emotions, reputations to protect, and they tend to defend the paradigm within which they were trained. Max Planck, himself a great physicist, drily remarked: *"A new scientific truth does not triumph by convincing its opponents... but rather because its opponents eventually die, and a new generation grows up that is familiar with it."*
+
+There is also no "God's-eye view" in science. Scientists always look through the lens of a paradigm. They see reality through a framework, and that framework largely determines what they see and do not see. This does not mean that science is arbitrary or unreliable. It means that it is *human*, with all the power and limitations that entails.
+
+And scientific "progress" is complex. After a paradigm shift, the new paradigm is not necessarily "better" in every respect than the old one. It solves different problems, asks different questions, sees the world in a different way. Kuhn was careful about saying that science necessarily moves closer to the "truth." Rather, he said, it becomes more effective in problem-solving.
+
+### Michael Polanyi: Tacit Knowledge and Personal Involvement
+
+The Hungarian-British scientist and philosopher Michael Polanyi (1891–1976) illuminated another dimension of science. In his major work *Personal Knowledge* (1958), he argued that all knowledge, including scientific knowledge, has a *personal* and *tacit* component.
+
+What does this mean? Polanyi observed that a scientist knows more than he can write down in formulas and data. A good experimenter has a *feel* for when an experiment is going right, an *intuition* about which hypotheses are worth pursuing. This knowledge is not learned from textbooks. It is built up through years of training, mentorship and practical experience. Like the ability to ride a bicycle: you cannot fully explain it in words, but you know it.
+
+Polanyi called this *"tacit knowledge."* He argued that this tacit dimension is not an incidental accessory of science, but the *foundation* on which all formal scientific knowledge rests.
+
+The consequences of this are far-reaching.
+
+Science is not a cool, detached process. It is a deeply personal enterprise that requires trust, commitment and judgement. A scientist chooses to investigate a particular problem, he trusts his mentors and the tradition within which he works, and he makes judgements that cannot be fully determined by rules or algorithms.
+
+Science also rests on a tradition. Just as a craftsman learns his skills within a master-apprentice relationship, scientists are trained within a tradition. They learn not just facts and formulas; they learn a way of thinking, of seeing, of judging. This tradition is not automatically transmitted. It requires personal involvement and trust.
+
+And the objectivity of science is not absolute. This does not mean that science is *subjective* in the sense of arbitrary. But the idea of a *purely objective*, *value-free* science is a myth. Every scientist brings his person, his convictions and his judgement to the table. The best science is not that which denies this human dimension, but that which acknowledges it and deals with it responsibly.
+
+For us as believers, Polanyi's work is particularly insightful. The *trust* and *commitment* that operate in science are not so different from the trust and commitment that operate in faith. The scientist *believes* that nature is orderly and comprehensible. He *trusts* that his senses and his reason are reliable. He *commits himself* to a tradition and a community. These "acts of faith" are not irrational. They are the necessary conditions for any acquisition of knowledge.
+
+Polanyi also showed that there is a hierarchy of knowledge domains that cannot be reduced to one another. The laws of physics do not explain biology, even though biology is built upon physics. The laws of biology do not explain consciousness, even though consciousness is connected to biological processes. Each higher level has its own principles that cannot simply be derived from the lower level. The claim that "everything is ultimately physics" ignores the way in which reality exists in layers, each requiring its own explanations.
+
+### Imre Lakatos: Research Programmes and Scientific Rationality
+
+The Hungarian philosopher Imre Lakatos (1922–1974) tried to find a middle way between Popper's rationalism and Kuhn's sociological approach. His model of *research programmes* offers a nuanced view of how scientists actually make decisions about what to believe and what to reject.
+
+According to Lakatos, a research programme consists of a *hard core* of central assumptions that are not negotiable, and a *protective belt* of auxiliary hypotheses that can be adjusted when problems arise. Scientists do not defend individual hypotheses; they defend entire programmes.
+
+A research programme is *progressive* if it predicts new facts and makes new discoveries possible. It is *degenerating* if it merely reacts to problems by making *ad hoc* adjustments without discovering anything new. Over time, progressive programmes replace the degenerating ones.
+
+The significance of Lakatos's model for our discussion is this: even the choice of which research programme to follow is not a purely mechanical process. It requires judgement, patience, and sometimes even faith that a programme currently experiencing problems will ultimately succeed. Scientists must sometimes go *against* the prevailing opinion, sometimes against the data as it currently appears, because they trust that their programme's hard core will ultimately bear fruit.
+
+Does that not sound strangely familiar? The structure of a research programme, with its non-negotiable core and its flexible periphery, is not entirely unlike how believers think about their confession. There are core truths that stand firm (the "hard core"), and there are applications and interpretations that develop with new insights (the "protective belt").
+
+The philosophy of science — from Popper to Kuhn to Polanyi to Lakatos — shows us a consistent picture: science is a *human enterprise*. Powerful, reliable in its domain, self-correcting over time. But not the cool, impersonal machine that popular culture makes of it. It rests on assumptions, requires judgement, is influenced by tradition and community, and has inherent limits.
+
+This does not mean that science is unreliable. It means that we should value it for what it *is* rather than deifying it into something it is not.
+
+## 3. Scientism versus Science: The Essential Distinction
+
+Here we come to one of the most important distinctions in this entire series: the distinction between *science* and *scientism*. The confusion between these two is responsible for much unnecessary conflict and misunderstanding.
+
+**Science** is a method for studying the natural world through empirical observation, hypothesis formation, testing and revision. It is a beautiful, powerful instrument.
+
+**Scientism** is the *philosophical claim* that the scientific method is the *only* valid way to acquire knowledge — that only what can be scientifically proven is true or meaningful.
+
+The difference is fundamental. Science is a method; scientism is a metaphysics. Science studies nature; scientism claims that nature *is all there is*. Science says: "This is what we can observe and measure." Scientism says: "If you cannot observe and measure it, it does not exist."
+
+### The Self-Defeating Nature of Scientism
+
+Here is the core problem with scientism: it undermines itself.
+
+The statement "Only scientific claims are valid" is itself *not* a scientific claim. No experiment can prove it. No laboratory can test it. No empirical observation can confirm it. It is a *philosophical* statement — precisely the kind of statement that scientism declares invalid.
+
+In other words: scientism uses philosophy to deny philosophy. It stands on the ladder of metaphysics to kick the ladder out from under itself. It is like saying "There is no language other than English" — in English. The statement does not contradict itself on the surface, but the moment you think about it, you realise it is logically inconsistent.
+
+Ludwig Wittgenstein, one of the twentieth century's most influential philosophers, used a striking metaphor applicable here. In his *Tractatus Logico-Philosophicus* (1921) he writes that the propositions of his book are like a ladder: someone who climbs it must ultimately acknowledge that the ladder itself must be transcended. The framework we use to delineate the boundaries of language and knowledge does not itself fall *within* those boundaries. The scientistic thinker uses precisely such a "ladder": he uses philosophy to claim that philosophy is unnecessary, and then must kick away the ladder and hope he does not fall.
+
+Sir Peter Medawar put it with characteristic clarity:
+
+> *"There is no quicker way for a scientist to bring discredit upon himself and upon his profession than roundly to declare — particularly when no declaration of any kind is called for — that science knows, or soon will know, the answers to all questions worth asking."*
+
+Medawar did not mean that scientists are foolish. He meant that a scientist who claims his method is the only path to truth is no longer speaking as a scientist. He is philosophising. And usually without realising it.
+
+### The History of Scientism
+
+Where does scientism come from? Not from science itself. Many founders of modern science, such as Galileo, Newton, Boyle and Faraday, were deeply believing people who would never have claimed that science is the only source of knowledge. Scientism has its roots rather in the Enlightenment philosophy of the eighteenth and nineteenth centuries, and in the positivism of Auguste Comte, who taught that humanity passes through three stages of development: the theological, the metaphysical and the positivistic (scientific). In Comte's system, science would eventually replace all other forms of thought.
+
+This vision has had great influence, but it is itself *not* scientific. It is a philosophical narrative about the history and destiny of humanity. Ironically, positivism was itself largely rejected by twentieth-century philosophy. The logical positivists of the Vienna Circle tried to reduce all meaningful statements to empirically verifiable statements, and discovered that this principle could not survive itself. The *verification principle* ("only verifiable statements are meaningful") is itself not verifiable. Positivism signed its own death warrant.
+
+Yet scientism lives on in popular culture, especially in the works of the so-called "New Atheists" such as Richard Dawkins, Sam Harris and the late Christopher Hitchens. These writers are competent in their own fields, but when they claim that science is the only reliable path to knowledge, they leave science and enter philosophy. Usually without realising it, and without the discipline that good philosophy requires.
+
+### How Do You Recognise Scientism?
+
+Scientism does not always come in an obvious form. It often hides in seemingly reasonable statements:
+
+- "I only believe what can be proven." (But can you *prove* that only provable things are true?)
+- "If science cannot find it, it does not exist." (That is like saying: "If my metal detector does not pick it up, there is no wood in the forest.")
+- "Everything is ultimately explicable by physics." (That is a *creed*, a metaphysical assumption, not a scientific finding.)
+- "We will *one day* be able to explain everything scientifically." (*One day* is not science. It is hope. And while there is nothing wrong with hope, we must not confuse it with empirical proof.)
+
+The point is not that these people are malicious. Many people who embrace scientism are sincere and intelligent. They simply have not realised that they are taking a philosophical position. They think they are "just following the science."
+
+### Alvin Plantinga's Observation
+
+The Reformed philosopher Alvin Plantinga made an astute point in his book *Where the Conflict Really Lies* (2011): the real conflict of our time is not between science and faith. It is between *scientism* and faith. Science, properly understood, is an ally of faith, not an enemy. But scientism — the philosophical claim that nothing exists beyond the natural world — is a *rival belief system*. And it is a belief system that is not even aware that it is one.
+
+This distinction is liberating. A believer does not have to choose between science and faith. You can fully embrace science as a powerful instrument for studying God's creation, and at the same time reject the philosophically excessive claims of scientism. This is not anti-science. It is pro-science and pro-honesty about the limits of the scientific method.
+
+## 4. The Presuppositions of Science
+
+Here we come to what may be the deepest point of this session — the point that connects directly with everything we discussed in Series 1.
+
+Science works. It delivers results. It makes predictions that hold true. But *why* does it work? Most scientists do not think about this; they are too busy *doing* science. But when we do reflect on it, we discover something remarkable: science rests on a series of *presuppositions* — assumptions that it cannot prove itself.
+
+**1. The external world exists and is real.**
+
+This sounds so self-evident that it hardly seems worth mentioning. But think about it: science *accepts* that there is a real world "out there," independent of our observation. This is not something science can prove, because every proof would already accept that the world is real. It is a *metaphysical* assumption — a philosophical conviction that precedes science.
+
+Philosophers through the centuries have wrestled with the question of whether the external world is real. From Descartes's *cogito ergo sum* to Berkeley's idealism to the brain-in-a-vat thought experiment: the point is not that the world is unreal, but that the *conviction* that it is real cannot itself be scientifically proven. It is a starting point, not a conclusion.
+
+**2. The universe is rationally ordered and follows consistent laws.**
+
+Science accepts that nature is patterned — that the same causes under the same circumstances will have the same effects. Without this assumption, science is impossible. If nature were arbitrary — if gravity pulled today and pushed tomorrow, if water sometimes flowed upward and other times downward — no experiment would make any sense.
+
+But why *is* nature like this? Why does the universe obey mathematical laws? Why is there order rather than chaos? These questions science cannot answer, because science *already accepts* order as its starting point. As Einstein observed:
+
+> *"The eternal mystery of the world is its comprehensibility... The fact that it is comprehensible is a miracle."*
+
+Einstein did not use the word "miracle" in a technically theological sense, but his point was profound: the fact that the universe is comprehensible is itself something that requires explanation. And that explanation cannot come from science alone.
+
+**3. Our minds can reliably observe and reason about this order.**
+
+Science accepts not only that the world is orderly. It also accepts that our *minds* are equipped to grasp that order. Our logic, our mathematics, our reasoning abilities: science trusts that these faculties are reliable, that they lead us to true insights about reality.
+
+But why would that be so? If our minds are merely the products of a blind, purposeless evolutionary process — if there is no rational ground behind reality — why would we expect our thinking to reliably reflect reality? The theory of evolution (in the naturalistic sense) says that our brain developed to help us survive, not to discover truth. A being that maintains certain illusions may survive just as well as one that accurately perceives reality.
+
+This is precisely the point Alvin Plantinga makes in his famous *Evolutionary Argument Against Naturalism* (EAAN): if naturalism is true and our cognitive faculties are merely the product of unguided evolution, we have no good reason to trust that our beliefs are true — including the belief that naturalism itself is true. Naturalism undermines the reliability of the very reason we need to evaluate naturalism. It is a deep irony.
+
+**4. Mathematics describes physical reality.**
+
+The natural sciences, and especially physics, make extensive use of mathematics. Natural laws are expressed in mathematical equations. And it *works*: the mathematical models predict reality with astonishing accuracy.
+
+But why? Mathematics is on the face of it an abstract, mental activity. It deals with numbers, shapes and structures that do not physically exist. Why would an abstract creation of the human mind describe the physical universe so accurately? The physicist Eugene Wigner spoke in a famous article about *"the unreasonable effectiveness of mathematics in the natural sciences"* — the unreasonable effectiveness of mathematics. He had no explanation for it. From a naturalistic framework it is a puzzle. From a theistic framework it makes perfect sense: a rational God created a mathematically structured universe and made rational beings capable of discovering that structure.
+
+**5. The uniformity of nature (the future will resemble the past).**
+
+Science accepts that the laws of nature hold *always and everywhere* — that the laws that hold today will also hold tomorrow, and also in far-off galaxies. Without this assumption, no scientific prediction can be made. But the philosopher David Hume already showed in the eighteenth century that this assumption cannot be logically proven. The fact that the sun has risen every day until now does not *prove* that it will rise tomorrow. It gives us only a strong habit of expectation.
+
+This is known as the *problem of induction*: the leap from "this has happened so far" to "this will always happen" is logically not guaranteed. Science *accepts* induction, but cannot prove it. Yet another presupposition. Yet another act of faith.
+
+And here is the point that brings everything together — the point that takes us back to Series 1 and the heart of this discussion.
+
+Each of these presuppositions is a *metaphysical* assumption: the reality of the world, the rational order of nature, the reliability of the mind, the applicability of mathematics, the uniformity of nature. Not one of them can be proven by science itself. Science *rests* on them; it does not *prove* them.
+
+But here is the remarkable thing: each of these assumptions is precisely what a *classical theistic worldview* would predict.
+
+If there is a rational God who created the universe, then we would expect that:
+- the world is real and substantial (it is God's creation, not an illusion);
+- nature is orderly and law-governed (it reflects the rational nature of the Creator);
+- our minds are able to comprehend nature (we are made in the image of the Rational God, the *imago Dei*);
+- mathematics describes nature (both the mathematical structure of the universe and our mathematical ability come from the same Source);
+- nature is consistent (God is faithful and sustains his creation).
+
+In other words: the *presuppositions* on which science rests are best explained by classical theism. Science, without realising it, operates within a framework that makes the most sense if God exists.
+
+This is not a *"God of the gaps"* argument. We are not saying "we cannot explain this, therefore God." It is precisely the opposite. Science *works*, and the question is *why* it works. The answer does not lie in a gap in our knowledge, but in the *foundation* of all knowledge. It is like asking why the floor can bear your weight. The answer is not a gap in the floor; it is the foundation beneath the floor.
+
+Herman Bavinck, the great Reformed theologian, wrote extensively in his *Reformed Dogmatics* about the relationship between God's *general revelation* and human knowledge. God reveals Himself not only in Scripture, but also in creation — in the order, the beauty, the lawfulness of nature. Science, when it studies nature, is in reality studying God's works. Bavinck argued that the possibility of all true knowledge rests on the fact that God created the human mind to stand in relation to his creation — that there is a *correspondence* between our thinking and reality, because both find their origin in the same God.
+
+Abraham Kuyper illuminated this from a different angle with his principle of *sphere sovereignty*. Kuyper taught that each sphere of life (science, art, church, state, family) has its own domain established by God. Science has its own sphere and its own laws. It is not the task of the church to prescribe to science what it must find, and it is not the task of science to declare theology redundant. Each sphere has its own authority and its own limitations, and all stand under the sovereignty of God.
+
+This principle is liberating in two directions. On the one hand, it frees science from ecclesiastical domination: the scientist may follow his research wherever it leads, without the church constraining him. On the other hand, it frees theology from scientific imperialism: science does not have the right to declare that it is the *only* valid source of knowledge, because that would exceed its own sphere. Kuyper's framework gives each its place without annexing the other's territory.
+
+We can embrace science without surrendering our faith, and confess our faith without rejecting science. The two are not in competition. They operate in different spheres, under the same God.
+
+This is, as we discussed in Series 1, the *Logos* — the Divine Reason that structures reality. John 1:1–3 says: *"In the beginning was the Word, and the Word was with God, and the Word was God. All things were made through him, and without him was not any thing made that was made."* (ESV) The *Logos* is not merely a religious idea. It is the *ground* of the rational structure of reality that science studies. When a physicist discovers a mathematical law that describes nature, he discovers an expression of the Logos. When a biologist investigates the complexity of the cell, he is looking at the handiwork of the Logos.
+
+Science, properly understood, is not a threat to faith. It is, at a deep level, an expression of it.
+
+## 5. What Science Cannot Answer
+
+Science is a powerful instrument within its domain. But what lies *outside* that domain? Which questions are fundamentally beyond the reach of the scientific method? This is not a rhetorical question. It is a concretely philosophical one, and it has directly to do with the questions that trouble people most in life.
+
+### Why is there something rather than nothing?
+
+This question, which Leibniz called the *ultimate question* and which we discussed extensively in Series 1, falls entirely outside the reach of science. Science can study the *structure* of what exists, but not the *fact* that it exists. Physics can explain how matter and energy interact, but not why there is matter and energy to interact with.
+
+Even if a physicist were to claim that the universe arose from "nothing" (as some cosmological models suggest), that "nothing" is not really *nothing*. It is a quantum vacuum with mathematical properties and physical potential. It is a *something*. The question "Why is there anything at all?" remains.
+
+### What is consciousness?
+
+The so-called *hard problem of consciousness*, as the philosopher David Chalmers called it, is one of the deepest puzzles of our time. We know that brain activity accompanies conscious experience. But *why*? Why is there a subjective "what it feels like" when certain neurons fire? Why is the brain not simply a dark, unconscious machine that processes information without any inner experience?
+
+Neuroscience can identify correlations: "this brain area is active when you experience pain." But it does not explain *why* there is a subjective experience of pain. This is not a gap in our current knowledge; it is a fundamental limit of the physically empirical approach. We will discuss this theme in depth in Session 6 of this series.
+
+### What is morally right?
+
+Science can describe *what people do*: their behaviour, their tendencies, the evolutionary origins of moral intuitions. But it cannot say *what people ought to do*. The leap from "is" to "ought" — which the philosopher David Hume called the *is-ought gap* — is not a scientific leap. It is a philosophical and moral one.
+
+Neuroscience can show that people have an emotional reaction when they see injustice. But it cannot say that injustice *is wrong* — only that people *feel* it as wrong. If morality is nothing more than brain currents, then the statement "it is wrong to abuse children" has no more authority than "I dislike spinach." Most people intuitively realise that this is absurd — that morality is *more* than personal preference. But that "more" falls outside the domain of science.
+
+### What is the meaning of life?
+
+Why are we here? What do we live for? Does life have a purpose? These questions are universal and deeply human, but they are not scientific questions. Biology can explain how life originated and how it functions. It cannot say *what it is for*.
+
+The physicist Steven Weinberg wrote: *"The more the universe seems comprehensible, the more it also seems pointless."* But note: Weinberg did not say that science has *proven* that the universe is pointless. He said it *seems* so from a purely scientific perspective. Of course it seems so. Science is not designed to find *meaning*; it is designed to find *mechanisms*. To say that the universe "seems pointless" from a scientific perspective is like saying that a sunset "seems colourless" when you view it through a black-and-white camera. The limitation lies in the instrument, not in the reality.
+
+Think about how absurd it would be if a chemist were to say: "I have analysed Rembrandt's *Night Watch*. It consists of paint, pigments, oils, binders on canvas. There is no *meaning* to be found in this material. Therefore the painting has no meaning." The analysis is correct. The painting *is* material. But the conclusion is absurd. The meaning of the painting is real, but it falls on a different level than what chemistry can measure. Just so, the meaning of life is real, but it falls on a level that physics and biology cannot reach.
+
+The Preacher knew long ago that life, without a transcendent frame of reference, looks "vanity." *"Vanity of vanities,"* the book of Ecclesiastes begins (1:2, ESV). But the Preacher's conclusion is not nihilism. It is that life *without God* is empty, and that the fear of the Lord and the keeping of his commandments is "the whole duty of man" (Eccl. 12:13, ESV). The emptiness that the naturalist experiences is not proof that there is no meaning. It is a symptom of a worldview that is too small for reality.
+
+### Why is the universe rationally ordered?
+
+This is perhaps the deepest question of all. Science discovers order in nature. But *why is there order*? Why does the universe obey mathematical laws? Why is reality comprehensible?
+
+This question cannot be answered from within science, because science *accepts* order as its starting point. To say "the laws of nature explain the order" is circular. It is like saying "the rules of the game explain why there is a game." The rules describe the order; they do not explain it.
+
+The mathematician and physicist Roger Penrose calculated that the initial state of the universe had to be so precise that the chance of obtaining it by accident is 1 in 10^(10^123) — a number so large that it exceeds all existing atoms in the universe. Science can *describe* this precision, but it cannot *explain* why the universe is so finely tuned. It can say *how* the laws work, but not *why* there are such laws. And that is precisely where philosophy and theology become indispensable.
+
+If the universe is the product of a Rational God — the *Logos* of John 1 — then the rational order of nature is not an inexplicable stroke of luck. It is the expression of the Creator's nature. The order is there because the Orderer is there. The lawfulness of nature reflects the faithfulness of the God who sustains it. As Jeremiah 33:25–26 puts it: *"If I have not established my covenant with day and night and the fixed order of heaven and earth..."* (ESV) God Himself links His faithfulness to his creation to the consistency of the natural laws.
+
+These questions are not "problems" that science has simply not yet solved. They are not "gaps" that some future discovery will fill. They fall *fundamentally* outside the scientific domain — just as the question "What colour is the note C?" falls outside the domain of music. The question is not nonsense. It is simply the wrong kind of question for that particular discipline.
+
+A scientist who says "science cannot answer that, therefore the question is meaningless" has made a philosophical error. He has confused the limits of his instrument with the limits of reality. It is like a man who has only a hammer and then claims that everything is a nail. The hammer is an excellent tool for nails. But the world consists of more than nails.
+
+## 6. The Biblical View of Inquiry
+
+What does Scripture itself say about human inquiry and discovery? The answer may surprise — especially those who think that the Bible and intellectual curiosity stand opposed to each other.
+
+Proverbs 25:2 says something remarkable:
+
+> **Proverbs 25:2** — "It is the glory of God to conceal things, but the glory of kings is to search things out." (ESV)
+
+Think about what this verse says. God *conceals* things — not to frustrate us, but to invite us to seek. And the *search itself* is described as a matter of honour, a kingly activity. The person who investigates nature, who tries to unravel the secrets of creation, is doing something royal — something befitting his dignity as a bearer of God's image.
+
+In the ancient world, many cultures regarded nature as sacred and untouchable; to investigate it was blasphemy. The biblical tradition puts it differently: nature is *created* by God — it is not itself God. It may be studied. It *should* be studied. Because in studying it we discover the wisdom and power of the Creator.
+
+Psalm 111:2 confirms this:
+
+> **Psalm 111:2** — "Great are the works of the LORD, studied by all who delight in them." (ESV)
+
+The Hebrew word translated "studied" here (*darash*) means to inquire diligently, to seek deeply. It is the same word used for theological study. The Psalmist says: the works of God — his creation — are worthy of careful investigation. And the motivation is not mere curiosity. It is *delight*. The believing scientist studies nature because it fills him with wonder and joy.
+
+This is science as worship.
+
+Psalm 19:1–4 is perhaps the classic text on creation as revelation:
+
+> **Psalm 19:1–4** — "The heavens declare the glory of God, and the sky above proclaims his handiwork. Day to day pours out speech, and night to night reveals knowledge. There is no speech, nor are there words, whose voice is not heard. Their voice goes out through all the earth, and their words to the end of the world." (ESV)
+
+Creation *speaks* — not in audible words, but in a language of order, beauty and wisdom that echoes throughout the whole earth. The scientist who studies nature is listening to this language. He may not call it that, but when he admires the elegance of a mathematical law or investigates the intricacy of a biological system, he is experiencing something of what the Psalmist describes.
+
+Many of the great scientists throughout history experienced this wonder in their work. Johannes Kepler, the man who discovered the laws of planetary motion, explicitly described his work as "thinking God's thoughts after Him." Isaac Newton regarded the order of the universe as evidence of an intelligent Creator. James Clerk Maxwell, whose equations united electricity and magnetism, prayed that his work would be to God's glory. Michael Faraday, the founder of electromagnetic theory, was a deeply believing man whose conviction that God's creation is orderly and comprehensible drove him to discover the hidden laws of nature. These people were not believers *despite* their science. They were scientists whose faith precisely drove them to investigate creation.
+
+Romans 1:19–20 emphasises the same point:
+
+> **Romans 1:19–20** — "For what can be known about God is plain to them, because God has shown it to them. For his invisible attributes, namely, his eternal power and divine nature, have been clearly perceived, ever since the creation of the world, in the things that have been made. So they are without excuse." (ESV)
+
+Paul does not say that creation is the *complete* revelation of God; for that we need Scripture and the Spirit. But he says that creation reveals *enough* to leave humanity without excuse. The order and beauty of nature point to the Creator.
+
+From this biblical framework we can say that the scientific enterprise is not merely a neutral, secular activity. It is, in its deepest essence, a *calling* — a response to God's invitation to investigate and enjoy his creation.
+
+This does not mean that every scientist is or must be a believer. Many excellent scientists are not believers, and their scientific work is no less valid for it. The point is rather that the *possibility* of science — the fact that nature is studyable, that the human mind is able to comprehend it, that there is order to discover — makes the most sense within a theistic framework.
+
+Abraham Kuyper put it this way in his *Stone Lectures* (1898): Calvinism liberated science by teaching that nature is created (and therefore studyable), that the human mind is made in God's image (and therefore reliable), and that all domains of life stand under God's lordship. Kuyper left no doubt: *"There is not a square inch in the whole domain of our human existence over which Christ, who is Sovereign over all, does not cry: 'Mine!'"* That includes the laboratory.
+
+## 7. Practical Implications: How to Respond
+
+How do these insights become practical? Here are a few situations that believers regularly encounter, with guidelines for how to think about them.
+
+### "I only believe what science can prove."
+
+This statement initially sounds reasonable. But ask yourself: can science *prove this statement itself*? Is there an experiment that can demonstrate that only scientifically provable things are true? No. This statement is a *philosophical* conviction — precisely the kind of thing it says you cannot believe.
+
+The kindest answer is something like: "I have great respect for science. But the statement 'only scientific knowledge is valid' is itself not a scientific finding. It is a philosophical position. So we are already philosophising together. The question is simply: which philosophy has the best grounds?"
+
+This approach is not aggressive. It acknowledges the value of science. It simply points out kindly that the other person has already taken a philosophical step they may not have realised.
+
+You could also kindly ask: "Do you believe that other people truly have consciousness, or is that just an assumption?" Of course they will say they believe it. "But can you prove that scientifically? Can you demonstrate in a laboratory that your wife or your child truly has an inner life?" No. Yet it is one of the most fundamental things we know. The point is not to cause embarrassment, but to show that we *all* rely on more than the scientific method for our deepest convictions — and that it is entirely rational to do so.
+
+### "Science and religion are at war."
+
+This narrative — the so-called *conflict thesis* — is one of the most persistent myths in our culture. In the next session we examine it in historical detail and will see that it rests on a misunderstanding of history. For now we can simply say: the vast majority of historians of science rejected the conflict thesis long ago. The relationship between faith and science has always been far more nuanced and fruitful than the popular narrative suggests.
+
+If someone makes this point, a good starting point is to ask: "Can you give me a specific example?" Usually they will mention Galileo (we will discuss this in the next session in detail), and it almost always turns out that the real history is far more complicated than the caricature.
+
+### "There is no evidence for God."
+
+This statement depends entirely on what you mean by "evidence" — and that is a *philosophical* question, not a scientific one.
+
+If by "evidence" you mean "empirical, laboratory-testable data," then it is true that God does not have that kind of evidence — because God is not a physical object that can be examined in a laboratory. But this is not a problem for theism; it is a limitation of the method. Science cannot put gravity in a test tube; it can only observe the *effects* of gravity. In the same way, the theist can argue that we observe the *effects* of God's existence everywhere: in the existence of the universe, in the rational order of nature, in the reality of consciousness, in the moral order, in the beauty of creation.
+
+The question is not whether there is *evidence*. The question is what *kind* of evidence is appropriate for what *kind* of reality. You do not prove love in a laboratory, but that does not mean love is unreal. You do not test mathematical truths with a microscope, but that does not mean mathematics is invalid. As we discussed extensively in Series 1, the arguments for God's existence are *philosophical* arguments — and they are powerful, coherent arguments that have been developed and refined by the best thinkers of the past two and a half thousand years.
+
+The Reformed tradition adds something important here. Calvin taught that the problem is not a lack of evidence; creation cries it out, as Psalm 19 says. The problem is that fallen humanity *suppresses* this evidence (Rom. 1:18). The *sensus divinitatis*, the inbuilt awareness of God, is darkened by the Fall. That is why the work of the Holy Spirit is needed to open our eyes to what truly lies before us. The evidence is there; it is our perception that is defective.
+
+Bavinck worked out this point with great clarity. He argued that all people have an innate knowledge of God — not a complete dogmatic knowledge, but a deep, indelible awareness that there is a transcendent Reality. This knowledge, however, is clouded and suppressed by sin. The natural person sees the evidence but rejects the conclusion. He admires the order of nature but denies the Orderer. As Paul puts it in Romans 1:21: *"For although they knew God, they did not honor him as God or give thanks to him, but they became futile in their thinking, and their foolish hearts were darkened."* (ESV)
+
+We as believers do not stand in a position of weakness when we are in conversation about the evidence for God. The evidence is overwhelming: in the existence of the universe, in its rational order, in the reality of consciousness, in the moral dimension of human experience. The challenge is not a lack of evidence, but a resistance to the conclusion to which the evidence leads.
+
+In each of these cases, the basic principle is the same: distinguish carefully between *science* (the method) and *scientism* (the philosophy). Science is our friend. Scientism is a hasty philosophical assumption that cannot justify itself.
+
+We need not be afraid of scientific discoveries. Every true discovery is a discovery of God's handiwork. What we must reject is not science, but the *philosophically excessive interpretation* of science that claims it is the only path to truth.
+
+## 8. Summary and Preview
+
+The **scientific method** is a powerful, disciplined way of studying the natural world. It works through empirical observation, hypothesis formation, testing and revision. Its power lies in its focus and its self-correction.
+
+The **philosophy of science** — from Popper to Kuhn to Polanyi to Lakatos — shows us that science is a human enterprise: powerful, but not infallible; progressive, but not linear; rational, but not detached from tradition, judgement and trust.
+
+**Scientism** — the philosophical claim that science is the only path to knowledge — is self-defeating. It makes a philosophical claim that denies its own validity. It is not science; it is bad philosophy.
+
+The **presuppositions of science** are metaphysical assumptions best explained by classical theism. The God who is the *Logos* — the Reason behind reality — is the ground on which science stands, even when it is not aware of it.
+
+The **limits of science** are real, but they are not failures. Questions about existence, consciousness, morality, meaning and order fall outside the empirical domain. To answer these questions, we need philosophy, theology and wisdom — not as a replacement for science, but as indispensable complements. As the Reformed theologian Cornelius Van Til often emphasised: all facts are *God's facts*, and all true knowledge is ultimately knowledge that stands in relation to God's self-knowledge. Science does not discover "neutral" facts; it discovers God's works, whether the scientist realises it or not.
+
+**Scripture** encourages inquiry. Creation is God's work, and to study it is a royal honour. Science, rightly understood, is an act of wonder. And wonder is the beginning of worship.
+
+### Next Session
+
+The next session plunges into the *history* of science and faith. We examine the claim that science and religion have always been at war — the so-called "conflict thesis." This narrative is historically untenable, and the real history tells a far richer and more surprising story. From the medieval church universities that made modern science possible, to the deeply believing scientists such as Kepler, Newton and Faraday: the relationship between faith and science is a story well worth knowing properly.
+
+Until then.
+
+</div>

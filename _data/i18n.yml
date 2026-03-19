@@ -1,0 +1,38 @@
+# UI string translations
+# Usage in templates: site.data.i18n.<key>.af / site.data.i18n.<key>.en
+
+articles:
+  af: "Artikels"
+  en: "Articles"
+
+read_more:
+  af: "Lees meer →"
+  en: "Read more →"
+
+read_further:
+  af: "Lees Verder"
+  en: "Read More"
+
+previous:
+  af: "Vorige"
+  en: "Previous"
+
+next:
+  af: "Volgende"
+  en: "Next"
+
+by_author:
+  af: "deur"
+  en: "by"
+
+no_articles:
+  af: "Geen artikels beskikbaar nie."
+  en: "No articles available."
+
+subtitle:
+  af: "'n Soeke na Waarheid in die Christelike geloof"
+  en: "A Search for Truth in the Christian Faith"
+
+description:
+  af: "Aletheia is 'n Afrikaans Gereformeerde kursusreeks wat geloof, filosofie en wetenskap saamweef — 'n soeke na waarheid vir denkende gelowiges."
+  en: "Aletheia is an Afrikaans Reformed course series weaving together faith, philosophy and science — a search for truth for thinking believers."

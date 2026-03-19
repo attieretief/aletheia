@@ -3,12 +3,16 @@ layout: lesson
 course: reeks01-grondslag
 lesson: 5
 title: "Sessie 3 — God en die Werklikheid: Hoe Hou God Alles in Stand?"
+title_en: "Session 3 — God and Reality: How Does God Sustain All Things?"
 description: "God se verhouding tot die skepping: nie 'n horlosiemaker wat wegstap nie, maar die voortdurende Grond van alle bestaan."
+description_en: "God's relationship to creation: not a clockmaker who walks away, but the ongoing Ground of all existence."
 youtubeurl: "https://youtu.be/bO-Wg1JNnIM"
 youtube_start: 746
 youtube_end: 860
 author: Attie Retief
 ---
+
+<div class="lang-af" markdown="1">
 
 # “Hoekom is daar iets eerder as niks?” – Die Vraag na Bestaan
 
@@ -245,5 +249,248 @@ God se selfopenbaring as “Ek is” wys op sy selfbestaande aard. Hy is nie afh
 * Sproul, R.C. *Defending Your Faith*. Crossway, 2003.  
    – ’n Toeganklike inleiding tot klassieke argumente vir God se bestaan, geskryf met ’n pastorale toon.
 
-* Craig, William Lane. *Reasonable Faith*. Crossway, 2008.  
-   – ’n Moderne verduideliking van die kalām-kosmologiese argument en hoe dit saamwerk met die Bybelse wêreldbeskouing.
+* Craig, William Lane. *Reasonable Faith*. Crossway, 2008.
+   – ‘n Moderne verduideliking van die kalām-kosmologiese argument en hoe dit saamwerk met die Bybelse wêreldbeskouing.
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+# "Why Is There Something Rather Than Nothing?" — The Question of Existence
+
+## Introduction
+
+One of the deepest questions a person can ask is: **"Why is there something rather than nothing?"** On the surface it sounds simple, almost childlike, but it is a question that has occupied the sharpest thinkers through the centuries. For all of us, whether we realise it or not, it is the fundamental question of everything. For if there is no answer to it, nothing else has ultimate meaning.
+
+Think for a moment: there is a universe. There are stars, planets, mountains, oceans, people, thoughts, love, pain, hope. There are laws of nature, patterns, order. We so readily accept that all of this just "is there". But why is there *something*, and not just an endless nothingness where no light, no time, no space ever existed? Nothing, in the most radical sense of the word.
+
+For the classical Christian tradition this question is not merely a philosophical game. It is an invitation to look back to the ultimate origin — to that reality which itself has no origin — the eternal, self-existent God. Thinkers such as Augustine, Thomas Aquinas and Gottfried Leibniz recognised that the fact of existence itself requires an explanation that cannot lie in yet another contingent thing. At some point we must arrive at something — or rather Someone — whose existence is not dependent on anything else.
+
+David Bentley Hart puts it sharply: God is not a "something" among other things that exist, an extraordinary object somewhere in the universe or out there beyond it. God is not one participant in the game of existence; He is the very possibility of the game itself. He is the ground and ongoing bearer of every moment's reality. He is, in the language of classical theology, *being itself* — the act of existing itself.
+
+And because He is this, the question of God is not a side issue for the believer. It is the question that carries the entire worldview. If God exists as the Bible and the great tradition understand Him, He is not merely a supplement to an already explicable world. He is the reason there is a world to explain.
+
+In this session we reflect philosophically on this question and see how the Bible itself affirms that all things are ultimately from and through and to God. We consider why materialism cannot offer a satisfying answer, what role the principle of sufficient reason plays, and how the idea of God as the ground of being lays a firm foundation for faith, worship and a meaningful life.
+
+---
+
+## Why Materialism Fails
+
+**Materialism** — the conviction that nothing exists but matter and physical processes — often tries simply to wave away this great question. The typical answer runs: "Things just exist. There is no reason or purpose behind them. That is just the way it is."
+
+To some this sounds liberating: no mystery, no God, no responsibility. But for the person who thinks seriously, it is an empty answer. It is like telling someone who asks why there is an entire city here: "Well, it just happened." That explains nothing; it merely restates the question in another form.
+
+Materialism can describe the **mechanisms** by which things change, develop and move — it can explain the "how". But it cannot address the **why**: why there is anything at all — matter, energy, laws, space and time — to work with.
+
+Here lies David Bentley Hart's point: Materialism looks at the phenomena on the surface of existence and takes it for granted that there is a "surface". It does not ask about the deeper reason why there is anything to observe at all. It is like admiring the decoration of a house without ever asking how the house got there.
+
+If we try to explain everything that exists by merely pointing to other things that exist, we go in a circle. For example: you ask why this planet is here, and someone says it formed from a galaxy. You ask why that galaxy is here, and the answer is that it came from the remnants of a previous star. The pattern repeats itself until you finally ask: "Yes, but why is there any matter and energy to begin with?"
+
+Materialism has no instrument to answer that question, because it has already assumed that the universe is the ultimate reality. But that is precisely the assumption that must be questioned. If there is no necessary source outside the universe, the universe's existence itself must be an accidental, unexplained fact. And yet in our reason and intuition we sense that such "brute facts" about everything that exists are unsatisfying. We feel, and think, that there must be a reason that carries everything.
+
+In the light of the Christian understanding, that reason is not an impersonal natural law or a mere coincidence, but the living God who has existed from eternity and through whom all things came into being and continue to exist.
+
+## Contingent versus Necessary
+
+To understand the question of existence, we must first distinguish between what is **contingent** and what is **necessary**. This distinction lies at the heart of the classical Christian understanding of God and is the key to seeing why the universe cannot be its own ultimate explanation.
+
+**Contingent** means: something that owes its existence to something else. It need not necessarily exist, and if circumstances had been different, it would not have existed. Examples include people, trees, mountains, stars, molecules — everything that can change, can arise and can disappear again.
+
+**Necessary** means: something that exists by its own nature. It is not dependent on anything else to exist, and it is impossible that it should not exist. Such existence is self-explanatory, without a cause outside itself.
+
+When we study the reality around us, we see that everything we observe is contingent. Even the greatest galaxies are dependent on conditions that lie outside themselves. They are like links in a chain — each link holds the next, but no link explains the existence of the entire chain. Even if the chain were infinitely long, it would still have no reason why there is a chain at all.
+
+David Bentley Hart points out that to arrive at the ultimate reason for existence, we cannot simply go infinitely backward from cause to cause. Even an infinite row of dominoes falling over does not explain why there are any dominoes at all or why they were placed there. The entire setup, whether short or infinitely long, remains dependent on something outside itself that causes it to be.
+
+From this it follows that there must be something necessary — a reality that is not dependent on anything else, but that is itself the source and bearer of everything that exists. In the Christian understanding this is God: the self-existent, eternal Creator who did not merely bring things into being at the beginning, but who continuously sustains all things.
+
+This necessary existence is not a "gap" in our knowledge where we simply insert God because we can think no further. It is the logical and metaphysical consequence of the fact that nothing we see is itself its own reason for existing. Only a necessary, self-existent reality can be the ultimate explanation for why there is something rather than nothing.
+
+## The Principle of Sufficient Reason
+
+The **Principle of Sufficient Reason** (in Latin: *principium rationis sufficientis*) is one of the basic principles of logical and philosophical thought. It states simply that **for anything that exists or happens, there must be a reason why it is so and not otherwise**. This reason may sometimes lie within the thing itself, or it may lie outside it, but there is always an explanation.
+
+We use this principle daily, often without thinking about it. If you wake up in the morning and your car is not in the driveway where you left it yesterday, you immediately assume there is a reason: someone stole it, your family moved it, or you parked it somewhere else. You would regard it as absurd if someone were to say: "There is no reason, it is just the way it is." Our minds automatically accept that things do not simply happen without a reason.
+
+Gottfried Wilhelm Leibniz used this principle to pose the question: **"Why is there something rather than nothing?"** If everything that exists is contingent, the reason for its existence can never ultimately lie in ourselves or in an endless series of other contingent things. The ultimate explanation must lie in something that exists necessarily — something that carries the reason for its own existence within itself.
+
+David Bentley Hart emphasises that this principle is not merely a man-made rule or a convenient method of thinking, but a reflection of how reality works. If we were to reject it, all rational inquiry would collapse. Science, history and everyday logic all presuppose that things are explicable. Without this principle we lapse into arbitrariness, where everything is merely a brute fact without reason.
+
+In the Christian understanding, God is the ultimate "sufficient reason" for everything that exists: the eternal source who continuously makes the existence of all things possible. Acts 17:28 expresses it poetically: "In him we live and move and have our being." This is a direct biblical affirmation that the reason for everything that is ultimately lies in Him.
+
+To accept the Principle of Sufficient Reason is therefore to recognise that we cannot rest in an explanation that says "it is just the way it is." It drives us to ask until we arrive at the only possible ultimate answer: the necessary, self-existent God.
+
+## Two Forms of the Cosmological Argument
+
+The **cosmological argument** is one of the oldest attempts to explain why there is something rather than nothing. It begins with the fact of existence and asks what the ultimate reason for it is. Through the centuries Christian thinkers have developed two main forms of this argument: the **temporal** (or kalam) version and the **contingency** version.
+
+### 1. The temporal (kalam) cosmological argument
+
+This version focuses on the idea that the universe had a beginning. If it had a beginning, there must be something that brought it into existence. Everything that begins to exist has a cause; the universe began to exist; therefore the universe has a cause.
+
+Modern cosmology has strengthened this line of thinking. Most scientists today accept that time, space, matter and energy all had a beginning in what we call the "Big Bang". This means that the cause of the universe must lie outside time and space — not dependent on physical laws or processes. Such a cause must be supra-physical, eternal and self-existent.
+
+### 2. The contingency cosmological argument
+
+This version does not look at a starting point in time, but at the nature of existence itself. Even if the universe had no beginning, it would still be contingent — it would still be dependent on something else for its existence. As we saw earlier, even an infinite chain of contingent things cannot ultimately explain its own existence. The reason for existence must lie outside the chain itself.
+
+Here the argument connects to the **Principle of Sufficient Reason**: there must be an ultimate necessary reality that is itself not dependent, but that carries everything else. In the Christian understanding this is God — not a being who merely intervened at the beginning, but the eternal sustainer of all that is.
+
+### Why both arguments matter
+
+The two forms of the cosmological argument complement each other. The temporal version helps us understand that the universe has an origin that lies outside itself, while the contingency version shows that even if there were no beginning, there must still be an ultimate necessary ground of existence.
+
+David Bentley Hart reminds us that these arguments are not mere speculations, but logical conclusions flowing from the most basic question a person can ask. They point away from a universe that is merely coincidentally here, and towards an eternal, self-existent God who is the source of all reality.
+
+## God as the Ground of Being
+
+When the classical Christian tradition speaks of God, it does not mean an extraordinary being somewhere in the universe who is merely more powerful or older than everything else. God is not simply the first member in a long series of causes, and He is not just one object among many others. God is the ground of everything that exists: the reason why there is anything rather than nothing.
+
+David Bentley Hart describes it thus: God is not one participant in the "game" of existence; He is the very possibility of the game itself. Everything that exists shares in the act of being that has its origin in Him. In the language of classical theology, God is *ipsum esse subsistens* — subsistent being itself. He does not *have* existence the way we do; He **is** existence.
+
+This means that God's relationship to the world is not like the relationship between one object and another. God does not stand over against creation as an architect stands over against a building he designed long ago and then abandoned. No — He is more like the ongoing light of the sun that illuminates everything. If the light disappears, everything made visible by it disappears.
+
+This understanding helps us avoid a common misconception: the idea that God once long ago started the universe and then "stepped back." According to the Bible and the classical tradition, God is not just the Original Creator but also the continuous Sustainer. Colossians 1:17 says of Christ: "He is before all things, and in him all things hold together." If God were to cease carrying His creation, everything would immediately cease to exist.
+
+To see God as the ground of being also brings a change in how we think about worship. We worship Him because He is the source and reason for our very existence. Everything we are and have flows from Him at every moment.
+
+This view is radically different from the materialistic picture of a universe that merely exists through blind processes. In the Christian understanding, the whole of reality is permeated by God's living presence. We live, move and exist in Him (Acts 17:28). Every breath is a gift flowing from the One who Himself never had a beginning and who will never cease to be.
+
+## God as First Cause — Always, Not Just at the Beginning
+
+When people hear that God is the "First Cause", they sometimes think of a moment long ago when He switched on the universe, like someone starting a car and then walking away. But in the classical Christian understanding, "First Cause" means something much deeper: God is the ongoing source sustaining everything in existence at every moment.
+
+Thomas Aquinas explained that even if the universe had existed from all eternity, it would still be dependent on God at every moment. God's "being the First Cause" is not about a sequence in time but about a level of reality that is permanently present. He is the **ultimate** cause upon which all other causes depend — not just historically the first in a series.
+
+Think of a burning lamp. The light bulb gives light because it is, at this very moment, connected to a power source. It is no use saying that the light is on because someone switched it on yesterday — if the power supply stops now, the light goes out immediately. In the same way, God is the power source of existence itself: if He were to withdraw, everything would cease to exist, no matter how long it had been there.
+
+David Bentley Hart emphasises that this view of God as the continuous First Cause complements the biblical image of God as the One who "upholds the universe by the word of his power" (Hebrews 1:3). This is not a God of the "gaps" but the ground and bearer of all knowledge, all natural laws and all processes.
+
+This understanding also protects us against a reduced idea of God as merely a "supplementary" explanation for certain phenomena. Instead, we see that without God no explanation of anything is possible, because He is the ultimate reason why there is anything to explain.
+
+As First Cause in this full sense, God is not a remote architect but an ever-present reality. His creative and sustaining act is one and the same: the source and purpose of all that exists.
+
+## Wonder at Existence Itself
+
+When we reflect more deeply on these matters, it ought to bring us into a state of wonder.
+
+We become so accustomed to the world around us that we forget how remarkable it is that there is anything at all. Every tree, every star, every breath is part of an unimaginable gift: that there is reality instead of nothing. Even our own ability to reflect on this is itself a sign of the wonder.
+
+David Bentley Hart points out that true philosophy and true theology both begin in wonder. This wonder is not merely an emotion but a kind of insight: the realisation that existence itself is not self-evident, but an ongoing gift from a necessary, self-existent God.
+
+In Scripture we see that this wonder is the natural response of the person who notices God's handiwork. Psalm 8 begins with worship: "O LORD, our Lord, how majestic is your name in all the earth!" The psalmist looks up at the heavens, the moon and the stars, and asks: "What is man that you are mindful of him?" These questions flow from the same source of amazement that we experience when we think seriously about the fact of existence itself.
+
+If we allow this wonder to work in our hearts, it will deepen our faith. It reminds us that the Christian faith is not built on a few isolated arguments, but on the reality of God who carries all things. It brings us to humility and worship.
+
+The ultimate purpose of this reflection is to open our eyes to the glory of the One in whom all things live, move and exist. It is in this wonder that we experience the truth of Romans 11:36: "For from him and through him and to him are all things. To him be glory forever. Amen."
+
+---
+
+## Notable Quotations
+
+> "God is not one more object in the inventory of things that exist; He is the reason there is any inventory at all."
+— David Bentley Hart, *The Experience of God*
+- (God is not another object in the list of things that exist; He is the reason why there is any list at all.)
+
+> "Why is there something rather than nothing? This question is the most persistent and profound problem in philosophy, and the answer is found only in God."
+— Gottfried Wilhelm Leibniz, *On the Ultimate Origination of Things*
+
+> "To say that God is the ground of being is to say that without Him nothing could exist even for a moment; all reality is held in existence by His will and power."
+— Thomas Aquinas, *Summa Theologica* (paraphrase)
+
+> "If God were to stop thinking of me, even for a moment, I would simply cease to be."
+— Augustine of Hippo, *Confessions*
+
+> "The cosmos is not a machine running on its own; it is a work of art sustained every moment by the Artist."
+— R.C. Sproul, *Defending Your Faith*
+
+---
+
+## Bible Commentary on Key Passages
+
+> **Acts 17:28** — "For in him we live and move and have our being." (ESV)
+
+Paul, preaching here in Athens, uses a quotation his hearers would recognise, but fills it with biblical truth. This verse teaches that God is not merely the Original Creator but the continuous source of our existence. We are not self-sufficient; our existence is dependent at every moment on God's sustained action. This accords with the classical view of God as *the ground of being*.
+
+> **Colossians 1:17** — "He is before all things, and in him all things hold together." (ESV)
+
+Paul here describes Christ as the One who not only existed before creation but who continuously carries all things. The Greek indicates an ongoing, present action — He "holds" things together, now. This verse underscores that creation and sustaining cannot be separated: God's being the Creator is a continuous act.
+
+> **Hebrews 1:3** — "He is the radiance of the glory of God and the exact imprint of his nature, and he upholds the universe by the word of his power." (ESV)
+
+Here we see the present-moment action of God: "upholds" indicates an ongoing power that carries everything. This is not a once-off act long ago but a constant reality. This text refutes the idea of a God who merely "intervened at the beginning."
+
+> **Psalm 8:1, 3–4** — "O LORD, our Lord, how majestic is your name in all the earth! … When I look at your heavens, the work of your fingers, the moon and the stars, which you have set in place, what is man that you are mindful of him, and the son of man that you care for him?" (ESV)
+
+The psalmist's wonder at creation leads him not to mere admiration of the cosmos, but to worship of the Creator. This demonstrates the natural response of a heart that recognises the reality of God as Creator and Sustainer — a response of humility and praise.
+
+> **Romans 11:36** — "For from him and through him and to him are all things. To him be glory forever. Amen." (ESV)
+
+Here Paul sums up the entire biblical worldview: God is the source ("from him"), the means ("through him") and the goal ("to him") of all things. This verse connects perfectly with the metaphysical argument that God is not just the first cause but the ongoing ground and purpose of all existence.
+
+> **Exodus 3:14** — "God said to Moses, 'I AM WHO I AM.' And he said, 'Say this to the people of Israel: "I AM has sent me to you."'" (ESV)
+
+God's self-revelation as "I AM" points to His self-existent nature. He is not dependent on anything else for His existence. This self-identification forms the foundation of the biblical understanding of God as the necessary reality from which all things flow.
+
+---
+
+## Discussion Questions
+
+* In what ways does the distinction between **contingent** and **necessary** help you better understand your own dependence on God? Can you name an everyday example that illustrates this difference for you?
+
+* How would you explain the **Principle of Sufficient Reason** in your own words to someone who has not studied philosophy? How can Acts 17:28 deepen your explanation?
+
+* The cosmological argument has two main forms — the **temporal (kalam)** and the **contingency** version. Which one feels most convincing to you, and why?
+
+* David Bentley Hart describes God as the *ground of being*. How does this change your understanding of God compared to the picture of God as merely the "starter" of the universe?
+
+* Colossians 1:17 and Hebrews 1:3 teach that God sustains all things continuously. How does this truth affect your prayer life and your experience of God's presence in your everyday life?
+
+* Psalm 8 shows that reflection on creation leads to worship, not merely to philosophy. How can we prevent our conversations about these themes from becoming cold and theory-driven, rather than warm and worshipful?
+
+* Romans 11:36 says: "From him and through him and to him are all things." How can this verse serve as a lens through which you evaluate your entire worldview?
+
+* Exodus 3:14 reveals God's self-existent nature ("I AM WHO I AM"). What does it practically mean for your faith that God is not dependent on anything else for His existence?
+
+---
+
+## Recommended Reading
+
+- **David Bentley Hart — *The Experience of God: Being, Consciousness, Bliss***
+  A beautifully written book that explains the classical Christian understanding of God and shows how it differs radically from modern caricatures. Especially useful for our conversation about God as the ground of being.
+
+- **R.C. Sproul — *Defending Your Faith***
+  An accessible introduction to the great classical arguments for God's existence, written in a clear and pastoral tone.
+
+- **William Lane Craig — *Reasonable Faith* (Chapter 3)**
+  A clear exposition of the kalam cosmological argument and how it helps us think about a first cause.
+
+- **Herman Bavinck — *Reformed Dogmatics* (excerpt on God's self-existent nature)**
+  A Reformed voice that thoroughly and richly describes the biblical doctrine of God as the necessary, self-existent Being.
+
+---
+
+## Bibliography
+
+* Hart, David Bentley. *The Experience of God: Being, Consciousness, Bliss*. Yale University Press, 2013.
+   — A profound and accessible exposition of God as the self-existent ground of all reality, with strong critique of materialism.
+
+* Leibniz, Gottfried Wilhelm. *The Monadology* and *On the Ultimate Origination of Things*.
+   — Classical sources for the Principle of Sufficient Reason and the question "Why is there something rather than nothing?"
+
+* Thomas Aquinas. *Summa Theologica*, Part I, Questions 2–3.
+   — The original "Five Ways" to demonstrate God's existence, including the contingency argument.
+
+* Bavinck, Herman. *Reformed Dogmatics*, Vol. 2.
+   — A Reformed theological treatment of God's self-existent nature and relationship to creation.
+
+* Berkhof, Louis. *Systematic Theology*.
+   — Concise, clear explanations of God's necessary existence and sustaining work.
+
+* Sproul, R.C. *Defending Your Faith*. Crossway, 2003.
+   — An accessible introduction to classical arguments for God's existence, written in a pastoral tone.
+
+* Craig, William Lane. *Reasonable Faith*. Crossway, 2008.
+   — A modern explanation of the kalam cosmological argument and how it works together with the biblical worldview.
+
+</div>

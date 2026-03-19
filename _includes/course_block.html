@@ -1,8 +1,12 @@
 <!-- Renders course title and snippet of text. -->
 <div class="py-2 mb-2 prose">
   <h2 class="h1 lh-condensed col-9 mb-0">
-    <a class="link-primary" title="{{ page.url | prepend: site.baseurl }}" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+    <a class="link-primary" title="{{ page.url | prepend: site.baseurl }}" href="{{ page.url | prepend: site.baseurl }}">
+      <span class="lang-af">{{ page.title }}</span>{% if page.title_en %}<span class="lang-en">{{ page.title_en }}</span>{% else %}<span class="lang-en">{{ page.title }}</span>{% endif %}
+    </a>
   </h2>
   <a class="no-underline-hover h5 block py-1 mb-1" title="{{ page.url | prepend: site.baseurl }}" href="{{ page.url | prepend: site.baseurl }}"></a>
-  <p>{{ page.content | markdownify | strip_html | truncate:300 }}</p>
+  <div class="content-preview content-preview--short">
+    {{ page.content | markdownify }}
+  </div>
 </div>
