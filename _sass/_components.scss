@@ -791,7 +791,7 @@ html.lang-en li.lang-en {
 .lang-toggle-fixed {
   position: fixed;
   top: $spacer-1;
-  right: $spacer-1;
+  right: calc(#{$spacer-1} + 38px);
   z-index: 1002;
 
   @media (min-width: $breakpoint-lg) {
