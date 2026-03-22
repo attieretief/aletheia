@@ -50,3 +50,8 @@ yarn.lock
 
 # Ignore RSpec failure tracking
 spec/failures.txt
+
+# Python
+.venv/
+__pycache__/
+*.pyc
