@@ -1,14 +1,14 @@
 ---
 layout: lesson
 course: reeks01-grondslag
-lesson: 6
+lesson: 5
 title: "Sessie 4 — Hoekom is Daar Iets Eerder as Niks?"
 title_en: "Session 4 — Why Is There Something Rather Than Nothing?"
 description: "Die kontingensie-argument: waarom die bestaan van enigiets 'n verklaring vereis wat buite die heelal self lê."
 description_en: "The contingency argument: why the existence of anything requires an explanation that lies beyond the universe itself."
-youtubeurl: "https://youtu.be/bO-Wg1JNnIM"
-youtube_start: 861
-youtube_end: 983
+videofile: "/assets/video/Aletheia Reeks 01 Sessies.mp4"
+video_start: 349
+video_end: 474
 author: Attie Retief
 ---
 

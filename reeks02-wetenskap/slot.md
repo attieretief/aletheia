@@ -1,7 +1,7 @@
 ---
 layout: lesson
 course: reeks02-wetenskap
-lesson: 10
+lesson: 9
 title: "Slot — Verwondering"
 title_en: "Conclusion — Wonder"
 description: "Die wetenskap verminder nie die werklikheid van God nie — dit vergroot dit. 'n Persoonlike meditasie oor verwondering, aanbidding en die pad vorentoe na Reeks 3."

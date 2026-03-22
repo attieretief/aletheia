@@ -1,14 +1,14 @@
 ---
 layout: lesson
 course: reeks01-grondslag
-lesson: 10
+lesson: 9
 title: "Sessie 8 — Jesus Christus: Die Finale Openbaring"
 title_en: "Session 8 — Jesus Christ: The Final Revelation"
 description: "Die historiese Jesus, die drie-enige God en die hart van die Christelike geloof: God word mens om ons na Hom terug te bring."
 description_en: "The historical Jesus, the triune God and the heart of the Christian faith: God becomes man to bring us back to Him."
-youtubeurl: "https://youtu.be/bO-Wg1JNnIM"
-youtube_start: 1351
-youtube_end: 1500
+videofile: "/assets/video/Aletheia Reeks 01 Sessies.mp4"
+video_start: 836
+video_end: 941
 author: Attie Retief
 ---
 

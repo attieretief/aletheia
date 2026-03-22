@@ -4,6 +4,12 @@ description: "Aletheia is 'n Afrikaans Gereformeerde kursusreeks wat geloof, fil
 description_en: "Aletheia is an Afrikaans Reformed course series weaving together faith, philosophy and science — a search for truth for thinking believers."
 ---
 
+<div class="video-container mb-4">
+  <video width="100%" controls preload="metadata" poster="{{ '/assets/images/Aletheia Projek Image.png' | relative_url }}">
+    <source src="{{ '/assets/video/Aletheia Projek Welkom.mp4' | relative_url }}" type="video/mp4">
+  </video>
+</div>
+
 <div class="lang-af" markdown="1">
 
 ## Welkom by Aletheia

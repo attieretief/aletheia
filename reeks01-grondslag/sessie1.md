@@ -1,14 +1,14 @@
 ---
 layout: lesson
 course: reeks01-grondslag
-lesson: 3
+lesson: 2
 title: "Sessie 1 — Wat Bedoel Ons met 'God'?"
 title_en: "Session 1 — What Do We Mean by 'God'?"
 description: "Wat die Christelike tradisie werklik bedoel wanneer ons van 'God' praat — nie 'n wese onder ander nie, maar die bron van alle bestaan."
 description_en: "What the Christian tradition truly means when we speak of 'God' — not a being among others, but the source of all existence."
-youtubeurl: "https://youtu.be/bO-Wg1JNnIM"
-youtube_start: 529
-youtube_end: 630
+videofile: "/assets/video/Aletheia Reeks 01 Sessies.mp4"
+video_start: 0
+video_end: 105
 author: Attie Retief
 ---
 

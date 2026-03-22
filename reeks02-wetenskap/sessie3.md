@@ -1,14 +1,14 @@
 ---
 layout: lesson
 course: reeks02-wetenskap
-lesson: 4
+lesson: 3
 title: "Sessie 3 — Die Heelal het 'n Begin"
 title_en: "Session 3 — The Universe Had a Beginning"
 description: "Die oerknal, kosmiese agtergrondstraling en die kosmologiese argument: die wetenskap het nie God weerlê nie, maar Sy vingerafdrukke op die begin van alles gevind."
 description_en: "The Big Bang, cosmic background radiation and the cosmological argument: science did not disprove God, but found His fingerprints on the beginning of everything."
-youtubeurl: "https://youtu.be/DC8HpVYuk9g"
-youtube_start: 457
-youtube_end: 521
+videofile: "/assets/video/Aletheia Reeks 02 Sessies.mp4"
+video_start: 208
+video_end: 302
 author: Attie Retief
 ---
 <div class="lang-af" markdown="1">

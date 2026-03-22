@@ -1,7 +1,7 @@
 ---
 layout: lesson
 course: reeks01-grondslag
-lesson: 11
+lesson: 10
 title: "Slot — Ontsag en Verlange"
 title_en: "Conclusion — Awe and Longing"
 description: "'n Persoonlike getuienis van ontsag en verlange — die hart van die geloof is nie 'n argument nie, maar 'n ontmoeting."

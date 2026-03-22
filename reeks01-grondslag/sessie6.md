@@ -1,14 +1,14 @@
 ---
 layout: lesson
 course: reeks01-grondslag
-lesson: 8
+lesson: 7
 title: "Sessie 6 — Verlange, Skoonheid en die Numinose"
 title_en: "Session 6 — Longing, Beauty and the Numinous"
 description: "C.S. Lewis se argument uit verlange: die diep onvervulde hunkering in die menslike hart wys na 'n werklikheid wat dit kan vervul."
 description_en: "C.S. Lewis's argument from desire: the deep unfulfilled longing in the human heart points to a reality that can fulfil it."
-youtubeurl: "https://youtu.be/bO-Wg1JNnIM"
-youtube_start: 1116
-youtube_end: 1232
+videofile: "/assets/video/Aletheia Reeks 01 Sessies.mp4"
+video_start: 597
+video_end: 716
 author: Attie Retief
 ---
 

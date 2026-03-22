@@ -1,14 +1,14 @@
 ---
 layout: lesson
 course: reeks01-grondslag
-lesson: 4
+lesson: 3
 title: "Sessie 2 — Die God wat Nie Afbeeldbaar Is Nie"
 title_en: "Session 2 — The God Who Cannot Be Depicted"
 description: "Waarom God nie afgebeeld kan word nie, en hoe die klassieke tradisie ons beskerm teen afgodery en verkeerde godsbeelde."
 description_en: "Why God cannot be depicted, and how the classical tradition protects us against idolatry and false images of God."
-youtubeurl: "https://youtu.be/bO-Wg1JNnIM"
-youtube_start: 630
-youtube_end: 745
+videofile: "/assets/video/Aletheia Reeks 01 Sessies.mp4"
+video_start: 106
+video_end: 219
 author: Attie Retief
 ---
 

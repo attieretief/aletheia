@@ -157,18 +157,22 @@ code {
 // Responsive video container
 .video-container {
   position: relative;
-  padding-bottom: 56.25%; // 16:9 aspect ratio
+  padding-bottom: 33.75%; // 16:9 ratio at 60% width
   height: 0;
   overflow: hidden;
-  max-width: 100%;
-  
-  iframe {
+  max-width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+
+  iframe,
+  video {
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
     border: 0;
+    object-fit: contain;
   }
 }
 

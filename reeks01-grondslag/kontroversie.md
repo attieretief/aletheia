@@ -1,7 +1,7 @@
 ---
 layout: lesson
 course: reeks01-grondslag
-lesson: 2
+lesson: 1
 title:  "Kontroversie"
 title_en: "Controversy"
 author: Attie Retief
