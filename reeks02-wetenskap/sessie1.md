@@ -6,9 +6,9 @@ title: "Sessie 1 — Wat is Wetenskap Werklik?"
 title_en: "Session 1 — What Is Science Really?"
 description: "Die onderskeid tussen wetenskap as metode en sciëntisme as geloofsuitspraak — die sleutel wat die hele reeks oopsluit."
 description_en: "The distinction between science as method and scientism as a statement of faith — the key that unlocks the entire series."
-videofile: "/assets/video/Aletheia Reeks 02 Sessies.mp4"
-video_start: 0
-video_end: 95
+youtubeurl: "https://youtu.be/gmnMs3jfDRA"
+youtube_start: 0
+youtube_end: 95
 author: Attie Retief
 ---
 <div class="lang-af" markdown="1">

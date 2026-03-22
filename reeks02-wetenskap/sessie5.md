@@ -6,9 +6,9 @@ title: "Sessie 5 — Evolusie: Wat Staan Werklik op die Spel?"
 title_en: "Session 5 — Evolution: What Is Really at Stake?"
 description: "Onderskei wat evolusie as wetenskap beweer van die filosofiese toevoeging dat dit ongeleid en doelloos is. Bavinck, Plantinga en die Gereformeerde tradisie."
 description_en: "Distinguishing what evolution as science claims from the philosophical addition that it is unguided and purposeless. Bavinck, Plantinga and the Reformed tradition."
-videofile: "/assets/video/Aletheia Reeks 02 Sessies.mp4"
-video_start: 413
-video_end: 524
+youtubeurl: "https://youtu.be/gmnMs3jfDRA"
+youtube_start: 413
+youtube_end: 524
 author: Attie Retief
 ---
 <div class="lang-af" markdown="1">

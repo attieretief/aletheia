@@ -6,9 +6,9 @@ title: "Sessie 7 — Die God wat Praat: Openbaring en die Skrif"
 title_en: "Session 7 — The God Who Speaks: Revelation and Scripture"
 description: "Waarom die God van die klassieke teïsme nie 'n stil god sou bly nie — openbaring, die Skrif en die lewende Woord."
 description_en: "Why the God of classical theism would not remain a silent god — revelation, Scripture and the living Word."
-videofile: "/assets/video/Aletheia Reeks 01 Sessies.mp4"
-video_start: 717
-video_end: 836
+youtubeurl: "https://youtu.be/Kx3wKDX7tOI"
+youtube_start: 717
+youtube_end: 836
 author: Attie Retief
 ---
 

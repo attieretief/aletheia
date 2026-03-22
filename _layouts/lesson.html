@@ -26,149 +26,101 @@ layout: default
     {% endif %}
   </div>
 
-  {% if page.videofile %}
+  {% if page.youtubeurl %}
+    {% assign video_id = page.youtubeurl | split: '/' | last | split: '?' | first %}
     <div class="mb-4">
       <div class="video-container">
-        <video id="lesson-video" controls preload="metadata"
-          {% if page.videoposter %} poster="{{ page.videoposter | relative_url }}"{% endif %}>
-          <source src="{{ page.videofile | relative_url }}" type="video/mp4">
-        </video>
+        <div id="yt-player"></div>
+        <div id="yt-end-overlay" style="display:none;position:absolute;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.85);z-index:10;cursor:pointer;align-items:center;justify-content:center;">
+          <button id="yt-replay-btn" style="background:none;border:2px solid #fff;color:#fff;padding:12px 28px;font-size:1rem;border-radius:6px;cursor:pointer;font-family:inherit;">&#9654; Herbegin</button>
+        </div>
       </div>
     </div>
     <script>
     (function() {
-      var video = document.getElementById('lesson-video');
-      var start = {{ page.video_start | default: 0 }};
-      var end = {{ page.video_end | default: 0 }};
+      // Load YouTube IFrame API
+      var tag = document.createElement('script');
+      tag.src = "https://www.youtube.com/iframe_api";
+      var firstScriptTag = document.getElementsByTagName('script')[0];
+      firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
 
-      {% if page.video_start or page.video_end %}
-      video.addEventListener('loadedmetadata', function() {
-        video.currentTime = start;
-      });
-      if (end > 0) {
-        video.addEventListener('timeupdate', function() {
-          if (video.currentTime >= end - 0.3) {
-            video.pause();
-            video.currentTime = end - 0.3;
-          }
-        });
-      }
-      video.addEventListener('seeking', function() {
-        if (video.currentTime < start) video.currentTime = start;
-        if (end > 0 && video.currentTime >= end - 0.3) video.currentTime = end - 0.3;
-      });
-      {% endif %}
+      var ytPlayer;
+      var ytTracked = { play: false, quarter: false, half: false, threequarter: false, complete: false };
+      var ytTitle = '{{ page.title | escape }}';
+      var ytPollInterval;
+      var overlay = document.getElementById('yt-end-overlay');
+      var replayBtn = document.getElementById('yt-replay-btn');
 
-      // GoatCounter video tracking
-      var tracked = { play: false, quarter: false, half: false, threequarter: false, complete: false };
-      var title = '{{ page.title | escape }}';
-      var duration = (end > 0 ? end : 0) - start;
-
-      function gcEvent(name) {
+      function gcYTEvent(name) {
         if (typeof window.goatcounter !== 'undefined') {
           window.goatcounter.count({
             path: function(p) { return 'video/' + p + '/' + name; },
-            title: title + ' (' + name + ')',
+            title: ytTitle + ' (' + name + ')',
             event: true
           });
         }
       }
 
-      video.addEventListener('play', function() {
-        if (!tracked.play) { tracked.play = true; gcEvent('play'); }
-      });
-
-      video.addEventListener('timeupdate', function() {
-        if (duration <= 0) {
-          // If no explicit end, use video's natural duration
-          if (video.duration && !isNaN(video.duration)) {
-            duration = video.duration - start;
-          } else {
-            return;
+      window.onYouTubeIframeAPIReady = function() {
+        ytPlayer = new YT.Player('yt-player', {
+          videoId: '{{ video_id }}',
+          playerVars: {
+            rel: 0,
+            modestbranding: 1,
+            {% if page.youtube_start %}start: {{ page.youtube_start }},{% endif %}
+            {% if page.youtube_end %}end: {{ page.youtube_end }},{% endif %}
+          },
+          events: {
+            'onStateChange': onYTStateChange
           }
+        });
+      };
+
+      function onYTStateChange(event) {
+        if (event.data === YT.PlayerState.PLAYING) {
+          overlay.style.display = 'none';
+          if (!ytTracked.play) { ytTracked.play = true; gcYTEvent('play'); }
+          clearInterval(ytPollInterval);
+          ytPollInterval = setInterval(function() {
+            if (!ytPlayer || !ytPlayer.getDuration) return;
+            var duration = ytPlayer.getDuration();
+            var startSec = {{ page.youtube_start | default: 0 }};
+            var endSec = {{ page.youtube_end | default: 0 }};
+            var effectiveDuration = (endSec > 0 ? endSec : duration) - startSec;
+            if (effectiveDuration <= 0) return;
+            var elapsed = ytPlayer.getCurrentTime() - startSec;
+            var pct = elapsed / effectiveDuration;
+            if (pct >= 0.25 && !ytTracked.quarter)      { ytTracked.quarter = true;      gcYTEvent('25%'); }
+            if (pct >= 0.50 && !ytTracked.half)          { ytTracked.half = true;         gcYTEvent('50%'); }
+            if (pct >= 0.75 && !ytTracked.threequarter)  { ytTracked.threequarter = true; gcYTEvent('75%'); }
+          }, 2000);
         }
-        var elapsed = video.currentTime - start;
-        var pct = elapsed / duration;
-        if (pct >= 0.25 && !tracked.quarter)      { tracked.quarter = true;      gcEvent('25%'); }
-        if (pct >= 0.50 && !tracked.half)          { tracked.half = true;         gcEvent('50%'); }
-        if (pct >= 0.75 && !tracked.threequarter)  { tracked.threequarter = true; gcEvent('75%'); }
+        if (event.data === YT.PlayerState.PAUSED || event.data === YT.PlayerState.BUFFERING) {
+          clearInterval(ytPollInterval);
+        }
+        if (event.data === YT.PlayerState.ENDED) {
+          clearInterval(ytPollInterval);
+          if (!ytTracked.complete) { ytTracked.complete = true; gcYTEvent('complete'); }
+          overlay.style.display = 'flex';
+        }
+      }
+
+      replayBtn.addEventListener('click', function() {
+        overlay.style.display = 'none';
+        var startSec = {{ page.youtube_start | default: 0 }};
+        ytPlayer.seekTo(startSec, true);
+        ytPlayer.playVideo();
       });
 
-      video.addEventListener('ended', function() {
-        if (!tracked.complete) { tracked.complete = true; gcEvent('complete'); }
+      overlay.addEventListener('click', function(e) {
+        if (e.target === overlay) {
+          overlay.style.display = 'none';
+          var startSec = {{ page.youtube_start | default: 0 }};
+          ytPlayer.seekTo(startSec, true);
+          ytPlayer.playVideo();
+        }
       });
     })();
-    </script>
-  {% elsif page.youtubeurl %}
-    <div class="mb-4">
-      {% assign video_id = page.youtubeurl | split: '/' | last | split: '?' | first %}
-      <div class="aspect-ratio-16-9">
-        <div id="yt-player"></div>
-      </div>
-    </div>
-    <script>
-    // YouTube IFrame API for video tracking
-    var tag = document.createElement('script');
-    tag.src = "https://www.youtube.com/iframe_api";
-    var firstScriptTag = document.getElementsByTagName('script')[0];
-    firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
-
-    var ytPlayer;
-    var ytTracked = { play: false, quarter: false, half: false, threequarter: false, complete: false };
-    var ytTitle = '{{ page.title | escape }}';
-    var ytPollInterval;
-
-    function gcYTEvent(name) {
-      if (typeof window.goatcounter !== 'undefined') {
-        window.goatcounter.count({
-          path: function(p) { return 'video/' + p + '/' + name; },
-          title: ytTitle + ' (' + name + ')',
-          event: true
-        });
-      }
-    }
-
-    function onYouTubeIframeAPIReady() {
-      ytPlayer = new YT.Player('yt-player', {
-        videoId: '{{ video_id }}',
-        playerVars: {
-          rel: 0,
-          {% if page.youtube_start %}start: {{ page.youtube_start }},{% endif %}
-          {% if page.youtube_end %}end: {{ page.youtube_end }},{% endif %}
-        },
-        events: {
-          'onStateChange': onYTStateChange
-        }
-      });
-    }
-
-    function onYTStateChange(event) {
-      if (event.data === YT.PlayerState.PLAYING) {
-        if (!ytTracked.play) { ytTracked.play = true; gcYTEvent('play'); }
-        // Poll for progress milestones
-        clearInterval(ytPollInterval);
-        ytPollInterval = setInterval(function() {
-          if (!ytPlayer || !ytPlayer.getDuration) return;
-          var duration = ytPlayer.getDuration();
-          var startSec = {{ page.youtube_start | default: 0 }};
-          var endSec = {{ page.youtube_end | default: 0 }};
-          var effectiveDuration = (endSec > 0 ? endSec : duration) - startSec;
-          if (effectiveDuration <= 0) return;
-          var elapsed = ytPlayer.getCurrentTime() - startSec;
-          var pct = elapsed / effectiveDuration;
-          if (pct >= 0.25 && !ytTracked.quarter)      { ytTracked.quarter = true;      gcYTEvent('25%'); }
-          if (pct >= 0.50 && !ytTracked.half)          { ytTracked.half = true;         gcYTEvent('50%'); }
-          if (pct >= 0.75 && !ytTracked.threequarter)  { ytTracked.threequarter = true; gcYTEvent('75%'); }
-        }, 2000);
-      }
-      if (event.data === YT.PlayerState.PAUSED || event.data === YT.PlayerState.BUFFERING) {
-        clearInterval(ytPollInterval);
-      }
-      if (event.data === YT.PlayerState.ENDED) {
-        clearInterval(ytPollInterval);
-        if (!ytTracked.complete) { ytTracked.complete = true; gcYTEvent('complete'); }
-      }
-    }
     </script>
   {% endif %}
 

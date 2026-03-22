@@ -5,8 +5,7 @@ title: "Reeks 2 — Wetenskap & Werklikheid"
 title_en: "Series 2 — Science & Reality"
 description: "Het die wetenskap God oorbodig gemaak? Agt sessies oor sciëntisme, die oerknal, fyninstelling, evolusie, bewussyn en naturalisme — vanuit die Gereformeerde tradisie."
 description_en: "Has science made God redundant? Eight sessions on scientism, the Big Bang, fine-tuning, evolution, consciousness and naturalism — from the Reformed tradition."
-videofile: "/assets/video/Aletheia Reeks 02 Welkom.mp4"
-videoposter: "/assets/images/Aletheia Reeks 02 Welkom Image.png"
+youtubeurl: "https://youtu.be/Bd2q0wxgch0"
 order: 2
 ---
 <div class="lang-af" markdown="1">

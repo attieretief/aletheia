@@ -6,9 +6,9 @@ title: "Sessie 7 — Naturalisme se Selfvernietiging"
 title_en: "Session 7 — The Self-Destruction of Naturalism"
 description: "Plantinga se evolusionêre argument teen naturalisme: as ons denke bloot chemie is, het ons geen rede om enigiets te glo nie — insluitend naturalisme self."
 description_en: "Plantinga's evolutionary argument against naturalism: if our thinking is merely chemistry, we have no reason to believe anything — including naturalism itself."
-videofile: "/assets/video/Aletheia Reeks 02 Sessies.mp4"
-video_start: 642
-video_end: 757
+youtubeurl: "https://youtu.be/gmnMs3jfDRA"
+youtube_start: 642
+youtube_end: 757
 author: Attie Retief
 ---
 <div class="lang-af" markdown="1">

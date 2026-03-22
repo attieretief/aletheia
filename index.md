@@ -5,10 +5,36 @@ description_en: "Aletheia is an Afrikaans Reformed course series weaving togethe
 ---
 
 <div class="video-container mb-4">
-  <video width="100%" controls preload="metadata" poster="{{ '/assets/images/Aletheia Projek Image.png' | relative_url }}">
-    <source src="{{ '/assets/video/Aletheia Projek Welkom.mp4' | relative_url }}" type="video/mp4">
-  </video>
+  <div id="yt-player-home"></div>
+  <div id="yt-end-overlay-home" style="display:none;position:absolute;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.85);z-index:10;cursor:pointer;align-items:center;justify-content:center;">
+    <button id="yt-replay-btn-home" style="background:none;border:2px solid #fff;color:#fff;padding:12px 28px;font-size:1rem;border-radius:6px;cursor:pointer;font-family:inherit;">&#9654; Herbegin</button>
+  </div>
 </div>
+<script>
+(function() {
+  var tag = document.createElement('script');
+  tag.src = "https://www.youtube.com/iframe_api";
+  var firstScriptTag = document.getElementsByTagName('script')[0];
+  firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+  var overlay = document.getElementById('yt-end-overlay-home');
+  var replayBtn = document.getElementById('yt-replay-btn-home');
+  var ytPlayer;
+  window.onYouTubeIframeAPIReady = function() {
+    ytPlayer = new YT.Player('yt-player-home', {
+      videoId: 'IbvGmaGfZJE',
+      playerVars: { rel: 0, modestbranding: 1 },
+      events: {
+        'onStateChange': function(event) {
+          if (event.data === YT.PlayerState.PLAYING) { overlay.style.display = 'none'; }
+          if (event.data === YT.PlayerState.ENDED) { overlay.style.display = 'flex'; }
+        }
+      }
+    });
+  };
+  replayBtn.addEventListener('click', function() { overlay.style.display = 'none'; ytPlayer.seekTo(0, true); ytPlayer.playVideo(); });
+  overlay.addEventListener('click', function(e) { if (e.target === overlay) { overlay.style.display = 'none'; ytPlayer.seekTo(0, true); ytPlayer.playVideo(); } });
+})();
+</script>
 
 <div class="lang-af" markdown="1">
 

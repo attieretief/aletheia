@@ -6,9 +6,9 @@ title: "Sessie 6 — Brein, Bewussyn en die Siel"
 title_en: "Session 6 — Brain, Consciousness and the Soul"
 description: "Die 'hard problem of consciousness': hoekom kan neurowetenskappe nie bewuste ervaring verklaar nie, en wat beteken dit vir die Christelike verstaan van die siel?"
 description_en: "The 'hard problem of consciousness': why the neurosciences cannot explain conscious experience, and what this means for the Christian understanding of the soul."
-videofile: "/assets/video/Aletheia Reeks 02 Sessies.mp4"
-video_start: 524
-video_end: 642
+youtubeurl: "https://youtu.be/gmnMs3jfDRA"
+youtube_start: 524
+youtube_end: 642
 author: Attie Retief
 ---
 <div class="lang-af" markdown="1">

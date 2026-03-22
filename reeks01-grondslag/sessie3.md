@@ -6,9 +6,9 @@ title: "Sessie 3 — God en die Werklikheid: Hoe Hou God Alles in Stand?"
 title_en: "Session 3 — God and Reality: How Does God Sustain All Things?"
 description: "God se verhouding tot die skepping: nie 'n horlosiemaker wat wegstap nie, maar die voortdurende Grond van alle bestaan."
 description_en: "God's relationship to creation: not a clockmaker who walks away, but the ongoing Ground of all existence."
-videofile: "/assets/video/Aletheia Reeks 01 Sessies.mp4"
-video_start: 219
-video_end: 348
+youtubeurl: "https://youtu.be/Kx3wKDX7tOI"
+youtube_start: 219
+youtube_end: 348
 author: Attie Retief
 ---
 

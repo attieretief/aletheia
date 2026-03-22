@@ -6,9 +6,9 @@ title: "Sessie 5 — Bewussyn, Rede en die Morele Wet"
 title_en: "Session 5 — Consciousness, Reason and the Moral Law"
 description: "Drie verskynsels wat materialisme nie kan verklaar nie: bewussyn, rasionele denke en objektiewe morele waarheid."
 description_en: "Three phenomena that materialism cannot explain: consciousness, rational thought and objective moral truth."
-videofile: "/assets/video/Aletheia Reeks 01 Sessies.mp4"
-video_start: 475
-video_end: 597
+youtubeurl: "https://youtu.be/Kx3wKDX7tOI"
+youtube_start: 475
+youtube_end: 597
 author: Attie Retief
 ---
 

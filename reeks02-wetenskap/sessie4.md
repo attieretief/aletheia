@@ -6,9 +6,9 @@ title: "Sessie 4 — Fyninstelling: Die Radikale Kontingensie van die Kosmos"
 title_en: "Session 4 — Fine-Tuning: The Radical Contingency of the Cosmos"
 description: "Die heelal se konstantes is met onverstaanbare presisie ingestel vir lewe. Wat beteken hierdie radikale kontingensie vir die vraag na God?"
 description_en: "The universe's constants are set with incomprehensible precision for life. What does this radical contingency mean for the question of God?"
-videofile: "/assets/video/Aletheia Reeks 02 Sessies.mp4"
-video_start: 302
-video_end: 413
+youtubeurl: "https://youtu.be/gmnMs3jfDRA"
+youtube_start: 302
+youtube_end: 413
 author: Attie Retief
 ---
 <div class="lang-af" markdown="1">

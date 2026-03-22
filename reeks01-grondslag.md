@@ -5,8 +5,7 @@ title: "Reeks 1 — Grondslag"
 title_en: "Series 1 — Foundation"
 description: "Wie is God werklik? 'n Gereformeerde ontdekking van God deur filosofie, rede en die Skrif — agt sessies wat die metafisiese fondament van die Christelike geloof lê."
 description_en: "Who is God really? A Reformed discovery of God through philosophy, reason and Scripture — eight sessions laying the metaphysical foundation of the Christian faith."
-videofile: "/assets/video/Aletheia Reeks 01 Welkom.mp4"
-videoposter: "/assets/images/Aletheia Reeks 01 Welkom Image.png"
+youtubeurl: "https://youtu.be/DGKXe6rO6u8"
 order: 1
 ---
 

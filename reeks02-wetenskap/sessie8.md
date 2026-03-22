@@ -6,9 +6,9 @@ title: "Sessie 8 — Twee Boeke, Een Outeur"
 title_en: "Session 8 — Two Books, One Author"
 description: "NGB Artikel 2: die boek van die natuur en die boek van die Skrif. Hoe leef jy as iemand wat die wetenskap liefhet én God aanbid?"
 description_en: "Belgic Confession Article 2: the book of nature and the book of Scripture. How do you live as someone who loves science and worships God?"
-videofile: "/assets/video/Aletheia Reeks 02 Sessies.mp4"
-video_start: 757
-video_end: 1005
+youtubeurl: "https://youtu.be/gmnMs3jfDRA"
+youtube_start: 757
+youtube_end: 1005
 author: Attie Retief
 ---
 <div class="lang-af" markdown="1">

@@ -4,17 +4,52 @@ layout: page
 
 {% assign course_name = page.course_name %}
 
-{% if page.videofile %}
-<div class="video-container mb-4">
-  <video width="100%" controls preload="metadata"{% if page.videoposter %} poster="{{ page.videoposter | relative_url }}"{% endif %}>
-    <source src="{{ page.videofile | relative_url }}" type="video/mp4">
-  </video>
-</div>
-{% elsif page.youtubeurl %}
+{% if page.youtubeurl %}
 {% assign youtube_id = page.youtubeurl | split: '/' | last | split: '?' | first %}
 <div class="video-container mb-4">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ youtube_id }}?rel=0" frameborder="0" allowfullscreen></iframe>
+  <div id="yt-player-course"></div>
+  <div id="yt-end-overlay-course" style="display:none;position:absolute;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.85);z-index:10;cursor:pointer;align-items:center;justify-content:center;">
+    <button id="yt-replay-btn-course" style="background:none;border:2px solid #fff;color:#fff;padding:12px 28px;font-size:1rem;border-radius:6px;cursor:pointer;font-family:inherit;">&#9654; Herbegin</button>
+  </div>
 </div>
+<script>
+(function() {
+  var tag = document.createElement('script');
+  tag.src = "https://www.youtube.com/iframe_api";
+  var firstScriptTag = document.getElementsByTagName('script')[0];
+  firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+  var overlay = document.getElementById('yt-end-overlay-course');
+  var replayBtn = document.getElementById('yt-replay-btn-course');
+  var ytPlayer;
+
+  window.onYouTubeIframeAPIReady = function() {
+    ytPlayer = new YT.Player('yt-player-course', {
+      videoId: '{{ youtube_id }}',
+      playerVars: { rel: 0, modestbranding: 1 },
+      events: {
+        'onStateChange': function(event) {
+          if (event.data === YT.PlayerState.PLAYING) { overlay.style.display = 'none'; }
+          if (event.data === YT.PlayerState.ENDED) { overlay.style.display = 'flex'; }
+        }
+      }
+    });
+  };
+
+  replayBtn.addEventListener('click', function() {
+    overlay.style.display = 'none';
+    ytPlayer.seekTo(0, true);
+    ytPlayer.playVideo();
+  });
+  overlay.addEventListener('click', function(e) {
+    if (e.target === overlay) {
+      overlay.style.display = 'none';
+      ytPlayer.seekTo(0, true);
+      ytPlayer.playVideo();
+    }
+  });
+})();
+</script>
 {% endif %}
 
 <div class="prose py-2" itemprop="articleBody">

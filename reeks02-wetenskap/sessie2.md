@@ -6,9 +6,9 @@ title: "Sessie 2 — Die Geskiedenis wat Niemand Vertel Nie"
 title_en: "Session 2 — The History Nobody Tells"
 description: "Hoe die Christelike geloof die wetenskap moontlik gemaak het, en waarom die Galileo-verhaal nie is wat jy dink dit is nie."
 description_en: "How the Christian faith made science possible, and why the Galileo story is not what you think it is."
-videofile: "/assets/video/Aletheia Reeks 02 Sessies.mp4"
-video_start: 95
-video_end: 208
+youtubeurl: "https://youtu.be/gmnMs3jfDRA"
+youtube_start: 95
+youtube_end: 208
 author: Attie Retief
 ---
 <div class="lang-af" markdown="1">
