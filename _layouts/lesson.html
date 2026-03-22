@@ -76,24 +76,47 @@ layout: default
         });
       };
 
+      var startSec = {{ page.youtube_start | default: 0 }};
+      var endSec = {{ page.youtube_end | default: 0 }};
+
+      function hardStop() {
+        ytPlayer.pauseVideo();
+        clearInterval(ytPollInterval);
+        if (!ytTracked.complete) { ytTracked.complete = true; gcYTEvent('complete'); }
+        overlay.style.display = 'flex';
+      }
+
       function onYTStateChange(event) {
         if (event.data === YT.PlayerState.PLAYING) {
           overlay.style.display = 'none';
           if (!ytTracked.play) { ytTracked.play = true; gcYTEvent('play'); }
           clearInterval(ytPollInterval);
           ytPollInterval = setInterval(function() {
-            if (!ytPlayer || !ytPlayer.getDuration) return;
+            if (!ytPlayer || !ytPlayer.getCurrentTime) return;
+            var current = ytPlayer.getCurrentTime();
+
+            // Hard stop at end time
+            if (endSec > 0 && current >= endSec) {
+              hardStop();
+              return;
+            }
+
+            // Clamp seeking before start
+            if (current < startSec) {
+              ytPlayer.seekTo(startSec, true);
+              return;
+            }
+
+            // Progress tracking
             var duration = ytPlayer.getDuration();
-            var startSec = {{ page.youtube_start | default: 0 }};
-            var endSec = {{ page.youtube_end | default: 0 }};
             var effectiveDuration = (endSec > 0 ? endSec : duration) - startSec;
             if (effectiveDuration <= 0) return;
-            var elapsed = ytPlayer.getCurrentTime() - startSec;
+            var elapsed = current - startSec;
             var pct = elapsed / effectiveDuration;
             if (pct >= 0.25 && !ytTracked.quarter)      { ytTracked.quarter = true;      gcYTEvent('25%'); }
             if (pct >= 0.50 && !ytTracked.half)          { ytTracked.half = true;         gcYTEvent('50%'); }
             if (pct >= 0.75 && !ytTracked.threequarter)  { ytTracked.threequarter = true; gcYTEvent('75%'); }
-          }, 2000);
+          }, 500);
         }
         if (event.data === YT.PlayerState.PAUSED || event.data === YT.PlayerState.BUFFERING) {
           clearInterval(ytPollInterval);
@@ -107,7 +130,6 @@ layout: default
 
       replayBtn.addEventListener('click', function() {
         overlay.style.display = 'none';
-        var startSec = {{ page.youtube_start | default: 0 }};
         ytPlayer.seekTo(startSec, true);
         ytPlayer.playVideo();
       });
@@ -115,7 +137,6 @@ layout: default
       overlay.addEventListener('click', function(e) {
         if (e.target === overlay) {
           overlay.style.display = 'none';
-          var startSec = {{ page.youtube_start | default: 0 }};
           ytPlayer.seekTo(startSec, true);
           ytPlayer.playVideo();
         }
