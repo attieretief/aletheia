@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 100 1100 1100" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <radialGradient gradientUnits="userSpaceOnUse" cx="514.352" cy="400.716" r="205.542" id="gradient-0" gradientTransform="matrix(1.473965, -0.014431, 0.0157, 1.603764, -213.725632, -203.28331)" spreadMethod="pad">
+      <stop offset="0" style="stop-color: rgb(254, 207, 207);"/>
+      <stop offset="1" style="stop-color: rgb(171, 34, 34);"/>
+    </radialGradient>
+    <bx:export>
+      <bx:file format="png" path="aletheia-podcast.png" dpi="400" width="3000" height="3000"/>
+    </bx:export>
+  </defs>
+  <rect y="150.856" width="938.394" height="998.288" rx="50" ry="50" style="fill: rgb(181, 69, 69); stroke-width: 37px; stroke: rgb(252, 246, 231);" x="80.803"/>
+  <g transform="matrix(1, 0, 0, 1, 0, 70.370987)">
+    <path d="M 394.458 203.399 L 705.542 203.399 C 733.156 203.399 755.542 225.785 755.542 253.399 L 755.542 665.859 C 755.542 693.473 733.156 715.859 705.542 715.859 L 691.416 715.859 C 660.009 671.986 608.616 643.395 550.544 643.395 C 492.472 643.395 441.079 671.986 409.672 715.859 L 394.458 715.859 C 366.844 715.859 344.458 693.473 344.458 665.859 L 344.458 253.399 C 344.458 225.785 366.844 203.399 394.458 203.399 Z" style="stroke-linejoin: round; stroke-linecap: round; stroke-width: 16px; fill: url(&quot;#gradient-0&quot;); stroke: rgb(252, 246, 231);"/>
+    <g transform="matrix(1, 0, 0, 1, 86.096039, 0)">
+      <path style="fill: none; stroke-width: 30px; stroke: rgb(252, 246, 231);" d="M 464.639 339.37 L 463.169 636.301"/>
+      <path style="fill: none; stroke-width: 30; stroke: rgb(252, 246, 231); transform-box: fill-box; transform-origin: 50% 50%;" d="M 464.063 344.811 L 463.745 519.972" transform="matrix(0, 1, -1, 0, -0.000009, 0.000084)"/>
+    </g>
+  </g>
+  <text style="fill: rgb(252, 246, 231); font-family: &quot;Noto Serif Kannada&quot;; font-size: 150px; font-weight: 600; white-space: pre;" x="154.065" y="937.985">ALETHEIA</text>
+  <text style="fill: rgb(252, 246, 231); font-family: &quot;Noto Serif Kannada&quot;; font-size: 42.8px; font-weight: 600; white-space: pre;" x="130.95" y="1004.8">GELOOF ● WAARHEID ● WERKLIKHEID</text>
+</svg>
