@@ -522,8 +522,6 @@ Vir ons tema bevestig hierdie vers dat die Bybelse verstaan van die mens nie mat
 
 ## Bibliografie
 
-### Filosofie van Bewussyn en die Gees
-
 * **Chalmers, David.** "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies* 2, no. 3 (1995): 200–219.
   *(Die seminale artikel waarin Chalmers die onderskeid tref tussen die "maklike" en die "moeilike" probleme van bewussyn, en argumenteer dat die moeilike probleem nie binne die huidige materialistiese raamwerk oplosbaar lyk nie.)*
 
@@ -548,15 +546,11 @@ Vir ons tema bevestig hierdie vers dat die Bybelse verstaan van die mens nie mat
 * **McGinn, Colin.** "Can We Solve the Mind-Body Problem?" *Mind* 98, no. 391 (1989): 349–366.
   *(McGinn se invloedryke argument dat die bewussynsprobleem dalk kognitief geslote is vir die menslike verstand.)*
 
-### Neurowetenskappe en Vrye Wil
-
 * **Libet, Benjamin.** "Unconscious Cerebral Initiative and the Role of Conscious Will in Voluntary Action." *Behavioral and Brain Sciences* 8, no. 4 (1985): 529–539.
   *(Die seminale studie oor gereedheidspotensiaal en vrye wil, met Libet se eie genuanseerde interpretasie.)*
 
 * **Schurger, Aaron, Jacobo D. Sitt, en Stanislas Dehaene.** "An Accumulator Model for Spontaneous Neural Activity Prior to Self-Initiated Movement." *Proceedings of the National Academy of Sciences* 109, no. 42 (2012): E2904–E2913.
   *(Die studie wat 'n alternatiewe verklaring bied vir Libet se gereedheidspotensiaal — nie as 'n "onbewuste besluit" nie, maar as toevallige neuronale fluktuasies.)*
-
-### Naby-Doodservarings
 
 * **Parnia, Sam, et al.** "AWARE — AWAreness during REsuscitation — A Prospective Study." *Resuscitation* 85, no. 12 (2014): 1799–1805.
   *(Die eerste groot multi-instituut studie van bewustheid tydens hartstilstand, met merkwaardige bevindinge oor bewussyn tydens kliniese dood.)*
@@ -564,7 +558,14 @@ Vir ons tema bevestig hierdie vers dat die Bybelse verstaan van die mens nie mat
 * **Parnia, Sam.** *Erasing Death: The Science That Is Rewriting the Boundaries Between Life and Death.* New York: HarperOne, 2013.
   *(Toeganklike boek deur die AWARE-studie se hoofnavorser oor die nuutste mediese navorsing oor sterwe en bewussyn.)*
 
-### Gereformeerde Teologie en Antropologie
+* **Lewis, C.S.** *Miracles.* London: Geoffrey Bles, 1947.
+  *(Sien veral hoofstukke 3–5 oor die "kardinale moeilikheid van naturalisme" — die argument dat blote materie nie geldige denke kan voortbring nie.)*
+
+* **Plantinga, Alvin.** *Where the Conflict Really Lies: Science, Religion, and Naturalism.* New York: Oxford University Press, 2011.
+  *(Plantinga se argument dat die werklike konflik nie tussen wetenskap en geloof is nie, maar tussen naturalisme en die betroubaarheid van ons kognitiewe vermoëns.)*
+
+* **Hart, David Bentley.** *The Experience of God: Being, Consciousness, Bliss.* New Haven: Yale University Press, 2013.
+  *('n Kragtige argument dat bewussyn een van die drie groot "aanwysers" na God is wat nie deur materialisme verklaar kan word nie.)*
 
 * **Westminster Geloofsbelydenis** (1646), Hoofstuk 9: "Van die vrye wil."
   *(Klassieke Gereformeerde formulering van menslike wilsvryheid binne die raamwerk van God se soewereiniteit.)*
@@ -577,6 +578,9 @@ Vir ons tema bevestig hierdie vers dat die Bybelse verstaan van die mens nie mat
 
 * **Bavinck, Herman.** *Gereformeerde Dogmatiek.* Deel 2. Kampen: Kok, 1928.
   *(Bavinck se klassieke behandeling van die mens as eenheid van liggaam en siel, geskape na God se beeld.)*
+
+* **Die Bybel, 1953-vertaling (Afrikaanse vertaling)** en **English Standard Version (ESV).**
+  *(Skrifaanhalings in hierdie sessie. Sleutelgedeeltes: Genesis 2:7, Prediker 12:7, 2 Korintiërs 4:16–18, 2 Korintiërs 5:1–8, Filippense 1:21–23, 1 Korintiërs 15:26, 42–53, Lukas 23:43.)*
 
 </div>
 
@@ -1086,8 +1090,6 @@ For our theme this verse confirms that the biblical understanding of the human b
 
 ## Bibliography
 
-### Philosophy of Consciousness and the Mind
-
 * **Chalmers, David.** "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies* 2, no. 3 (1995): 200–219.
   *(The seminal article in which Chalmers draws the distinction between the "easy" and "hard" problems of consciousness, and argues that the hard problem does not appear solvable within the current materialistic framework.)*
 
@@ -1112,23 +1114,17 @@ For our theme this verse confirms that the biblical understanding of the human b
 * **McGinn, Colin.** "Can We Solve the Mind-Body Problem?" *Mind* 98, no. 391 (1989): 349–366.
   *(McGinn's influential argument that the consciousness problem may be cognitively closed to the human mind.)*
 
-### Neuroscience and Free Will
-
 * **Libet, Benjamin.** "Unconscious Cerebral Initiative and the Role of Conscious Will in Voluntary Action." *Behavioral and Brain Sciences* 8, no. 4 (1985): 529–539.
   *(The seminal study on readiness potential and free will, with Libet's own nuanced interpretation.)*
 
 * **Schurger, Aaron, Jacobo D. Sitt, and Stanislas Dehaene.** "An Accumulator Model for Spontaneous Neural Activity Prior to Self-Initiated Movement." *Proceedings of the National Academy of Sciences* 109, no. 42 (2012): E2904–E2913.
   *(The study offering an alternative explanation for Libet's readiness potential — not as an "unconscious decision" but as random neuronal fluctuations.)*
 
-### Near-Death Experiences
-
 * **Parnia, Sam, et al.** "AWARE — AWAreness during REsuscitation — A Prospective Study." *Resuscitation* 85, no. 12 (2014): 1799–1805.
   *(The first major multi-institution study of awareness during cardiac arrest, with remarkable findings on consciousness during clinical death.)*
 
 * **Parnia, Sam.** *Erasing Death: The Science That Is Rewriting the Boundaries Between Life and Death.* New York: HarperOne, 2013.
   *(Accessible book by the AWARE study's lead researcher on the latest medical research into dying and consciousness.)*
-
-### Christian Apologetics and the Mind
 
 * **Lewis, C.S.** *Miracles.* London: Geoffrey Bles, 1947.
   *(See especially chapters 3–5 on the "cardinal difficulty of naturalism" — the argument that mere matter cannot produce valid thought.)*
@@ -1137,9 +1133,7 @@ For our theme this verse confirms that the biblical understanding of the human b
   *(Plantinga's argument that the real conflict is not between science and faith, but between naturalism and the reliability of our cognitive faculties.)*
 
 * **Hart, David Bentley.** *The Experience of God: Being, Consciousness, Bliss.* New Haven: Yale University Press, 2013.
-  *(Hart's powerful argument that consciousness is one of the three great "pointers" to God that cannot be explained by materialism.)*
-
-### Reformed Theology and Anthropology
+  *(A powerful argument that consciousness is one of the three great "pointers" to God that cannot be explained by materialism.)*
 
 * **Westminster Confession of Faith** (1646), Chapter 9: "Of Free Will."
   *(Classic Reformed formulation of human freedom of will within the framework of God's sovereignty.)*
@@ -1152,8 +1146,6 @@ For our theme this verse confirms that the biblical understanding of the human b
 
 * **Bavinck, Herman.** *Reformed Dogmatics.* Vol. 2. Edited by John Bolt. Translated by John Vriend. Grand Rapids: Baker Academic, 2004.
   *(Bavinck's classic treatment of the human being as unity of body and soul, created in God's image.)*
-
-### Biblical References
 
 * **The Holy Bible, English Standard Version (ESV).**
   *(Scripture quotations in this session are from the ESV. Key passages: Genesis 2:7, Ecclesiastes 12:7, 2 Corinthians 4:16–18, 2 Corinthians 5:1–8, Philippians 1:21–23, 1 Corinthians 15:26, 42–53, Luke 23:43.)*

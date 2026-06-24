@@ -22,7 +22,7 @@ In hierdie laaste sessie van ons metafisiese ontdekkingsreis staan ons soos pelg
 
 Ons het begin deur te vra: *Wie is God werklik?* In die proses het ons valse beelde afgebreek (Sessies 1–2) en ontdek dat God die **grond, bron en doel van alle bestaan** is. Ons het gestap na die hoogtes van transendensie en die nabyheid van immanensie (Sessies 3–4), en gesien hoe hierdie twee in God volmaak saamvloei. Ons het bewussyn en gerigtheid ondersoek (Sessies 5–6), raaisels wat natuurlik pas in ‘n werklikheid geanker in God. Daarna het ons die verlange na die Oneindige (Sessie 7) ontleed: ‘n innerlike roepstem wat nie bloot ‘n chemiese impuls is nie, maar ‘n stille herinnering aan die tuiste vir ons siele.
 
-Nou kom ons by die doel van die reis: die **lewende ervaring van God**. Dit is ‘n pad wat sowel inwaarts as opwaarts lei. Inwaarts, deur bekering, gebed en stille nadenke. Opwaarts, deur aanbidding, lof en verwondering oor die majesteit van die Een wat ons alles gee. In hierdie dubbele beweging ontmoet ons die paradoks wat Augustinus beskryf (en wat David Bentley Hart weer opneem): God is *”hoër as my hoogste en nader as my innerlikste self”*.
+Nou kom ons by die doel van die reis: die **lewende ervaring van God**. Dit is ‘n pad wat sowel inwaarts as opwaarts lei. Inwaarts, deur bekering, gebed en stille nadenke. Opwaarts, deur aanbidding, lof en verwondering oor die majesteit van die Een wat ons alles gee. In hierdie dubbele beweging ontmoet ons die paradoks wat Augustinus beskryf: God is *”hoër as my hoogste en nader as my innerlikste self”*.
 
 Soos elke pelgrim kom ons uiteindelik agter dat die bestemming ‘n Persoon is. Dit is God self wat Hom aan ons openbaar, volkome in Jesus Christus, die *”Beeld van die onsigbare God”* (Kol. 1:15). In Hom word alles wat ons in hierdie reeks besin het vlees en bloed. In Hom hoor ons die Naam: *”Immanuel, God met ons”* (Matt. 1:23). Jesus sê: *”Wie My gesien het, het die Vader gesien”* (Joh. 14:9). Hiermee word die reis se intellektuele bouwerk omskep in ‘n ontmoeting van hart tot hart.
 
@@ -32,7 +32,7 @@ Die einde van hierdie reeks is dus ‘n deur wat oopgaan na ‘n lewe van voortd
 
 Ons hele metafisiese reis het begin met vrae, soms as logiese stappe, ander kere as persoonlike verlange. Ons het argumente oorweeg wat uit die heelal self spruit (die kosmologiese argument), uit die unieke aard van bewussyn en ons gerigtheid op waarheid, goedheid en skoonheid, en uit die diep menslike verlange na ‘n vervulling wat geen aardse objek kan bied nie. Hierdie argumente bou ‘n brug van rasionele aanwysers wat na God wys. Maar soos enige pelgrim agterkom, bring die brug jou net tot by die poorte. **Ervaring is wat jou binne laat gaan.**
 
-David Bentley Hart herinner ons dat God nie ‘n “ding” is wat langs ander dinge in die kosmos bestaan nie. God is die **Grond van alles**: die Lig waarin ons alles sien. Om Hom te “ken” is om onsself oop te stel vir Sy selfopenbaring. Hierdie openbaring kom op veelvuldige maniere:
+Die klassieke tradisie herinner ons dat God nie ‘n “ding” is wat langs ander dinge in die kosmos bestaan nie. God is die **Grond van alles**: die Lig waarin ons alles sien. Om Hom te “ken” is om onsself oop te stel vir Sy selfopenbaring. Hierdie openbaring kom op veelvuldige maniere:
 
 * **In die Skrif** – God se geskrewe woord wat ons verstand en hart aanspreek (Ps. 119:105).
 * **In die skepping** – “Die hemele vertel die eer van God” (Ps. 19:2).
@@ -168,18 +168,14 @@ Binne die Gereformeerde tradisie word ons geloofsreis nie losgemaak van die kerk
 
 ## Bibliografie
 
-### Primêre Bronne en Klassieke Teoloë
-
 * **Hart, David Bentley.** *The Experience of God: Being, Consciousness, Bliss*. New Haven: Yale University Press, 2013.
-  *(Hart se werk dien as ruggraat vir die reeks; in die slot bespreek hy hoe metafisika lei tot ervaring van God as die grond van alles.)*
+  *(’n Filosofiese verkenning van hoe metafisika lei tot die ervaring van God as die grond van alles.)*
 
 * **Augustinus.** *Confessions*. Vertaal deur Henry Chadwick. Oxford: Oxford University Press, 1991.
   *(Sy gebede oor God as innerlik en verhewe, en die rustelose hart, vorm die ervaringsdimensie.)*
 
 * **Calvyn, Johannes.** *Institusie van die Christelike Godsdiens*, Boek III, Hoofstuk 2. Vertaal deur Henry Beveridge. Peabody: Hendrickson, 2008.
   *(Calvyn se uiteensetting van geloof as werk van die Gees, verbindende rede en ervaring.)*
-
-### Kontemporêre Christelike Denkers
 
 * **Lewis, C.S.** *Mere Christianity*. London: Geoffrey Bles, 1952.
   *(Lewis se besinnings oor geloof en ervaring, insluitend die gebed “Ek wil God hê” as ontmoeting.)*
@@ -192,8 +188,6 @@ Binne die Gereformeerde tradisie word ons geloofsreis nie losgemaak van die kerk
 
 * **Lawrence, Brother.** *The Practice of the Presence of God*. Vertaal deur E.M. Blaiklock. London: Hodder & Stoughton, 1981.
   *(Praktiese gids tot God se teenwoordigheid in daaglikse lewe.)*
-
-### Bybelse Verwysings en Kommentaar
 
 * **Die Bybel: 1953-vertaling en 2020-vertaling (Afrikaanse vertalings)** en **English Standard Version (ESV)**.
   *(Skrifaanhalings uit 1953-vertaling. Sleutelverse: Jer. 29:13, Matt. 7:7–8, Jak. 4:8, Fil. 3:10, Ps. 34:9.)*
@@ -216,7 +210,7 @@ In this final session of our metaphysical journey of discovery we stand as pilgr
 
 We began by asking: *Who is God really?* In the process we dismantled false images (Sessions 1--2) and discovered that God is the **ground, source and goal of all existence**. We walked to the heights of transcendence and the nearness of immanence (Sessions 3--4), and saw how these two flow together perfectly in God. We examined consciousness and intentionality (Sessions 5--6), riddles that naturally fit in a reality anchored in God. Then we analysed the longing for the Infinite (Session 7): an inner call that is not merely a chemical impulse but a quiet reminder of the home for our souls.
 
-Now we come to the goal of the journey: the **living experience of God**. This is a path that leads both inward and upward. Inward, through conversion, prayer and quiet reflection. Upward, through worship, praise and wonder at the majesty of the One who gives us everything. In this twofold movement we encounter the paradox that Augustine describes (and that David Bentley Hart takes up again): God is *"higher than my highest and nearer than my inmost self."*
+Now we come to the goal of the journey: the **living experience of God**. This is a path that leads both inward and upward. Inward, through conversion, prayer and quiet reflection. Upward, through worship, praise and wonder at the majesty of the One who gives us everything. In this twofold movement we encounter the paradox that Augustine describes: God is *"higher than my highest and nearer than my inmost self."*
 
 As every pilgrim eventually realises, the destination is a Person. It is God himself who reveals himself to us, fully in Jesus Christ, the *"image of the invisible God"* (Col. 1:15, ESV). In him everything we have reflected on in this series becomes flesh and blood. In him we hear the Name: *"Immanuel, God with us"* (Matt. 1:23). Jesus says: *"Whoever has seen me has seen the Father"* (John 14:9, ESV). With this, the intellectual construction of the journey is transformed into an encounter of heart to heart.
 
@@ -226,7 +220,7 @@ The end of this series is therefore a door that opens to a life of ongoing seeki
 
 Our entire metaphysical journey began with questions -- sometimes as logical steps, other times as personal longing. We considered arguments arising from the universe itself (the cosmological argument), from the unique nature of consciousness and our directedness towards truth, goodness and beauty, and from the deep human longing for a fulfilment that no earthly object can provide. These arguments build a bridge of rational pointers that point to God. But as any pilgrim realises, the bridge only brings you to the gates. **Experience is what lets you in.**
 
-David Bentley Hart reminds us that God is not a "thing" existing alongside other things in the cosmos. God is the **Ground of everything**: the Light in which we see everything. To "know" him is to open ourselves to his self-revelation. This revelation comes in manifold ways:
+The classical tradition reminds us that God is not a "thing" existing alongside other things in the cosmos. God is the **Ground of everything**: the Light in which we see everything. To "know" him is to open ourselves to his self-revelation. This revelation comes in manifold ways:
 
 * **In Scripture** -- God's written word that addresses our mind and heart (Ps. 119:105).
 * **In creation** -- "The heavens declare the glory of God" (Ps. 19:1, ESV).
@@ -362,18 +356,14 @@ Within the Reformed tradition, our faith journey is never detached from the chur
 
 ## Bibliography
 
-### Primary Sources and Classical Theologians
-
 * **Hart, David Bentley.** *The Experience of God: Being, Consciousness, Bliss*. New Haven: Yale University Press, 2013.
-  *(Hart's work serves as the backbone for the series; in the conclusion he discusses how metaphysics leads to the experience of God as the ground of everything.)*
+  *(A philosophical exploration of how metaphysics leads to the experience of God as the ground of everything.)*
 
 * **Augustine.** *Confessions*. Translated by Henry Chadwick. Oxford: Oxford University Press, 1991.
   *(His prayers about God as both inward and exalted, and the restless heart, form the experiential dimension.)*
 
 * **Calvin, John.** *Institutes of the Christian Religion*, Book III, Chapter 2. Translated by Henry Beveridge. Peabody: Hendrickson, 2008.
   *(Calvin's exposition of faith as the work of the Spirit, connecting reason and experience.)*
-
-### Contemporary Christian Thinkers
 
 * **Lewis, C.S.** *Mere Christianity*. London: Geoffrey Bles, 1952.
   *(Lewis's reflections on faith and experience, including the prayer "I want God" as encounter.)*
@@ -386,8 +376,6 @@ Within the Reformed tradition, our faith journey is never detached from the chur
 
 * **Lawrence, Brother.** *The Practice of the Presence of God*. Translated by E.M. Blaiklock. London: Hodder & Stoughton, 1981.
   *(Practical guide to God's presence in daily life.)*
-
-### Biblical References and Commentary
 
 * **The Bible: English Standard Version (ESV).**
   *(Key verses: Jer. 29:13, Matt. 7:7--8, James 4:8, Phil. 3:10, Ps. 34:8.)*

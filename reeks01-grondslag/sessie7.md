@@ -30,9 +30,9 @@ Mense is nie bloot wesens van noodsaaklikhede nie; ons is wesens van **verlange*
 
 C.S. Lewis beskryf dit as **”Joy”**: ‘n kortstondige, intense verlange na iets buite hierdie wêreld, wat deur aardse ervarings gewek word maar nooit volkome bevredig nie. In *Surprised by Joy* skryf hy: “It was a sensation, of course, of desire; but desire for what? ... Before I knew what I desired, the desire itself was gone, the whole glimpse withdrawn, the world turned commonplace again.”
 
-David Bentley Hart, in *The Experience of God*, noem dit ‘n **hunkering na saligheid** (*bliss*), die derde pilaar van sy metafisiese argument. Ons bestaan en is bewus, maar ons het ook ‘n ingeboude strewe na volmaakte vervulling, ‘n *ananda* wat alle aardse plesier oorskry. Hierdie verlange is metafisies: dit wys dat ons vir gemeenskap met die Oneindige gemaak is. Peter Kreeft bou hierop deur te sê dat ons verlange na God soos ‘n voetafdruk in die sand is. Dit dui op ‘n Voet wat daar was.
+Die klassieke tradisie noem dit ‘n **hunkering na saligheid** (*bliss*), die derde pilaar van die metafisiese argument. Ons bestaan en is bewus, maar ons het ook ‘n ingeboude strewe na volmaakte vervulling, ‘n *ananda* wat alle aardse plesier oorskry. Hierdie verlange is metafisies: dit wys dat ons vir gemeenskap met die Oneindige gemaak is. Peter Kreeft bou hierop deur te sê dat ons verlange na God soos ‘n voetafdruk in die sand is. Dit dui op ‘n Voet wat daar was.
 
-Filosowe soos **Plato** en **Aquinas** het lank terug reeds gesien dat ons begeertes nie willekeurig is nie: soos honger kos veronderstel en dors water veronderstel, so veronderstel ons hunkering na volmaakte Waarheid, Goedheid en Skoonheid dat daar ‘n werklike, ewige Bron daarvan is. Hart verwoord dit so in *The Experience of God*: elke strewe van die mens is uiteindelik ‘n straal wat terugwys na die Son waaruit dit kom. Wanneer ons hierdie verlange in ons eie tyd waarneem, selfs in sekulêre vorme, sien ons die onuitwisbare afdruk van God in die menslike hart.
+Filosowe soos **Plato** en **Aquinas** het lank terug reeds gesien dat ons begeertes nie willekeurig is nie: soos honger kos veronderstel en dors water veronderstel, so veronderstel ons hunkering na volmaakte Waarheid, Goedheid en Skoonheid dat daar ‘n werklike, ewige Bron daarvan is. In hierdie Platoniese beeld is elke strewe van die mens uiteindelik ‘n straal wat terugwys na die Son waaruit dit kom. Wanneer ons hierdie verlange in ons eie tyd waarneem, selfs in sekulêre vorme, sien ons die onuitwisbare afdruk van God in die menslike hart.
 
 ## Moderne kulturele uitdrukkings van transendente verlange
 
@@ -80,7 +80,7 @@ Selfs sekulêre filosowe erken dat mense nie kan leef sonder ‘n gevoel van doe
 * Viktor Frankl wys dat betekenis nie ’n luukse is nie, maar ’n noodsaaklike bestaansvoorwaarde.
 * Die moderne “identiteitskrisis” is dikwels niks anders as ’n metafisiese verlange om te weet **wie ons is in verhouding tot ons Skepper** nie.
 
-Hierdie verskynsels, hoe uiteenlopend ook al, is variasies op dieselfde tema: die menslike hart se rustelose soeke na die Bron van Waarheid, Goedheid en Skoonheid. Soos Hart opmerk, selfs die begeertes wat verkeerd gerig is, bly getuienisse van ‘n natuur wat gemaak is om te rus in God. Die Evangelie nooi ons om hierdie verlange terug te lei na sy regmatige vervulling.
+Hierdie verskynsels, hoe uiteenlopend ook al, is variasies op dieselfde tema: die menslike hart se rustelose soeke na die Bron van Waarheid, Goedheid en Skoonheid. Soos die klassieke tradisie sedert Augustinus beklemtoon, bly selfs die begeertes wat verkeerd gerig is, getuienisse van ‘n natuur wat gemaak is om te rus in God. Die Evangelie nooi ons om hierdie verlange terug te lei na sy regmatige vervulling.
 
 ## Bybelse perspektief op moderne uitdrukkings van verlange
 
@@ -144,7 +144,7 @@ In die 20ste eeu het filosowe soos C.S. Lewis en Peter Kreeft die argument gewil
 * Ons het ’n natuurlike begeerte wat geen aardse ding kan vervul nie.
 * Dus bestaan daar iets buite die aardse – God en die ewige lewe.
 
-Hart, in *The Experience of God*, wys dat hierdie verlange ‘n **metafisiese leidraad** is: die uitdrukking van ons wese se deelname aan die Goddelike werklikheid. Hy beskryf God as *ipsum esse subsistens*, die selfstandige Wees self, en ons hunkering as ‘n “spieëlbeeld” van ons oorsprong in Hom. Dit sou ondenkbaar wees dat die hart ‘n absolute verlange kon hê as die absolute nie bestaan nie.
+Die klassieke tradisie wys dat hierdie verlange ‘n **metafisiese leidraad** is: die uitdrukking van ons wese se deelname aan die Goddelike werklikheid. In Aquinas se woorde is God *ipsum esse subsistens*, die selfstandige Wees self, en ons hunkering is ‘n “spieëlbeeld” van ons oorsprong in Hom. Dit sou ondenkbaar wees dat die hart ‘n absolute verlange kon hê as die absolute nie bestaan nie.
 
 ### Analogie en Metafisiese Krag
 
@@ -182,7 +182,7 @@ Naturalistiese teenargumente, veral uit evolusionêre sielkunde, probeer hierdie
 Weerleggings met filosofiese insigte:
 
 * **Lewis en Kreeft se antwoord:** Natuurlike begeertes is nie illusies nie; hulle korrespondeer met realiteite. As evolusie ’n verlange skep sonder objek (bv. na God), waarom nie ook vir voedsel of seks nie? Dit sou kontraproduktief wees. Kreeft: “The fact that we have a desire for heaven proves heaven exists, just as hunger proves food exists.”
-* **Hart se metafisiese kritiek:** In *The Experience of God* wys hy dat materialisme selfondermynend is: as alle verlange bloot evolusionêr is, waarom vertrou ons ons verlange na waarheid (insluitend wetenskaplike waarheid, en daarom die waarheid van evolusie self)? Evolusie kies vir nuttigheid, nie akkuraatheid nie. Ons verlange na saligheid is te universeel en intens om ‘n “misskoot” te wees; dit is deel van ons metafisiese samestelling.
+* **Die metafisiese kritiek:** Die klassieke teïsme wys dat materialisme selfondermynend is: as alle verlange bloot evolusionêr is, waarom vertrou ons ons verlange na waarheid (insluitend wetenskaplike waarheid, en daarom die waarheid van evolusie self)? Evolusie kies vir nuttigheid, nie akkuraatheid nie. Ons verlange na saligheid is te universeel en intens om ‘n “misskoot” te wees; dit is deel van ons metafisiese samestelling.
 * **Pascal en Kierkegaard:** Pascal (*Pensées*): “The heart has its reasons which reason knows nothing of.” Ons verlange is ‘n “God-vormige vakuum” wat slegs God vul. Kierkegaard waarsku teen reduksionisme: om verlange tot biologie te reduseer, ignoreer die oneindige diepte, wat ‘n “geloofssprong” vereis.
 * **Universele bewyse:** Antropologiese studies toon dat selfs in sekulêre kulture verlange na transendensie aanhou (bv. in spiritualiteit sonder godsdiens). Sensus divinitatis is universeel, al word dit onderdruk (Rom. 1:18–20).
 
@@ -223,7 +223,7 @@ Die Prediker se worsteling bied 'n besondere perspektief op menslike verlange:
 
 * Hoe beskryf jy jou eie ervarings van “Joy” of hunkering na die oneindige, soos Lewis dit stel? Het aardse dinge dit ooit volkome bevredig?
 * Hoe oortuig die analogie van natuurlike begeertes (honger na voedsel) jou van die werklikheid van God as vervulling vir transendente verlange?
-* Hoe hanteer jy die teenargument dat verlange bloot evolusionêre byprodukte is? Help Hart of Kreeft se insigte jou?
+* Hoe hanteer jy die teenargument dat verlange bloot evolusionêre byprodukte is? Help die klassieke tradisie of Kreeft se insigte jou?
 * In watter opsigte sien jy Bybelse figure (bv. Dawid in die Psalms) worstel met onbevredigde verlange, en hoe vind hulle rus in God?
 * Hoe beïnvloed die konsep van saligheid jou aanbidding en hoop op die ewige?
 * Balans: Hoe sien jy die spanning tussen natuurlike verlange en die belydenis dat ware soeke deur die Gees kom?
@@ -256,8 +256,6 @@ Die besef dat ons oneindige verlange 'n wegwyser na God is, bring belangrike imp
 
 ## Bibliografie
 
-### Klassieke Filosofiese Bronne
-
 * **Plato.** *Symposium* en *Phaedo*. Vertaal deur Benjamin Jowett. Oxford: Clarendon Press, 1892.
   *(Plato se beskrywing van eros as strewe na die ewige Goeie – ’n vroeë metafisiese grondslag vir verlange as wegwyser.)*
 
@@ -266,8 +264,6 @@ Die besef dat ons oneindige verlange 'n wegwyser na God is, bring belangrike imp
 
 * **Aquinas, Thomas.** *Summa Theologica*, I-II, Q. 1–5. Vertaal deur Fathers of the English Dominican Province. New York: Benziger Bros., 1947.
   *(Aquinas se argument dat ware geluk slegs in God lê, met analogieë van begeerte.)*
-
-### Teologiese en Literêre Stemme
 
 * **Augustinus.** *Confessions*. Vertaal deur Henry Chadwick. Oxford: Oxford University Press, 1991.
   *(Die beroemde openingsgebed oor rustelose harte – ’n hoeksteen van die argument uit verlange.)*
@@ -280,8 +276,6 @@ Die besef dat ons oneindige verlange 'n wegwyser na God is, bring belangrike imp
 
 * **Kierkegaard, Søren.** *Either/Or* en *Fear and Trembling*. Vertaal deur Howard V. Hong en Edna H. Hong. Princeton: Princeton University Press, 1983.
   *(Kierkegaard se fokus op oneindige passie vir die goeie en die sprong na geloof.)*
-
-### Kontemporêre Christelike Denkers
 
 * **Lewis, C.S.** *Mere Christianity*. London: Geoffrey Bles, 1952.
   *(Hoofstuk oor hoop en verlange as bewys vir ’n ander wêreld.)*
@@ -297,8 +291,6 @@ Die besef dat ons oneindige verlange 'n wegwyser na God is, bring belangrike imp
 
 * **Plantinga, Alvin.** *Warranted Christian Belief*. New York: Oxford University Press, 2000.
   *(Integrasie van sensus divinitatis met verlange na God as epistemologiese basis.)*
-
-### Bybelse Verwysings en Kommentaar
 
 * **Die Bybel: 1953-vertaling en 2020-vertaling (Afrikaanse vertalings)** en **English Standard Version (ESV)**.
   *(Skrifaanhalings is uit 1953-vertaling tensy anders vermeld. Psalms 42 en 63 vir dors na God; Matteus 5 vir saligheid; Johannes 4 vir lewende water; Romeine 8 vir sug na verlossing.)*
@@ -329,9 +321,9 @@ Human beings are not merely beings of necessities; we are beings of **longing**.
 
 C.S. Lewis describes this as **"Joy"**: a brief, intense longing for something beyond this world, awakened by earthly experiences but never fully satisfied. In *Surprised by Joy* he writes: "It was a sensation, of course, of desire; but desire for what? ... Before I knew what I desired, the desire itself was gone, the whole glimpse withdrawn, the world turned commonplace again."
 
-David Bentley Hart, in *The Experience of God*, calls it a **longing for bliss**, the third pillar of his metaphysical argument. We exist and are conscious, but we also have a built-in striving for perfect fulfilment, an *ananda* that surpasses all earthly pleasure. This longing is metaphysical: it shows that we are made for communion with the Infinite. Peter Kreeft builds on this by saying that our longing for God is like a footprint in the sand. It points to a Foot that was there.
+The classical tradition calls it a **longing for bliss**, the third pillar of the metaphysical argument. We exist and are conscious, but we also have a built-in striving for perfect fulfilment, an *ananda* that surpasses all earthly pleasure. This longing is metaphysical: it shows that we are made for communion with the Infinite. Peter Kreeft builds on this by saying that our longing for God is like a footprint in the sand. It points to a Foot that was there.
 
-Philosophers such as **Plato** and **Aquinas** long ago already saw that our desires are not arbitrary: just as hunger presupposes food and thirst presupposes water, so our yearning for perfect Truth, Goodness and Beauty presupposes that there is a real, eternal Source of them. Hart puts it thus in *The Experience of God*: every striving of the human being is ultimately a ray that points back to the Sun from which it comes. When we observe this longing in our own time, even in secular forms, we see the indelible imprint of God in the human heart.
+Philosophers such as **Plato** and **Aquinas** long ago already saw that our desires are not arbitrary: just as hunger presupposes food and thirst presupposes water, so our yearning for perfect Truth, Goodness and Beauty presupposes that there is a real, eternal Source of them. In this Platonic image, every striving of the human being is ultimately a ray that points back to the Sun from which it comes. When we observe this longing in our own time, even in secular forms, we see the indelible imprint of God in the human heart.
 
 ## Modern cultural expressions of transcendent longing
 
@@ -379,7 +371,7 @@ Even secular philosophers acknowledge that humans cannot live without a sense of
 * Viktor Frankl shows that meaning is not a luxury but an essential condition for existence.
 * The modern "identity crisis" is often nothing other than a metaphysical longing to know **who we are in relation to our Creator**.
 
-These phenomena, however diverse, are variations on the same theme: the human heart's restless search for the Source of Truth, Goodness and Beauty. As Hart observes, even desires that are wrongly directed remain testimonies of a nature that was made to rest in God. The Gospel invites us to lead this longing back to its rightful fulfilment.
+These phenomena, however diverse, are variations on the same theme: the human heart's restless search for the Source of Truth, Goodness and Beauty. As the classical tradition since Augustine emphasises, even desires that are wrongly directed remain testimonies of a nature that was made to rest in God. The Gospel invites us to lead this longing back to its rightful fulfilment.
 
 ## Biblical perspective on modern expressions of longing
 
@@ -443,7 +435,7 @@ In the 20th century, philosophers such as C.S. Lewis and Peter Kreeft popularise
 * We have a natural desire that no earthly thing can fulfil.
 * Therefore something beyond the earthly exists -- God and eternal life.
 
-Hart, in *The Experience of God*, shows that this longing is a **metaphysical clue**: the expression of our being's participation in the Divine reality. He describes God as *ipsum esse subsistens*, subsistent Being itself, and our yearning as a "mirror image" of our origin in him. It would be unthinkable that the heart could have an absolute longing if the absolute did not exist.
+The classical tradition shows that this longing is a **metaphysical clue**: the expression of our being's participation in the Divine reality. In Aquinas's words, God is *ipsum esse subsistens*, subsistent Being itself, and our yearning is a "mirror image" of our origin in him. It would be unthinkable that the heart could have an absolute longing if the absolute did not exist.
 
 ### Analogy and Metaphysical Force
 
@@ -481,7 +473,7 @@ Naturalistic counter-arguments, especially from evolutionary psychology, try to 
 Responses with philosophical insights:
 
 * **Lewis and Kreeft's answer:** Natural desires are not illusions; they correspond with realities. If evolution creates a desire without an object (e.g. for God), why not also for food or sex? That would be counter-productive. Kreeft: "The fact that we have a desire for heaven proves heaven exists, just as hunger proves food exists."
-* **Hart's metaphysical critique:** In *The Experience of God* he shows that materialism is self-undermining: if all desire is merely evolutionary, why trust our desire for truth (including scientific truth, and therefore the truth of evolution itself)? Evolution selects for usefulness, not accuracy. Our longing for bliss is too universal and intense to be a "misfire"; it is part of our metaphysical make-up.
+* **The metaphysical critique:** Classical theism shows that materialism is self-undermining: if all desire is merely evolutionary, why trust our desire for truth (including scientific truth, and therefore the truth of evolution itself)? Evolution selects for usefulness, not accuracy. Our longing for bliss is too universal and intense to be a "misfire"; it is part of our metaphysical make-up.
 * **Pascal and Kierkegaard:** Pascal (*Pensees*): "The heart has its reasons which reason knows nothing of." Our longing is a "God-shaped vacuum" that only God fills. Kierkegaard warns against reductionism: to reduce longing to biology ignores the infinite depth, which requires a "leap of faith."
 * **Universal evidence:** Anthropological studies show that even in secular cultures, longing for transcendence persists (e.g. in spirituality without religion). The sensus divinitatis is universal, even if suppressed (Rom. 1:18--20).
 
@@ -520,7 +512,7 @@ The Preacher's struggle offers a particular perspective on human longing:
 
 * How would you describe your own experiences of "Joy" or longing for the infinite, as Lewis describes it? Have earthly things ever fully satisfied it?
 * How does the analogy of natural desires (hunger for food) persuade you of the reality of God as fulfilment for transcendent longing?
-* How do you handle the counter-argument that longing is merely an evolutionary by-product? Do Hart's or Kreeft's insights help you?
+* How do you handle the counter-argument that longing is merely an evolutionary by-product? Do the classical tradition's or Kreeft's insights help you?
 * In what ways do you see biblical figures (e.g. David in the Psalms) wrestling with unsatisfied longing, and how do they find rest in God?
 * How does the concept of beatitude influence your worship and hope for eternity?
 * Balance: How do you see the tension between natural longing and the confession that true seeking comes through the Spirit?
@@ -553,8 +545,6 @@ The realisation that our infinite longing is a signpost to God brings important 
 
 ## Bibliography
 
-### Classical Philosophical Sources
-
 * **Plato.** *Symposium* and *Phaedo*. Translated by Benjamin Jowett. Oxford: Clarendon Press, 1892.
   *(Plato's description of eros as striving for the eternal Good -- an early metaphysical foundation for longing as a signpost.)*
 
@@ -563,8 +553,6 @@ The realisation that our infinite longing is a signpost to God brings important 
 
 * **Aquinas, Thomas.** *Summa Theologica*, I-II, Q. 1--5. Translated by Fathers of the English Dominican Province. New York: Benziger Bros., 1947.
   *(Aquinas's argument that true happiness lies only in God, with analogies of desire.)*
-
-### Theological and Literary Voices
 
 * **Augustine.** *Confessions*. Translated by Henry Chadwick. Oxford: Oxford University Press, 1991.
   *(The famous opening prayer about restless hearts -- a cornerstone of the argument from desire.)*
@@ -577,8 +565,6 @@ The realisation that our infinite longing is a signpost to God brings important 
 
 * **Kierkegaard, Soren.** *Either/Or* and *Fear and Trembling*. Translated by Howard V. Hong and Edna H. Hong. Princeton: Princeton University Press, 1983.
   *(Kierkegaard's focus on infinite passion for the good and the leap to faith.)*
-
-### Contemporary Christian Thinkers
 
 * **Lewis, C.S.** *Mere Christianity*. London: Geoffrey Bles, 1952.
   *(Chapter on hope and longing as evidence for another world.)*
@@ -594,8 +580,6 @@ The realisation that our infinite longing is a signpost to God brings important 
 
 * **Plantinga, Alvin.** *Warranted Christian Belief*. New York: Oxford University Press, 2000.
   *(Integration of sensus divinitatis with longing for God as epistemological basis.)*
-
-### Biblical References and Commentary
 
 * **The Bible: English Standard Version (ESV).**
   *(Scripture quotations are from the ESV. Psalms 42 and 63 for thirst for God; Matthew 5 for beatitude; John 4 for living water; Romans 8 for groaning for redemption.)*

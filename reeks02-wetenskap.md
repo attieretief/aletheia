@@ -64,6 +64,8 @@ In die twintigste eeu het die kosmologie een van die mees verrassende ontdekking
 
 Wat beteken dit? As die heelal 'n begin het, dan het dit 'n oorsaak nodig. Hierdie eenvoudige insig lê aan die hart van die *Kalam-kosmologiese argument*, wat in ons tyd veral deur filosoof William Lane Craig ontwikkel is: *Alles wat begin het om te bestaan, het 'n oorsaak. Die heelal het begin om te bestaan. Dus het die heelal 'n oorsaak.*
 
+Tóg is hierdie "begin"-argument nie ons *diepste* punt nie. Die heelal se begin is 'n treffende wetenskaplike aanwyser, maar die draende argument bly dié uit **kontingensie** (Reeks 1): selfs as die heelal ewig was, óf as 'n multiversum dit voortgebring het, sou dit steeds nie sy eie bestaan kon verklaar nie. Op sigself loop 'n blote "begin"-argument boonop gevaar om God as 'n temporale eerste oorsaak — 'n demiurg — voor te stel. Ons leun dus op die kontingensie, en gebruik die begin slegs as 'n ondersteunende sein — juis omdat dit téén "begin"-argumente is dat die multiversum ingespan word, soos ons in Sessie 4 sien.
+
 Hoe werk hierdie argument? Watter besware word daarteen gemaak? En hoe pas dit in by die metafisiese fondament wat ons in Reeks 1 gelê het? Die heelal se begin is nie net 'n wetenskaplike feit nie. Dit is 'n venster na die diepste werklikheid.
 
 ### Sessie 4 — Fyninstelling: Die Radikale Kontingensie van die Kosmos
@@ -205,6 +207,8 @@ Historians such as Rodney Stark and James Hannam have convincingly shown that th
 In the twentieth century, cosmology made one of the most surprising discoveries in the history of science: the universe had a beginning. The Big Bang is not just a theory. It is supported by several independent lines of evidence: the expansion of the universe, the cosmic microwave background radiation, the distribution of light elements.
 
 What does this mean? If the universe had a beginning, then it needs a cause. This simple insight lies at the heart of the *Kalam cosmological argument*, developed in our time especially by philosopher William Lane Craig: *Everything that began to exist has a cause. The universe began to exist. Therefore the universe has a cause.*
+
+Yet this "beginning" argument is not our *deepest* point. The beginning of the universe is a striking scientific signpost, but the load-bearing argument remains the one from **contingency** (Series 1): even if the universe were eternal, or if a multiverse produced it, it still could not account for its own existence. Taken alone, a bare "beginning" argument also risks picturing God as a temporal first cause — a demiurge. So we lean on contingency and use the beginning only as a supporting signal — precisely because it is against "beginning" arguments that the multiverse is deployed, as we see in Session 4.
 
 How does this argument work? What objections are raised against it? And how does it fit with the metaphysical foundation we laid in Series 1? The beginning of the universe is not merely a scientific fact. It is a window into the deepest reality.
 

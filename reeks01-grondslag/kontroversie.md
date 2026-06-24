@@ -40,7 +40,7 @@ Ek praat graag oor God se teenwoordigheid "in alles" (Hand. 17:28). Dit is Bybel
 ### 4. Universele verlange na God
 **Relevante Belydenisverwysings:** NGB Art. 2; DL 3/4.1–4; Rom. 1:18–21; Rom. 3:11
 
-Ek verwys na die *sensus divinitatis* en die rusteloosheid wat dit in elke mens skep. Hier is noukeurige onderskeiding nodig. Calvyn leer dat God 'n bewussyn van Homself in alle mense ingeplant het (*Institusie* I.3.1), maar dat gevalle mense hierdie bewussyn aktief **onderdruk** en verdraai (*Institusie* I.4; Rom. 1:18–21). Die *sensus divinitatis* produseer dus 'n onrustigheid en 'n besef dat daar iets groter is, maar lei op sigself nie tot ware Godskennis of opregte soeke na God nie — Romeine 3:11 is ondubbelsinnig: *"Daar is niemand wat God soek nie."* Enige werklike beweging van die hart na God toe word deur die **Heilige Gees** gewerk (DL 3/4.11–12). Waar Hart of ander denkers praat van 'n "natuurlike verlange na God" by ongelowiges, moet ons dit verstaan as die rusteloosheid wat die *sensus divinitatis* nalaat, nie as 'n ongehoude menslike vermoë om God te soek of te vind nie.
+Ek verwys na die *sensus divinitatis* en die rusteloosheid wat dit in elke mens skep. Hier is noukeurige onderskeiding nodig. Calvyn leer dat God 'n bewussyn van Homself in alle mense ingeplant het (*Institusie* I.3.1), maar dat gevalle mense hierdie bewussyn aktief **onderdruk** en verdraai (*Institusie* I.4; Rom. 1:18–21). Die *sensus divinitatis* produseer dus 'n onrustigheid en 'n besef dat daar iets groter is, maar lei op sigself nie tot ware Godskennis of opregte soeke na God nie — Romeine 3:11 is ondubbelsinnig: *"Daar is niemand wat God soek nie."* Enige werklike beweging van die hart na God toe word deur die **Heilige Gees** gewerk (DL 3/4.11–12). Waar sommige denkers praat van 'n "natuurlike verlange na God" by ongelowiges, moet ons dit verstaan as die rusteloosheid wat die *sensus divinitatis* nalaat, nie as 'n ongehoude menslike vermoë om God te soek of te vind nie.
 
 ### 5. Erkenning van gedeelde klassieke teïsme met ander gelowe
 **Relevante Belydenisverwysings:** NGB Art. 2, 7; DL 2.5
@@ -51,17 +51,6 @@ Ek wys daarop dat sekere eienskappe van God deur ander godsdienste erken word. D
 **Relevante Belydenisverwysings:** NGB Art. 7; HK Sondag 21
 
 Ek wil hê mense moet vry voel om vrae te vra en selfs te verskil. Party mag dit as te "oop" ervaar in 'n streng belydenisgebonde konteks.
-
-### 7. David Bentley Hart se universalisme
-**Relevante Belydenisverwysings:** NGB Art. 37; DL 1.15; HK Sondag 19, V/A 52
-
-Ek moet eerlik wees oor iets wat sommige lesers sal opval. Hierdie reeks steun sterk op die filosofiese raamwerk van David Bentley Hart, veral soos uiteengesit in sy boek *The Experience of God: Being, Consciousness, Bliss* (2013). Dit is 'n uitstekende werk oor klassieke teisme, en ek gebruik dit met oortuiging.
-
-Sedert 2019 het Hart egter in sy boek *That All Shall Be Saved* openlik 'n universalistiese standpunt ingeneem -- hy verwerp die leer van ewige verdoemenis en voer aan dat alle mense uiteindelik gered sal word. Dit staan in regstreekse spanning met ons gereformeerde belydenis. Die Nederlandse Geloofsbelydenis (Art. 37) bely dat die goddeloses "die ewige straf" sal ontvang. Die Dordtse Leerreels (1.15) leer dat God nie almal verkies het nie, maar sommige in hul val en verderf gelaat het. En die Heidelbergse Kategismus (Sondag 19, V/A 52) troos ons juis met die verwagting dat Christus as Regter sal kom wat al sy en my vyande "in die ewige verdoemenis sal werp."
-
-Ek wil dit nie wegsteek nie. Eerlikheid vra dat ek erken: die man wie se filosofiese werk ek hier gebruik, het teologiese oortuigings wat op hierdie punt wesenlik van ons belydenis verskil. Wat ek wel in hierdie reeks gebruik, is Hart se *filosofiese* raamwerk oor God se wese, nie sy soteriologiese gevolgtrekkings nie. Sy beskrywing van God as die oneindige grond van bestaan, bewussyn en goedheid staan in 'n lang klassieke tradisie (Augustinus, Aquinas, die Kappadosiers) en is nie afhanklik van sy latere universalistiese standpunt nie.
-
-Ek vra jou om hier met onderskeiding te lees: neem wat waar en nuttig is, en toets alles aan die Skrif en ons belydenis.
 
 ## Punte van Volle Ooreenstemming
 
@@ -158,7 +147,7 @@ I like to speak of God's presence "in all things" (Acts 17:28). This is biblical
 ### 4. Universal longing for God
 **Relevant Confessional References:** BC Art. 2; CD 3/4.1–4; Rom. 1:18–21; Rom. 3:11
 
-I refer to the *sensus divinitatis* and the restlessness it creates in every person. Careful discernment is needed here. Calvin teaches that God has implanted an awareness of Himself in all people (*Institutes* I.3.1), but that fallen human beings actively **suppress** and distort this awareness (*Institutes* I.4; Rom. 1:18–21). The *sensus divinitatis* therefore produces a restlessness and an awareness that there is something greater, but does not in itself lead to true knowledge of God or genuine seeking after God — Romans 3:11 is unambiguous: *"There is none who seeks after God."* Any real movement of the heart towards God is wrought by the **Holy Spirit** (CD 3/4.11–12). Where Hart or other thinkers speak of a "natural longing for God" in unbelievers, we must understand this as the restlessness that the *sensus divinitatis* leaves behind, not as an unassisted human capacity to seek or find God.
+I refer to the *sensus divinitatis* and the restlessness it creates in every person. Careful discernment is needed here. Calvin teaches that God has implanted an awareness of Himself in all people (*Institutes* I.3.1), but that fallen human beings actively **suppress** and distort this awareness (*Institutes* I.4; Rom. 1:18–21). The *sensus divinitatis* therefore produces a restlessness and an awareness that there is something greater, but does not in itself lead to true knowledge of God or genuine seeking after God — Romans 3:11 is unambiguous: *"There is none who seeks after God."* Any real movement of the heart towards God is wrought by the **Holy Spirit** (CD 3/4.11–12). Where some thinkers speak of a "natural longing for God" in unbelievers, we must understand this as the restlessness that the *sensus divinitatis* leaves behind, not as an unassisted human capacity to seek or find God.
 
 ### 5. Acknowledgement of shared classical theism with other faiths
 **Relevant Confessional References:** BC Art. 2, 7; CD 2.5
@@ -169,17 +158,6 @@ I point out that certain attributes of God are acknowledged by other religions. 
 **Relevant Confessional References:** BC Art. 7; HC Lord's Day 21
 
 I want people to feel free to ask questions and even to disagree. Some may experience this as too "open" in a strictly confessional context.
-
-### 7. David Bentley Hart's universalism
-**Relevant Confessional References:** BC Art. 37; CD 1.15; HC Lord's Day 19, Q/A 52
-
-I must be honest about something some readers will notice. This series draws heavily on the philosophical framework of David Bentley Hart, especially as set out in his book *The Experience of God: Being, Consciousness, Bliss* (2013). It is an excellent work on classical theism, and I use it with conviction.
-
-Since 2019, however, Hart has in his book *That All Shall Be Saved* openly adopted a universalist position — he rejects the doctrine of eternal condemnation and argues that all people will ultimately be saved. This stands in direct tension with our Reformed confession. The Belgic Confession (Art. 37) confesses that the ungodly will receive "eternal punishment." The Canons of Dort (1.15) teach that God has not elected all, but has left some in their fall and perdition. And the Heidelberg Catechism (Lord's Day 19, Q/A 52) comforts us precisely with the expectation that Christ will come as Judge who will "cast all his and my enemies into eternal condemnation."
-
-I do not want to hide this. Honesty demands that I acknowledge: the man whose philosophical work I use here holds theological convictions that on this point differ substantially from our confession. What I do use in this series is Hart's *philosophical* framework concerning God's being, not his soteriological conclusions. His description of God as the infinite ground of being, consciousness and goodness stands in a long classical tradition (Augustine, Aquinas, the Cappadocians) and is not dependent on his later universalist position.
-
-I ask you to read here with discernment: take what is true and useful, and test everything against Scripture and our confession.
 
 ## Points of Full Agreement
 

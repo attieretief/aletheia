@@ -1,0 +1,48 @@
+<!-- Per-lesson completion toggle. Privacy-safe: localStorage only, no cookies, no server.
+     Doubles as an engagement signal (fires a GoatCounter event on completion). -->
+<div class="mark-complete clearfix py-2 my-2" style="border-top:1px solid #e5e0d8;">
+  <button id="mc-btn" type="button"
+          style="background:none;border:1.5px solid #b08d57;color:#7a5c2e;border-radius:6px;
+                 padding:7px 16px;font-size:0.95rem;cursor:pointer;font-family:inherit;
+                 display:inline-flex;align-items:center;gap:8px;transition:all .15s;">
+    <span id="mc-mark" aria-hidden="true">&#9711;</span>
+    <span class="lang-af mc-label-af">Merk hierdie sessie as voltooi</span><span class="lang-en mc-label-en">Mark this session complete</span>
+  </button>
+</div>
+<script>
+(function() {
+  var key = 'aletheia:done:' + (location.pathname || '{{ page.url }}');
+  var btn = document.getElementById('mc-btn');
+  var mark = document.getElementById('mc-mark');
+  if (!btn) return;
+  var afDone = 'Voltooi', enDone = 'Completed';
+  var afTodo = 'Merk hierdie sessie as voltooi', enTodo = 'Mark this session complete';
+
+  function render(done) {
+    btn.querySelector('.mc-label-af').textContent = done ? afDone : afTodo;
+    btn.querySelector('.mc-label-en').textContent = done ? enDone : enTodo;
+    mark.innerHTML = done ? '&#10003;' : '&#9711;';
+    btn.style.background = done ? '#f3ead9' : 'none';
+    btn.style.color = done ? '#5a4420' : '#7a5c2e';
+    btn.setAttribute('aria-pressed', done ? 'true' : 'false');
+  }
+
+  var done = false;
+  try { done = localStorage.getItem(key) === '1'; } catch (e) {}
+  render(done);
+
+  btn.addEventListener('click', function() {
+    done = !done;
+    try { done ? localStorage.setItem(key, '1') : localStorage.removeItem(key); } catch (e) {}
+    render(done);
+    // engagement signal: only count the act of completing (not un-completing)
+    if (done && typeof window.goatcounter !== 'undefined') {
+      window.goatcounter.count({
+        path: function(p) { return 'lesson-complete/' + p; },
+        title: 'Voltooi: {{ page.title | escape }}',
+        event: true
+      });
+    }
+  });
+})();
+</script>

@@ -293,8 +293,6 @@ Paulus maak dit duidelik dat God nie afhanklik is van die skepping nie, maar dat
 
 ## Bibliografie
 
-### Primêre Artikels en Analises
-
 * **Plantinga, Alvin.** “The Dawkins Confusion: Naturalism ‘ad absurdum’.” *Books & Culture*, Mar/Apr 2007.
   *(Plantinga bied ’n logies gestruktureerde kritiek op Richard Dawkins se oppervlakkige verstaan van God en die aard van geloof. Hy wys hoe Dawkins ’n strooipop aanval wat nie die ware God van klassieke teïsme verteenwoordig nie.)*
 
@@ -313,8 +311,6 @@ Paulus maak dit duidelik dat God nie afhanklik is van die skepping nie, maar dat
 * **The Daily Apologist.** “Who Created God?” Blog post, 23 Januarie 2019.
   *(Die artikel verduidelik waarom die vraag “Wie het God gemaak?” op ’n verkeerde aanname berus, en gee ’n verstaanbare uiteensetting van God se noodsaaklike bestaan.)*
 
-### Teologiese en Filosofiese Verduidelikings
-
 * **Feser, Edward.** *Five Proofs of the Existence of God.* San Francisco: Ignatius Press, 2017.
   *(Veral die inleiding is waardevol vir Sessie 2: Feser wys hoe belangrik dit is om eers duidelik te definieer wat met “God” bedoel word. Hy spreek algemene besware aan en help om klassieke argumente te verstaan.)*
 
@@ -327,12 +323,8 @@ Paulus maak dit duidelik dat God nie afhanklik is van die skepping nie, maar dat
 * **Barrett, Matthew.** “Surprised by the Perfect Being.” *Tabletalk Magazine*, 12 Julie 2019.
   *(Barrett verduidelik hoe klassieke teïsme God verstaan as die “maksimaal volmaakte wese” – nie ’n wese onder ander nie, maar Bestaan self.)*
 
-### Hermeneutiek en Bybeluitleg
-
 * **Christian Research Institute.** “Recognizing and Interpreting Anthropomorphic Language.” *Christian Research Journal*, vol. 33, no. 2 (2010).
   *(Hierdie artikel bespreek hoe menslike beelde van God in die Bybel verstaan moet word – as metaforiese of analogiese taal wat God se werklikheid vir ons toeganklik maak, sonder om Hom te vermenslik.)*
-
-### Skrifverwysings en Bybelse Konteks
 
 * **Die Bybel (2020-vertaling en 1953-vertaling).** Bybelgenootskap van Suid-Afrika.
   *(Alle Skrifaanhalings in die sessie kom uit hierdie vertalings, afhangend van konteks en stylkeuse.)*
@@ -603,8 +595,6 @@ Paul makes clear that God is not dependent on creation, but that everything in c
 
 ## Bibliography
 
-### Primary Articles and Analyses
-
 * **Plantinga, Alvin.** "The Dawkins Confusion: Naturalism 'ad absurdum'." *Books & Culture*, Mar/Apr 2007.
   *(Plantinga offers a logically structured critique of Richard Dawkins's superficial understanding of God and the nature of faith. He shows how Dawkins attacks a straw man that does not represent the true God of classical theism.)*
 
@@ -623,8 +613,6 @@ Paul makes clear that God is not dependent on creation, but that everything in c
 * **The Daily Apologist.** "Who Created God?" Blog post, 23 January 2019.
   *(The article explains why the question "Who made God?" rests on a false assumption, and gives an understandable exposition of God's necessary existence.)*
 
-### Theological and Philosophical Explanations
-
 * **Feser, Edward.** *Five Proofs of the Existence of God.* San Francisco: Ignatius Press, 2017.
   *(The introduction is especially valuable for Session 2: Feser shows how important it is first to clearly define what is meant by "God". He addresses common objections and helps to understand the classical arguments.)*
 
@@ -637,12 +625,8 @@ Paul makes clear that God is not dependent on creation, but that everything in c
 * **Barrett, Matthew.** "Surprised by the Perfect Being." *Tabletalk Magazine*, 12 July 2019.
   *(Barrett explains how classical theism understands God as the "maximally perfect being" — not a being among others, but Being itself.)*
 
-### Hermeneutics and Biblical Interpretation
-
 * **Christian Research Institute.** "Recognizing and Interpreting Anthropomorphic Language." *Christian Research Journal*, vol. 33, no. 2 (2010).
   *(This article discusses how human images of God in the Bible should be understood — as metaphorical or analogical language that makes God's reality accessible to us, without humanising Him.)*
-
-### Scripture References and Biblical Context
 
 * **The Holy Bible, English Standard Version (ESV).** Crossway, 2001.
   *(All Scripture quotations in the session come from the ESV, unless otherwise noted.)*

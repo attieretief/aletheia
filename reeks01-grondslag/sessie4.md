@@ -182,12 +182,8 @@ Hierdie merkwaardige vers plaas God se transendensie en immanensie duidelik lang
 
 ## Bibliografie
 
-### Primêre Bron
-
 * **Hart, David Bentley.** *The Experience of God: Being, Consciousness, Bliss.* New Haven: Yale University Press, 2013.
   *(’n Moderne werk wat die klassieke begrip van God uiteensit – het ook gelei tot ’n reeks lesings waarop hierdie kursus gebou is.)*
-
-### Klassieke Christelike Teoloë en Filosowe
 
 * **Augustinus van Hippo.** *Confessiones* (Vertalings in Engels of Afrikaans beskikbaar).
   *(Veral Boek III, Hoofstuk 6, waar Augustinus verklaar dat God “meer innerlik is as my innerlikste self en hoër as my hoogste uitspanning”.)*
@@ -197,8 +193,6 @@ Hierdie merkwaardige vers plaas God se transendensie en immanensie duidelik lang
 
 * **Ps.-Dionysius die Areopagiet.** *The Divine Names.* (+-5de eeu).
   *(Mystieke teologie wat God se onbegryplike verhewenheid én sy deurdringing van alles beskryf. Dionysius se idees oor God as die “uiteindelike” wat alle name te bowe gaan, het klassieke teïsme beïnvloed.)*
-
-### Hervormingsbronne
 
 * **Calvyn, Johannes.** *Institusie van die Christelike Godsdiens*, Boek I. (Verskeie Afrikaanse vertalings beskikbaar, of Engels: *Institutes of the Christian Religion*.)
   *(Calvyn beklemtoon God se soewereiniteit en *andersheid*, maar ook die *sensus divinitatis* – die wete dat Hy naby is en Hom aan almal bekend maak. Sien veral hoofstukke 10–13 oor God se eienskappe en hoe Hy Hom openbaar.)*
@@ -212,8 +206,6 @@ Hierdie merkwaardige vers plaas God se transendensie en immanensie duidelik lang
 * **Bavinck, Herman.** *Gereformeerde Dogmatiek*, Deel 2: *God en Skepping*. Kampen: Zomer & Keuning, 1895–1899. (Vertaal as *Reformed Dogmatics*, Vol. 2. Baker Academic, 2004.)
   *(Bavinck, ’n 19e-eeuse Gereformeerde teoloog, bespreek uitvoerig God se transendensie en immanensie. Hy waarsku teen beide deïsme en panteïsme en stel dit duidelik dat God “tegelyk bo die wêreld en in die wêreld” is. Sy werk help om die kontinuïteit te sien tussen die kerk se historiese belydenis en hierdie leerstellings.)*
 
-### Kontemporêre Christelike Denkers
-
 * **Sproul, R.C.** *The Character of God.* Orlando: Ligonier Ministries, 1995.
   *(Sproul se werk (ook in video en audio) lewer insig in God se uniekheid. Hy verduidelik op toeganklike wyse konsepte soos God se alomteenwoordigheid en eenvoud, met praktiese toepassings. Sy beroemde illustrasie dat God nie bloot een skakel hoër op die *“skaal van wesens”* is nie, maar ’n totaal ander *orde van wese*, help om transendensie te verstaan.)*
 
@@ -223,8 +215,6 @@ Hierdie merkwaardige vers plaas God se transendensie en immanensie duidelik lang
 * **Packer, J.I.** *Knowing God.* London: Hodder & Stoughton, 1973.
   *(’n Evangeliese klassieke boek wat in warm toon praat oor wie God is. Hoofstukke soos “God Only Wise” en “The Majesty of God” beklemtoon sy transendensie, terwyl “God’s Love” en “God as Father” sy intieme kant belig. Packer se balans tussen doktrine en toewyding maak hierdie boek besonder bruikbaar om die harte van lesers te tref met die werklikheid van God se grootheid én sy nabyheid.)*
 
-### Filosofiese en Kruis-Tradisie Bronne
-
 * **Aristoteles.** *Metafisika.* Vertaal in Engels deur W\.D. Ross, 1924.
   *(In Boek XII beskryf Aristoteles ’n “Onbewoë Beweger” wat bo die kosmos staan – ’n vroeë filosofiese peiling na ’n transendente Eerste Oorsaak. Hierdie gedagte beïnvloed later Christelike denke oor God se transendensie.)*
 
@@ -233,8 +223,6 @@ Hierdie merkwaardige vers plaas God se transendensie en immanensie duidelik lang
 
 * **Leibniz, G.W.** “The Conformity of Faith with Reason” en “On the Ultimate Origination of Things” (1697). In *Leibniz: Philosophical Essays*, vertaal deur R. Ariew & D. Garber. Indianapolis: Hackett, 1989.
   *(Leibniz, ’n teïs en filosoof, bespreek hoe God noodwendig transendent moet wees as die uiteindelike rede vir alles, en tog immanent werk in en deur die natuur volgens ’n vooraf opgestelde harmonie. Sy *Beginsel van Voldoende Rede* onderstreep waarom ’n transendente maar immer-werkende God filosofies nodig is.)*
-
-### Bybelse Verwysings en Kommentaar
 
 * **Die Bybel: 1953-vertaling en 2020-vertaling (Afrikaanse vertalings)** en **English Standard Version (ESV)**.
   *(Skrifaanhalings is uit 1953-vertaling tensy anders vermeld. Psalm 139 en Jesaja 57 is sleutel-OT gedeeltes. Handelinge 17 en Hebreërs 1 in NT bevestig God se voortdurende instandhouding. Kommentaar by die verse is voorsien om konteks te gee.)*
@@ -413,12 +401,8 @@ This remarkable verse places God's transcendence and immanence clearly side by s
 
 ## Bibliography
 
-### Primary Source
-
 * **Hart, David Bentley.** *The Experience of God: Being, Consciousness, Bliss.* New Haven: Yale University Press, 2013.
   *(A modern work that sets out the classical understanding of God — also led to a series of lectures on which this course is built.)*
-
-### Classical Christian Theologians and Philosophers
 
 * **Augustine of Hippo.** *Confessions* (Translations in English or Afrikaans available).
   *(Especially Book III, Chapter 6, where Augustine declares that God "is more inward than my innermost self and higher than my utmost height".)*
@@ -428,8 +412,6 @@ This remarkable verse places God's transcendence and immanence clearly side by s
 
 * **Ps.-Dionysius the Areopagite.** *The Divine Names.* (c. 5th century).
   *(Mystical theology describing God's incomprehensible exaltation and His permeation of all things. Dionysius's ideas about God as the "ultimate" who transcends all names influenced classical theism.)*
-
-### Reformation Sources
 
 * **Calvin, John.** *Institutes of the Christian Religion*, Book I. (Various translations available.)
   *(Calvin emphasises God's sovereignty and *otherness*, but also the *sensus divinitatis* — the awareness that He is near and makes Himself known to all. See especially chapters 10–13 on God's attributes and how He reveals Himself.)*
@@ -443,8 +425,6 @@ This remarkable verse places God's transcendence and immanence clearly side by s
 * **Bavinck, Herman.** *Reformed Dogmatics*, Vol. 2: *God and Creation*. Kampen: Zomer & Keuning, 1895–1899. (Translated as *Reformed Dogmatics*, Vol. 2. Baker Academic, 2004.)
   *(Bavinck, a 19th-century Reformed theologian, discusses God's transcendence and immanence at length. He warns against both deism and pantheism and states clearly that God is "simultaneously above the world and in the world." His work helps to see the continuity between the church's historical confession and these doctrines.)*
 
-### Contemporary Christian Thinkers
-
 * **Sproul, R.C.** *The Character of God.* Orlando: Ligonier Ministries, 1995.
   *(Sproul's work (also in video and audio) provides insight into God's uniqueness. He explains concepts such as God's omnipresence and simplicity in an accessible way, with practical applications. His famous illustration that God is not merely one link higher on the "scale of beings" but an entirely different *order of being* helps to understand transcendence.)*
 
@@ -454,8 +434,6 @@ This remarkable verse places God's transcendence and immanence clearly side by s
 * **Packer, J.I.** *Knowing God.* London: Hodder & Stoughton, 1973.
   *(A classic evangelical book that speaks in a warm tone about who God is. Chapters such as "God Only Wise" and "The Majesty of God" emphasise His transcendence, while "God's Love" and "God as Father" illuminate His intimate side. Packer's balance between doctrine and devotion makes this book particularly useful for touching readers' hearts with the reality of God's greatness and His nearness.)*
 
-### Philosophical and Cross-Tradition Sources
-
 * **Aristotle.** *Metaphysics.* Translated by W. D. Ross, 1924.
   *(In Book XII Aristotle describes an "Unmoved Mover" who stands above the cosmos — an early philosophical sounding towards a transcendent First Cause. This idea later influenced Christian thought on God's transcendence.)*
 
@@ -464,8 +442,6 @@ This remarkable verse places God's transcendence and immanence clearly side by s
 
 * **Leibniz, G.W.** "The Conformity of Faith with Reason" and "On the Ultimate Origination of Things" (1697). In *Leibniz: Philosophical Essays*, translated by R. Ariew & D. Garber. Indianapolis: Hackett, 1989.
   *(Leibniz, a theist and philosopher, discusses how God must necessarily be transcendent as the ultimate reason for everything, and yet works immanently in and through nature according to a pre-established harmony. His *Principle of Sufficient Reason* underscores why a transcendent but ever-active God is philosophically necessary.)*
-
-### Biblical References and Commentary
 
 * **The Holy Bible, English Standard Version (ESV)** and **Afrikaans translations (1953 and 2020)**.
   *(Scripture quotations are from the ESV unless otherwise noted. Psalm 139 and Isaiah 57 are key OT passages. Acts 17 and Hebrews 1 in the NT confirm God's continuous sustaining. Commentary on the verses has been provided for context.)*

@@ -22,6 +22,17 @@ layout: page
   var overlay = document.getElementById('yt-end-overlay-course');
   var replayBtn = document.getElementById('yt-replay-btn-course');
   var ytPlayer;
+  var ytTracked = { play: false, complete: false };
+
+  function gcCourseEvent(name) {
+    if (typeof window.goatcounter !== 'undefined') {
+      window.goatcounter.count({
+        path: function(p) { return 'video/' + p + '/' + name; },
+        title: '{{ page.title | escape }} (' + name + ')',
+        event: true
+      });
+    }
+  }
 
   window.onYouTubeIframeAPIReady = function() {
     ytPlayer = new YT.Player('yt-player-course', {
@@ -29,8 +40,14 @@ layout: page
       playerVars: { rel: 0, modestbranding: 1 },
       events: {
         'onStateChange': function(event) {
-          if (event.data === YT.PlayerState.PLAYING) { overlay.style.display = 'none'; }
-          if (event.data === YT.PlayerState.ENDED) { overlay.style.display = 'flex'; }
+          if (event.data === YT.PlayerState.PLAYING) {
+            overlay.style.display = 'none';
+            if (!ytTracked.play) { ytTracked.play = true; gcCourseEvent('play'); }
+          }
+          if (event.data === YT.PlayerState.ENDED) {
+            overlay.style.display = 'flex';
+            if (!ytTracked.complete) { ytTracked.complete = true; gcCourseEvent('complete'); }
+          }
         }
       }
     });

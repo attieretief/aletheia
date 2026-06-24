@@ -24,7 +24,7 @@ Dink vir ’n oomblik: daar is ’n heelal. Daar is sterre, planete, berge, osea
 
 Vir die klassieke Christelike tradisie is hierdie vraag nie bloot ’n filosofiese speletjie nie. Dit is ’n uitnodiging om terug te kyk tot by die uiterste oorsprong, na daardie werklikheid wat self geen oorsprong het nie — die ewige, selfbestaande God. Denkers soos Augustinus, Tomas van Aquino en Gottfried Leibniz het gesien dat die feit van bestaan self ‘n verduideliking benodig wat nie in nog iets kontingent kan lê nie. Op ‘n sekere punt moet ons kom by iets, of liewer Iemand, wie se bestaan nie van iets anders afhanklik is nie.
 
-David Bentley Hart stel dit skerp: God is nie ‘n “iets” onder ander dinge wat bestaan nie, ‘n buitengewone voorwerp êrens in die heelal of daar buite nie. God is nie een deelnemer in die spel van bestaan nie; Hy is die spel self se moontlikheid. Hy is die grond en die voortdurende draer van elke oomblik se werklikheid. Hy is, in die taal van klassieke teologie, *being itself* — die daad van bestaan self.
+Die klassieke tradisie stel dit skerp: God is nie ‘n “iets” onder ander dinge wat bestaan nie, ‘n buitengewone voorwerp êrens in die heelal of daar buite nie. God is nie een deelnemer in die spel van bestaan nie; Hy is die spel self se moontlikheid. Hy is die grond en die voortdurende draer van elke oomblik se werklikheid. Hy is, in die taal van klassieke teologie, die Bestaan self — die daad van bestaan self.
 
 En omdat Hy dit is, is die vraag na God nie ’n bysaak vir die gelowige nie. Dit is die vraag wat die hele wêreldbeskouing dra. As God bestaan soos die Bybel en die groot tradisie dit verstaan, is Hy nie bloot ’n aanvulling op ’n reeds verklaarbare wêreld nie. Hy is die rede dat daar ’n wêreld is om te verklaar.
 
@@ -40,7 +40,7 @@ Vir sommige klink dit bevrydend: geen misterie, geen God, geen verantwoordelikhe
 
 Materialisme kan die **meganismes** beskryf waardeur dinge verander, ontwikkel en beweeg — dit kan die “hoe” verduidelik. Maar dit kan nie die **waarom** aanspreek nie: hoekom daar enigsins materie, energie, wette, ruimte en tyd is om mee te werk.  
 
-Hier lê David Bentley Hart se punt: Materialisme kyk na die verskynsels op die oppervlak van bestaan en neem dit as vanselfsprekend dat daar ‘n “oppervlak” is. Dit vra nie na die dieper rede waarom daar enigiets is om waar te neem nie. Dit is soos om die versiering van ‘n huis te bewonder sonder ooit te vra hoe die huis daar gekom het.  
+Hier lê die punt van die klassieke tradisie: Materialisme kyk na die verskynsels op die oppervlak van bestaan en neem dit as vanselfsprekend dat daar ‘n “oppervlak” is. Dit vra nie na die dieper rede waarom daar enigiets is om waar te neem nie. Dit is soos om die versiering van ‘n huis te bewonder sonder ooit te vra hoe die huis daar gekom het.  
 
 As ons alles wat bestaan probeer verklaar deur net na ander dinge wat bestaan te wys, draai ons in ’n sirkel. Byvoorbeeld: jy vra hoekom hierdie planeet hier is, en iemand sê dis omdat dit uit ’n sterrestelsel gevorm het. Jy vra hoekom daardie sterrestelsel hier is, en die antwoord is dat dit uit ’n vorige ster se oorblyfsels gekom het. Die patroon herhaal homself totdat jy uiteindelik vra: “Ja, maar waarom is daar enigsins materie en energie om te begin met?”  
 
@@ -58,7 +58,7 @@ Om die vraag na bestaan te verstaan, moet ons eers onderskei tussen wat **kontin
 
 Wanneer ons die werklikheid om ons bestudeer, sien ons dat alles wat ons waarneem kontingent is. Selfs die grootste sterrestelsels is afhanklik van voorwaardes wat buite hulle lê. Hulle is soos skakels in ’n ketting — elke skakel hou die volgende vas, maar geen skakel verklaar die bestaan van die hele ketting nie. Selfs as die ketting oneindig lank was, sou dit nog steeds geen rede hê waarom daar enigsins ’n ketting is nie.
 
-David Bentley Hart wys daarop dat om by die uiteindelike rede vir bestaan uit te kom, ons nie net oneindig terug kan gaan van oorsaak tot oorsaak nie. Selfs ’n oneindige ry domino’s wat omval, verduidelik nie waarom daar enigsins domino’s ís of waarom hulle daar geplaas is nie. Die hele opstelling, of dit nou kort of oneindig lank is, bly afhanklik van iets buite homself wat dit laat wees.
+Thomas van Aquino wys daarop dat om by die uiteindelike rede vir bestaan uit te kom, ons nie net oneindig terug kan gaan van oorsaak tot oorsaak nie. Selfs ’n oneindige ry domino’s wat omval, verduidelik nie waarom daar enigsins domino’s ís of waarom hulle daar geplaas is nie. Die hele opstelling, of dit nou kort of oneindig lank is, bly afhanklik van iets buite homself wat dit laat wees.
 
 Hieruit volg dat daar iets noodsaaklik moet wees — ’n werklikheid wat nie afhanklik is van iets anders nie, maar wat self die bron en draer is van alles wat bestaan. In die Christelike verstaan is dit God: die selfbestaande, ewige Skepper wat nie net aan die begin dinge tot stand gebring het nie, maar wat voortdurend alles in stand hou.
 
@@ -72,7 +72,7 @@ Ons gebruik hierdie beginsel daagliks, dikwels sonder om daaroor na te dink. As 
 
 Gottfried Wilhelm Leibniz het hierdie beginsel gebruik om die vraag te stel: **“Waarom is daar iets eerder as niks?”** As alles wat bestaan kontingent is, kan die rede vir sy bestaan nooit uiteindelik in onsself of in ’n eindelose reeks van ander kontingente dinge lê nie. Die uiteindelike verduideliking moet in iets lê wat noodsaaklik bestaan — iets wat self sy rede vir bestaan in homself dra.
 
-David Bentley Hart beklemtoon dat hierdie beginsel nie bloot ‘n mensgemaakte reël of ‘n handige denkmetode is nie, maar ‘n weerspieëling van hoe werklikheid werk. As ons dit sou verwerp, stort alle rasionele ondersoek ineen. Wetenskap, geskiedenis en alledaagse logika veronderstel dat dinge verklaarbaar is. Sonder hierdie beginsel verval ons in willekeur, waar alles net ‘n blote feit sonder rede is.
+Leibniz beklemtoon dat hierdie beginsel nie bloot ‘n mensgemaakte reël of ‘n handige denkmetode is nie, maar ‘n weerspieëling van hoe werklikheid werk. As ons dit sou verwerp, stort alle rasionele ondersoek ineen. Wetenskap, geskiedenis en alledaagse logika veronderstel dat dinge verklaarbaar is. Sonder hierdie beginsel verval ons in willekeur, waar alles net ‘n blote feit sonder rede is.
 
 In die Christelike verstaan is God die uiteindelike “voldoende rede” vir alles wat bestaan: die ewige bron wat voortdurend die bestaan van alles moontlik maak. Handelinge 17:28 druk dit poëties uit: “In Hom leef ons, beweeg ons en bestaan ons.” Dit is ’n direkte Bybelse bevestiging dat die rede vir alles wat is, uiteindelik in Hom lê.
 
@@ -87,6 +87,8 @@ Hierdie weergawe fokus op die idee dat die heelal ’n begin gehad het. As dit �
 
 Moderne kosmologie het hierdie lyn van denke versterk. Die meeste wetenskaplikes aanvaar vandag dat tyd, ruimte, materie en energie almal ’n begin gehad het in wat ons die “Groot Ontploffing” noem. Dit beteken dat die oorsaak van die heelal buite tyd en ruimte moet wees — nie afhanklik van fisiese wette of prosesse nie. Sulke ‘n oorsaak moet bo-fisies, ewig en selfbestaande wees.
 
+Tóg het hierdie “begin”-weergawe ’n grens. Op sigself kan dit God laat lyk soos ’n bloot *temporale* eerste oorsaak — ’n demiurg wat “aan die begin” ingegryp het — en dit is juis hierdie soort argument wat die multiversum-hipotese probeer ontwyk. Daarom is die kontingensie-weergawe hieronder die *dieper en sekerder* anker: dit bly staan al sou die heelal ewig wees of al sou ’n multiversum dit voortgebring het.
+
 ### 2. Die kontingensie-kosmologiese argument
 Hierdie weergawe kyk nie na ’n beginpunt in tyd nie, maar na die aard van bestaan self. Selfs as die heelal geen begin gehad het nie, sou dit steeds kontingent wees — dit sou steeds afhanklik wees van iets anders vir sy bestaan. Soos ons vroeër gesien het, kan selfs ’n oneindige ketting van kontingente dinge nie uiteindelik sy eie bestaan verklaar nie. Die rede vir bestaan moet buite die ketting self lê.
 
@@ -95,13 +97,13 @@ Hier sluit die argument aan by die **Beginsel van Voldoende Rede**: daar moet �
 ### Hoekom albei argumente saak maak
 Die twee vorme van die kosmologiese argument vul mekaar aan. Die tydelike weergawe help ons verstaan dat die heelal ’n oorsprong het wat buite homself lê, terwyl die kontingensie-weergawe wys dat selfs as daar geen begin was nie, daar steeds ’n uiteindelike noodsaaklike grond van bestaan moet wees.
 
-David Bentley Hart herinner ons dat hierdie argumente nie bloot spekulasies is nie, maar logiese gevolgtrekkings wat spruit uit die basiese vraag wat ‘n mens kan vra. Hulle wys weg van ’n heelal wat net toevallig hier is, en na ’n ewige, selfbestaande God wat die bron van alle werklikheid is.
+Die klassieke tradisie herinner ons dat hierdie argumente nie bloot spekulasies is nie, maar logiese gevolgtrekkings wat spruit uit die basiese vraag wat ‘n mens kan vra. Hulle wys weg van ’n heelal wat net toevallig hier is, en na ’n ewige, selfbestaande God wat die bron van alle werklikheid is.
 
 ## God as die Grond van Bestaan
 
 Wanneer die klassieke Christelike tradisie van God praat, bedoel dit nie ’n buitengewone wese êrens in die heelal wat net magtiger of ouer is as alles anders nie. God is nie net die eerste lid in ‘n lang ry van oorsake nie, en Hy is ook nie maar net een voorwerp onder baie ander nie. God is die grond van alles wat bestaan: die rede waarom daar enigiets is eerder as niks.
 
-David Bentley Hart beskryf dit so: God is nie een deelnemer in die “speletjie” van bestaan nie; Hy is die moontlikheid van die speletjie self. Alles wat bestaan, deel in die daad van bestaan wat in Hom sy oorsprong het. In die taal van klassieke teologie is God *ipsum esse subsistens* — die selfstandige bestaan self. Hy het nie bestaan soos ons dit het nie; Hy **is** bestaan.
+Die klassieke tradisie beskryf dit so: God is nie een deelnemer in die “speletjie” van bestaan nie; Hy is die moontlikheid van die speletjie self. Alles wat bestaan, deel in die daad van bestaan wat in Hom sy oorsprong het. In die taal van klassieke teologie is God *ipsum esse subsistens* — die selfstandige bestaan self. Hy het nie bestaan soos ons dit het nie; Hy **is** bestaan.
 
 Dit beteken dat God se verhouding tot die wêreld nie soos die verhouding tussen een voorwerp en ’n ander is nie. God staan nie teenoor die skepping soos ’n argitek teenoor ’n gebou wat hy lank gelede ontwerp het en toe verlaat het nie. Nee — Hy is meer soos die voortdurende lig van die son wat alles verlig. As die lig verdwyn, verdwyn alles wat daardeur sigbaar gemaak is.
 
@@ -119,7 +121,7 @@ Thomas van Aquino het verduidelik dat selfs as die heelal van alle ewigheid af b
 
 Dink aan ’n lamp wat brand. Die ligbol gee lig omdat dit nou, op hierdie oomblik, aan ’n kragbron gekoppel is. Dit help nie om te sê dat die lig aan is omdat iemand dit gister aangeskakel het nie — as die kragtoevoer nou stop, doof die lig onmiddellik. Net so is God die kragbron van bestaan self: as Hy Hom sou onttrek, sou alles ophou bestaan, maak nie saak hoe lank dit al daar was nie.
 
-David Bentley Hart beklemtoon dat hierdie siening van God as voortdurende Eerste Oorsaak die Bybelse beeld van God as die Een wat “alles in stand hou deur die woord van sy krag” (Hebreërs 1:3) aanvul. Dit is nie ‘n God van die “gaps” nie, maar die grond en draer van alle kennis, alle natuurwette en alle prosesse.
+Thomas van Aquino beklemtoon dat hierdie siening van God as voortdurende Eerste Oorsaak die Bybelse beeld van God as die Een wat “alles in stand hou deur die woord van sy krag” (Hebreërs 1:3) aanvul. Dit is nie ‘n God van die “gaps” nie, maar die grond en draer van alle kennis, alle natuurwette en alle prosesse.
 
 Hierdie begrip beskerm ons ook teen ’n gereduseerde idee van God as bloot ’n “aanvullende” verduideliking vir sekere verskynsels. In plaas daarvan sien ons dat sonder God geen verduideliking vir enigiets moontlik is nie, omdat Hy die uiteindelike rede is waarom daar enigiets is om te verduidelik.
 
@@ -131,7 +133,7 @@ Wanneer ons dieper nadink oor hierdie sake, behoort dit ons in ‘n toestand van
 
 Ons raak so gewoond aan die wêreld rondom ons dat ons vergeet hoe merkwaardig dit is dat daar enigiets is. Elke boom, elke ster, elke asemteug is deel van ’n ondenkbare gawe: dat daar werklikheid is in plaas van niks. Selfs ons eie vermoë om hieroor na te dink, is self ’n teken van die wonder.
 
-David Bentley Hart wys daarop dat ware filosofie en ware teologie beide begin in verwondering. Hierdie verwondering is nie bloot ‘n emosie nie, maar ‘n soort insig: die besef dat bestaan self nie vanselfsprekend is nie, maar ‘n voortdurende geskenk van ‘n noodsaaklike, selfbestaande God.
+Die klassieke tradisie wys daarop dat ware filosofie en ware teologie beide begin in verwondering. Hierdie verwondering is nie bloot ‘n emosie nie, maar ‘n soort insig: die besef dat bestaan self nie vanselfsprekend is nie, maar ‘n voortdurende geskenk van ‘n noodsaaklike, selfbestaande God.
 
 In die Skrif sien ons dat hierdie verwondering die natuurlike reaksie is van die mens wat God se handewerk raaksien. Psalm 8 begin met aanbidding: “Here, onse Here, hoe heerlik is u Naam oor die hele aarde!” Die psalmis kyk op na die hemel, die maan en die sterre, en vra: “Wat is die mens dat U aan hom dink?” Hierdie vrae vloei uit dieselfde bron van verbasing wat ons kry wanneer ons ernstig nadink oor die feit van bestaan self.
 
@@ -201,7 +203,7 @@ God se selfopenbaring as “Ek is” wys op sy selfbestaande aard. Hy is nie afh
 
 * Die kosmologiese argument het twee hoofvorme — die **tydelike (kalām)** en die **kontingensie**-weergawe. Watter een voel vir jou die mees oortuigend, en hoekom?  
 
-* David Bentley Hart beskryf God as die *grond van bestaan*. Hoe verander dit jou verstaan van God in vergelyking met die prentjie van God as net die “beginmaker” van die heelal?
+* Die klassieke tradisie beskryf God as die *grond van bestaan*. Hoe verander dit jou verstaan van God in vergelyking met die prentjie van God as net die “beginmaker” van die heelal?
 
 * Kolossense 1:17 en Hebreërs 1:3 leer dat God alle dinge voortdurend in stand hou. Hoe beïnvloed hierdie waarheid jou gebedslewe en jou ervaring van God se teenwoordigheid in jou alledaagse lewe?
 
@@ -266,7 +268,7 @@ Think for a moment: there is a universe. There are stars, planets, mountains, oc
 
 For the classical Christian tradition this question is not merely a philosophical game. It is an invitation to look back to the ultimate origin — to that reality which itself has no origin — the eternal, self-existent God. Thinkers such as Augustine, Thomas Aquinas and Gottfried Leibniz recognised that the fact of existence itself requires an explanation that cannot lie in yet another contingent thing. At some point we must arrive at something — or rather Someone — whose existence is not dependent on anything else.
 
-David Bentley Hart puts it sharply: God is not a "something" among other things that exist, an extraordinary object somewhere in the universe or out there beyond it. God is not one participant in the game of existence; He is the very possibility of the game itself. He is the ground and ongoing bearer of every moment's reality. He is, in the language of classical theology, *being itself* — the act of existing itself.
+The classical tradition puts it sharply: God is not a "something" among other things that exist, an extraordinary object somewhere in the universe or out there beyond it. God is not one participant in the game of existence; He is the very possibility of the game itself. He is the ground and ongoing bearer of every moment's reality. He is, in the language of classical theology, being itself — the act of existing itself.
 
 And because He is this, the question of God is not a side issue for the believer. It is the question that carries the entire worldview. If God exists as the Bible and the great tradition understand Him, He is not merely a supplement to an already explicable world. He is the reason there is a world to explain.
 
@@ -282,7 +284,7 @@ To some this sounds liberating: no mystery, no God, no responsibility. But for t
 
 Materialism can describe the **mechanisms** by which things change, develop and move — it can explain the "how". But it cannot address the **why**: why there is anything at all — matter, energy, laws, space and time — to work with.
 
-Here lies David Bentley Hart's point: Materialism looks at the phenomena on the surface of existence and takes it for granted that there is a "surface". It does not ask about the deeper reason why there is anything to observe at all. It is like admiring the decoration of a house without ever asking how the house got there.
+Here lies the point of the classical tradition: Materialism looks at the phenomena on the surface of existence and takes it for granted that there is a "surface". It does not ask about the deeper reason why there is anything to observe at all. It is like admiring the decoration of a house without ever asking how the house got there.
 
 If we try to explain everything that exists by merely pointing to other things that exist, we go in a circle. For example: you ask why this planet is here, and someone says it formed from a galaxy. You ask why that galaxy is here, and the answer is that it came from the remnants of a previous star. The pattern repeats itself until you finally ask: "Yes, but why is there any matter and energy to begin with?"
 
@@ -300,7 +302,7 @@ To understand the question of existence, we must first distinguish between what 
 
 When we study the reality around us, we see that everything we observe is contingent. Even the greatest galaxies are dependent on conditions that lie outside themselves. They are like links in a chain — each link holds the next, but no link explains the existence of the entire chain. Even if the chain were infinitely long, it would still have no reason why there is a chain at all.
 
-David Bentley Hart points out that to arrive at the ultimate reason for existence, we cannot simply go infinitely backward from cause to cause. Even an infinite row of dominoes falling over does not explain why there are any dominoes at all or why they were placed there. The entire setup, whether short or infinitely long, remains dependent on something outside itself that causes it to be.
+Thomas Aquinas points out that to arrive at the ultimate reason for existence, we cannot simply go infinitely backward from cause to cause. Even an infinite row of dominoes falling over does not explain why there are any dominoes at all or why they were placed there. The entire setup, whether short or infinitely long, remains dependent on something outside itself that causes it to be.
 
 From this it follows that there must be something necessary — a reality that is not dependent on anything else, but that is itself the source and bearer of everything that exists. In the Christian understanding this is God: the self-existent, eternal Creator who did not merely bring things into being at the beginning, but who continuously sustains all things.
 
@@ -314,7 +316,7 @@ We use this principle daily, often without thinking about it. If you wake up in 
 
 Gottfried Wilhelm Leibniz used this principle to pose the question: **"Why is there something rather than nothing?"** If everything that exists is contingent, the reason for its existence can never ultimately lie in ourselves or in an endless series of other contingent things. The ultimate explanation must lie in something that exists necessarily — something that carries the reason for its own existence within itself.
 
-David Bentley Hart emphasises that this principle is not merely a man-made rule or a convenient method of thinking, but a reflection of how reality works. If we were to reject it, all rational inquiry would collapse. Science, history and everyday logic all presuppose that things are explicable. Without this principle we lapse into arbitrariness, where everything is merely a brute fact without reason.
+Leibniz emphasises that this principle is not merely a man-made rule or a convenient method of thinking, but a reflection of how reality works. If we were to reject it, all rational inquiry would collapse. Science, history and everyday logic all presuppose that things are explicable. Without this principle we lapse into arbitrariness, where everything is merely a brute fact without reason.
 
 In the Christian understanding, God is the ultimate "sufficient reason" for everything that exists: the eternal source who continuously makes the existence of all things possible. Acts 17:28 expresses it poetically: "In him we live and move and have our being." This is a direct biblical affirmation that the reason for everything that is ultimately lies in Him.
 
@@ -330,6 +332,8 @@ This version focuses on the idea that the universe had a beginning. If it had a 
 
 Modern cosmology has strengthened this line of thinking. Most scientists today accept that time, space, matter and energy all had a beginning in what we call the "Big Bang". This means that the cause of the universe must lie outside time and space — not dependent on physical laws or processes. Such a cause must be supra-physical, eternal and self-existent.
 
+Yet this "beginning" version has a limit. On its own it can make God look like a merely *temporal* first cause — a demiurge who "intervened at the beginning" — and it is precisely this kind of argument that the multiverse hypothesis tries to sidestep. That is why the contingency version below is the *deeper and more secure* anchor: it still stands even if the universe were eternal or if a multiverse produced it.
+
 ### 2. The contingency cosmological argument
 
 This version does not look at a starting point in time, but at the nature of existence itself. Even if the universe had no beginning, it would still be contingent — it would still be dependent on something else for its existence. As we saw earlier, even an infinite chain of contingent things cannot ultimately explain its own existence. The reason for existence must lie outside the chain itself.
@@ -340,13 +344,13 @@ Here the argument connects to the **Principle of Sufficient Reason**: there must
 
 The two forms of the cosmological argument complement each other. The temporal version helps us understand that the universe has an origin that lies outside itself, while the contingency version shows that even if there were no beginning, there must still be an ultimate necessary ground of existence.
 
-David Bentley Hart reminds us that these arguments are not mere speculations, but logical conclusions flowing from the most basic question a person can ask. They point away from a universe that is merely coincidentally here, and towards an eternal, self-existent God who is the source of all reality.
+The classical tradition reminds us that these arguments are not mere speculations, but logical conclusions flowing from the most basic question a person can ask. They point away from a universe that is merely coincidentally here, and towards an eternal, self-existent God who is the source of all reality.
 
 ## God as the Ground of Being
 
 When the classical Christian tradition speaks of God, it does not mean an extraordinary being somewhere in the universe who is merely more powerful or older than everything else. God is not simply the first member in a long series of causes, and He is not just one object among many others. God is the ground of everything that exists: the reason why there is anything rather than nothing.
 
-David Bentley Hart describes it thus: God is not one participant in the "game" of existence; He is the very possibility of the game itself. Everything that exists shares in the act of being that has its origin in Him. In the language of classical theology, God is *ipsum esse subsistens* — subsistent being itself. He does not *have* existence the way we do; He **is** existence.
+The classical tradition describes it thus: God is not one participant in the "game" of existence; He is the very possibility of the game itself. Everything that exists shares in the act of being that has its origin in Him. In the language of classical theology, God is *ipsum esse subsistens* — subsistent being itself. He does not *have* existence the way we do; He **is** existence.
 
 This means that God's relationship to the world is not like the relationship between one object and another. God does not stand over against creation as an architect stands over against a building he designed long ago and then abandoned. No — He is more like the ongoing light of the sun that illuminates everything. If the light disappears, everything made visible by it disappears.
 
@@ -364,7 +368,7 @@ Thomas Aquinas explained that even if the universe had existed from all eternity
 
 Think of a burning lamp. The light bulb gives light because it is, at this very moment, connected to a power source. It is no use saying that the light is on because someone switched it on yesterday — if the power supply stops now, the light goes out immediately. In the same way, God is the power source of existence itself: if He were to withdraw, everything would cease to exist, no matter how long it had been there.
 
-David Bentley Hart emphasises that this view of God as the continuous First Cause complements the biblical image of God as the One who "upholds the universe by the word of his power" (Hebrews 1:3). This is not a God of the "gaps" but the ground and bearer of all knowledge, all natural laws and all processes.
+Thomas Aquinas emphasises that this view of God as the continuous First Cause complements the biblical image of God as the One who "upholds the universe by the word of his power" (Hebrews 1:3). This is not a God of the "gaps" but the ground and bearer of all knowledge, all natural laws and all processes.
 
 This understanding also protects us against a reduced idea of God as merely a "supplementary" explanation for certain phenomena. Instead, we see that without God no explanation of anything is possible, because He is the ultimate reason why there is anything to explain.
 
@@ -376,7 +380,7 @@ When we reflect more deeply on these matters, it ought to bring us into a state 
 
 We become so accustomed to the world around us that we forget how remarkable it is that there is anything at all. Every tree, every star, every breath is part of an unimaginable gift: that there is reality instead of nothing. Even our own ability to reflect on this is itself a sign of the wonder.
 
-David Bentley Hart points out that true philosophy and true theology both begin in wonder. This wonder is not merely an emotion but a kind of insight: the realisation that existence itself is not self-evident, but an ongoing gift from a necessary, self-existent God.
+The classical tradition points out that true philosophy and true theology both begin in wonder. This wonder is not merely an emotion but a kind of insight: the realisation that existence itself is not self-evident, but an ongoing gift from a necessary, self-existent God.
 
 In Scripture we see that this wonder is the natural response of the person who notices God's handiwork. Psalm 8 begins with worship: "O LORD, our Lord, how majestic is your name in all the earth!" The psalmist looks up at the heavens, the moon and the stars, and asks: "What is man that you are mindful of him?" These questions flow from the same source of amazement that we experience when we think seriously about the fact of existence itself.
 
@@ -442,7 +446,7 @@ God's self-revelation as "I AM" points to His self-existent nature. He is not de
 
 * The cosmological argument has two main forms — the **temporal (kalam)** and the **contingency** version. Which one feels most convincing to you, and why?
 
-* David Bentley Hart describes God as the *ground of being*. How does this change your understanding of God compared to the picture of God as merely the "starter" of the universe?
+* The classical tradition describes God as the *ground of being*. How does this change your understanding of God compared to the picture of God as merely the "starter" of the universe?
 
 * Colossians 1:17 and Hebrews 1:3 teach that God sustains all things continuously. How does this truth affect your prayer life and your experience of God's presence in your everyday life?
 

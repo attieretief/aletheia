@@ -223,6 +223,8 @@ Maar nou sien ons dat die wetenskap onafhanklik tot 'n bevinding gekom het wat h
 
 Die twee lyne van bewyse, die filosofiese en die wetenskaplike, konvergeer. Die kontingensie-argument sê: die heelal, of dit ewig is of nie, kan nie sy eie uiteindelike verduideliking wees nie. Die Kalām-argument voeg by: en trouens, die heelal is nie eens ewig nie. Dit het 'n begin, wat die behoefte aan 'n oorsaak nog meer akuut maak.
 
+Tóg bly die kontingensie die *draende* argument. Dit is téén die "begin"-argument — nié teen kontingensie nie — dat die multiversum-hipotese ingespan word, en 'n blote "begin"-oorsaak kan God verkeerdelik soos 'n *temporale* demiurg laat lyk. Die wetenskaplike begin versterk dus ons saak, maar dit is die metafisika van kontingensie wat dit dra.
+
 Saam wys hierdie argumente na presies wat die klassieke Christelike teïsme altyd geleer het: 'n geskape, afhanklike wêreld wat sy bestaan te danke het aan 'n noodsaaklike, selfbestaande God. Nie 'n toevallige ooreenkoms nie. Dit is wat ons sou verwag as die Christelike wêreldbeskouing waar is.
 
 Romeine 1:20 sê: *"Want sy onsigbare dinge kan van die skepping van die wêreld af deur sy werke begryp en duidelik gesien word, naamlik sy ewige krag en goddelikheid."* Die apostel Paulus het nie van die Oerknal geweet nie, maar hy het geweet dat die skepping self na die Skepper wys. En nou, tweeduisend jaar later, bevestig die beste kosmologiese wetenskap presies dit.
@@ -449,7 +451,7 @@ Paulus leer hier dat die skepping self getuig van God se bestaan. Sy "ewige krag
   Hawking se klassieke werk oor kosmologie, merkwaardig vir sy eerlike filosofiese vrae, al is sy antwoorde nie altyd bevredigend nie. Belangrik om te lees as primêre bron.
 
 - **David Bentley Hart — *The Experience of God: Being, Consciousness, Bliss***
-  Soos in Reeks 1 bespreek, bied Hart die diepste filosofiese raamwerk vir die verstaan van God as die grond van bestaan, die metafisiese agtergrond wat die kosmologiese argument sy volle gewig gee.
+  Soos in Reeks 1 bespreek, bied die klassieke tradisie die diepste filosofiese raamwerk vir die verstaan van God as die grond van bestaan — die metafisiese agtergrond wat die kosmologiese argument sy volle gewig gee.
 
 - **Alexander Vilenkin — *Many Worlds in One: The Search for Other Universes***
   Die kosmolooog wat mede-outeur van die BGV-stelling is, skryf oor die begin van die heelal en die multiversum vanuit 'n wetenskaplike perspektief.
@@ -706,6 +708,8 @@ But now we see that science has independently arrived at a finding that strength
 
 The two lines of evidence — the philosophical and the scientific — converge. The contingency argument says: the universe, whether eternal or not, cannot be its own ultimate explanation. The Kalam argument adds: and in fact, the universe is not even eternal. It had a beginning, making the need for a cause even more acute.
 
+Yet contingency remains the *load-bearing* argument. It is against the "beginning" argument — *not* against contingency — that the multiverse hypothesis is deployed, and a bare "beginning" cause can wrongly make God look like a *temporal* demiurge. The scientific beginning therefore strengthens our case, but it is the metaphysics of contingency that carries it.
+
 Together these arguments point to precisely what classical Christian theism has always taught: a created, dependent world that owes its existence to a necessary, self-existent God. Not a coincidental overlap. This is what we would expect if the Christian worldview is true.
 
 Romans 1:20 says: *"For his invisible attributes, namely, his eternal power and divine nature, have been clearly perceived, ever since the creation of the world, in the things that have been made. So they are without excuse."* (ESV) The apostle Paul did not know about the Big Bang, but he knew that creation itself points to the Creator. And now, two thousand years later, the best cosmological science confirms precisely that.
@@ -927,7 +931,7 @@ Paul teaches here that creation itself testifies to God's existence. His "eterna
   Hawking's classic work on cosmology, notable for its honest philosophical questions, even if his answers are not always satisfying. Important to read as a primary source.
 
 - **David Bentley Hart — *The Experience of God: Being, Consciousness, Bliss***
-  As discussed in Series 1, Hart provides the deepest philosophical framework for understanding God as the ground of being — the metaphysical background that gives the cosmological argument its full weight.
+  As discussed in Series 1, the classical tradition provides the deepest philosophical framework for understanding God as the ground of being — the metaphysical background that gives the cosmological argument its full weight.
 
 - **Alexander Vilenkin — *Many Worlds in One: The Search for Other Universes***
   The cosmologist who co-authored the BGV theorem writes about the beginning of the universe and the multiverse from a scientific perspective.

@@ -169,14 +169,10 @@ Hierdie vers weerspreek die idee dat geloof anti-intellektueel is. Inteendeel, d
 
 *(Hierdie vier bronne bied ’n sterk fondament vir verdere denk oor bewussyn vanuit ’n Christelike perspektief. Moreland en Plantinga gee filosofiese diepte en argumente; Lewis bied ’n literêre en apologetiese benadering; Nagel gee ’n eerlike buitestander se kritiek op materialisme. Saam sal hulle jou help sien hoe **geloof en rede** hand-aan-hand gaan en hoe die raaisel van bewussyn helder word in die lig van God se waarheid.)*
 
-## **Bibliografie**
-
-### **Primêre Bron**
+## Bibliografie
 
 * **Hart, David Bentley.** *The Experience of God: Being, Consciousness, Bliss*. New Haven: Yale University Press, 2013.
-  *(’n Moderne werk wat drie fundamentele aspekte van werklikheid – **Bestaan**, **Bewussyn** en **Vervulling** – ontleed as leidrade na God. Hierdie reeks is deels geïnspireer deur Hart se insigte oor hoe bewussyn binne ’n teïstiese raamwerk verstaan kan word.)*
-
-### **Filosofie van Bewussyn en Godsdiens**
+  *(’n Moderne werk wat drie fundamentele aspekte van werklikheid – **Bestaan**, **Bewussyn** en **Vervulling** – ontleed as leidrade na God.)*
 
 * **Moreland, J.P.** *Consciousness and the Existence of God: A Theistic Argument*. New York: Routledge, 2008.
   *(Akademies geskrewe, stel die “argument vanuit bewussyn” sistematies uiteen. Moreland voer aan dat materialisme nie kan rekening hou met bewussyn se eienskappe nie, terwyl teïsme dit verwag. Bevat ook ’n goeie bespreking van nie-fisiese bewysgronde in die mens, soos libertariese vrye wil en intensionele objektiwiteit.)*
@@ -193,8 +189,6 @@ Hierdie vers weerspreek die idee dat geloof anti-intellektueel is. Inteendeel, d
 * **Kuhn, Robert Lawrence.** “A Landscape of Consciousness: Toward a Taxonomy of Explanations.” *ISSR Science & Religion Review* (Augustus 2024).
   *(’n Onlangse artikel/blog deur Kuhn – verbonde aan *Closer to Truth* – waarin hy ’n omvattende lys maak van verskillende teorieë oor bewussyn, van die mees fisiese tot die mees geestelike. Hy gebruik ’n spektrum-model en bespreek oorvleueling en teenstrydighede tussen teorieë. Hierdie bron toon hoe kompleks en divers die veld is, en dien as bevestiging dat geen eenvoudige reduksionistiese antwoord algemeen aanvaar word nie. Kuhn se werk beklemtoon dat bewussyn verstaan moet word op ’n manier wat moontlik buite die grense van konvensionele natuurwetenskap strek.)*
 
-### **Klassieke en Gedagte-eksperiment Bronne**
-
 * **Nagel, Thomas.** “What Is it Like to Be a Bat?” *Philosophical Review* 83, no. 4 (1974): 435–450.
   *(Die baanbrekersartikel wat die onherleibare subjektiewe karakter van bewussyn bespreek. Nagel stel voor dat al weet ons alles oor ’n vlermuis se fisiologie, ons steeds nie sal weet *hoe dit is om ’n vlermuis te wees* nie. Hierdie werk het die frase “what is it like” sinoniem gemaak met die bewussynsprobleem.)*
 
@@ -203,8 +197,6 @@ Hierdie vers weerspreek die idee dat geloof anti-intellektueel is. Inteendeel, d
 
 * **Chalmers, David.** “Facing Up to the Problem of Consciousness.” *Journal of Consciousness Studies* 2, no. 3 (1995): 200–219.
   *(Chalmers, ’n vooraanstaande bewussynsfilosoof, het dié invloedryke artikel geskryf waarin hy die onderskeid tref tussen die *“maklike probleme”* van bewussyn (bv. funksies en gedrag verklaar) en die *“moeilike probleem”* (hoekom daar subjektiewe ervaring is). Hy argumenteer dat die moeilikste vraag onoplosbaar lyk met ons huidige begrip en dalk ’n nuwe benadering verg. Hierdie artikel populariseer die term “Hard Problem” en is relevant as agtergrond vir waarom qualia so ’n kopkrapper is in wetenskaplike kringe.)*
-
-### **Bybelse Verwysings en Kommentaar**
 
 * **Die Bybel: Afrikaans 1933/1953-vertaling.**
   *(Skrifaanhalings in hierdie lesing is uit die betroubare 1933/53-vertaling geneem. Sleutelteksgedeeltes sluit in Genesis 1:27 (die mens as beeld van God), Johannes 1:1–5 (Christus as die Goddelike Woord en Lig van mense), Spreuke 20:27 (die gees van die mens as lamp van die Here) en Romeine 12:2 (vernuwing van die gemoed).)*
@@ -374,12 +366,8 @@ This verse contradicts the idea that faith is anti-intellectual. On the contrary
 
 ## Bibliography
 
-### Primary Source
-
 * **Hart, David Bentley.** *The Experience of God: Being, Consciousness, Bliss*. New Haven: Yale University Press, 2013.
-  *(A modern work analysing three fundamental aspects of reality -- **Existence**, **Consciousness** and **Bliss** -- as clues pointing to God. This series is partly inspired by Hart’s insights into how consciousness can be understood within a theistic framework.)*
-
-### Philosophy of Consciousness and Religion
+  *(A modern work analysing three fundamental aspects of reality -- **Existence**, **Consciousness** and **Bliss** -- as clues pointing to God.)*
 
 * **Moreland, J.P.** *Consciousness and the Existence of God: A Theistic Argument*. New York: Routledge, 2008.
   *(Academically written, it systematically sets out the “argument from consciousness”. Moreland argues that materialism cannot account for the properties of consciousness, while theism expects them. Also contains a good discussion of non-physical evidence in the human being, such as libertarian free will and intentional objectivity.)*
@@ -396,8 +384,6 @@ This verse contradicts the idea that faith is anti-intellectual. On the contrary
 * **Kuhn, Robert Lawrence.** “A Landscape of Consciousness: Toward a Taxonomy of Explanations.” *ISSR Science & Religion Review* (August 2024).
   *(A recent article/blog by Kuhn -- connected to *Closer to Truth* -- in which he compiles a comprehensive list of different theories of consciousness, from the most physical to the most spiritual. He uses a spectrum model and discusses overlaps and contradictions between theories. This source shows how complex and diverse the field is, and serves as confirmation that no simple reductionist answer is generally accepted. Kuhn’s work emphasises that consciousness must be understood in a way that potentially extends beyond the boundaries of conventional natural science.)*
 
-### Classical and Thought-Experiment Sources
-
 * **Nagel, Thomas.** “What Is it Like to Be a Bat?” *Philosophical Review* 83, no. 4 (1974): 435--450.
   *(The ground-breaking article discussing the irreducible subjective character of consciousness. Nagel proposes that even if we knew everything about a bat’s physiology, we would still not know *what it is like to be a bat*. This work made the phrase “what is it like” synonymous with the consciousness problem.)*
 
@@ -406,8 +392,6 @@ This verse contradicts the idea that faith is anti-intellectual. On the contrary
 
 * **Chalmers, David.** “Facing Up to the Problem of Consciousness.” *Journal of Consciousness Studies* 2, no. 3 (1995): 200--219.
   *(Chalmers, a leading consciousness philosopher, wrote this influential article in which he draws the distinction between the *”easy problems”* of consciousness (e.g. explaining functions and behaviour) and the *”hard problem”* (why there is subjective experience). He argues that the most difficult question appears unsolvable with our current understanding and may require a new approach. This article popularised the term “Hard Problem” and is relevant as background for why qualia are such a puzzle in scientific circles.)*
-
-### Biblical References and Commentary
 
 * **The Bible: English Standard Version (ESV).**
   *(Scripture quotations in this lesson are drawn from the ESV. Key passages include Genesis 1:27 (the human being as image of God), John 1:1--5 (Christ as the Divine Word and Light of men), Proverbs 20:27 (the spirit of man as the lamp of the Lord) and Romans 12:2 (renewal of the mind).)*
