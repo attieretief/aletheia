@@ -30,3 +30,8 @@ A chronological narrative of what has been worked on in Aletheia and its surroun
 
 ## Parallel project (context, not in this repo)
 - Attie is simultaneously writing a book, *Cosmic Wonder — Superfluid Vacuum Theology* (at `~/Documents/Streams/Cosmic Wonder`), mapping Euler's identity onto the Christian narrative via the superfluid-vacuum hypothesis. Its refined humanisation voice discipline is the standard Aletheia content should move toward.
+
+## 2026-07-22
+- Seeded `memory/research-bronne.md` — research-source queue (6 video's + arXiv 2012.06580) op
+  bewussyn / idealisme / IIT / vrye wil, hoofsaaklik geoormerk vir Reeks 4 (Mens & Betekenis),
+  met Alex O'Connor → Reeks 1/5. Vanuit claude-home inbox-capture. Nog geen skrif goedgekeur nie.
