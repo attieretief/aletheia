@@ -57,12 +57,6 @@ Ons materiaal is in **studiereekse** georganiseer wat jy alleen of saam met 'n g
 
 Hierdie is nie liggewig materiaal nie — maar dit is ook nie bedoel vir akademici alleen nie. Dit is geskryf vir **gemeentelede** wat bereid is om te dink, te vra en te groei. Ons glo dat 'n dieper verstaan van jou geloof dit nie kouer maak nie, maar *warmer*.
 
-### Hoe om te begin
-
-Begin by die **Lewensbeskouing**-reeks as jy 'n breë fondament wil lê. Of spring reguit na 'n onderwerp wat jou interesseer — elke reeks staan op sy eie voete. Die **Woordelys** is daar om tegniese terme te verduidelik sonder dat jy eers 'n filosofie-graad nodig het.
-
-Mag hierdie materiaal jou help om God lief te hê *"met jou hele verstand"* (Matt. 22:37), en om met sagmoedigheid en eerbied verantwoording te kan doen aan elkeen wat jou rekenskap vra oor die hoop wat in jou leef (1 Pet. 3:15).
-
 </div>
 
 <div class="lang-en" markdown="1">
@@ -85,11 +79,5 @@ Our material is organised into **study series** that you can work through on you
 - **Confessions and Catechism** — The richness of our Reformed confessional tradition, opened up piece by piece.
 
 This is not lightweight material — but neither is it meant for academics alone. It is written for **congregation members** who are willing to think, to ask, and to grow. We believe that a deeper understanding of your faith does not make it colder, but *warmer*.
-
-### Where to begin
-
-Start with the **Worldview** series if you want to lay a broad foundation. Or jump straight to a topic that interests you — each series stands on its own. The **Glossary** is there to explain technical terms without requiring a philosophy degree first.
-
-May this material help you to love God *"with all your mind"* (Matt. 22:37), and to give an answer with gentleness and respect to everyone who asks you for the reason for the hope that lives in you (1 Pet. 3:15).
 
 </div>
