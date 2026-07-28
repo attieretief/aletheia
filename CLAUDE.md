@@ -16,7 +16,7 @@ Aletheia is an Afrikaans Reformed theological education site — a course series
   - **Reeks 1 — Grondslag** (`reeks01-grondslag/`): 8 sessions on the reality of God — classical theism, metaphysics, consciousness, morality, desire. Complete.
   - **Reeks 2 — Wetenskap & Werklikheid** (`reeks02-wetenskap/`): 8 sessions on science and faith. Complete.
   - Series 3–8 are planned; see `ROADMAP.md`.
-- **Confessional texts**: `belydenisse/`, `kategismus/` (Heidelberg Catechism), `leerreels/` (Canons of Dort), `woordelys/` (glossary), `gkbo/`.
+- **Confessional texts**: `belydenisse/`, `kategismus/` (Heidelberg Catechism), `leerreels/` (Canons of Dort), `woordelys/` (glossary).
 - Session pages use `layout: lesson` with front matter: `course`, `lesson` (ordering), `title`/`title_en`, `description`/`description_en`, `youtubeurl`, `youtube_start`/`youtube_end`, `author`. Video is delivered via YouTube embeds with an end-overlay and a hard-stop enforced at `youtube_end`.
 - **Bilingual pattern**: content is written in parallel `<div class="lang-af">` / `<div class="lang-en">` blocks with a site-wide AF/EN toggle; UI strings are in `_data/i18n.yml` keyed `<key>.af` / `<key>.en`.
 
