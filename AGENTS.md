@@ -42,3 +42,5 @@ Aletheia is an Afrikaans Reformed theological education site — a course series
 
 - Content language is Afrikaans; keep AF as primary, EN for the wider audience. This CLAUDE.md and `memory/` are in English by convention.
 - These are working files in git — nothing is hidden. Do not `git add`/commit unless asked.
+
+**Content shape:** anything public from this repo (posts, videos, talks, intros) follows `~/Github/attieretief/hub/guides/content-recipe.md`: felt hook, then mechanism, then the click, then end small. Low-key, honest, one hard specific per piece. This repo's own voice rules still govern the prose.
