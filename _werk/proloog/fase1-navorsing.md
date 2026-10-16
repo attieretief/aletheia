@@ -325,3 +325,11 @@ Gods* are not local. *Beauty of the Infinite* Part 1 is the one that would matte
 - Essay 1 Hart pass (2026-10-16): mirror quote replaced by John 1:3, 1:9 + Bavinck (⚠️ locate the
   RD 1 Logos passage before publication); resurrection line now in own words; Hart kept once
   (Pilate and power, AD); reading list now Aquinas + Bavinck *Wonderful Works of God*.
+- **Essay 2 drafted 2026-10-16** → `_werk/proloog/essay2-kan-ons-dit-weet.md`. AF written first,
+  independent proofread applied (~45 edits). 1 Kor 13:12 verified (1983); Rom 1:18 paraphrased,
+  ⚠️ unverified against 1983. Hart: none. Kept site title-case headings (proofreader preferred
+  sentence case; site convention wins).
+- **Reeks 2 sessie7 corrected 2026-10-16:** Van Til was born in the Netherlands, not SA; "Bavinck,
+  Calvyn en Van Til sê in wese dieselfde" replaced by "Waar hulle saamstem, en waar nie" (Bavinck:
+  proofs as testimonies ⚠️ locate RD 2 passage). Still open: sessie1.md:380 "Die bewyse is
+  oorweldigend"; sessie7 ~l.470 quotes Rom 1:18 in 1953 wording.

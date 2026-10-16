@@ -427,7 +427,7 @@ Herman Bavinck, die groot Nederlandse Gereformeerde teoloog van die laat negenti
 
 Bavinck se argument is nie dat jy eers in God moet glo voordat jy enigiets kan weet nie. Dit sou absurd wees, want baie mense wat nie in God glo nie, weet tog baie dinge. Sy punt is eerder dat die *moontlikheid* van kennis, die feit dat daar 'n rasioneel geordende werklikheid is wat deur rasionele wesens geken kan word, uiteindelik slegs verklaar kan word as die werklikheid die produk is van 'n rasionele Skepper.
 
-Bavinck skryf dat die "principles of knowledge", die beginsels wat alle kennis moontlik maak, soos die wette van die logika en die betroubaarheid van ons sintuie, nie self deur die wetenskap bewys kan word nie. Hulle word deur die wetenskap *veronderstel*. En hulle vind hulle uiteindelike grondslag in God.
+Bavinck skryf dat die beginsels van kennis (*principia*), dit wil sê dié wat alle kennis moontlik maak, soos die wette van die logika en die betroubaarheid van ons sintuie, nie self deur die wetenskap bewys kan word nie. Hulle word deur die wetenskap *veronderstel*. En hulle het hulle uiteindelike grondslag in God.
 
 Dit beteken dat selfs die ateïs, wanneer hy redeneer, eksperimente doen, en wetenskaplike teorieë formuleer, *afhanklik* is van 'n raamwerk wat slegs op teïstiese gronde sin maak. Hy gebruik gereedskap wat God voorsien het, om tot gevolgtrekkings te kom wat God ontken. Dit is nie 'n argument dat die ateïs oneerlik is nie. Dit is 'n argument dat die werklikheid teisties gestruktureer is, en dat selfs die ontkenning van God op die gereedskap van God aangewese is.
 
@@ -443,7 +443,7 @@ Dit is nie 'n argument dat die naturalis oneerlik is nie. Dit is 'n argument dat
 
 ### Van Til: Presupposisionalisme
 
-Cornelius Van Til, die groot Suid-Afrikaans-gebore Gereformeerde filosoof en apologeet wat aan Westminster Theological Seminary doseer het, het hierdie insigte in 'n sistematiese benadering ontwikkel wat as *presupposisionalisme* bekend staan.
+Cornelius Van Til (1895–1987), die in Nederland gebore Gereformeerde filosoof en apologeet wat aan Westminster Theological Seminary in Philadelphia doseer het, het hierdie insigte tot 'n sistematiese benadering uitgebou wat as *presupposisionalisme* bekend staan.
 
 Van Til se kernargument is eenvoudig maar diepgaande: **jy kan nie teen God argumenteer sonder om die gereedskap te gebruik wat God voorsien het nie**. Elke poging om die bestaan van God te ontken, veronderstel die wette van die logika, wat op teïstiese gronde sin maak want hulle weerspieël die rasionaliteit van God, maar op naturalistiese gronde onverklaarbaar is. Elke poging om die rasionele orde van die werklikheid te bevraagteken, veronderstel die rasionele orde van die werklikheid, want jy gebruik rasionele argumente om jou saak te maak. Elke poging om morele kritiek teen God te rig, veronderstel objektiewe morele waardes, wat op teïstiese gronde gefundeer is maar op naturalistiese gronde 'n illusie is.
 
@@ -451,15 +451,19 @@ Van Til gebruik die beeld van 'n kind wat op sy pa se skoot sit en sy pa in die 
 
 Dit beteken nie dat die ateïs "eintlik" 'n teïs is nie. Dit beteken dat die werklikheid teïsties gestruktureer is, en dat elke poging om dit te ontken onvermydelik die gereedskap gebruik wat hierdie teïstiese struktuur voorsien. Die naturalisme is nie net 'n verkeerde wêreldbeeld nie. Dit is 'n *onmoontlike* wêreldbeeld, een wat nie koherent gehandhaaf kan word nie omdat dit die voorwaardes vir sy eie formulering ondermyn.
 
-### Die eenheid van die Gereformeerde insig
+### Waar hulle saamstem, en waar nie
 
-Bavinck, Calvyn, en Van Til sê in wese dieselfde ding vanuit verskillende hoeke:
+Bavinck, Calvyn en Van Til staan in dieselfde tradisie, en op een punt praat hulle met een stem:
 
-- **Bavinck**: Alle kennis veronderstel God as grondslag.
-- **Calvyn**: Elke mens het 'n ingebedde kennis van God wat nie uitgewis kan word nie.
-- **Van Til**: Elke argument teen God is afhanklik van die gereedskap wat God voorsien.
+- **Bavinck:** Alle kennis veronderstel God as grondslag.
+- **Calvyn:** Elke mens dra 'n kennis van God in hom wat nie uitgewis kan word nie.
+- **Van Til:** Wie teen God argumenteer, gebruik gereedskap wat God voorsien het.
 
-Hierdie drie insigte, saamgeneem, gee ons 'n diep en koherente perspektief op die selfvernietiging van die naturalisme. Die naturalisme faal nie omdat Christene dit so wil hê nie. Dit faal omdat die werklikheid self, die werklikheid wat God geskep het, nie binne die naturalistiese raamwerk pas nie. En die feit dat selfs naturaliste nie konsekwent binne hulle eie raamwerk kan leef nie, is die sterkste getuienis hiervan.
+Saam help hulle ons verstaan waarom die naturalisme homself vernietig. Die naturalisme faal nie omdat Christene dit so wil hê nie. Dit faal omdat die werklikheid wat God geskep het, nie in die naturalistiese raamwerk inpas nie. En dat selfs naturaliste nie konsekwent binne hulle eie raamwerk kan leef nie, is die sterkste getuienis daarvan.
+
+Maar ons moet eerlik wees: hulle sê nie in alles dieselfde nie. Die verskil lê by die klassieke Godsbewyse, die soort argumente wat ons in Reeks 1 gebruik het. Van Til het die tradisionele bewyse in die lyn van Thomas van Aquino skerp afgewys. Wie saam met die ongelowige by 'n "neutrale" beginpunt wegspring, het volgens hom reeds toegegee dat die menslike rede sonder God kan oordeel. Bavinck was versigtiger en ruimer. Vir hom was die bewyse nie sluitende bewyse wat geloof afdwing nie, maar getuienisse. Die gelowige herken daarin die spore van die God wat hy reeds ken. By die ongelowige kan hulle die grond oopbreek, al skep hulle nie self geloof nie.
+
+Hierdie reeks staan nader aan Bavinck. Ons gebruik die klassieke argumente, maar as wegwysers, nie as bewyse wat geen eerlike mens kan weerstaan nie. Christene verskil hieroor, ook binne die Gereformeerde tradisie, en dis goed om dit hardop te sê. Die Proloog (*Kan ons dit weet?*) en later Reeks 5 gaan dieper op hierdie gesprek in.
 
 ### Maar argumente alleen is nie genoeg nie
 
@@ -990,7 +994,7 @@ This is not an argument that the naturalist is dishonest. It is an argument that
 
 ### Van Til: Presuppositionalism
 
-Cornelius Van Til, the great South African-born Reformed philosopher and apologist who taught at Westminster Theological Seminary, developed these insights into a systematic approach known as *presuppositionalism*.
+Cornelius Van Til (1895–1987), the Dutch-born Reformed philosopher and apologist who taught at Westminster Theological Seminary in Philadelphia, developed these insights into a systematic approach known as *presuppositionalism*.
 
 Van Til's core argument is simple but profound: **you cannot argue against God without using the tools God has provided**. Every attempt to deny God's existence presupposes the laws of logic — which make sense on theistic grounds because they reflect God's rationality, but are inexplicable on naturalistic grounds. Every attempt to question the rational order of reality presupposes the rational order of reality, because you use rational arguments to make your case. Every attempt to level moral criticism against God presupposes objective moral values — which are grounded on theistic grounds but are an illusion on naturalistic grounds.
 
@@ -998,15 +1002,19 @@ Van Til uses the image of a child sitting on his father's lap and slapping his f
 
 This does not mean the atheist is "really" a theist. It means that reality is theistically structured, and that every attempt to deny this inevitably uses the tools this theistic structure provides. Naturalism is not merely a wrong worldview. It is an *impossible* worldview — one that cannot be coherently maintained because it undermines the preconditions for its own formulation.
 
-### The Unity of the Reformed Insight
+### Where They Agree, and Where They Don't
 
-Bavinck, Calvin, and Van Til essentially say the same thing from different angles:
+Bavinck, Calvin and Van Til stand in the same tradition, and on one point they speak with one voice:
 
-- **Bavinck**: All knowledge presupposes God as its foundation.
-- **Calvin**: Every human being has an embedded knowledge of God that cannot be erased.
-- **Van Til**: Every argument against God depends on the tools God provides.
+- **Bavinck:** All knowledge presupposes God as its foundation.
+- **Calvin:** Every human being carries a knowledge of God that cannot be erased.
+- **Van Til:** Whoever argues against God uses tools God has provided.
 
-These three insights, taken together, give us a deep and coherent perspective on the self-destruction of naturalism. Naturalism fails not because Christians want it to. It fails because reality itself — the reality God created — does not fit within the naturalistic framework. And the fact that even naturalists cannot live consistently within their own framework is the strongest testimony to this.
+Together they give us a deep perspective on the self-destruction of naturalism. Naturalism fails not because Christians want it to. It fails because the reality God created does not fit inside the naturalistic framework. And the fact that even naturalists cannot live consistently within their own framework is the strongest testimony to this.
+
+But we should be honest: they do not say the same thing on everything. The difference lies in the classical proofs for God, the kind of arguments we used in Series 1. Van Til sharply rejected the traditional proofs in the line of Thomas Aquinas. In his view, whoever starts with the unbeliever from a "neutral" starting point has already conceded that human reason can judge without God. Bavinck was more cautious and more generous. For him the proofs were not compelling demonstrations that produce faith, but testimonies. The believer recognises in them the traces of the God he already knows. For the unbeliever they can break open the ground, even though they do not themselves create faith.
+
+This series stands closer to Bavinck. We use the classical arguments, but as signposts, not as proofs no honest person can resist. Christians differ on this, also within the Reformed tradition, and it is good to say so out loud. The Prologue (*Can We Know It?*) and later Series 5 take this conversation further.
 
 ### But Arguments Alone Are Not Enough
 

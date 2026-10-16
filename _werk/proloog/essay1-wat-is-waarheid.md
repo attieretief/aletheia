@@ -41,7 +41,7 @@ Sowat 350 jaar voor Christus skryf die Griekse filosoof Aristoteles 'n sin neer 
 die vertrekpunt is vir byna elke gesprek oor waarheid. In sy *Metafisika* (boek IV, hoofstuk 7) sê
 hy, vrylik vertaal:
 
-> As jy van iets wat is, sê dat dit nie is nie, of van iets wat nie is nie, sê dat dit is, praat > jy die onwaarheid. As jy van wat is, sê dat dit is, en van wat nie is nie, dat dit nie is nie, praat jy
+> As jy van iets wat is, sê dat dit nie is nie, of van iets wat nie is nie, sê dat dit is, praat jy die onwaarheid. As jy van wat is, sê dat dit is, en van wat nie is nie, dat dit nie is nie, praat jy
 > die waarheid.
 
 Dit klink amper te eenvoudig vir filosofie. Maar kyk mooi. Daar is twee dinge in die spel: wat jy
