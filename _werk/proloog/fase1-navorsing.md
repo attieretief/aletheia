@@ -333,3 +333,8 @@ Gods* are not local. *Beauty of the Infinite* Part 1 is the one that would matte
   Calvyn en Van Til sê in wese dieselfde" replaced by "Waar hulle saamstem, en waar nie" (Bavinck:
   proofs as testimonies ⚠️ locate RD 2 passage). Still open: sessie1.md:380 "Die bewyse is
   oorweldigend"; sessie7 ~l.470 quotes Rom 1:18 in 1953 wording.
+- **Essay 3 drafted 2026-10-16** → `_werk/proloog/essay3-wie-se-waarheid.md`. AF first; proofread
+  applied (~30 edits incl. apartheid wording naming NGK, NHK, GKSA "elkeen op sy eie manier", and
+  apartheid's critics as believers and unbelievers). Hart: none. Kept lower-case *sy* for God's
+  possessive (1983 convention, consistent with essays 1–2). Augustine/Calvin paraphrased as own
+  translation; Oxford definition verified; Frankfurt paraphrased.
