@@ -48,9 +48,8 @@ Lyotard die postmoderne tyd as 'n tyd van wantroue teenoor die groot verhale get
 allesomvattende verhale wat 'n samelewing oor homself vertel.
 
 Ons hoef nie met al hulle gevolgtrekkings saam te stem nie om te erken dat hulle iets gesien het. En
-ons hoef nie ver na 'n voorbeeld te soek nie. Daar was 'n tyd toe die Afrikaanse kerke, die NG Kerk,
-die Hervormde Kerk en ons eie Gereformeerde Kerke, elkeen op sy eie manier apartheid met
-Bybeltekste verdedig het. Dit is presies wat die relativis
+die kerk se eie geskiedenis gee genoeg voorbeelde. Christene het al dikwels Bybeltekste gebruik om
+te regverdig wat hulle in elk geval wou doen, en ander mense daarmee seergemaak. Dit is presies wat die relativis
 vrees: dat iemand met mag sê "dis God se waarheid" en dan ander mense daarmee seermaak. Wanneer jou
 neef skrikkerig is vir enigiemand wat "die waarheid" verkondig, het hy nie heeltemal ongelyk nie. Die
 geskiedenis gee hom rede genoeg.
@@ -134,8 +133,8 @@ mekaar en hulself dikwels helder sien.
 Dit het twee gevolge, en albei is ongemaklik.
 
 **Eerstens: die ongelowige kan reg wees.** Nietzsche en Foucault het iets gesien oor mag en waarheid
-wat Christene moes hoor. Toe kerke apartheid geregverdig het, het mense buite daardie kerke,
-gelowiges en ongelowiges, die waarheid dikwels duideliker gesien. As alle waarheid God s'n is, moet ons
+wat Christene moes hoor. Die kerk het nie altyd self eerste raakgesien waar hy
+verkeerd was nie. Soms moes iemand van buite dit vir hom sê. As alle waarheid God s'n is, moet ons
 bereid wees om dit by enigeen te ontvang.
 
 **Tweedens: die gelowige besit dit nie.** As die waarheid aan God behoort, behoort dit nie aan ons
@@ -183,9 +182,8 @@ Oor die hoender, kom jy agter, wil niemand sy eie waarheid hê nie.
 * **Wat die relativis reg sien:** Watter een van die drie insigte (waar jy staan, waarheid en mag,
   nederigheid) is vir jou die moeilikste om te beantwoord? Waarom?
 
-* **Ons eie geskiedenis:** Hoe moet Christene in Suid-Afrika praat oor die tyd toe kerke apartheid
-  met die Bybel geregverdig het? Wat leer dit ons oor die verskil tussen God se waarheid en ons
-  aansprake daarop?
+* **Waarheid as wapen:** Het jy al gesien (of self gedoen) dat iemand "God se waarheid" as 'n wapen
+  gebruik? Wat leer dit ons oor die verskil tussen God se waarheid en ons aansprake daarop?
 
 * **Post-truth:** Frankfurt sê die kletser is 'n groter vyand van die waarheid as die leuenaar. Stem
   jy saam? Waar sien jy dit in jou nuusvoer?
@@ -269,9 +267,9 @@ always travel together: whoever decides what counts as true also decides who is 
 1979 Jean-François Lyotard described the postmodern age as one of "incredulity toward
 metanarratives", the all-encompassing stories a society tells about itself.
 
-We don't have to agree with all their conclusions to admit they saw something. And we don't have to
-look far for an example. There was a time when the Afrikaans churches, the Dutch Reformed Church, the
-Hervormde Kerk and our own Reformed Churches, each in its own way defended apartheid with Bible verses. That is exactly what the relativist fears: that someone
+We don't have to agree with all their conclusions to admit they saw something. And the church's own
+history offers enough examples. Christians have often used Bible verses to justify what they wanted
+to do anyway, and hurt other people with them. That is exactly what the relativist fears: that someone
 with power says "this is God's truth" and then hurts other people with it. When your cousin hesitates
 to let anyone proclaim "the truth", he is not entirely wrong. History has given him reasons.
 
@@ -352,8 +350,8 @@ each other and themselves truly.
 This has two consequences, and both are uncomfortable.
 
 **First: the unbeliever can be right.** Nietzsche and Foucault saw something about power and truth
-that Christians needed to hear. When churches justified apartheid, people outside those churches,
-believers and unbelievers, often saw the truth more clearly. If all truth is God's, we must be willing to receive it from
+that Christians needed to hear. The church has not always been first to see where it
+was wrong. Sometimes someone from outside had to tell it. If all truth is God's, we must be willing to receive it from
 anyone.
 
 **Second: the believer does not own it.** If the truth belongs to God, it does not belong to us. We
@@ -399,9 +397,8 @@ When it comes to the chicken, you have noticed, nobody wants their own truth.
 * **What the relativist gets right:** Which of the three insights (where you stand, truth and power,
   humility) do you find hardest to answer? Why?
 
-* **Our own history:** How should Christians in South Africa speak about the time when churches
-  justified apartheid from the Bible? What does it teach us about the difference between God's truth
-  and our claims to it?
+* **Truth as a weapon:** Have you ever seen someone (or yourself) use "God's truth" as a weapon? What
+  does it teach us about the difference between God's truth and our claims to it?
 
 * **Post-truth:** Frankfurt says the bullshitter is a greater enemy of truth than the liar. Do you
   agree? Where do you see this in your feed?
