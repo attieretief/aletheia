@@ -244,7 +244,65 @@ topical pressure point for 18–35 readers; burying them wastes the best hook.
    Correct Reeks 2 sessie7.md:444-460 (separate edit).
 4. **Books: none.** Phase 2 quotes only from verified free text (Aristotle, Augustine, Aquinas,
    Calvin public-domain translations, Plantinga *WCB* on CCEL, the Schaeffer extracts, Scripture,
-   confessions). Bavinck, Schaeffer's "true truth", Frankfurt and Geisler are paraphrased and
+   confessions, and Hart from the local full texts, §7). Bavinck, Schaeffer's "true truth", Frankfurt and Geisler are paraphrased and
    attributed, never quoted.
 5. **Authorship: Attie only.**
 6. Brief stays local (not pushed to the public repo).
+
+---
+
+## 7. David Bentley Hart on truth (added 2026-10-16)
+
+Rule carried over from cosmic-wonder `memory/decisions.md`:37: Hart is a **philosophical
+interlocutor, not a theological authority**. Quotes below were checked against the full texts in
+`~/Github/attieretief/david-bentley-hart/*.txt` (✅ = read in local text; line numbers refer to those
+files) unless marked otherwise. EoG = *The Experience of God* (2013); ATFG = *All Things Are Full of
+Gods* (2024); AD = *Atheist Delusions* (2009); TASBS = *That All Shall Be Saved* (2019).
+
+### Usable insights, by essay
+| # | Insight | Source | Essay |
+|---|---|---|---|
+| 1 | Pilate's "What is truth?" is a question about power, "expecting and needing no reply"; truth in his world = who may kill. Nietzsche saw the scene as a clash of worlds. | AD, "The Face of the Faceless", l.1132 ✅ | 1 (hook), 3 |
+| 2 | The resurrection "reverses the meaning of this scene entirely" — where truth stood is re-judged. | "Christ and Nothing", *First Things* Oct 2003 (web ✅, ⚠️ print) | 1 (John 14:6 ↔ 18:38) |
+| 3 | "The very search for truth is implicitly a search for God (properly defined, that is)." | EoG ch.4, l.4496 ✅ | 1, 2 |
+| 4 | The mind can be "a true mirror of objective reality because we assume that objective reality is already a mirror of mind." Correspondence grounded in God: Aquinas q.16 in one sentence. | EoG ch.4, l.4500 ✅ | 1, 2 |
+| 5 | "There is no one single discourse of truth as such, no single path to the knowledge of reality"; empirical findings are revisable, unlike logic and mathematics. | EoG ch.2, l.1420 ✅ | 2 (science/models) |
+| 6 | One can't believe in facts without "Truth as such": "the very concept of 'fact' is entirely dependent on the mind's prior devotion to such Truth." | EoG ch.5, l.4835 ✅ | 3 (relativism) |
+| 7 | Reductionism can't "retreat into postmodern relativism"; disenchantment is "the will to power wrapping itself in the stolen garments of disinterested reason." | ATFG Coda, l.17524, 17604 ✅ | 3 |
+| 8 | Postmodernity as "the truth of no truth"; Christianity answers violence with the persuasion of beauty. | *Beauty of the Infinite* (2003), Intro — only via Leithart's outline (❓ no local text) | 3, 4 |
+| 9 | Every movement toward truth "is already an act of devotion"; we accept unwelcome truths because truth is an end, not a tool; "the only way to know the truth of things is… the way of bliss." | EoG ch.5, l.4726-4793 ✅ | 4 (truth lived) |
+
+The strongest pair: **#1 + #2** give essay 1 its spine (Pilate asks "what" in front of "who",
+and Easter answers), and **#9** gives essay 4 a non-moralistic ground (truth is loved before it
+is obeyed), which sits well beside Schaeffer's holiness-and-love line.
+
+### Safe bridge (where Hart, Aquinas and Bavinck agree)
+- God is Truth itself; truth is a transcendental, convertible with being (EoG pp.243-51 per index;
+  Aquinas *ST* I q.16; Bavinck *RD* 2 on God's truth).
+- Analogy rather than univocity: fits archetypal/ectypal.
+- A Logos-structured, participatory creation: fits Bavinck's common grace and Paper 1's
+  source discipline.
+- Self-refutation of reason-denial, framed as a pointer: fits the agreed method line.
+- Hart is also an **ally on ID**: "a massive distraction" (EoG l.750-754 ✅).
+
+### Tensions (do not import)
+- **Calvinism:** TASBS pp.48-49 calls Calvin's God a "metaphysical absurdity" and the picture a
+  "moral horror". A GKSA reader who looks Hart up will find this within minutes. Cite him
+  sparingly and say once, plainly, that he is a critic of the Reformed tradition.
+- **Universalism:** argued from the same metaphysics of the Good we would borrow for truth.
+  Borrow the metaphysics; keep Dort as confession (same move as *Reasonable Wonder* Ch 22:177).
+- **Scripture:** EoG l.550-562 dismisses the Bible as "a collection of 'inerrant' oracles". His
+  target is flat literalism (Bavinck rejects that too), but never quote it near NGB 5/7.
+- **Noetic effects of sin:** Hart has no real doctrine of them, and TASBS says reason "must"
+  judge God's goodness. Essay 2 must not lean on Hart; use Calvin, Bavinck, Plantinga there.
+- **Register and idiom:** Vedanta and theosis language (sat-chit-ananda, "atman is Brahman",
+  ATFG Day Six) and his polemical scorn. Translate into Thomist vocabulary; drop the scorn.
+
+### Reusable in the Hart repo
+`graph/nodes/`: the-transcendentals, minds-transcendent-horizon, being-and-knowledge-are-one,
+knowledge-as-love, normativity-of-reason, friedrich-nietzsche, naturalism-as-picture-not-truth.
+Reformed responses already drafted in `graph/responses/` (incl. the Calvinist-sovereignty one).
+`graph/scripts/search.py` gives BM25 search over 2,974 cited passages for Phase 2.
+
+Gaps: *Beauty of the Infinite*, *Tradition and Apocalypse*, *Roland in Moonlight* and *You Are
+Gods* are not local. *Beauty of the Infinite* Part 1 is the one that would matter, for essay 3.
