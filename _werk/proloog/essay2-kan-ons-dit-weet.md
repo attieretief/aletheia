@@ -76,7 +76,7 @@ behoorlik werk. 'n Oortuiging hoef nie eers bewys te word voordat dit as kennis 
 
 Maar hier keer die twyfelaar terug, met 'n goeie vraag. *Hoekom* sou ons vermoëns betroubaar wees?
 Wie sê ons ore en ons verstand is gemaak om die waarheid te vind, en nie net om ons aan die lewe te
-hou nie? Dis die vraag wat ons in Reeks 2 (sessie 7) teëgekom het: as ons verstand bloot die toevallige
+hou nie? Ons kom in Reeks 2 (sessie 7) weer by hierdie vraag uit: as ons verstand bloot die toevallige
 produk van blinde prosesse is, het ons min rede om dit te vertrou. Maar as ons verstand gemaak is deur
 'n God wat self die waarheid is, en wat getrou is, dan is dit nie vreemd dat dit die waarheid kan raak
 nie. Dan is dit juis wat 'n mens sou verwag.
@@ -140,7 +140,7 @@ langs die pad gaan staan het.
 
 Bedoel ek dat God goed is presies soos my ma goed is? Nee, dit sou God te klein maak. Bedoel ek dan
 dat die woord "goed" niks meer beteken as ek dit van God sê nie? Ook nie, want dan sê ek eintlik
-niks nie. Die klassieke Christelike antwoord, wat ons in Reeks 1 al teëgekom het, is dat ons woorde oor
+niks nie. Die klassieke Christelike antwoord, waarop Reeks 1 verder ingaan, is dat ons woorde oor
 God *analogies* is. Hulle sê iets waars, want my ma se goedheid is 'n werklike afdruk van God se
 goedheid. Maar God se goedheid gaan oneindig verder as enigiets waaraan my woorde kan vat.
 
@@ -148,7 +148,7 @@ Ons woorde reik na God. Hulle vang Hom nie vas nie. En so hoort dit.
 
 ## 6. En die wetenskap?
 
-Hier wag 'n onverwagse wins. In Reeks 2 het ons gesê die wetenskap kan nie deur God se oë kyk
+Hier wag 'n onverwagse wins. Geen wetenskaplike kan deur God se oë kyk
 nie. Wetenskaplikes werk met modelle: die atoom as 'n klein sonnestelsel, lig as 'n golf, die heelal
 as 'n vergelyking. Elke model word later verfyn, soms vervang. Beteken dit dat die wetenskap net
 stories vertel wat handig is?
@@ -175,7 +175,7 @@ stem nie saam oor *hoe* ons by die geloof in God uitkom nie, en die verskil is n
   dat ander mense bestaan. Jy hoef dit nie eers te bewys voordat jy dit mag glo nie.
 
 Aletheia staan die naaste aan Herman Bavinck, in wie se werk elkeen van hierdie stemme iets van homself herken. Ons gebruik argumente,
-soos in Reeks 1, maar as wegwysers en nie as bewyse wat geen eerlike mens kan weerstaan nie. Ons glo
+soos Reeks 1 sal wys, maar as wegwysers en nie as bewyse wat geen eerlike mens kan weerstaan nie. Ons glo
 nie ons begin op neutrale grond nie. En ons glo dat die geloof uiteindelik deur die Gees gewerk word,
 nie deur ons argumente nie. Ons gaan in Reeks 5 breedvoeriger op hierdie gesprek in.
 
@@ -319,8 +319,8 @@ Such beliefs are not groundless. They are grounded in faculties that are working
 does not have to be proved before it can count as knowledge.
 
 But here the sceptic comes back, and he has a point. *Why* should our faculties be reliable? Who says
-our ears and minds were made to find the truth, and not merely to keep us alive? That is the question
-we met in Series 2 (session 7): if our minds are simply the accidental product of blind processes, we
+our ears and minds were made to find the truth, and not merely to keep us alive? We will meet this question again
+in Series 2 (session 7): if our minds are simply the accidental product of blind processes, we
 have little reason to trust them. But if our minds were made by a God who is himself the truth, and
 who is faithful, then it is not strange that they can reach the truth. It is exactly what you would
 expect.
@@ -385,7 +385,7 @@ the side of the road.
 
 Do I mean that God is good exactly as my mother is good? No, that would make God too small. Do I mean
 the word "good" means nothing when I say it of God? Not that either, because then I'm saying nothing at
-all. The classical Christian answer, which we met in Series 1, is that our words about God are
+all. The classical Christian answer, which Series 1 explores further, is that our words about God are
 *analogical*. They say something true, because my mother's goodness is a real impression of God's
 goodness. But God's goodness goes infinitely beyond anything my words can hold.
 
@@ -393,7 +393,7 @@ Our words reach towards God. They do not grasp him. And that is exactly as it sh
 
 ## 6. And science?
 
-Here there is a surprising bonus. In Series 2 we said there is no "God's-eye view" in science.
+Here there is a surprising bonus. No scientist can see through God's eyes.
 Scientists work with models: the atom as a little solar system, light as a wave, the universe as an
 equation. Every model is later refined, sometimes replaced. Does that mean science just tells useful
 stories?
@@ -419,8 +419,8 @@ not agree about *how* we come to believe in God, and the difference matters.
 - **Reformed epistemology.** Plantinga says belief in God can be basic, like the belief that other
   people exist. You don't have to prove it first before you may believe it.
 
-Aletheia stands closest to Herman Bavinck, in whose work each of these voices recognises something of its own. We use arguments, as in
-Series 1, but as signposts and not as proofs no honest person can resist. We don't believe we start
+Aletheia stands closest to Herman Bavinck, in whose work each of these voices recognises something of its own. We use arguments, as
+Series 1 will show, but as signposts and not as proofs no honest person can resist. We don't believe we start
 on neutral ground. And we believe faith is finally the Spirit's work, not the work of our arguments.
 Series 5 goes into this conversation more fully.
 
