@@ -50,6 +50,7 @@ Elke reeks beantwoord die vraag wat die vorige een ooplaat.
 **Kernvraag:** Kan ons enigiets met sekerheid weet? Wie se waarheid is "die" waarheid?
 **Drukpunt:** Relativisme, pluralisme, "alle godsdienste is basies dieselfde." Verdraagsaamheid as hoogste deug.
 **Benadering:** Epistemologie — wat ken ons, hoe ken ons dit, en hoekom maak dit saak. Volg logies op Mens & Betekenis: as jy gevestig het wat die mens ís, vra jy wat die mens kan wéét.
+**Grens met die Proloog:** Die Proloog ("Wat is Waarheid?") vestig *dat* waarheid werklik, persoonlik en (nederig) kenbaar is. Reeks 5 doen *hoe* ons ken: begronding, getuienis, pluralisme en die volle metode-debat (klassiek / presupposisioneel / Gereformeerde epistemologie).
 **Status:** Beplan
 
 ---

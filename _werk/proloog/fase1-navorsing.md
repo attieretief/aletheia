@@ -236,10 +236,15 @@ topical pressure point for 18–35 readers; burying them wastes the best hook.
 
 ---
 
-## 6. Decisions only Attie can make
-1. Shape: A, B or C (recommend B).
-2. Reeks 5 boundary: prologue = *that*, Reeks 5 = *how*. Agree?
-3. Method stance: adopt *Reasonable Wonder*'s "realist about truth, pointer not proof", and
-   correct Reeks 2 sessie7:444-460?
-4. Buy Bavinck *RD* 1 and the Schaeffer *Trilogy*?
-5. Authorship: Attie only, or Douw on essay 4 (the pastoral one)?
+## 6. Decisions (Attie, 2026-10-16)
+1. **Shape: B**, four essays of ~3k words per language.
+2. **Reeks 5 boundary agreed:** prologue = *that*, Reeks 5 = *how*. ROADMAP.md updated.
+3. **Method: the *Reasonable Wonder* line** — realist about truth, humble about our grip,
+   arguments as pointers not proofs; name the Geisler / Van Til / Plantinga disagreement plainly.
+   Correct Reeks 2 sessie7.md:444-460 (separate edit).
+4. **Books: none.** Phase 2 quotes only from verified free text (Aristotle, Augustine, Aquinas,
+   Calvin public-domain translations, Plantinga *WCB* on CCEL, the Schaeffer extracts, Scripture,
+   confessions). Bavinck, Schaeffer's "true truth", Frankfurt and Geisler are paraphrased and
+   attributed, never quoted.
+5. **Authorship: Attie only.**
+6. Brief stays local (not pushed to the public repo).

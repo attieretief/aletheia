@@ -17,3 +17,9 @@
 - **ElevenLabs for all Afrikaans TTS** — decided after Chatterbox, Fish Audio, multilingual/Dutch models, Synthesia and HeyGen all failed Afrikaans pronunciation or lip-sync. Prefer audio + AI-generated b-roll over talking-head avatars.
 - **`crew/` production system is deliberately not autonomous** — file-based, in git, human approval required at two gates (script approved, audio approved). Nothing goes live without Attie's sign-off. Pipeline kept intentionally two-deep — no third script is written while a gate is closed.
 - **`ROADMAP.md`, `crew/`, `podcast/` and internal drafts are excluded from the Jekyll build** (`_config.yml` `exclude`) — internal, not for publication.
+
+## Prologue "Wat is Waarheid?" (2026-10-16)
+- **Four essays (~3k words each), Attie only** — each hooks, teaches one thing and maps to one podcast episode.
+- **Prologue does *that*, Reeks 5 does *how*** — avoids hollowing out Reeks 5 (Waarheid & Kennis).
+- **Method = the *Reasonable Wonder* line** (realist about truth, arguments as pointers, method disagreement named openly) — the site currently contradicts itself (Reeks 2 s7:444-460 says Bavinck, Calvin, Van Til agree); that passage gets corrected.
+- **No print copies bought** — quote only verified free text; paraphrase Bavinck, Schaeffer's "true truth", Frankfurt, Geisler.
