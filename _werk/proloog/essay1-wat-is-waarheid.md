@@ -112,11 +112,12 @@ raaksien. Waarom sou die werklikheid hoegenaamd *kenbaar* wees? Waarom het die d
 ons verstand kan vasvat, sodat 'n kind wat leer tel en 'n fisikus wat 'n vergelyking neerskryf,
 albei iets beetkry wat regtig daar buite is?
 
-Die Ortodokse filosoof David Bentley Hart is geen Gereformeerde denker nie, maar hieroor praat hy
-helder. Ons neem aan, skryf hy, dat die menslike verstand 'n getroue spieël van die werklikheid kan
-wees, omdat ons aanneem dat die werklikheid self reeds die spieël van 'n verstand is (*The
-Experience of God*, 2013, hoofstuk 4; my vertaling). Met ander woorde: ons gedagtes kan met die
-dinge klop, omdat die dinge eers met God se gedagtes klop.
+Die Bybel gee die antwoord in die eerste hoofstuk van Johannes. Alles het deur die Woord ontstaan
+(Johannes 1:3), en dieselfde Woord is die ware lig wat elke mens verlig (Johannes 1:9). Die orde in
+die wêreld en die lig in ons verstand kom uit een bron. Herman Bavinck het sy hele leer oor kennis
+later op presies dié grond gebou: die Woord wat die wêreld gemaak het, is ook die Woord wat ons
+verstand verlig, en daarom pas die een by die ander. Ons gedagtes kan met die dinge klop, omdat die
+dinge eers met God se gedagtes klop.
 
 In die volgende opstel sal ons sien hoe nederig ons hieroor moet bly. Ons kennis is nie God se
 kennis nie. Maar onthou die beeld: waarheid begin nie by ons nie.
@@ -183,7 +184,7 @@ dit toevallig korrek is nie. Dit is waar omdat Hy wat dit spreek, getrou is.
 
 Nou kan ons teruggaan na die verhoorsaal.
 
-In 'n ander boek (*Atheist Delusions*, 2009) wys Hart op iets wat 'n mens maklik oor die hoof sien. Vir enige
+Die Ortodokse skrywer David Bentley Hart wys in *Atheist Delusions* (2009) op iets wat 'n mens maklik oor die hoof sien. Vir enige
 toeskouer in die antieke wêreld sou dit glad nie moeilik gewees het om te sien aan watter kant die
 waarheid in daardie toneel lê nie. Aan die een kant staan 'n Romeinse goewerneur met mag oor lewe en
 dood. Aan die ander kant staan 'n gegeselde gevangene van wie niemand weet waar Hy vandaan kom nie.
@@ -196,8 +197,7 @@ wen. In die derde opstel sal ons sien dat ons eie tyd presies dié vraag weer vr
 tegnologie.
 
 Maar die Evangelies is nie geskryf deur toeskouers wat gesien het wie gewen het nie. Hulle is
-geskryf in die lig van die opstanding, en die opstanding, skryf Hart elders, keer die betekenis van
-hierdie toneel heeltemal om (*First Things*, oktober 2003). Die man met al die mag het gevra wat
+geskryf in die lig van die opstanding, en die opstanding keer die betekenis van hierdie toneel heeltemal om. Die man met al die mag het gevra wat
 waarheid is. Die man sonder enige mag *was* die waarheid. Pilatus het "wat?" gevra, terwyl die
 antwoord op "wie?" voor hom gestaan het.
 
@@ -236,7 +236,7 @@ Dit som eintlik die hele saak op.
 * **Emet:** Die Hebreeuse woord vir waarheid beteken ook trou en betroubaarheid. Wie in jou lewe is
   in dié sin "waar"? Hoe lees jy Johannes 14:6 anders as jy dit in gedagte hou?
 
-* **Pilatus:** Volgens Hart het Pilatus gevra sonder om 'n antwoord te verwag of nodig te hê. Waar sien
+* **Pilatus:** Pilatus het gevra sonder om 'n antwoord te verwag of nodig te hê. Waar sien
   jy vandag dieselfde houding raak: dat waarheid maar net 'n ander woord is vir wie die mag het?
 
 * **Vir die groep:** Jesus sê nie "Ek ken die waarheid" nie, maar "Ek *is* die waarheid". Hoe sou
@@ -244,10 +244,9 @@ Dit som eintlik die hele saak op.
 
 ## Aanbevole Leeswerk
 
-- **David Bentley Hart — *The Experience of God: Being, Consciousness, Bliss* (2013), hoofstuk 4**
-  'n Helder, ryk uiteensetting van waarom ons soeke na waarheid na God wys. Hart is 'n Oosters-
-  Ortodokse denker en 'n skerp kritikus van die Gereformeerde tradisie. Lees hom as gespreksgenoot,
-  nie as gesag nie.
+- **Herman Bavinck — *The Wonderful Works of God* (*Magnalia Dei*, 1909), hoofstukke 1–3**
+  Bavinck se eie kort dogmatiek vir gewone lidmate. Die eerste hoofstukke handel oor wat dit beteken
+  om God te ken en hoe Hy Homself openbaar.
 
 - **Thomas van Aquino — *Summa Theologiae*, deel I, vraag 16 ("Oor waarheid")**
   Kort, gedronge en verrassend leesbaar. Die bron van die "twee rigtings" van waarheid.
@@ -266,12 +265,9 @@ Dit som eintlik die hele saak op.
   Yale University Press, 2009. Hoofstuk "The Face of the Faceless".
    – Pilatus se vraag as 'n vraag oor mag.
 
-* Hart, David Bentley. "Christ and Nothing." *First Things*, oktober 2003.
-   – Die opstanding keer die betekenis van die verhoor om.
-
-* Hart, David Bentley. *The Experience of God: Being, Consciousness, Bliss*. Yale University Press,
-  2013. Hoofstuk 4.
-   – Die werklikheid as spieël van 'n verstand; die soeke na waarheid as soeke na God.
+* Bavinck, Herman. *The Wonderful Works of God*. Vertaal deur Henry Zylstra. Westminster Seminary
+  Press, 2019. Oorspronklik *Magnalia Dei*, 1909.
+   – Kennis van God, openbaring en die Woord as bron van die wêreld se orde en ons verstand se lig.
 
 * Heidegger, Martin. *Sein und Zeit*. 1927. §44.
    – Waarheid as "onverborgenheid" (*aletheia*).
@@ -398,10 +394,12 @@ should reality be *knowable* at all? Why should things have a shape our minds ca
 child learning to count and a physicist writing an equation both touch something that is really
 out there?
 
-The Orthodox philosopher David Bentley Hart, who is no Reformed thinker but speaks clearly here,
-puts it this way: "the human mind can be a true mirror of objective reality because we assume that
-objective reality is already a mirror of mind" (*The Experience of God*, 2013, chapter 4). Our
-thoughts can fit things because things first fit God's thoughts.
+The Bible gives the answer in the first chapter of John. All things were made through the Word
+(John 1:3), and the same Word is the true light that gives light to everyone (John 1:9). The order in
+the world and the light in our minds come from one source. Herman Bavinck later built his whole
+account of knowledge on exactly this ground: the Word that made the world is the Word that lights our
+minds, and that is why the one fits the other. Our thoughts can fit things because things first fit
+God's thoughts.
 
 We will see in the next essay how humble we need to be about this. Our knowledge is not God's
 knowledge. But hold on to the picture: truth does not begin with us.
@@ -473,7 +471,7 @@ it happens to be correct. It is true because the One who speaks it is faithful.
 
 Now we can return to the courtroom.
 
-In another book (*Atheist Delusions*, 2009), Hart points out something easy to miss. To any ancient
+The Orthodox writer David Bentley Hart points out something easy to miss in *Atheist Delusions* (2009). To any ancient
 onlooker it would not have been hard to see where the truth lay in that scene. On one side stands a
 Roman governor with power over life and death. On the other stands a scourged prisoner of obscure
 origins. In a world where reality is measured by who may judge and who may kill, Pilate's question
@@ -485,8 +483,7 @@ wins. We will see in the third essay that this is exactly the question our own t
 again, only with better technology.
 
 But the Gospels were not written by onlookers who had seen who won. They were written in the light
-of the resurrection, which, Hart writes elsewhere, "reverses the meaning of this scene entirely"
-(*First Things*, October 2003). The man with the power asked what truth is. The man without power
+of the resurrection, and the resurrection turns the meaning of this scene upside down. The man with the power asked what truth is. The man without power
 *was* the truth. Pilate asked "what?" while the answer to "who?" stood in front of him.
 
 That is the move that carries this whole Prologue. Truth is not less than the honest fit between
@@ -522,7 +519,7 @@ That is not a bad summary of the whole matter.
 * **Emet:** The Hebrew word for truth also means "faithfulness" and "reliability". Who in your life
   is "true" in this sense? How does that change the way you read John 14:6?
 
-* **Pilate:** Hart says Pilate asked "expecting and needing no reply". Where do you see the same
+* **Pilate:** Pilate asked "expecting and needing no reply". Where do you see the same
   attitude today: that truth is just another word for whoever has the power?
 
 * **For the group:** Jesus does not say "I know the truth" but "I *am* the truth". How would you
@@ -530,10 +527,9 @@ That is not a bad summary of the whole matter.
 
 ## Recommended Reading
 
-- **David Bentley Hart — *The Experience of God: Being, Consciousness, Bliss* (2013), chapter 4**
-  A clear, rich account of why our search for truth points to God. Hart is an Eastern Orthodox
-  thinker and a sharp critic of the Reformed tradition; read him as a conversation partner, not an
-  authority.
+- **Herman Bavinck — *The Wonderful Works of God* (*Magnalia Dei*, 1909), chapters 1–3**
+  Bavinck's own short dogmatics for ordinary church members. The opening chapters deal with what it
+  means to know God and how he reveals himself.
 
 - **Thomas Aquinas — *Summa Theologiae*, part I, question 16 ("On Truth")**
   Short, dense and surprisingly readable. The source of the "two directions" of truth.
@@ -551,12 +547,9 @@ That is not a bad summary of the whole matter.
   Yale University Press, 2009. Chapter "The Face of the Faceless".
    – Pilate's question as a question about power.
 
-* Hart, David Bentley. "Christ and Nothing." *First Things*, October 2003.
-   – The resurrection reverses the meaning of the trial.
-
-* Hart, David Bentley. *The Experience of God: Being, Consciousness, Bliss*. Yale University Press,
-  2013. Chapter 4.
-   – Reality as the mirror of a mind; the search for truth as a search for God.
+* Bavinck, Herman. *The Wonderful Works of God*. Translated by Henry Zylstra. Westminster Seminary
+  Press, 2019. Originally *Magnalia Dei*, 1909.
+   – Knowledge of God, revelation, and the Word as the source of the world's order and the mind's light.
 
 * Heidegger, Martin. *Sein und Zeit*. 1927. §44.
    – Truth as "unconcealment" (*aletheia*).

@@ -26,3 +26,4 @@
 
 ## Afrikaans prose (2026-10-16)
 - **Write Afrikaans first and natively; never translate the English** — Attie called a translated-feel draft "atrocious". Checklist from the proofread: verb-final in subclauses (incl. the court oath), closing *nie* after quoted questions, no calques ("sin maak", "teen 1907", "in my eie woorde", "die punt is", "X is wanneer…", "mis" for overlook, "boks"), month names lower case (AWS), *Hy/Hom* capitalised for Christ throughout, Bible quotes checked against the 1983 vertaling. Voice model: Attie's own stories in `~/Github/attieretief/writing/Short Stories/Afrikaans/`. Always run an independent taalversorging pass before showing him Afrikaans.
+- **Hart is never on a pedestal (Attie, 2026-10-16)** — across aletheia, at most one attributed Hart aside per piece; load-bearing claims rest on Scripture, confessions and the classical/Reformed line; Hart stays out of reading lists. The work must not read as Hart in a Reformed veneer.

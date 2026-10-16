@@ -254,7 +254,10 @@ topical pressure point for 18–35 readers; burying them wastes the best hook.
 ## 7. David Bentley Hart on truth (added 2026-10-16)
 
 Rule carried over from cosmic-wonder `memory/decisions.md`:37: Hart is a **philosophical
-interlocutor, not a theological authority**. Quotes below were checked against the full texts in
+interlocutor, not a theological authority**. Attie, 2026-10-16: never put him on a pedestal or let
+an essay read as Hart in a Reformed veneer. **Budget: at most one attributed Hart aside per essay;
+every load-bearing claim rests on Scripture, the confessions, or the classical/Reformed line
+(Augustine, Aquinas, Calvin, Bavinck, Kuyper). Hart never appears in Aanbevole Leeswerk.** Quotes below were checked against the full texts in
 `~/Github/attieretief/david-bentley-hart/*.txt` (✅ = read in local text; line numbers refer to those
 files) unless marked otherwise. EoG = *The Experience of God* (2013); ATFG = *All Things Are Full of
 Gods* (2024); AD = *Atheist Delusions* (2009); TASBS = *That All Shall Be Saved* (2019).
@@ -319,3 +322,6 @@ Gods* are not local. *Beauty of the Infinite* Part 1 is the one that would matte
   - Own translation: Aristotle (AF and EN paraphrase-level), Hart quotes in AF marked "my vertaling".
   - Glossary candidates: waarheid/aletheia, korrespondensieteorie, koherensieteorie, pragmatisme,
     deflasionisme, emet.
+- Essay 1 Hart pass (2026-10-16): mirror quote replaced by John 1:3, 1:9 + Bavinck (⚠️ locate the
+  RD 1 Logos passage before publication); resurrection line now in own words; Hart kept once
+  (Pilate and power, AD); reading list now Aquinas + Bavinck *Wonderful Works of God*.
