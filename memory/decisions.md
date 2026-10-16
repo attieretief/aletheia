@@ -23,3 +23,6 @@
 - **Prologue does *that*, Reeks 5 does *how*** — avoids hollowing out Reeks 5 (Waarheid & Kennis).
 - **Method = the *Reasonable Wonder* line** (realist about truth, arguments as pointers, method disagreement named openly) — the site currently contradicts itself (Reeks 2 s7:444-460 says Bavinck, Calvin, Van Til agree); that passage gets corrected.
 - **No print copies bought** — quote only verified free text; paraphrase Bavinck, Schaeffer's "true truth", Frankfurt, Geisler.
+
+## Afrikaans prose (2026-10-16)
+- **Write Afrikaans first and natively; never translate the English** — Attie called a translated-feel draft "atrocious". Checklist from the proofread: verb-final in subclauses (incl. the court oath), closing *nie* after quoted questions, no calques ("sin maak", "teen 1907", "in my eie woorde", "die punt is", "X is wanneer…", "mis" for overlook, "boks"), month names lower case (AWS), *Hy/Hom* capitalised for Christ throughout, Bible quotes checked against the 1983 vertaling. Voice model: Attie's own stories in `~/Github/attieretief/writing/Short Stories/Afrikaans/`. Always run an independent taalversorging pass before showing him Afrikaans.
