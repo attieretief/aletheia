@@ -306,3 +306,16 @@ Reformed responses already drafted in `graph/responses/` (incl. the Calvinist-so
 
 Gaps: *Beauty of the Infinite*, *Tradition and Apocalypse*, *Roland in Moonlight* and *You Are
 Gods* are not local. *Beauty of the Infinite* Part 1 is the one that would matter, for essay 3.
+
+---
+
+## 8. Phase 2 log
+
+- **Essay 1 drafted 2026-10-16** → `_werk/proloog/essay1-wat-is-waarheid.md` (AF ~3.2k, EN ~2.9k words).
+  Kept in `_werk/` until approved; on approval it moves to `proloog/sessie1.md` with a `proloog.md`
+  landing page (`order: 0`).
+  - Verified: CPA 51/1977 s162(1) oath wording; Aristotle 1011b26–27; Hart EoG l.4500 and AD l.1132
+    (local text); Hart "Christ and Nothing" (web).
+  - Own translation: Aristotle (AF and EN paraphrase-level), Hart quotes in AF marked "my vertaling".
+  - Glossary candidates: waarheid/aletheia, korrespondensieteorie, koherensieteorie, pragmatisme,
+    deflasionisme, emet.
