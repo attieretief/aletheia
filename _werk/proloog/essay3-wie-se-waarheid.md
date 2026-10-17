@@ -44,12 +44,12 @@ nie relativisme nie. Dis eenvoudig waar.
 die negentiende eeu skerp gevra of ons "waarhede" nie maar ou metafore is waarvan ons vergeet het
 dat hulle metafore is nie. 'n Eeu later het die Franse denker Michel Foucault betoog dat kennis en mag altyd
 saamloop: wie bepaal wat as waar tel, bepaal ook wie in beheer is. En in 1979 het Jean-François
-Lyotard die postmoderne tyd as 'n tyd van wantroue teenoor die groot verhale getipeer: die
+Lyotard die postmoderne toestand as een van wantroue teenoor die groot verhale getipeer: die
 allesomvattende verhale wat 'n samelewing oor homself vertel.
 
 Ons hoef nie met al hulle gevolgtrekkings saam te stem nie om te erken dat hulle iets gesien het. En
-die kerk se eie geskiedenis gee genoeg voorbeelde. Christene het al dikwels Bybeltekste gebruik om
-te regverdig wat hulle in elk geval wou doen, en ander mense daarmee seergemaak. Dit is presies wat die relativis
+die kerk se eie geskiedenis is vol voorbeelde. Christene het al dikwels Bybeltekste gebruik om
+te regverdig wat hulle in elk geval wou doen. Dit is presies wat die relativis
 vrees: dat iemand met mag sê "dis God se waarheid" en dan ander mense daarmee seermaak. Wanneer jou
 neef skrikkerig is vir enigiemand wat "die waarheid" verkondig, het hy nie heeltemal ongelyk nie. Die
 geskiedenis gee hom rede genoeg.
@@ -82,8 +82,8 @@ Christen wat met die selfweerlegging wen en dan dink die gesprek is verby, het n
 Die meeste mense wat "my waarheid" sê, bedoel in elk geval nie 'n filosofiese teorie nie. Hulle
 bedoel: *my ervaring*, *my perspektief*, *my storie*. En dié dinge is werklik en belangrik. As 'n
 vrou vertel hoe sy as kind mishandel is, vertel sy nie net "haar waarheid" nie. Sy vertel *die*
-waarheid oor wat met haar gebeur het. Juis daarom het dit gewig. As dit net "haar waarheid" was, kon
-die beskuldigde net sy eie waarheid daarteenoor stel, en die hof sou niks gehad het om oor te beslis
+waarheid oor wat met haar gebeur het. Dáárom het dit gewig. As dit net "haar waarheid" was, kon
+die beskuldigde eenvoudig sy eie waarheid daarteenoor stel, en die hof sou niks hê om oor te beslis
 nie. Ironies genoeg het juis die mense wat die diepste seergekry het, die grootste belang daarby dat
 waarheid meer as 'n mening is.
 
@@ -97,11 +97,11 @@ omstandighede waarin objektiewe feite minder invloed op die openbare mening het 
 persoonlike oortuiging. Let op: die feite word nie ontken nie. Hulle maak net nie meer saak nie.
 
 Die Amerikaanse filosoof Harry Frankfurt het 'n boekie geskryf met 'n titel wat ons nie hier
-gaan vertaal nie, *On Bullshit* (2005). Sy onderskeid is skerp. 'n Leuenaar gee om vir die waarheid, al is
+gaan vertaal nie, *On Bullshit* (2005). Sy onderskeid is skerp. Die leuenaar gee om vir die waarheid, al is
 dit op 'n verkeerde manier. Hy moet die waarheid ken om dit weg te steek. Die kletser het nie eers
 daardie belangstelling nie. Hy sê wat aanslaan, wat aandag trek, wat sy saak bevorder, en of dit waar is
-of nie, is vir hom nie die vraag nie. Frankfurt meen dat dit uiteindelik 'n groter vyand van die
-waarheid is as die leuen.
+of nie, is vir hom nie die vraag nie. Frankfurt meen dat die kletser uiteindelik 'n groter vyand van die
+waarheid is as die leuenaar.
 
 Dink aan die nuusvoer op jou foon. Die program wat besluit wat jy sien, vra nie of iets waar is nie.
 Dit vra of jy gaan bly kyk. Niemand het besluit dat daar geen waarheid is nie. Ons het net 'n stelsel
@@ -120,7 +120,7 @@ Die Christelike antwoord is verrassend: nie een van hulle nie. Die waarheid beho
 
 Augustinus het dit omstreeks 397 so gestel: elke goeie en ware Christen moet verstaan dat waar hy
 ook al waarheid vind, dit aan sy Here behoort (*De doctrina christiana* II.18.28, vrylik vertaal).
-Augustinus het dit geskryf om Christene aan te moedig om by heidense skrywers te leer. Waar 'n
+Hy het dit geskryf om Christene aan te moedig om by heidense skrywers te leer. Waar 'n
 ongelowige iets waars raaksien, het hy nie iets van die kerk gesteel nie. Hy het iets gevind wat
 aan God behoort, en wat God hom laat sien het.
 
@@ -133,17 +133,17 @@ mekaar en hulself dikwels helder sien.
 Dit het twee gevolge, en albei is ongemaklik.
 
 **Eerstens: die ongelowige kan reg wees.** Nietzsche en Foucault het iets gesien oor mag en waarheid
-wat Christene moes hoor. Die kerk het nie altyd self eerste raakgesien waar hy
+wat Christene moes hoor. Die kerk was nie altyd die eerste om te sien waar hy
 verkeerd was nie. Soms moes iemand van buite dit vir hom sê. As alle waarheid God s'n is, moet ons
 bereid wees om dit by enigeen te ontvang.
 
 **Tweedens: die gelowige besit dit nie.** As die waarheid aan God behoort, behoort dit nie aan ons
 nie. Ons kan dit nie gebruik om mense te oorheers nie, want dit is nie ons s'n om mee te maak wat ons wil nie.
-Dit is presies waar die kerk in die verlede gestruikel het: dit het God se waarheid behandel asof dit
-die kerk se eiendom is.
+Dit is presies waar die kerk in die verlede gestruikel het: hy het God se waarheid behandel asof dit
+sy eiendom is.
 
 Onthou Pilatus uit die eerste opstel. Vir hom was waarheid uiteindelik 'n kwessie van mag: wie mag
-oordeel, wie mag doodmaak. Die relativis vrees dat Christene presies so dink, en soms was dit ook so.
+oordeel, wie mag doodmaak. Die relativis vrees dat Christene net so dink, en soms was dit ook so.
 Maar die waarheid wat voor Pilatus gestaan het, het nie mag gebruik nie. Hy het gely. Die Een wat sê
 "Ek is die waarheid", het Hom nie by die magtiges geskaar nie, maar Hom laat gesel.
 
@@ -158,7 +158,7 @@ As dit so is, verander dit die manier waarop Christene oor waarheid moet praat.
 Ons kan nie meer die neef by die braai met 'n slim argument doodpraat en dink ons het gewen nie. Ons
 moet eers luister: wat het hy gesien? Watter seer lê agter sy "you do you"? Waar was hy reg?
 
-Ons kan ook nie toegee dat waarheid maar 'n smaak is, soos boerewors of skilpadjies nie. Dit sou
+Ons kan ook nie toegee dat waarheid maar 'n kwessie van smaak is, soos boerewors of skilpadjies nie. Dit sou
 oneerlik wees, en dit sou die mense wat die meeste op waarheid staatmaak, in die steek laat.
 
 En ons sal moet aanvaar dat mense ons nie gaan glo omdat ons die beste argumente het nie. Hulle gaan
@@ -182,7 +182,7 @@ Oor die hoender, kom jy agter, wil niemand sy eie waarheid hê nie.
 * **Wat die relativis reg sien:** Watter een van die drie insigte (waar jy staan, waarheid en mag,
   nederigheid) is vir jou die moeilikste om te beantwoord? Waarom?
 
-* **Waarheid as wapen:** Het jy al gesien (of self gedoen) dat iemand "God se waarheid" as 'n wapen
+* **Waarheid as wapen:** Het jy al gesien dat iemand (dalk jyself) "God se waarheid" as 'n wapen
   gebruik? Wat leer dit ons oor die verskil tussen God se waarheid en ons aansprake daarop?
 
 * **Post-truth:** Frankfurt sê die kletser is 'n groter vyand van die waarheid as die leuenaar. Stem
@@ -197,7 +197,7 @@ Oor die hoender, kom jy agter, wil niemand sy eie waarheid hê nie.
   Die klassieke pleidooi dat Christene waarheid moet ontvang waar dit ook al gevind word.
 
 - **Harry G. Frankfurt — *On Bullshit* (2005)**
-  Kort, geestig en skerp. Die beste kort inleiding tot ons "post-truth"-tyd te verstaan.
+  Kort, geestig en skerp. Die beste inleiding om ons "post-truth"-tyd te verstaan.
 
 ## Bibliografie
 
