@@ -24,7 +24,7 @@ En wanneer die wetenskap "gesê" het, is die gesprek vir baie mense verby.
 
 Hierdie reeks, *Wetenskap & Werklikheid*, wil nie die wetenskap afkraak nie. Inteendeel: die wetenskap is een van die mooiste geskenke wat uit die Christelike tradisie voortgekom het, en 'n diep agting vir wetenskaplike ondersoek hoort volkome by ons geloof. Maar die vraag bly: *Wat kan die wetenskap werklik vir ons sê, en wat kan dit nie?* Waar eindig wetenskaplike kennis en begin wetenskaplike aanmatiging? En hoe pas die fisiese wêreld wat die wetenskap onthul, in by die God wat ons in Reeks 1 leer ken het?
 
-Ons doen dit weer as gemeente, saam. Nie as verdedigers wat 'n muur om die geloof probeer bou nie, maar as pelgrims wat eerlik wil dink oor die werklikheid waarin ons leef. Die waarheid het nie ons beskerming nodig nie. Dit nooi ons uit om dit te ontdek.
+Ons doen dit weer saam. Nie as verdedigers wat 'n muur om die geloof probeer bou nie, maar as pelgrims wat eerlik wil dink oor die werklikheid waarin ons leef. Die waarheid het nie ons beskerming nodig nie. Dit nooi ons uit om dit te ontdek.
 
 ## Hoekom hierdie reeks?
 
@@ -126,7 +126,7 @@ Ons is eerlik oor wat ons weet en wat ons nie weet nie. Daar is dinge waaroor di
 
 Ons respekteer die wetenskap sonder om dit te vergoddelik. Die wetenskap is 'n gawe, 'n instrument waardeur ons iets van God se skepping kan ontrafel. Maar dit is 'n instrument, nie 'n god nie. Om die wetenskap tot finale arbiter van alle waarheid te verhef, is om dit te oortaak met iets wat dit nie kan dra nie.
 
-Ons dink saam as gemeente. Ons is nie elkeen op ons eie nie. Ons stap hierdie pad saam, in die lig van die Skrif, gelei deur die Heilige Gees, in die gemeenskap van gelowiges wat vir eeue voor ons dieselfde vrae gevra het. Ons dra mekaar se vrae, en ons verdra mekaar se onsekerheid.
+Ons dink saam. Ons is nie elkeen op ons eie nie. Ons stap hierdie pad saam, in die lig van die Skrif, gelei deur die Heilige Gees, in die gemeenskap van gelowiges wat vir eeue voor ons dieselfde vrae gevra het. Ons dra mekaar se vrae, en ons verdra mekaar se onsekerheid.
 
 Ons lees die natuur deur die bril van die Skrif. Die Nederlandse Geloofsbelydenis (Artikel 2) bely dat ons God deur twee middele ken, die skepping en die Skrif, maar dit voeg 'n veelseggende woordjie by: die Skrif maak Hom aan ons *"nog duideliker en meer volkome"* bekend. Daar is 'n rangorde. Calvyn het dit met 'n treffende beeld verduidelik: sondige mense het die Skrif nodig soos 'n bejaarde mens 'n bril nodig het om te kan lees (*Institusie* I.6.1). Die skepping is vol van God se heerlikheid, maar ons gevalle oë lees dit verkeerd. Ons sien die letters, maar ons mis die sin. Die Skrif is die bril wat ons oë skerp stel, sodat ons die boek van die natuur reg kan lees. Die skepping is God se eerste boek, maar dit is die Skrif wat ons leer hoe om daardie boek te lees. Dit verminder nie die waarde van wetenskaplike ondersoek nie. Inteendeel, dit gee aan die wetenskap sy regte plek binne 'n groter raamwerk van waarheid. Ons verwelkom elke eerlike ontdekking, want alle waarheid is God se waarheid. Maar ons weet ook: dit is die Woord wat die laaste lig werp.
 
@@ -168,7 +168,7 @@ And once science has "spoken," the conversation for many people is over.
 
 This series, *Science & Reality*, does not aim to discredit science. On the contrary: science is one of the most beautiful gifts to have emerged from the Christian tradition, and a deep respect for scientific inquiry belongs entirely to our faith. But the question remains: *What can science truly tell us, and what can it not?* Where does scientific knowledge end and scientific presumption begin? And how does the physical world that science reveals fit with the God whom we came to know in Series 1?
 
-We do this again as a congregation, together. Not as defenders trying to build a wall around the faith, but as pilgrims who want to think honestly about the reality in which we live. The truth does not need our protection. It invites us to discover it.
+We do this together again. Not as defenders trying to build a wall around the faith, but as pilgrims who want to think honestly about the reality in which we live. The truth does not need our protection. It invites us to discover it.
 
 ## Why this series?
 
@@ -270,7 +270,7 @@ We are honest about what we know and what we do not know. There are things about
 
 We respect science without idolising it. Science is a gift, an instrument through which we can unravel something of God's creation. But it is an instrument, not a god. To elevate science to the final arbiter of all truth is to burden it with something it cannot bear.
 
-We think together as a congregation. We are not each on our own. We walk this road together, in the light of Scripture, led by the Holy Spirit, in the communion of believers who for centuries before us have asked the same questions. We carry one another's questions, and we bear with one another's uncertainty.
+We think together. We are not each on our own. We walk this road together, in the light of Scripture, led by the Holy Spirit, in the communion of believers who for centuries before us have asked the same questions. We carry one another's questions, and we bear with one another's uncertainty.
 
 We read nature through the lens of Scripture. The Belgic Confession (Article 2) confesses that we know God through two means — creation and Scripture — but it adds a telling phrase: Scripture makes Him known to us *"more clearly and fully."* There is a hierarchy. Calvin explained this with a striking image: sinful people need Scripture as an elderly person needs spectacles in order to read (*Institutes* I.6.1). Creation is full of God's glory, but our fallen eyes read it wrongly. We see the letters, but we miss the meaning. Scripture is the lens that brings our eyes into focus, so that we can read the book of nature correctly. Creation is God's first book, but it is Scripture that teaches us how to read that book. This does not diminish the value of scientific inquiry. On the contrary, it gives science its proper place within a larger framework of truth. We welcome every honest discovery, for all truth is God's truth. But we also know: it is the Word that casts the final light.
 

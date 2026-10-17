@@ -17,7 +17,7 @@ order: 1
 
 Oor die volgende paar sessies gaan ons saam ‘n ontdekkingsreis aanpak — nie net oor wat ons glo nie, maar oor **hoekom** ons dit glo, en **wie** hierdie God is wat ons bely. Ons wil die fondamente van die Christelike wêreldbeskouing ondersoek: God se bestaan, Sy aard, en hoe ons Hom werklik kan ken en ervaar.
 
-Ons doen dit as ‘n Gereformeerde gemeente, met die Skrif as ons hoogste gesag (*Sola Scriptura*), en met die vrymoedigheid om te leer by die groot denkers en gelowiges deur die eeue: Augustinus, Thomas Aquinas, Johannes Calvyn, Herman Bavinck, Alvin Plantinga, en ander. Hulle het almal in hulle eie tye probeer om God lief te hê met **hart, siel én verstand** (Markus 12:30).
+Ons doen dit vanuit die gereformeerde tradisie, met die Skrif as ons hoogste gesag (*Sola Scriptura*), en met die vrymoedigheid om te leer by die groot denkers en gelowiges deur die eeue: Augustinus, Thomas Aquinas, Johannes Calvyn, Herman Bavinck, Alvin Plantinga, en ander. Hulle het almal in hulle eie tye probeer om God lief te hê met **hart, siel én verstand** (Markus 12:30).
 
 Hierdie reeks wil ’n veilige ruimte skep waar ons moeilike vrae kan vra en eerlik kan saam dink. Dit is nie ’n lesingreeks nie; dit is ’n **gesprek**. Ons doel is nie om almal op een punt te laat saamstem oor elke detail nie, maar om mekaar te help om die waarheid dieper te verstaan, en uiteindelik om die Here met meer verwondering en vreugde te aanbid.
 
@@ -379,7 +379,7 @@ Daar lê oneindig meer voor — diepte van kennis en liefde vir God wat ons vir 
 
 Over the next few sessions we will embark on a journey of discovery together — not only about what we believe, but about **why** we believe it, and **who** this God is that we confess. We want to examine the foundations of the Christian worldview: God's existence, His nature, and how we can truly know and experience Him.
 
-We do this as a Reformed congregation, with Scripture as our highest authority (*Sola Scriptura*), and with the freedom to learn from the great thinkers and believers through the ages: Augustine, Thomas Aquinas, John Calvin, Herman Bavinck, Alvin Plantinga, and others. All of them in their own times sought to love God with **heart, soul and mind** (Mark 12:30).
+We do this from within the Reformed tradition, with Scripture as our highest authority (*Sola Scriptura*), and with the freedom to learn from the great thinkers and believers through the ages: Augustine, Thomas Aquinas, John Calvin, Herman Bavinck, Alvin Plantinga, and others. All of them in their own times sought to love God with **heart, soul and mind** (Mark 12:30).
 
 This series aims to create a safe space where we can ask difficult questions and think honestly together. It is not a lecture series; it is a **conversation**. Our goal is not to get everyone to agree on every detail, but to help one another understand the truth more deeply, and ultimately to worship the Lord with greater wonder and joy.
 
