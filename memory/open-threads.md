@@ -16,3 +16,6 @@
 ## Distribution / platform notes to revisit
 - suggested: Decide whether to disconnect the RSS→YouTube pipe and upload video episodes natively to YouTube Studio, to avoid duplicate episodes when a direct video upload coexists with the RSS feed.
 - suggested: Apple Podcasts video (iOS 26.4) requires HLS via a supported hosting provider; Spotify for Creators is not currently a supported host — revisit if video-on-Apple becomes a goal.
+
+## Prologue feedback
+- **Asked Chris Venter (L'Abri SA; supplied the Schaeffer extracts) for his view on the Prologue** — mail sent 2026-10-17 from attie@attieretief.com. Fold his comments into `proloog/` when they come; no chase needed.
