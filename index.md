@@ -55,7 +55,7 @@ Ons materiaal is in **studiereekse** georganiseer wat jy alleen of saam met 'n g
 - **[Wetenskap & Werklikheid]({{ site.baseurl }}/reeks02-wetenskap.html)** (Reeks 2) — Is geloof en wetenskap vyande? Die werklike geskiedenis en die werklike vrae.
 - **[Belydenisse]({{ site.baseurl }}/belydenisse.html) en [Kategismus]({{ site.baseurl }}/kategismus.html)** — Die rykdom van ons Gereformeerde belydenistradisie, stuk vir stuk oopgemaak.
 
-Hierdie is nie liggewig materiaal nie — maar dit is ook nie bedoel vir akademici alleen nie. Dit is geskryf vir **gemeentelede** wat bereid is om te dink, te vra en te groei. Ons glo dat 'n dieper verstaan van jou geloof dit nie kouer maak nie, maar *warmer*.
+Hierdie is nie liggewig materiaal nie, maar dit is ook nie net vir akademici bedoel nie. Dit is geskryf vir **enigiemand** wat bereid is om te dink, te vra en te groei: gelowiges wat hulle geloof dieper wil verstaan, en soekers wat eerlike antwoorde soek. Ons glo dat 'n dieper verstaan van jou geloof dit nie kouer maak nie, maar *warmer*.
 
 </div>
 
@@ -78,6 +78,6 @@ Our material is organised into **study series** that you can work through on you
 - **[Science & Reality]({{ site.baseurl }}/reeks02-wetenskap.html)** (Series 2) — Are faith and science enemies? The real history and the real questions.
 - **[Confessions]({{ site.baseurl }}/belydenisse.html) and [Catechism]({{ site.baseurl }}/kategismus.html)** — The richness of our Reformed confessional tradition, opened up piece by piece.
 
-This is not lightweight material — but neither is it meant for academics alone. It is written for **congregation members** who are willing to think, to ask, and to grow. We believe that a deeper understanding of your faith does not make it colder, but *warmer*.
+This is not lightweight material, but neither is it meant only for academics. It is written for **anyone** willing to think, to ask and to grow: believers who want to understand their faith more deeply, and seekers looking for honest answers. We believe that a deeper understanding of your faith does not make it colder, but *warmer*.
 
 </div>
