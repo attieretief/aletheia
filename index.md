@@ -51,9 +51,9 @@ Die naam **Aletheia** (ἀλήθεια) is die Griekse woord vir *waarheid* — 
 Ons materiaal is in **studiereekse** georganiseer wat jy alleen of saam met 'n groep kan deurwerk. Elke reeks handel oor 'n spesifieke tema wat vandag op gelowiges se harte druk:
 
 - **[Proloog: Wat is Waarheid?]({{ site.baseurl }}/proloog.html)** — Wat bedoel ons as ons sê iets is waar, kan ons dit ken, en wie se waarheid is dit? Vier kort opstelle wat die grondslag lê.
-- **Grondslag** (Reeks 1) — Wat bedoel ons met "God"? Hoekom is daar iets eerder as niks? Die diep filosofiese fondament van ons geloof.
-- **Wetenskap & Werklikheid** (Reeks 2) — Is geloof en wetenskap vyande? Die werklike geskiedenis en die werklike vrae.
-- **Belydenisse en Kategismus** — Die rykdom van ons Gereformeerde belydenistradisie, stuk vir stuk oopgemaak.
+- **[Grondslag]({{ site.baseurl }}/reeks01-grondslag.html)** (Reeks 1) — Wat bedoel ons met "God"? Hoekom is daar iets eerder as niks? Die diep filosofiese fondament van ons geloof.
+- **[Wetenskap & Werklikheid]({{ site.baseurl }}/reeks02-wetenskap.html)** (Reeks 2) — Is geloof en wetenskap vyande? Die werklike geskiedenis en die werklike vrae.
+- **[Belydenisse]({{ site.baseurl }}/belydenisse.html) en [Kategismus]({{ site.baseurl }}/kategismus.html)** — Die rykdom van ons Gereformeerde belydenistradisie, stuk vir stuk oopgemaak.
 
 Hierdie is nie liggewig materiaal nie — maar dit is ook nie bedoel vir akademici alleen nie. Dit is geskryf vir **gemeentelede** wat bereid is om te dink, te vra en te groei. Ons glo dat 'n dieper verstaan van jou geloof dit nie kouer maak nie, maar *warmer*.
 
@@ -74,9 +74,9 @@ The name **Aletheia** (ἀλήθεια) is the Greek word for *truth* — the sa
 Our material is organised into **study series** that you can work through on your own or with a group. Each series addresses a specific theme that weighs on believers' hearts today:
 
 - **[Prologue: What Is Truth?]({{ site.baseurl }}/proloog.html)** — What do we mean when we say something is true, can we know it, and whose truth is it? Four short essays that lay the groundwork.
-- **Foundation** (Series 1) — What do we mean by "God"? Why is there something rather than nothing? The deep philosophical groundwork of our faith.
-- **Science & Reality** (Series 2) — Are faith and science enemies? The real history and the real questions.
-- **Confessions and Catechism** — The richness of our Reformed confessional tradition, opened up piece by piece.
+- **[Foundation]({{ site.baseurl }}/reeks01-grondslag.html)** (Series 1) — What do we mean by "God"? Why is there something rather than nothing? The deep philosophical groundwork of our faith.
+- **[Science & Reality]({{ site.baseurl }}/reeks02-wetenskap.html)** (Series 2) — Are faith and science enemies? The real history and the real questions.
+- **[Confessions]({{ site.baseurl }}/belydenisse.html) and [Catechism]({{ site.baseurl }}/kategismus.html)** — The richness of our Reformed confessional tradition, opened up piece by piece.
 
 This is not lightweight material — but neither is it meant for academics alone. It is written for **congregation members** who are willing to think, to ask, and to grow. We believe that a deeper understanding of your faith does not make it colder, but *warmer*.
 
