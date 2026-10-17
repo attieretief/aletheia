@@ -71,7 +71,7 @@ waar? As dit waar is, is daar ten minste een waarheid, en dan is dit vals. As di
 hoef ons ons nie daaraan te steur nie. Of neem: "Alle waarheid is relatief." Geld dit vir almal,
 oral, altyd? Dan is dit 'n absolute waarheid, en die stelling weerlê homself.
 
-Die Amerikaanse apologeet Norman Geisler het dit die Road Runner-taktiek genoem, na aanleiding van die tekenprent
+Die Amerikaanse apologete Norman Geisler en Frank Turek noem dit die Road Runner-taktiek, na aanleiding van die tekenprent
 waarin Wile E. Coyote oor die rand van 'n krans hardloop en eers val wanneer hy afkyk en sien daar is
 niks onder hom nie. 'n Stelling wat nie aan sy eie maatstaf voldoen nie, hang net so in die lug.
 
@@ -217,7 +217,8 @@ Oor die hoender, kom jy agter, wil niemand sy eie waarheid hê nie.
    Hfst. 1.
    – Die "Road Runner-taktiek" teen selfweerleggende stellings.
 
-* Lyotard, Jean-François. *La condition postmoderne*. Minuit, 1979.
+* Lyotard, Jean-François. *La condition postmoderne*. Minuit, 1979. Eng.: *The Postmodern Condition*.
+  Vertaal deur Geoff Bennington en Brian Massumi. University of Minnesota Press, 1984.
    – Wantroue teenoor die groot verhale.
 
 * Nietzsche, Friedrich. "Über Wahrheit und Lüge im außermoralischen Sinne." 1873.
@@ -290,7 +291,7 @@ it is, there is at least one truth, and so it is false. If it isn't true, we nee
 Or take: "All truth is relative." Does that hold for everyone, everywhere, always? Then it is an
 absolute truth, and the statement refutes itself.
 
-The American apologist Norman Geisler called this the Road Runner tactic, after the cartoon in which
+The American apologists Norman Geisler and Frank Turek call this the Road Runner tactic, after the cartoon in which
 Wile E. Coyote runs off the edge of a cliff and only falls when he looks down and sees there is
 nothing beneath him. A statement that fails its own standard hangs in the air just like that.
 
@@ -363,8 +364,8 @@ may kill. The relativist fears Christians think exactly like that, and sometimes
 truth that stood before Pilate did not use power. He suffered. The One who says "I am the truth" did
 not side with the powerful, but with the scourged.
 
-That is the real answer to "whose truth?". It is not my truth against yours. It is the truth of a God
-who does not dominate, but gives himself. We can trust it precisely because it is not ours.
+That is the real answer to "whose truth?": not mine against yours, but the truth of a God who gives
+himself instead of dominating. We can trust it precisely because it is not ours.
 
 ## 5. What this asks of us
 
@@ -432,7 +433,8 @@ When it comes to the chicken, you have noticed, nobody wants their own truth.
   Ch. 1.
    – The "Road Runner tactic" against self-refuting statements.
 
-* Lyotard, Jean-François. *La condition postmoderne*. Minuit, 1979.
+* Lyotard, Jean-François. *La condition postmoderne*. Minuit, 1979. ET: *The Postmodern Condition*.
+  Translated by Geoff Bennington and Brian Massumi. University of Minnesota Press, 1984.
    – Incredulity toward metanarratives.
 
 * Nietzsche, Friedrich. "Über Wahrheit und Lüge im außermoralischen Sinne." 1873.

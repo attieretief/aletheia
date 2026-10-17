@@ -35,7 +35,7 @@ Of probeer die sagter een: "Alle waarheid is relatief." Geld dit vir almal, oral
 
 **[Glimlag.]**
 
-Die Amerikaanse apologeet Norman Geisler het dit die Road Runner-taktiek genoem. Onthou jy die
+Die Amerikaanse apologete Norman Geisler en Frank Turek noem dit die Road Runner-taktiek. Onthou jy die
 tekenprent? Wile E. Coyote jaag die voël, hardloop reguit oor die rand van 'n krans, en bly net daar
 in die lug hang. Hy val eers wanneer hy afkyk en sien daar is niks onder hom nie.
 
@@ -123,7 +123,7 @@ it's an absolute truth. And the statement refutes itself.
 
 **[Smile.]**
 
-The American apologist Norman Geisler called this the Road Runner tactic. Remember the cartoon? Wile
+The American apologists Norman Geisler and Frank Turek call this the Road Runner tactic. Remember the cartoon? Wile
 E. Coyote chases the bird, runs straight off the edge of a cliff, and just hangs there in mid-air. He
 only falls when he looks down and sees there's nothing underneath him.
 

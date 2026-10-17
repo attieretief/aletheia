@@ -352,3 +352,40 @@ Gods* are not local. *Beauty of the Infinite* Part 1 is the one that would matte
   prior source. Stock moves, not copies: self-refutation of "there is no truth"; "Pilate asked what,
   not who" (now credited to the medieval anagram *Quid est veritas / Est vir qui adest*). Self-echo:
   essay 2 §6 "the world is readable… not owed" deliberately echoes *Reasonable Wonder* Prologue:41.
+
+## 9. Publish checklist (house style + links) — do at integration, before any push
+
+House style (from Reeks 1–2 as built; where they differ, Reeks 2 wins):
+- Files: `proloog/sessie1.md`…`sessie4.md` (`layout: lesson`, `course: proloog`, `lesson: N`, `title`/
+  `title_en`, `description`/`description_en`, `author`); landing `proloog.md` (`layout: course`,
+  `course_name: proloog`, `order: 0` so it sorts first in the nav). No YouTube fields until videos exist.
+- Parallel `<div class="lang-af" markdown="1">` / `lang-en` blocks, one H1 each, `##` sections,
+  Title Case headings, straight quotes, no footnotes (sources named in prose).
+- Closing order: Besprekingsvrae → Aanbevole Leeswerk → Bibliografie; Reeks 2 bibliography format
+  (`* Author. *Title*. Publisher, year.` + `   – note`). Bold lead-ins on discussion questions are
+  house style (humanize flags them; ignore).
+- Glossary: new `woordelys/*.md` entries with `variations:`; auto-linked by `assets/definitions.js`.
+  **Blocker:** that script hardcodes `/aletheia/woordelys.html` while `baseurl` is `""` — fix it or
+  no tooltips work anywhere on the live site.
+
+Hyperlinks (none exist on the site yet; this sets the convention: `[tekst]({{ site.baseurl }}/pad.html)`):
+- Prologue ↔ Prologue: every "die eerste/tweede/derde/vierde opstel" / "the first… essay" links to
+  `/proloog/sessieN.html`.
+- Forward refs: "Reeks 1" → `/reeks01-grondslag.html`; "Reeks 2 (sessie 7)" →
+  `/reeks02-wetenskap/sessie7.html`; "Reeks 5" stays plain text until it exists.
+- Confessions: HK Vraag 1 → `/kategismus/sondag01.html`; Vraag 112 → `/kategismus/sondag43.html`.
+- Scripture stays unlinked (site convention).
+- Phase 4: backlinks from Reeks 1–2 into the Prologue (sessie7 "Waar hulle saamstem" → Proloog 2;
+  Reeks 2 sessie7 relativism passage → Proloog 3).
+
+## 10. Polish + citation check (2026-10-17)
+- `humanize lint --register book` on the EN blocks: 31 → 27 findings. Fixed: two "we will see"
+  announcements, "let's go", one mirrored antithesis, "the fact that". Left deliberately: bold
+  lead-ins in discussion questions (house style), "Not: I know… Not: I teach…" and "the man with the
+  power… without power *was*" (the essay's click), "when it comes to the chicken" (punchline).
+  Sentence-length σ ~7.5 vs provisional ≥8 on all four; not chased. Provenance unchanged.
+- Citation check: all entries real. Fixed: Bavinck GD 1895 publisher (J.H. Bos, not Kok); Lyotard
+  English translation added; Geisler *and Turek*; HK translation = this site's text; Schaeffer pages;
+  Bavinck RD 1 added for essay 1's Logos claim (⚠️ locate passage). Hart AD quote verified against
+  local full text (l.1132), page number still missing. Schaeffer quotes verified against Attie's
+  extracts (primary text), not against print.

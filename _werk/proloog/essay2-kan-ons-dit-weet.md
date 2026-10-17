@@ -221,7 +221,7 @@ het.
 
 ## Bibliografie
 
-* Bavinck, Herman. *Gereformeerde Dogmatiek*. Deel 1. Kampen: Kok, 1895. Eng.: *Reformed Dogmatics*,
+* Bavinck, Herman. *Gereformeerde Dogmatiek*. Deel 1. Kampen: J.H. Bos, 1895 (2de uitg. Kok, 1906–1911). Eng.: *Reformed Dogmatics*,
   vol. 1, *Prolegomena*. Baker Academic, 2003.
    – Argetipiese en ektipiese kennis; die beginsels van kennis.
 
@@ -355,7 +355,7 @@ read.
 
 ## 4. The seal and the impression
 
-Let's go one step deeper. Even if sin were taken away, even in heaven, our knowledge would never be
+One step deeper. Even if sin were taken away, even in heaven, our knowledge would never be
 the same as God's knowledge. God knows everything by making it. We know things by noticing them, one
 at a time, from the outside.
 
@@ -466,7 +466,7 @@ too.
 
 ## Bibliography
 
-* Bavinck, Herman. *Gereformeerde Dogmatiek*. Vol. 1. Kampen: Kok, 1895. ET: *Reformed Dogmatics*,
+* Bavinck, Herman. *Gereformeerde Dogmatiek*. Vol. 1. Kampen: J.H. Bos, 1895 (2nd ed. Kok, 1906–1911). ET: *Reformed Dogmatics*,
   vol. 1, *Prolegomena*. Baker Academic, 2003.
    – Archetypal and ectypal knowledge; the principles of knowledge.
 

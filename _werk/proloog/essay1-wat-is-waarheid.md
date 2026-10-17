@@ -267,6 +267,10 @@ Dit som eintlik die hele saak op.
   Yale University Press, 2009. Hoofstuk "The Face of the Faceless".
    – Pilatus se vraag as 'n vraag oor mag.
 
+* Bavinck, Herman. *Reformed Dogmatics*. Vol. 1, *Prolegomena*. Red. John Bolt, vert. John Vriend. Baker
+  Academic, 2003.
+   – Kennis gegrond in die Logos wat die wêreld gemaak het en ons verstand verlig.
+
 * Bavinck, Herman. *The Wonderful Works of God*. Vertaal deur Henry Zylstra. Westminster Seminary
   Press, 2019. Oorspronklik *Magnalia Dei*, 1909.
    – Kennis van God, openbaring en die Woord as bron van die wêreld se orde en ons verstand se lig.
@@ -403,7 +407,7 @@ account of knowledge on exactly this ground: the Word that made the world is the
 minds, and that is why the one fits the other. Our thoughts can fit things because things first fit
 God's thoughts.
 
-We will see in the next essay how humble we need to be about this. Our knowledge is not God's
+How humble we need to be about this is the next essay's question. Our knowledge is not God's
 knowledge. But hold on to the picture: truth does not begin with us.
 
 ## 4. A detour through the name of this site
@@ -481,8 +485,8 @@ did not really need an answer. He asked it, Hart says, "expecting and needing no
 
 That is the real danger in Pilate's question. It is not an honest philosophical question. It is the
 question of someone who thinks power has the last word, and that "truth" is just a name for whoever
-wins. We will see in the third essay that this is exactly the question our own time is asking
-again, only with better technology.
+wins. Our own time, as the third essay shows, is asking exactly this
+question again, only with better technology.
 
 But the Gospels were not written by onlookers who had seen who won. They were written in the light
 of the resurrection, and the resurrection turns the meaning of this scene upside down. The man with the power asked what truth is. The man without power
@@ -550,6 +554,10 @@ That is not a bad summary of the whole matter.
 * Hart, David Bentley. *Atheist Delusions: The Christian Revolution and Its Fashionable Enemies*.
   Yale University Press, 2009. Chapter "The Face of the Faceless".
    – Pilate's question as a question about power.
+
+* Bavinck, Herman. *Reformed Dogmatics*. Vol. 1, *Prolegomena*. Ed. John Bolt, trans. John Vriend. Baker
+  Academic, 2003.
+   – Knowledge grounded in the Logos who made the world and lights the mind.
 
 * Bavinck, Herman. *The Wonderful Works of God*. Translated by Henry Zylstra. Westminster Seminary
   Press, 2019. Originally *Magnalia Dei*, 1909.

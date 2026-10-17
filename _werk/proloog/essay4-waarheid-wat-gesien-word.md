@@ -205,10 +205,10 @@ beste.
 
 ## Bibliografie
 
-* Die Heidelbergse Kategismus. 1563. Vraag 1 en Vraag 112.
+* Die Heidelbergse Kategismus. 1563. Vraag 1 en Vraag 112. Teks soos op hierdie webwerf (*Kategismus*, Sondag 1 en 43).
    – Troos in 'n getroue Saligmaker; die negende gebod.
 
-* Schaeffer, Francis A. *The Mark of the Christian*. InterVarsity Press, 1970.
+* Schaeffer, Francis A. *The Mark of the Christian*. InterVarsity Press, 1970. Pp. 25–28, 35–36.
    – Liefde as die merk van die Christen; "die finale apologetiek"; heiligheid en liefde tegelyk.
 
 </div>
@@ -248,7 +248,7 @@ But think again of the witness in court from the first essay. He does not promis
 sentences. He promises that his words will match what happened, and he puts his name behind it. Truth
 becomes something he *does*. And think of God, who in Exodus 34 describes himself as abounding in
 steadfast love and faithfulness. God's truth is not first of all a list of correct statements. It is
-the fact that he does what he says.
+that he does what he says.
 
 Seen this way, a lie is not just a wrong sentence. It is a break between what I am and what I say.
 And truth is not just a right sentence. It is when my life and my words match.
@@ -404,10 +404,10 @@ also the best.
 
 ## Bibliography
 
-* The Heidelberg Catechism. 1563. Question 1 and Question 112.
+* The Heidelberg Catechism. 1563. Question 1 and Question 112. Text as on this site (*Catechism*, Lord's Days 1 and 43).
    – Comfort in a faithful Saviour; the ninth commandment.
 
-* Schaeffer, Francis A. *The Mark of the Christian*. InterVarsity Press, 1970.
+* Schaeffer, Francis A. *The Mark of the Christian*. InterVarsity Press, 1970. Pp. 25–28, 35–36.
    – Love as the mark of the Christian; "the final apologetic"; holiness and love together.
 
 </div>
