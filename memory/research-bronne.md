@@ -36,3 +36,19 @@ panpsigisties/idealisties, nie Christelik nie — gebruik as gespreksgenoot, nie
 
 - Die neurowetenskap-hoeke (Koch, IIT, Friston) versterk ook **Reeks 2 (Wetenskap & Werklikheid)**
   se neurowetenskap-argument indien later hersien.
+
+## Waarheid & kennis (→ Reeks 5)
+
+- [ ] **Chris Venter — "Logic and Test for Truth: Extracts B"** (rev 2, 10 Oct 2026; Attie's copy in
+  `~/Downloads`, not for distribution, don't quote). Uittreksels uit Geisler & Turek (hfst. 1) en Geisler &
+  Bocchino, *Unshakable Foundations* (pp. 19–53). Bruikbaar vir Reeks 5:
+  - logika as *negatiewe* toets: dit vind foute, nie waarheid nie ("wat waar is, is logies; wat logies is,
+    is nie noodwendig waar nie" — die kabouter-voorbeeld);
+  - die drie wette (nie-teenstrydigheid, identiteit, uitgeslote derde) in gewone taal;
+  - Mortimer Adler: smaak vs waarheid (pluralisme het 'n plek by smaak, nie by waarheid nie) en die
+    "eenheid van waarheid";
+  - Chris se eie kanttekening: 'n groep (ook 'n gemeente) kan sy oortuigings as waarheid aanbied.
+  - Let wel: Geisler se kumulatiewe wêreldbeskouingstoets is die metode wat *Reasonable Wonder* opsy
+    gesit het; gebruik die helderheid, nie die metode nie.
+- Chris Venter (L'Abri SA) het 'n besondere belangstelling in die "Wat is waarheid?"-vraag — 'n goeie
+  leser vir Reeks 5 se konsepte.
