@@ -75,6 +75,15 @@ Die Amerikaanse apologete Norman Geisler en Frank Turek noem dit die Road Runner
 waarin Wile E. Coyote oor die rand van 'n krans hardloop en eers val wanneer hy afkyk en sien daar is
 niks onder hom nie. 'n Stelling wat nie aan sy eie maatstaf voldoen nie, hang net so in die lug.
 
+Agter dié argument staan 'n beginsel wat Aristoteles die vasste van alle beginsels genoem het:
+dieselfde eienskap kan nie terselfdertyd en in dieselfde opsig aan dieselfde ding behoort en nie
+behoort nie (*Metafisika* IV.3, 1005b19–20, vrylik vertaal). In gewone taal: iets kan nie
+terselfdertyd en in dieselfde sin waar en onwaar wees nie. Filosowe noem dit die *wet van
+nie-teenstrydigheid*. Niemand kan dit bewys sonder om dit eers te gebruik nie, en niemand kan dit
+ontken sonder om dit te gebruik nie. Selfs wie sê "jy het jou waarheid en ek het myne", bedoel dat
+sy stelling waar is en die teenoorgestelde nie. Dis die vloer waarop elke gesprek oor waarheid
+staan, ook dié een.
+
 Maar ons moet eerlik wees oor wat dié argument doen en nie doen nie. Dit slaan die *slagspreuk* plat:
 "daar is geen waarheid nie". Dit slaan nie die *insig* plat dat ons almal van êrens af kyk nie. 'n
 Christen wat met die selfweerlegging wen en dan dink die gesprek is verby, het nie geluister nie.
@@ -129,6 +138,16 @@ waarheid is, skryf hy, sal ons die waarheid nie verwerp of verag waar dit ook al
 ons die Gees self wil oneer aandoen (*Institusie* II.2.15). Die gereformeerde tradisie noem dit
 *algemene genade*: God laat sy lig ook val op mense wat Hom nie ken nie, sodat hulle die wêreld,
 mekaar en hulself dikwels helder sien.
+
+As alle waarheid aan God behoort, volg nog iets daaruit: die waarheid is een. Thomas van Aquino
+het 'n hele hoofstuk daaraan gewy, onder die opskrif dat die waarheid van die rede nie teen die
+waarheid van die Christelike geloof ingaan nie (*Summa contra Gentiles* I.7). Sy argument is
+eenvoudig. Wat ons verstand van nature insien, kom van God wat ons verstand gemaak het; wat ons glo,
+kom van God wat Homself openbaar. Net wat vals is, staan teenoor wat waar is, en God kan Homself nie
+weerspreek nie. Die Nederlandse Geloofsbelydenis sê dieselfde in die taal van twee boeke, die
+skepping en die Skrif, met een Outeur ([artikel 2]({{ site.baseurl }}/belydenisse/nederlands.html)).
+Wanneer die twee boeke strydig met mekaar blyk te wees, is die eerlike vraag dus nie watter een ons moet
+prysgee nie, maar waar ons een van die twee verkeerd gelees het.
 
 Dit het twee gevolge, en albei is ongemaklik.
 
@@ -201,6 +220,13 @@ Oor die hoender, kom jy agter, wil niemand sy eie waarheid hê nie.
 
 ## Bibliografie
 
+* Aquino, Thomas van. *Summa contra Gentiles*. I.7. Vertaal deur die English Dominican Fathers. Burns
+  Oates & Washbourne, 1924.
+   – Die waarheid van die rede gaan nie teen die waarheid van die geloof in nie.
+
+* Aristoteles. *Metafisika*. Boek IV (Γ), hfst. 3, 1005b19–20.
+   – Die wet van nie-teenstrydigheid, "die vasste van alle beginsels".
+
 * Augustinus. *De doctrina christiana*. II.18.28. Omstreeks 397.
    – "Alle waarheid is God se waarheid."
 
@@ -220,6 +246,9 @@ Oor die hoender, kom jy agter, wil niemand sy eie waarheid hê nie.
 * Lyotard, Jean-François. *La condition postmoderne*. Minuit, 1979. Eng.: *The Postmodern Condition*.
   Vertaal deur Geoff Bennington en Brian Massumi. University of Minnesota Press, 1984.
    – Wantroue teenoor die groot verhale.
+
+* Nederlandse Geloofsbelydenis. 1561. Artikel 2.
+   – Twee boeke, een Outeur.
 
 * Nietzsche, Friedrich. "Über Wahrheit und Lüge im außermoralischen Sinne." 1873.
    – Waarhede as vergete metafore.
@@ -295,6 +324,14 @@ The American apologists Norman Geisler and Frank Turek call this the Road Runner
 Wile E. Coyote runs off the edge of a cliff and only falls when he looks down and sees there is
 nothing beneath him. A statement that fails its own standard hangs in the air just like that.
 
+Behind this argument stands a principle Aristotle called the firmest of all principles: the same
+attribute cannot at the same time belong and not belong to the same thing in the same respect
+(*Metaphysics* IV.3, 1005b19–20). In plain words: something cannot be true and false at the same
+time and in the same sense. Philosophers call it the *law of non-contradiction*. Nobody can prove it
+without first using it, and nobody can deny it without using it. Even someone who says "you have
+your truth and I have mine" means that their statement is true and its opposite is not. It is the
+floor every conversation about truth stands on, this one included.
+
 But we should be honest about what this argument does and does not do. It knocks down the *slogan*:
 "there is no truth". It does not knock down the *insight* that we all see from somewhere. A Christian
 who wins with self-refutation and then thinks the conversation is over has not been listening.
@@ -347,6 +384,15 @@ truth, he writes, we will neither reject nor despise the truth wherever it appea
 dishonour the Spirit himself (*Institutes* II.2.15). The Reformed tradition calls this *common
 grace*: God lets his light fall also on people who do not know him, so that they often see the world,
 each other and themselves truly.
+
+If all truth belongs to God, something else follows: truth is one. Thomas Aquinas gave a whole
+chapter to it, under the heading "that the truth of reason is not in opposition to the truth of the
+Christian faith" (*Summa contra Gentiles* I.7). His argument is simple. What our minds see by nature
+comes from God who made our minds; what we believe comes from God who reveals himself. Only the false
+stands against the true, and God cannot contradict himself. The Belgic Confession says the same in
+the language of two books, creation and Scripture, with one Author
+([article 2]({{ site.baseurl }}/belydenisse/nederlands.html)). So when the two books seem to contradict
+each other, the honest question is not which one to give up, but where we have misread one of them.
 
 This has two consequences, and both are uncomfortable.
 
@@ -417,6 +463,13 @@ When it comes to the chicken, you have noticed, nobody wants their own truth.
 
 ## Bibliography
 
+* Aquinas, Thomas. *Summa contra Gentiles*. I.7. Translated by the English Dominican Fathers. Burns
+  Oates & Washbourne, 1924.
+   – The truth of reason is not opposed to the truth of faith.
+
+* Aristotle. *Metaphysics*. Book IV (Γ), ch. 3, 1005b19–20.
+   – The law of non-contradiction, "the firmest of all principles".
+
 * Augustine. *De doctrina christiana*. II.18.28. c. 397.
    – "All truth is God's truth."
 
@@ -436,6 +489,9 @@ When it comes to the chicken, you have noticed, nobody wants their own truth.
 * Lyotard, Jean-François. *La condition postmoderne*. Minuit, 1979. ET: *The Postmodern Condition*.
   Translated by Geoff Bennington and Brian Massumi. University of Minnesota Press, 1984.
    – Incredulity toward metanarratives.
+
+* Belgic Confession. 1561. Article 2.
+   – Two books, one Author.
 
 * Nietzsche, Friedrich. "Über Wahrheit und Lüge im außermoralischen Sinne." 1873.
    – Truths as forgotten metaphors.
