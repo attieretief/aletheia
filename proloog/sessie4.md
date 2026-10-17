@@ -31,7 +31,7 @@ is. Hierdie laaste opstel vra wat dit beteken om in die waarheid te *leef*.
 
 ## 1. Waarheid wat jy doen
 
-Ons begin weer by die Hebreeuse woord *emet*. Ons het in die eerste opstel gesien dat dit nie net
+Ons begin weer by die Hebreeuse woord *emet*. Ons het in [die eerste opstel]({{ site.baseurl }}/proloog/sessie1.html) gesien dat dit nie net
 "waarheid" beteken nie, maar ook trou, betroubaarheid, vastigheid. 'n Ware mens, in die Bybelse sin,
 is nie net iemand wie se woorde korrek is nie. Dis iemand op wie jy kan staatmaak.
 
@@ -52,7 +52,7 @@ waarheid is nie net 'n regte sin nie. Dis die ooreenstemming tussen my lewe en m
 ## 2. Wat die Kategismus vra
 
 Die Heidelbergse Kategismus vat dit pragtig saam in sy verduideliking van die negende gebod, "Jy mag
-geen valse getuienis teen jou naaste spreek nie". Wat wil God hier hê? Die antwoord (Vraag 112) begin
+geen valse getuienis teen jou naaste spreek nie". Wat wil God hier hê? Die antwoord ([Vraag 112]({{ site.baseurl }}/kategismus/sondag43.html)) begin
 soos 'n mens sou verwag: dat ek nie vals getuienis lewer nie, niemand se woorde verdraai nie, en alle
 leuens en bedrog vermy.
 
@@ -75,7 +75,7 @@ Dit kos jou die paneelklopper se rekening vir die bakkie se deur. Dit kos jou di
 weier om die syfers te laat lyk soos die bestuur dit wil hê. Dit kos jou 'n gemaklike aand as jy vir
 'n vriend sê wat hy nie wil hoor nie. Soms kos dit jou meer.
 
-In die vorige opstel het ons gesien dat die leuenaar ten minste nog omgee vir die waarheid. Hy moet dit
+In [die vorige opstel]({{ site.baseurl }}/proloog/sessie3.html) het ons gesien dat die leuenaar ten minste nog omgee vir die waarheid. Hy moet dit
 ken om dit weg te steek. Die gevaarliker mens is die een vir wie dit nie meer saak maak nie. Maar daar
 is 'n derde soort mens, en om hom te wees, is die moeilikste: die een wat die waarheid ken en dit dan
 doen, al kos dit hom.
@@ -147,7 +147,7 @@ moes wees, en sag waar ons eerlik moes wees.
 Maar onthou waar ons begin het. Waarheid begin nie by ons nie. Dit begin by God, wat getrou is. Die
 Heidelbergse Kategismus open nie met 'n opdrag nie, maar met 'n troos: dat ek met liggaam en siel,
 in lewe en in sterwe, nie aan myself nie, maar aan my *getroue* Saligmaker, Jesus Christus, behoort
-(Vraag 1). Daar is *emet* weer: die trou van Een wat sy woord hou.
+([Vraag 1]({{ site.baseurl }}/kategismus/sondag01.html)). Daar is *emet* weer: die trou van Een wat sy woord hou.
 
 Ons word nie waar deur hard genoeg te probeer nie. Ons word waar deur aan die Waarheid te behoort, en
 Hom stadigaan in ons te laat groei. Die Een wat Pilatus nie kon verstaan nie, is dieselfde Een wat
@@ -236,7 +236,7 @@ last essay asks what it means to *live* in the truth.
 
 ## 1. Truth you do
 
-We start again with the Hebrew word *emet*. We saw in the first essay that it means not only "truth"
+We start again with the Hebrew word *emet*. We saw in [the first essay]({{ site.baseurl }}/proloog/sessie1.html) that it means not only "truth"
 but also faithfulness, reliability, firmness. A true person, in the biblical sense, is not just
 someone whose words are correct. It is someone you can rely on.
 
@@ -257,7 +257,7 @@ And truth is not just a right sentence. It is when my life and my words match.
 
 The Heidelberg Catechism sums this up beautifully in its explanation of the ninth commandment, "You
 shall not bear false witness against your neighbour". What does God require here? The answer
-(Question 112) begins as you would expect: that I bear false witness against no one, twist no one's
+([Question 112]({{ site.baseurl }}/kategismus/sondag43.html)) begins as you would expect: that I bear false witness against no one, twist no one's
 words, and avoid all lying and deceit.
 
 But then it goes further: that "in matters of judgment and justice, and in all other affairs, I love,
@@ -279,7 +279,7 @@ It costs you the panel beater's bill for the bakkie's door. It costs you the pro
 to make the numbers look the way management wants them to. It costs you a comfortable evening when you
 tell a friend what he doesn't want to hear. Sometimes it costs more.
 
-In the third essay we saw that the liar at least still cares about the truth. He has to know it to hide
+In [the third essay]({{ site.baseurl }}/proloog/sessie3.html) we saw that the liar at least still cares about the truth. He has to know it to hide
 it. The more dangerous person is the one for whom it no longer matters. But there is a third kind of
 person, and he is the hardest to be: the one who knows the truth, and then does it, even when it costs
 him.
@@ -347,7 +347,7 @@ and gentle where we should have been honest.
 
 But remember where we began. Truth does not begin with us. It begins with God, who is faithful. The
 Heidelberg Catechism does not begin with a command but with a comfort: that I, with body and soul, both
-in life and in death, am not my own, but belong to my *faithful* Saviour Jesus Christ (Question 1).
+in life and in death, am not my own, but belong to my *faithful* Saviour Jesus Christ ([Question 1]({{ site.baseurl }}/kategismus/sondag01.html)).
 There is *emet* again: the faithfulness of One who keeps his word.
 
 We do not become true by trying hard enough. We become true by belonging to the Truth, and letting him

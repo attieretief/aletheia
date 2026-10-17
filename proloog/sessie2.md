@@ -25,7 +25,7 @@ Tannie Marie is nie dom nie. Sy het geglo wat sy gehoor het, soos elkeen van ons
 ons hoor en sien. Dis juis wat die ding so ontstellend maak. As jou ore jou só kan kul, wat nog alles
 kan hulle jou wysmaak?
 
-In die eerste opstel het ons gevra wat waarheid *is*. Ons het gesien dat waarheid ooreenstemming is
+In [die eerste opstel]({{ site.baseurl }}/proloog/sessie1.html) het ons gevra wat waarheid *is*. Ons het gesien dat waarheid ooreenstemming is
 tussen ons woorde en die werklikheid, en dat dit uiteindelik by die getroue God begin. Maar dit
 laat 'n ongemaklike vraag oop. Al is die waarheid daar buite, kan ons dit werklik *ken*? Of is ons
 almal maar soos tannie Marie, seker van ons saak en tog bedrieg?
@@ -76,7 +76,7 @@ behoorlik werk. 'n Oortuiging hoef nie eers bewys te word voordat dit as kennis 
 
 Maar hier keer die twyfelaar terug, met 'n goeie vraag. *Hoekom* sou ons vermoëns betroubaar wees?
 Wie sê ons ore en ons verstand is gemaak om die waarheid te vind, en nie net om ons aan die lewe te
-hou nie? Ons kom in Reeks 2 (sessie 7) weer by hierdie vraag uit: as ons verstand bloot die toevallige
+hou nie? Ons kom in [Reeks 2 (sessie 7)]({{ site.baseurl }}/reeks02-wetenskap/sessie7.html) weer by hierdie vraag uit: as ons verstand bloot die toevallige
 produk van blinde prosesse is, het ons min rede om dit te vertrou. Maar as ons verstand gemaak is deur
 'n God wat self die waarheid is, en wat getrou is, dan is dit nie vreemd dat dit die waarheid kan raak
 nie. Dan is dit juis wat 'n mens sou verwag.
@@ -140,7 +140,7 @@ langs die pad gaan staan het.
 
 Bedoel ek dat God goed is presies soos my ma goed is? Nee, dit sou God te klein maak. Bedoel ek dan
 dat die woord "goed" niks meer beteken as ek dit van God sê nie? Ook nie, want dan sê ek eintlik
-niks nie. Die klassieke Christelike antwoord, waarop Reeks 1 verder ingaan, is dat ons woorde oor
+niks nie. Die klassieke Christelike antwoord, waarop [Reeks 1]({{ site.baseurl }}/reeks01-grondslag.html) verder ingaan, is dat ons woorde oor
 God *analogies* is. Hulle sê iets waars, want my ma se goedheid is 'n werklike afdruk van God se
 goedheid. Maar God se goedheid gaan oneindig verder as enigiets waaraan my woorde kan vat.
 
@@ -270,7 +270,7 @@ Aunt Marie is not stupid. She believed what she heard, the way each of us believ
 see every day. That is exactly what makes it so unsettling. If your ears can fool you like that, what
 else can they talk you into?
 
-In the first essay we asked what truth *is*. We saw that truth is a match between our words and
+In [the first essay]({{ site.baseurl }}/proloog/sessie1.html) we asked what truth *is*. We saw that truth is a match between our words and
 reality, and that it begins, finally, with God, who is faithful. But that leaves an uncomfortable
 question. Even if the truth is out there, can we really *know* it? Or are we all a bit like Aunt
 Marie, sure of ourselves and yet deceived?
@@ -320,7 +320,7 @@ does not have to be proved before it can count as knowledge.
 
 But here the sceptic comes back, and he has a point. *Why* should our faculties be reliable? Who says
 our ears and minds were made to find the truth, and not merely to keep us alive? We will meet this question again
-in Series 2 (session 7): if our minds are simply the accidental product of blind processes, we
+in [Series 2 (session 7)]({{ site.baseurl }}/reeks02-wetenskap/sessie7.html): if our minds are simply the accidental product of blind processes, we
 have little reason to trust them. But if our minds were made by a God who is himself the truth, and
 who is faithful, then it is not strange that they can reach the truth. It is exactly what you would
 expect.
@@ -385,7 +385,7 @@ the side of the road.
 
 Do I mean that God is good exactly as my mother is good? No, that would make God too small. Do I mean
 the word "good" means nothing when I say it of God? Not that either, because then I'm saying nothing at
-all. The classical Christian answer, which Series 1 explores further, is that our words about God are
+all. The classical Christian answer, which [Series 1]({{ site.baseurl }}/reeks01-grondslag.html) explores further, is that our words about God are
 *analogical*. They say something true, because my mother's goodness is a real impression of God's
 goodness. But God's goodness goes infinitely beyond anything my words can hold.
 

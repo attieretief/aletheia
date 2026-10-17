@@ -26,7 +26,7 @@ bederf deur te sê: "Maar wat as een van ons verkeerd is?"
 En tog bly die vraag in jou kop hang terwyl jy die tang optel. As elkeen sy eie waarheid het, wie se
 waarheid is dan *die* waarheid? Of is daar nie so iets nie?
 
-In die eerste opstel het ons gesien dat waarheid ooreenstemming is tussen woorde en werklikheid, en
+In [die eerste opstel]({{ site.baseurl }}/proloog/sessie1.html) het ons gesien dat waarheid ooreenstemming is tussen woorde en werklikheid, en
 dat dit by God begin. In die tweede het ons gesien dat ons dit nederig maar werklik kan ken. Nou
 staan ons voor die vraag wat ons tyd die meeste pla: wie se waarheid is dit?
 
@@ -55,7 +55,7 @@ neef skrikkerig is vir enigiemand wat "die waarheid" verkondig, het hy nie heelt
 geskiedenis gee hom rede genoeg.
 
 **Nederigheid is 'n deug.** Agter "you do you" sit dikwels 'n eerbare instink: ek wil nie
-hoogmoedig wees nie, ek wil nie vir 'n ander mens dink nie. In die tweede opstel het ons gesien dat
+hoogmoedig wees nie, ek wil nie vir 'n ander mens dink nie. In [die tweede opstel]({{ site.baseurl }}/proloog/sessie2.html) het ons gesien dat
 ons kennis gedeeltelik is. Die relativis sê op sy manier iets soortgelyks.
 
 Al drie hierdie insigte is waar. En juis daarom moet ons mooi kyk na wat die relativis daarvan maak.
@@ -162,7 +162,7 @@ Ons kan ook nie toegee dat waarheid maar 'n kwessie van smaak is, soos boerewors
 oneerlik wees, en dit sou die mense wat die meeste op waarheid staatmaak, in die steek laat.
 
 En ons sal moet aanvaar dat mense ons nie gaan glo omdat ons die beste argumente het nie. Hulle gaan
-kyk hoe ons leef. Dit is die vraag van die vierde opstel.
+kyk hoe ons leef. Dit is die vraag van [die vierde opstel]({{ site.baseurl }}/proloog/sessie4.html).
 
 ## Terug by die braai
 
@@ -247,7 +247,7 @@ evening by saying, "But what if one of us is wrong?"
 And yet the question keeps hanging in your head as you pick up the tongs. If everyone has their own
 truth, whose truth is *the* truth? Or is there no such thing?
 
-In the first essay we saw that truth is a match between words and reality, and that it begins with
+In [the first essay]({{ site.baseurl }}/proloog/sessie1.html) we saw that truth is a match between words and reality, and that it begins with
 God. In the second we saw that we can know it humbly but truly. Now we face the question that troubles
 our time most: whose truth is it?
 
@@ -275,7 +275,7 @@ with power says "this is God's truth" and then hurts other people with it. When 
 to let anyone proclaim "the truth", he is not entirely wrong. History has given him reasons.
 
 **Humility is a virtue.** Behind "you do you" there is often an honourable instinct: I don't want to
-be arrogant, I don't want to do someone else's thinking for them. In the second essay we saw that our
+be arrogant, I don't want to do someone else's thinking for them. In [the second essay]({{ site.baseurl }}/proloog/sessie2.html) we saw that our
 knowledge is partial. The relativist says something similar in his own way.
 
 All three insights are true. And that is exactly why we should look carefully at what the relativist
@@ -378,7 +378,7 @@ Nor can we concede that truth is just a matter of taste, like boerewors or skilp
 dishonest, and it would abandon the people who depend on truth most.
 
 And we will have to accept that people are not going to believe us because we have the best
-arguments. They are going to watch how we live. That is the question of the fourth essay.
+arguments. They are going to watch how we live. That is the question of [the fourth essay]({{ site.baseurl }}/proloog/sessie4.html).
 
 ## Back at the braai
 

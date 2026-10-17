@@ -35,13 +35,14 @@ class DefinitionsTooltips {
     async loadWoordelysPages() {
         try {
             // Dynamically discover all woordelys HTML files by scraping the woordelys index page
-            const indexUrl = '/aletheia/woordelys.html';
+            const base = window.SITE_BASEURL || '';
+            const indexUrl = base + '/woordelys.html';
             const indexRes = await fetch(indexUrl);
             const indexHtml = await indexRes.text();
             const parser = new DOMParser();
             const indexDoc = parser.parseFromString(indexHtml, 'text/html');
             // Find all links to woordelys entries
-            const links = Array.from(indexDoc.querySelectorAll('a[href^="/aletheia/woordelys/"]'));
+            const links = Array.from(indexDoc.querySelectorAll('a[href^="' + base + '/woordelys/"]'));
             const pageUrls = links
                 .map(a => a.getAttribute('href'))
                 .filter(href => href.endsWith('.html'));

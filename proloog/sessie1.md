@@ -193,7 +193,7 @@ se vraag nie eintlik 'n antwoord nodig gehad nie. Hy het dit gevra, sê Hart, so
 
 Dit is die eintlike gevaar in Pilatus se vraag. Dis nie 'n eerlike filosofiese vraag nie. Dis die
 vraag van iemand wat meen mag het die laaste woord, en "waarheid" is maar net 'n ander naam vir wie
-wen. In die derde opstel sal ons sien dat ons eie tyd presies dié vraag weer vra, net met beter
+wen. In [die derde opstel]({{ site.baseurl }}/proloog/sessie3.html) sal ons sien dat ons eie tyd presies dié vraag weer vra, net met beter
 tegnologie.
 
 Maar die Evangelies is nie geskryf deur toeskouers wat gesien het wie gewen het nie. Hulle is
@@ -213,7 +213,7 @@ vlees geword het.
 Hierdie opstel het net een vraag beantwoord: wat is waarheid? Die moeiliker vrae staan nog oop.
 
 As waarheid by God se verstand begin, kan ons swak en gevalle verstand dit dan werklik ken? Dis die
-vraag van die tweede opstel. En as daar net een werklikheid is, waarom lyk dit vandag of elkeen sy
+vraag van [die tweede opstel]({{ site.baseurl }}/proloog/sessie2.html). En as daar net een werklikheid is, waarom lyk dit vandag of elkeen sy
 eie waarheid het? Dis die derde. Die vierde vra wat dit beteken om die waarheid te *doen*, en nie
 net te weet nie. (Die volle vraag oor *hoe* ons ken, met al sy tegniese kante, kom eers in Reeks 5
 aan die beurt.)
@@ -485,7 +485,7 @@ did not really need an answer. He asked it, Hart says, "expecting and needing no
 
 That is the real danger in Pilate's question. It is not an honest philosophical question. It is the
 question of someone who thinks power has the last word, and that "truth" is just a name for whoever
-wins. Our own time, as the third essay shows, is asking exactly this
+wins. Our own time, as [the third essay]({{ site.baseurl }}/proloog/sessie3.html) shows, is asking exactly this
 question again, only with better technology.
 
 But the Gospels were not written by onlookers who had seen who won. They were written in the light
@@ -503,7 +503,7 @@ It begins with Someone who is faithful, whose thoughts made the world, and whose
 This essay has answered one question: what is truth? It has left the harder ones open.
 
 If truth begins in God's mind, can our weak, fallen minds really know it? That is the question of
-the second essay. And if there is only one reality, why does it look today as if everyone has their
+[the second essay]({{ site.baseurl }}/proloog/sessie2.html). And if there is only one reality, why does it look today as if everyone has their
 own truth? That is the third. The fourth asks what it means to *do* the truth, not only to know it.
 (The full question of *how* we know, with all its technical sides, waits for Series 5.)
 
