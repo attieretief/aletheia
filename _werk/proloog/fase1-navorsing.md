@@ -389,3 +389,19 @@ Hyperlinks (none exist on the site yet; this sets the convention: `[tekst]({{ si
   Bavinck RD 1 added for essay 1's Logos claim (⚠️ locate passage). Hart AD quote verified against
   local full text (l.1132), page number still missing. Schaeffer quotes verified against Attie's
   extracts (primary text), not against print.
+
+## 11. Chris Venter's "Logic and Test for Truth — Extracts B" (rev 2, 10 Oct 2026)
+Attie's copy: `~/Downloads/2. Logic and Test for Truth - Extracts B (10 Oct 2026) .docx` — marked "not for
+distribution", permission not obtained: **never quote from it publicly; never commit it.**
+- **Correction to §2:** Geisler & Turek ch. 1 (pp. 36–39) *does* open "truth is 'telling it like it is'",
+  then gives correspondence ("that which corresponds to its object"). Their Pilate move: Pilate asks "What
+  is truth?" and at once acts as if he knows some — "I find no fault in this man" (Jn 18:38). Not used yet.
+- **Unshakable Foundations (Geisler & Bocchino) now mapped** (pp. 19–53): first principles (Aristotle via
+  Mortimer Adler); laws of non-contradiction, identity, excluded middle; logic as a *negative* test (finds
+  error, not truth); pluralism = matters of taste vs matters of truth (Adler); "unity of truth" (Adler);
+  six-point "truth by its nature" list; cumulative worldview test. → belongs in **Reeks 5** (how we know),
+  not the Prologue. The cumulative worldview test is the method *Reasonable Wonder* set aside (Ch 23:53).
+- **Chris's own comment worth taking up:** "taste" can include a group's (a congregation's) convictions
+  presented as truth — the same point as Proloog 3 §4 ("the believer does not own it").
+- **Lennox clip** (intelligibility / effectiveness of mathematics) is consonant with *Reasonable Wonder*;
+  its YouTube framing ("destroys atheism") is not Aletheia's tone.
