@@ -338,3 +338,10 @@ Gods* are not local. *Beauty of the Infinite* Part 1 is the one that would matte
   apartheid's critics as believers and unbelievers). Hart: none. Kept lower-case *sy* for God's
   possessive (1983 convention, consistent with essays 1–2). Augustine/Calvin paraphrased as own
   translation; Oxford definition verified; Frankfurt paraphrased.
+- **Essay 4 drafted 2026-10-17** → `_werk/proloog/essay4-waarheid-wat-gesien-word.md`. AF first; two
+  proofread passes applied. Bible quotes checked against 1983 (Joh 13:35, 17:21, 1:14; Ef 4:15 now
+  "in liefde by die waarheid bly"; Joh 16:13 = the Spirit leads; "die waarheid doen" framed as the
+  Greek, 1983 = "volgens die waarheid handel"). HK 1 and 112 quoted from the site's own text.
+  Schaeffer quote = own AF translation of Attie's extracts (pp. 35–36). Hart: none.
+- **Phase 2 drafts complete.** Remaining: glossary entries, `proloog.md` landing page, move drafts to
+  `proloog/`, Phase 3 podcast notes, Phase 4 cross-links.
