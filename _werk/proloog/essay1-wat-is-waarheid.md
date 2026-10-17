@@ -200,6 +200,8 @@ Maar die Evangelies is nie geskryf deur toeskouers wat gesien het wie gewen het 
 geskryf in die lig van die opstanding, en die opstanding keer die betekenis van hierdie toneel heeltemal om. Die man met al die mag het gevra wat
 waarheid is. Die man sonder enige mag *was* die waarheid. Pilatus het "wat?" gevra, terwyl die
 antwoord op "wie?" voor hom gestaan het.
+Die Middeleeue het al hiermee gespeel. Skuif die letters van Pilatus se Latynse vraag, *Quid est
+veritas?*, rond, en jy kry *Est vir qui adest*: "Dit is die man wat hier voor jou staan."
 
 Op hierdie wending rus die hele Proloog. Waarheid is nie minder as die eerlike ooreenstemming tussen woorde
 en dinge nie. Ons gaan dit verdedig, en ons gaan dit nodig kry. Maar waarheid begin nie by ons
@@ -485,6 +487,8 @@ again, only with better technology.
 But the Gospels were not written by onlookers who had seen who won. They were written in the light
 of the resurrection, and the resurrection turns the meaning of this scene upside down. The man with the power asked what truth is. The man without power
 *was* the truth. Pilate asked "what?" while the answer to "who?" stood in front of him.
+The Middle Ages already played with this. Rearrange the letters of Pilate's question in Latin,
+*Quid est veritas?*, and you get *Est vir qui adest*: "It is the man who stands here before you."
 
 That is the move that carries this whole Prologue. Truth is not less than the honest fit between
 words and things. We will defend that, and we will need it. But truth does not begin with our words.

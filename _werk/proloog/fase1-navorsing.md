@@ -345,3 +345,10 @@ Gods* are not local. *Beauty of the Infinite* Part 1 is the one that would matte
   Schaeffer quote = own AF translation of Attie's extracts (pp. 35–36). Hart: none.
 - **Phase 2 drafts complete.** Remaining: glossary entries, `proloog.md` landing page, move drafts to
   `proloog/`, Phase 3 podcast notes, Phase 4 cross-links.
+- **Originality sweep 2026-10-17:** no blatant borrowing of presentation. Every borrowed image is
+  attributed (Road Runner → Geisler & Turek; Pilate-and-power → Hart; spectacles → Calvin; Hume's
+  dinner → Hume; liar vs bullshitter → Frankfurt; holiness/love → Schaeffer). Hooks (oath, voice note,
+  braai, bakkie dent), the ladder for *emet* and the seal/wax image for archetype/ectype turned up no
+  prior source. Stock moves, not copies: self-refutation of "there is no truth"; "Pilate asked what,
+  not who" (now credited to the medieval anagram *Quid est veritas / Est vir qui adest*). Self-echo:
+  essay 2 §6 "the world is readable… not owed" deliberately echoes *Reasonable Wonder* Prologue:41.
