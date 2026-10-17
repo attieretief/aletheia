@@ -1,6 +1,6 @@
 <div class="container mx-auto clearfix mt-2 mt-lg-4 px-2">
   <div class="border-top-thick">
-    <p class="h4 col-8 sm-width-full left py-2 mb-0">© {{ site.owner }}, 2025</a></p>
+    <p class="h4 col-8 sm-width-full left py-2 mb-0">© {{ site.owner }}, 2025{% assign y = site.time | date: '%Y' %}{% if y != '2025' %}–{{ y }}{% endif %}</p>
     <ul class="list-reset right clearfix sm-width-full py-2 mb-2 mb-lg-0">
     </ul>
   </div>
