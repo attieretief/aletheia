@@ -314,7 +314,7 @@ Dit beteken nie dat wetenskap van God onafhanklik is nie. Alle sfere staan uitei
 
 Kuyper se beroemde uitspraak gee die hart van sy visie:
 
-> "Daar is geen duimbreedte in die hele gebied van ons menslike bestaan waaroor Christus, wat Heer oor alles is, nie uitroep: 'Myne!' nie."
+> "Daar is geen duimbreedte in die hele gebied van ons menslike bestaan waaroor Christus, wat Heer oor alles is, nie uitroep: ‘Myne!’ nie."
 
 Alles behoort aan Christus, ook die wetenskap. Maar Christus se heerskappy oor die wetenskap beteken nie dat die kerk die wetenskap oorheers nie; dit beteken dat wetenskaplikes hul werk as roeping voor God se aangesig moet doen, met eerlikheid en integriteit.
 
@@ -715,7 +715,7 @@ This does not mean that science is independent of God. All spheres ultimately st
 
 Kuyper's famous statement gives the heart of his vision:
 
-> "There is not a square inch in the whole domain of our human existence over which Christ, who is Sovereign over all, does not cry: 'Mine!'"
+> "There is not a square inch in the whole domain of our human existence over which Christ, who is Sovereign over all, does not cry: ‘Mine!’"
 
 Everything belongs to Christ — including science. But Christ's lordship over science does not mean the church dominates science; it means that scientists must do their work as a calling before God's face, with honesty and integrity.
 

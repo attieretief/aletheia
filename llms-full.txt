@@ -1,0 +1,23 @@
+---
+layout: null
+permalink: /llms-full.txt
+---
+{%- assign course_pages = site.pages | where: "layout", "course" | sort: "order" -%}
+# Aletheia: full text
+
+Afrikaans Reformed study site by Attie Retief ({{ site.url }}). Each page below appears in Afrikaans first, then English. Source URL is given for every page; please cite it.
+{% for c in course_pages %}{% if c.order < 90 %}
+==========
+# {{ c.title }} / {{ c.title_en }}
+Source: {{ site.url }}{{ c.url }}
+{%- assign lessons = site.pages | where: "course", c.course_name | where_exp: "item", "item.lesson != nil" | sort: "lesson" %}
+{%- for l in lessons %}
+
+----------
+## {{ l.title }} / {{ l.title_en }}
+Source: {{ site.url }}{{ l.url }}
+Author: {{ l.author | default: "Attie Retief" }}
+
+{{ l.content | markdownify | strip_html | replace: "&#8217;", "’" | replace: "&rsquo;", "’" | replace: "&lsquo;", "‘" | replace: "&ldquo;", "“" | replace: "&rdquo;", "”" | replace: "&hellip;", "…" | replace: "&amp;", "&" | strip }}
+{%- endfor %}
+{% endif %}{% endfor %}

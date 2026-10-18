@@ -133,7 +133,7 @@ Abraham Kuyper, een van die groot Gereformeerde denkers van die negentiende en v
 
 Die wetenskap het dus wettige gesag op sy eie terrein. Wanneer 'n fisikus ons vertel dat die heelal 13.8 miljard jaar oud is, of 'n bioloog ons vertel hoe DNA-replikasie werk, dan praat hulle vanuit 'n gesagsfeer wat deur God self ingestel is. Ons hoef nie bang te wees daarvoor nie. Die wetenskap, eerlik beoefen, is 'n *gawe van algemene genade*, 'n manier waarop God selfs deur ongelowige wetenskaplikes ware kennis oor sy skepping aan die wêreld gee.
 
-Kuyper het dit nog sterker gesê: *"Daar is nie 'n vierkante duim op die hele terrein van menslike bestaan waarvan die Christus, wat Soewerein oor alles is, nie uitroep: 'Dit is Myne!' nie."* As Christus Heer is oor alle werklikheid, dan is Hy ook Heer oor die laboratorium, die sterrewag, en die fossielgesteentes. Wetenskaplike kennis is nie die vyand van die geloof nie. Dit is deel van die werklikheid wat aan Christus behoort.
+Kuyper het dit nog sterker gesê: *"Daar is nie 'n vierkante duim op die hele terrein van menslike bestaan waarvan die Christus, wat Soewerein oor alles is, nie uitroep: ‘Dit is Myne!’ nie."* As Christus Heer is oor alle werklikheid, dan is Hy ook Heer oor die laboratorium, die sterrewag, en die fossielgesteentes. Wetenskaplike kennis is nie die vyand van die geloof nie. Dit is deel van die werklikheid wat aan Christus behoort.
 
 ### Maar wetenskap is ook feilbaar
 
@@ -613,7 +613,7 @@ Abraham Kuyper, one of the great Reformed thinkers of the nineteenth and early t
 
 Science therefore has legitimate authority in its own domain. When a physicist tells us that the universe is 13.8 billion years old, or a biologist tells us how DNA replication works, they are speaking from a sphere of authority that God himself established. We need not be afraid of this. Science, honestly practised, is a *gift of common grace* — a way in which God, even through unbelieving scientists, gives true knowledge about his creation to the world.
 
-Kuyper put it even more strongly: *"There is not a square inch in the whole domain of our human existence over which Christ, who is Sovereign over all, does not cry: 'Mine!'"* If Christ is Lord over all reality, then he is also Lord over the laboratory, the observatory, and the fossil beds. Scientific knowledge is not the enemy of faith. It is part of the reality that belongs to Christ.
+Kuyper put it even more strongly: *"There is not a square inch in the whole domain of our human existence over which Christ, who is Sovereign over all, does not cry: ‘Mine!’"* If Christ is Lord over all reality, then he is also Lord over the laboratory, the observatory, and the fossil beds. Scientific knowledge is not the enemy of faith. It is part of the reality that belongs to Christ.
 
 ### But science is also fallible
 

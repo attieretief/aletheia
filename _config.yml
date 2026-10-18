@@ -39,6 +39,9 @@ theme_color: light
 
 # Build settings
 markdown: kramdown
+kramdown:
+  # Afrikaans: 'n takes a closing apostrophe (’n), never an opening quote (‘n)
+  smart_quotes: ["rsquo", "rsquo", "ldquo", "rdquo"]
 
 # GitHub Pages only supports these plugins:
 # https://pages.github.com/versions/

@@ -356,7 +356,7 @@ Moenie die wetenskap afmaak nie. As jy sê "jou dosent lieg" of "die wetenskap i
 
 Vra die regte vrae:
 - "Het jou dosent gesê dat evolusie bewys dat God nie bestaan nie? Want dit is 'n filosofiese stelling, nie 'n wetenskaplike een nie."
-- "Kan jy die verskil sien tussen 'lewe het oor tyd verander deur natuurlike prosesse' en 'hierdie proses was doelloos en bewys dat daar geen God is nie'?"
+- "Kan jy die verskil sien tussen ‘lewe het oor tyd verander deur natuurlike prosesse’ en ‘hierdie proses was doelloos en bewys dat daar geen God is nie’?"
 - "Weet jy dat B.B. Warfield, die man wat die onfeilbaarheid van die Bybel verdedig het, ook evolusie aanvaar het? En dat Francis Collins, die leier van die Menslike Genoom-projek, 'n diep gelowige Christen is?"
 
 Die doel is nie om jou kind te oortuig van 'n spesifieke standpunt nie. Die doel is om jou kind te help **dink**: om die filosofiese aannames te identifiseer wat dikwels as wetenskap vermom word, en om te sien dat geloof en eerlike wetenskap nie vyande is nie.
@@ -813,7 +813,7 @@ Do not dismiss the science. If you say "your lecturer is lying" or "science is w
 
 Ask the right questions:
 - "Did your lecturer say that evolution proves God doesn't exist? Because that is a philosophical statement, not a scientific one."
-- "Can you see the difference between 'life has changed over time through natural processes' and 'this process was purposeless and proves there is no God'?"
+- "Can you see the difference between ‘life has changed over time through natural processes’ and ‘this process was purposeless and proves there is no God’?"
 - "Did you know that B.B. Warfield, the man who defended the inerrancy of the Bible, also accepted evolution? And that Francis Collins, the leader of the Human Genome Project, is a deeply believing Christian?"
 
 The goal is not to convince your child of a specific position. The goal is to help your child **think**: to identify the philosophical assumptions that are often disguised as science, and to see that faith and honest science are not enemies.

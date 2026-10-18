@@ -18,7 +18,7 @@
 
 **Skyfie 2 – Doel en Gehoor**
 
-*"Julle ken die toneel. Jou kind kom van die universiteit af terug en sê: 'Pa, Ma, ons dosent het gesê geloof is iets uit die Middeleeue. Die wetenskap het lankal bewys daar is nie 'n God nie.' Of jy sit by 'n braai en 'n kollega skud sy kop: 'Luister, ek glo in feite, nie in fabels nie.' En jy wil antwoord. Jy wíl. Maar die woorde kom nie.*
+*"Julle ken die toneel. Jou kind kom van die universiteit af terug en sê: 'Pa, Ma, ons dosent het gesê geloof is iets uit die Middeleeue. Die wetenskap het lankal bewys daar is nie 'n God nie.' Of jy sit by 'n braai en 'n kollega skud sy kop: ‘Luister, ek glo in feite, nie in fabels nie.’ En jy wil antwoord. Jy wíl. Maar die woorde kom nie.*
 
 *Of dalk is dit stiller as dit. Dalk is dit jyself wat in die stilte van die nag wonder: Wat as hulle reg is? Wat as my geloof net 'n gevoel is wat nie die laboratorium sal oorleef nie?*
 
@@ -34,7 +34,7 @@
 
 *Tweedens: Wetenskaplik eerlik. Ons respekteer die wetenskap. Ons is nie bang daarvoor nie, en ons aanbid dit ook nie. Ons hoef nie wetenskaplike feite te ontken om te glo nie, en ons hoef nie ons geloof prys te gee om eerlik na die feite te kyk nie. Ons soek waarheid, waar dit ook al lei.*
 
-*Derdens: Filosofies deeglik. Ons gaan 'n belangrike onderskeid leer maak: die onderskeid tussen wetenskap en sciëntisme, tussen bewyse en interpretasie. Wetenskap sê: 'Hier is wat ons meet.' Sciëntisme sê: 'Wat ons meet is al wat bestaan.' Dit is twee heeltemal verskillende stellings, en ons gaan leer om hulle uit mekaar te hou.*
+*Derdens: Filosofies deeglik. Ons gaan 'n belangrike onderskeid leer maak: die onderskeid tussen wetenskap en sciëntisme, tussen bewyse en interpretasie. Wetenskap sê: ‘Hier is wat ons meet.’ Sciëntisme sê: ‘Wat ons meet is al wat bestaan.’ Dit is twee heeltemal verskillende stellings, en ons gaan leer om hulle uit mekaar te hou.*
 
 *Vierdens: Gesprekgerig en respekvol. Ons praat met mense, nie teen hulle nie. Ons luister voor ons antwoord. Ons soek verstandhouding, nie oorwinning nie. Die doel is nooit om 'n argument te wen nie. Die doel is om 'n hart te bereik."*
 
@@ -64,7 +64,7 @@
 
 **Sessie 1 – Wat is Wetenskap Werklik?**
 
-*"Stel jou voor jy sit by 'n ete en iemand sê: 'Ek glo net in die wetenskap.' Dit klink oortuigend. Maar wat beteken dit eintlik? Wat ís wetenskap? Is dit 'n metode om die wêreld te ondersoek, of is dit 'n hele wêreldbeeld wat sê dat niks buite die meetbare bestaan nie?*
+*"Stel jou voor jy sit by 'n ete en iemand sê: ‘Ek glo net in die wetenskap.’ Dit klink oortuigend. Maar wat beteken dit eintlik? Wat ís wetenskap? Is dit 'n metode om die wêreld te ondersoek, of is dit 'n hele wêreldbeeld wat sê dat niks buite die meetbare bestaan nie?*
 
 *Hier maak ons 'n onderskeid wat alles verander: die onderskeid tussen wetenskap en sciëntisme. Wetenskap is 'n kragtige werktuig, maar dit het grense. Dit kan jou vertel hoe die brein werk, maar nie waarom daar iets is soos liefde nie. Dit kan die ouderdom van 'n ster bereken, maar nie verklaar waarom daar sterre is in die eerste plek nie. Sciëntisme is die geloof dat wetenskap die enigste pad na waarheid is, maar daardie stelling is self nie wetenskaplik bewysbaar nie. Dié onderskeid is die sleutel wat die hele reeks oopsluit."*
 
@@ -106,7 +106,7 @@
 
 *Ons kyk rustig en eerlik na evolusie. Nie met paniek nie, en nie met naïwiteit nie. Wat bewys evolusie werklik? En wat bewys dit nie? Die biologiese feite van verandering oor tyd is een ding. Die filosofiese bewering dat evolusie God oorbodig maak, is iets heeltemal anders.*
 
-*Ons trek ook die grens tussen die wetenskap van evolusie en die filosofie van naturalisme. Evolusie as biologiese proses is een ding; die bewering dat evolusie beteken dat daar geen God is nie, is 'n filosofiese stap wat die wetenskap self nooit maak nie. 'n Mens kan evolusie ernstig neem én God ernstig neem, sonder om van een van die twee afstand te doen. Die vraag was nog nooit 'God of evolusie?' nie. Die vraag is: Wie is die Grond van die hele proses?"*
+*Ons trek ook die grens tussen die wetenskap van evolusie en die filosofie van naturalisme. Evolusie as biologiese proses is een ding; die bewering dat evolusie beteken dat daar geen God is nie, is 'n filosofiese stap wat die wetenskap self nooit maak nie. 'n Mens kan evolusie ernstig neem én God ernstig neem, sonder om van een van die twee afstand te doen. Die vraag was nog nooit ‘God of evolusie?’ nie. Die vraag is: Wie is die Grond van die hele proses?"*
 
 ---
 
@@ -114,7 +114,7 @@
 
 *"Hier is 'n merkwaardige ding: jy kan elke neuron in 'n menslike brein karteer, elke chemiese reaksie meet, elke elektriese impuls volg. En jy sal steeds nie kan verklaar waarom daar iets is soos dit voel om rooi te sien, of om verlief te wees, of om te weet dat jy bestaan nie.*
 
-*Bewussyn, die feit dat jy 'n 'binnekant' het, dat dit voel om jy te wees, is een van die grootste raaisels in die wetenskap. Eerlike neuro-wetenskaplikes erken dit. Die brein is 'n merkwaardige masjien, maar bewussyn is nie net 'n masjien nie. Daar is iets meer.*
+*Bewussyn, die feit dat jy 'n ‘binnekant’ het, dat dit voel om jy te wees, is een van die grootste raaisels in die wetenskap. Eerlike neuro-wetenskaplikes erken dit. Die brein is 'n merkwaardige masjien, maar bewussyn is nie net 'n masjien nie. Daar is iets meer.*
 
 *Ons kyk na wat die neurowetenskappe werklik kan sê, en wat dit nie kan sê nie. Is die mens net 'n brein? Of is daar iets aan jou, noem dit 'n siel, noem dit 'n gees, wat nie tot chemie herlei kan word nie? En as daar is, wat sê dit vir ons oor wie ons is en Wie ons gemaak het?"*
 
@@ -192,7 +192,7 @@
 
 **Slide 2 — Purpose and Audience**
 
-*"You know the scene. Your child comes home from university and says: 'Dad, Mum, our lecturer said faith is something from the Middle Ages. Science proved long ago there is no God.' Or you are sitting at a braai and a colleague shakes his head: 'Look, I believe in facts, not in fables.' And you want to respond. You really do. But the words do not come.*
+*"You know the scene. Your child comes home from university and says: 'Dad, Mum, our lecturer said faith is something from the Middle Ages. Science proved long ago there is no God.' Or you are sitting at a braai and a colleague shakes his head: ‘Look, I believe in facts, not in fables.’ And you want to respond. You really do. But the words do not come.*
 
 *Or perhaps it is quieter than that. Perhaps it is you yourself wondering in the silence of the night: What if they are right? What if my faith is just a feeling that will not survive the laboratory?*
 
@@ -208,7 +208,7 @@
 
 *Second: Scientifically honest. We respect science. We are not afraid of it, nor do we worship it. We do not need to deny scientific facts in order to believe, and we do not need to surrender our faith in order to look honestly at the facts. We seek truth, wherever it leads.*
 
-*Third: Philosophically rigorous. We will learn to make an important distinction: the distinction between science and scientism, between evidence and interpretation. Science says: 'Here is what we measure.' Scientism says: 'What we measure is all there is.' These are two entirely different claims, and we will learn to tell them apart.*
+*Third: Philosophically rigorous. We will learn to make an important distinction: the distinction between science and scientism, between evidence and interpretation. Science says: ‘Here is what we measure.’ Scientism says: ‘What we measure is all there is.’ These are two entirely different claims, and we will learn to tell them apart.*
 
 *Fourth: Conversational and respectful. We speak with people, not against them. We listen before we answer. We seek understanding, not victory. The goal is never to win an argument. The goal is to reach a heart."*
 
@@ -238,7 +238,7 @@
 
 **Session 1 — What Is Science Really?**
 
-*"Imagine you are sitting at dinner and someone says: 'I only believe in science.' It sounds convincing. But what does it actually mean? What is science? Is it a method for investigating the world, or is it an entire worldview that says nothing beyond the measurable exists?*
+*"Imagine you are sitting at dinner and someone says: ‘I only believe in science.’ It sounds convincing. But what does it actually mean? What is science? Is it a method for investigating the world, or is it an entire worldview that says nothing beyond the measurable exists?*
 
 *Here we make a distinction that changes everything: the distinction between science and scientism. Science is a powerful tool, but it has limits. It can tell you how the brain works, but not why there is such a thing as love. It can calculate the age of a star, but not explain why there are stars in the first place. Scientism is the belief that science is the only path to truth, but that claim itself is not scientifically verifiable. This distinction is the key that unlocks the entire series."*
 
@@ -280,7 +280,7 @@
 
 *We look at evolution calmly and honestly. Not with panic, and not with naivety. What does evolution really prove? And what does it not prove? The biological facts of change over time are one thing. The philosophical claim that evolution makes God redundant is something else entirely.*
 
-*We also draw the line between the science of evolution and the philosophy of naturalism. Evolution as a biological process is one thing; the claim that evolution means there is no God is a philosophical step that science itself never takes. One can take evolution seriously and take God seriously, without abandoning either. The question has never been 'God or evolution?' The question is: Who is the Ground of the entire process?"*
+*We also draw the line between the science of evolution and the philosophy of naturalism. Evolution as a biological process is one thing; the claim that evolution means there is no God is a philosophical step that science itself never takes. One can take evolution seriously and take God seriously, without abandoning either. The question has never been ‘God or evolution?’ The question is: Who is the Ground of the entire process?"*
 
 ---
 
@@ -288,7 +288,7 @@
 
 *"Here is a remarkable thing: you can map every neuron in a human brain, measure every chemical reaction, trace every electrical impulse. And you still will not be able to explain why there is such a thing as what it feels like to see red, or to be in love, or to know that you exist.*
 
-*Consciousness — the fact that you have an 'inside,' that there is something it is like to be you — is one of the greatest puzzles in science. Honest neuroscientists acknowledge this. The brain is a remarkable machine, but consciousness is not merely a machine. There is something more.*
+*Consciousness — the fact that you have an ‘inside,’ that there is something it is like to be you — is one of the greatest puzzles in science. Honest neuroscientists acknowledge this. The brain is a remarkable machine, but consciousness is not merely a machine. There is something more.*
 
 *We look at what the neurosciences can truly tell us, and what they cannot. Is a human being merely a brain? Or is there something about you — call it a soul, call it a spirit — that cannot be reduced to chemistry? And if there is, what does that tell us about who we are and Who made us?"*
 

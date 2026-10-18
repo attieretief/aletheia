@@ -141,7 +141,7 @@ Hierdie premisse lyk amper te vanselfsprekend om te verdedig. Dinge verskyn nie 
 
 Die beginsel dat iets nie uit niks kan ontstaan nie (*ex nihilo nihil fit*, "uit niks, niks") is een van die grondliggende beginsels van rasionele denke. Dit onderlê alle wetenskap, alle geskiedkunde, alle alledaagse logika. Verwerp dit, en jy het geen rede om enigiets te verduidelik nie, want dan kan enigiets op enige tydstip sonder rede uit niks verskyn.
 
-Tog het sommige skeptici hierdie premisse bevraagteken. Die mees algemene beswaar kom van die kwantummeganika: "Maar subatomiese deeltjies 'verskyn' spontaan in 'n kwantumvakuum!" Ons kom hieronder hierop terug, maar 'n kwantumvakuum is nie "niks" nie. Dit is 'n fisiese toestand met energie, wette en struktuur. Deeltjies wat uit 'n kwantumvakuum "verskyn", is fluktuasies binne 'n reeds bestaande fisiese raamwerk, nie iets wat uit absolute niks tot stand kom nie.
+Tog het sommige skeptici hierdie premisse bevraagteken. Die mees algemene beswaar kom van die kwantummeganika: "Maar subatomiese deeltjies ‘verskyn’ spontaan in 'n kwantumvakuum!" Ons kom hieronder hierop terug, maar 'n kwantumvakuum is nie "niks" nie. Dit is 'n fisiese toestand met energie, wette en struktuur. Deeltjies wat uit 'n kwantumvakuum "verskyn", is fluktuasies binne 'n reeds bestaande fisiese raamwerk, nie iets wat uit absolute niks tot stand kom nie.
 
 Absolute niks, geen ruimte, geen tyd, geen energie, geen wette, geen potensiaal, geen kwantumveld, kan niks voortbring nie. Soos Leibniz dit gestel het: "Hoekom is daar iets eerder as niks? Want niks is eenvoudiger en makliker as iets." As daar werklik niks was, sou daar vir ewig niks gewees het.
 
@@ -626,7 +626,7 @@ This premise seems almost too self-evident to defend. Things do not appear witho
 
 The principle that something cannot come from nothing (*ex nihilo nihil fit*, "from nothing, nothing comes") is one of the foundational principles of rational thought. It underlies all science, all history, all everyday logic. Reject it, and you have no reason to explain anything — because then anything can appear at any time without reason out of nothing.
 
-Yet some sceptics have questioned this premise. The most common objection comes from quantum mechanics: "But subatomic particles 'appear' spontaneously in a quantum vacuum!" We return to this below, but a quantum vacuum is not "nothing." It is a physical state with energy, laws and structure. Particles that "appear" in a quantum vacuum are fluctuations within an already existing physical framework — not something coming into being out of absolute nothing.
+Yet some sceptics have questioned this premise. The most common objection comes from quantum mechanics: "But subatomic particles ‘appear’ spontaneously in a quantum vacuum!" We return to this below, but a quantum vacuum is not "nothing." It is a physical state with energy, laws and structure. Particles that "appear" in a quantum vacuum are fluctuations within an already existing physical framework — not something coming into being out of absolute nothing.
 
 Absolute nothing — no space, no time, no energy, no laws, no potential, no quantum field — can produce nothing. As Leibniz put it: "Why is there something rather than nothing? For nothing is simpler and easier than something." If there were truly nothing, there would be nothing forever.
 

@@ -4,7 +4,7 @@
 
 *"Vriende, ek wil julle welkom heet op 'n reis wat nie net ons verstand gaan uitdaag nie, maar ons harte gaan aanraak. Ons gaan saam stilstaan by vrae wat die mensdom al van die begin af vra: Wie is God regtig? Hoekom bestaan daar iets eerder as niks? En waarom dra ons almal 'n verlange na meer as wat hierdie wêreld kan bied?*
 
-*Ons tema is 'Die Werklikheid van God'. Dit beteken ons gaan nie tevrede wees met oppervlakkige antwoorde nie. Ons gaan delf in die dieptes van geloof en rede, ons gaan luister na die wysheid van die Bybel, ons gaan leer by groot denkers deur die eeue, en ons gaan eerlik saam worstel met die vrae wat geloof soms laat skud. My hoop is dat jy teen die einde van hierdie reeks nie net meer antwoorde het nie, maar ook 'n groter verwondering vir wie God is – en dalk selfs 'n dieper ontmoeting met Hom self.*
+*Ons tema is ‘Die Werklikheid van God’. Dit beteken ons gaan nie tevrede wees met oppervlakkige antwoorde nie. Ons gaan delf in die dieptes van geloof en rede, ons gaan luister na die wysheid van die Bybel, ons gaan leer by groot denkers deur die eeue, en ons gaan eerlik saam worstel met die vrae wat geloof soms laat skud. My hoop is dat jy teen die einde van hierdie reeks nie net meer antwoorde het nie, maar ook 'n groter verwondering vir wie God is – en dalk selfs 'n dieper ontmoeting met Hom self.*
 
 *So, kom ons begin – die reis lê voor ons."*
 
@@ -42,7 +42,7 @@
 
 *"Ons reis het agt hoofstappe – agt temas wat soos bakens langs 'n pad staan. Elke een neem ons dieper in ons verstaan van God en van onsself.*
 
-**Sessie 1:** *Wat bedoel ons met 'God'?* – Ons begin by die kern. Nie 'n vae idee of 'n karikatuur nie, maar die God van die Bybel, die Bron van alle bestaan. Hier lê ons die fondament vir alles wat volg.
+**Sessie 1:** *Wat bedoel ons met ‘God’?* – Ons begin by die kern. Nie 'n vae idee of 'n karikatuur nie, maar die God van die Bybel, die Bron van alle bestaan. Hier lê ons die fondament vir alles wat volg.
 
 **Sessie 2:** *Moderne wanopvattings oor God* – Ons pak die mites aan. Van die "ou man in die wolke" tot die "God van die gapings" – ons breek vals beelde af en herstel die ware prent.
 
@@ -62,27 +62,27 @@
 
 ---
 
-**Sessie 1 – Wat bedoel ons met 'God'?**
+**Sessie 1 – Wat bedoel ons met ‘God’?**
 
-*"Ons begin waar elke goeie reis behoort te begin – by die vraag wat alles vorm: As ons 'God' sê, wat bedoel ons regtig? Want as ons nie hier duidelik is nie, bou ons die hele gebou op 'n wankelrige fondament.*
+*"Ons begin waar elke goeie reis behoort te begin – by die vraag wat alles vorm: As ons ‘God’ sê, wat bedoel ons regtig? Want as ons nie hier duidelik is nie, bou ons die hele gebou op 'n wankelrige fondament.*
 
 *In hierdie sessie gaan ons sien dat die God van die Bybel nie 'n superheld in die hemel is wat nou en dan intree om dinge reg te maak nie. Hy is nie net die grootste of magtigste wese onder vele nie. Nee – Hy is die Bron van alle bestaan. Hy is, soos die groot denkers gesê het, *Being itself* – die Een deur wie en in wie alles is.*
 
 \*Ons gaan praat oor Sy wesenseienskappe: dat Hy ewig is, sonder begin of einde; oneindig, nie vasgevang deur ruimte of tyd nie; onveranderlik, volmaak in wysheid, mag, heiligheid, geregtigheid, goedheid en waarheid. Soos die kategismus dit sê: *"God is 'n Gees, oneindig, ewig en onveranderlik in wese, wysheid, mag, heiligheid, geregtigheid, goedheid en waarheid."*
 
-*En ons gaan sien hoekom dit só belangrik is om hierdie visie van God vas te hou – want baie van die twyfel, verwarring en selfs aanvalle op die geloof, is eintlik gemik op 'n heel ander 'god' as dié wat die Skrif verkondig. As ons reg begin, bou ons reg. En as ons reg bou, kan ons stormwinde trotseer."*
+*En ons gaan sien hoekom dit só belangrik is om hierdie visie van God vas te hou – want baie van die twyfel, verwarring en selfs aanvalle op die geloof, is eintlik gemik op 'n heel ander ‘god’ as dié wat die Skrif verkondig. As ons reg begin, bou ons reg. En as ons reg bou, kan ons stormwinde trotseer."*
 
 ---
 
 **Sessie 2 – Moderne wanopvattings oor God**
 
-*"As ek vandag vir tien verskillende mense vra om vir my te beskryf wie of wat hulle dink 'God' is, sal ek waarskynlik tien verskillende antwoorde kry – en sommige van hulle sal niks te doen hê met die God van die Bybel nie.*
+*"As ek vandag vir tien verskillende mense vra om vir my te beskryf wie of wat hulle dink ‘God’ is, sal ek waarskynlik tien verskillende antwoorde kry – en sommige van hulle sal niks te doen hê met die God van die Bybel nie.*
 
-*Ons leef in 'n wêreld vol memes, spotprente en grappies oor 'n 'ou man in die wolke', of 'n 'onsigbare vriend' vir grootmense, of 'n soort kosmiese meganikus wat net nou en dan ingryp wanneer iets stukkend is. Baie mense verwerp 'n karikatuur – 'n strooipop – en dink hulle het die God van die Christelike geloof weerlê. Maar die waarheid is: daardie 'god' bestaan inderdaad nie… en ons glo ook nie in hom nie.*
+*Ons leef in 'n wêreld vol memes, spotprente en grappies oor 'n ‘ou man in die wolke’, of 'n ‘onsigbare vriend’ vir grootmense, of 'n soort kosmiese meganikus wat net nou en dan ingryp wanneer iets stukkend is. Baie mense verwerp 'n karikatuur – 'n strooipop – en dink hulle het die God van die Christelike geloof weerlê. Maar die waarheid is: daardie ‘god’ bestaan inderdaad nie… en ons glo ook nie in hom nie.*
 
-*In hierdie sessie gaan ons hierdie wanbeelde stelselmatig afbreek. Ons gaan kyk hoekom dit maklik is om só 'n karikatuur te bespot – maar dat dit niks sê oor die ware God nie. Ons gaan luister na filosowe soos Alvin Plantinga wat wys hoe baie van die gewildste ateïstiese argumente mik op 'n verdraaide teiken. Ons gaan saam met C.S. Lewis onderskei tussen 'gods' wat mense maak in hulle eie beeld, en die lewende God wat ons in Christus ontmoet. En ons gaan sien dat ware geloof nie 'n 'god van die gapings' aanhang nie – 'n God wat net daar is waar ons nog geen wetenskaplike verklaring het nie – maar 'n God wat elke oomblik die hele skepping onderhou.*
+*In hierdie sessie gaan ons hierdie wanbeelde stelselmatig afbreek. Ons gaan kyk hoekom dit maklik is om só 'n karikatuur te bespot – maar dat dit niks sê oor die ware God nie. Ons gaan luister na filosowe soos Alvin Plantinga wat wys hoe baie van die gewildste ateïstiese argumente mik op 'n verdraaide teiken. Ons gaan saam met C.S. Lewis onderskei tussen ‘gods’ wat mense maak in hulle eie beeld, en die lewende God wat ons in Christus ontmoet. En ons gaan sien dat ware geloof nie 'n ‘god van die gapings’ aanhang nie – 'n God wat net daar is waar ons nog geen wetenskaplike verklaring het nie – maar 'n God wat elke oomblik die hele skepping onderhou.*
 
-*Aan die einde van hierdie sessie sal jy nie net die verskil ken tussen vals en ware beelde van God nie – jy sal ook gereed wees om met vriendelikheid en helderheid te reageer wanneer iemand jou vertel van 'n 'god' waarin jy ook nie glo nie."*
+*Aan die einde van hierdie sessie sal jy nie net die verskil ken tussen vals en ware beelde van God nie – jy sal ook gereed wees om met vriendelikheid en helderheid te reageer wanneer iemand jou vertel van 'n ‘god’ waarin jy ook nie glo nie."*
 
 ---
 
@@ -90,11 +90,11 @@
 
 *"Stel jou voor: Alles wat jy ken – elke ster, elke boom, elke asemteug – verdwyn. Geen ruimte, geen tyd, geen materie… net niks. En dan vra jy: Hoekom is daar vandag nie steeds net niks nie? Hoekom is daar 'n heelal, en ons binne-in dit?*
 
-*Hierdie vraag – 'Hoekom is daar iets eerder as niks?' – is een van die diepste vrae wat 'n mens kan vra. Dis nie net vir filosowe in toringkamers nie; dis vir elkeen van ons wat al op 'n stil aand onder die sterre gestaan en gewonder het: Waar kom dit alles vandaan?*
+*Hierdie vraag – ‘Hoekom is daar iets eerder as niks?’ – is een van die diepste vrae wat 'n mens kan vra. Dis nie net vir filosowe in toringkamers nie; dis vir elkeen van ons wat al op 'n stil aand onder die sterre gestaan en gewonder het: Waar kom dit alles vandaan?*
 
-*In hierdie sessie gaan ons die idee van **kontingensie** ontdek – dat alles wat ons sien, afhanklik is van iets anders vir sy bestaan. Die heelal self is so 'n 'afhanklike ding'. Dan gaan ons die beginsel van voldoende rede leer ken, soos Leibniz dit gestel het: Alles wat bestaan, het 'n rede waarom dit bestaan. En as ons daardie rede ver genoeg terugvolg, kom ons by 'n Oorsaak wat self geen oorsaak het nie – 'n Noodsaaklike Wese wat bestaan bloot omdat Hy die Bron van bestaan is.*
+*In hierdie sessie gaan ons die idee van **kontingensie** ontdek – dat alles wat ons sien, afhanklik is van iets anders vir sy bestaan. Die heelal self is so 'n ‘afhanklike ding’. Dan gaan ons die beginsel van voldoende rede leer ken, soos Leibniz dit gestel het: Alles wat bestaan, het 'n rede waarom dit bestaan. En as ons daardie rede ver genoeg terugvolg, kom ons by 'n Oorsaak wat self geen oorsaak het nie – 'n Noodsaaklike Wese wat bestaan bloot omdat Hy die Bron van bestaan is.*
 
-*Ons sal ook sien hoekom wetenskap nie hierdie vraag kan uitput nie. Selfs al kon die wetenskap eendag alles verduidelik oor hoe die heelal werk, bly die vraag staan: Hoekom is daar 'n heelal om oor te verduidelik? En daar, glo ons, wys die spore na God – die 'Ek is wat Ek is' van Eksodus 3:14 – die Een wat lewe in Homself het.*
+*Ons sal ook sien hoekom wetenskap nie hierdie vraag kan uitput nie. Selfs al kon die wetenskap eendag alles verduidelik oor hoe die heelal werk, bly die vraag staan: Hoekom is daar 'n heelal om oor te verduidelik? En daar, glo ons, wys die spore na God – die ‘Ek is wat Ek is’ van Eksodus 3:14 – die Een wat lewe in Homself het.*
 
 *Hierdie sessie gaan jou toerus om te sien dat geloof in God nie 'n vlug van rede is nie, maar 'n volgehoue reis na die mees rasionele antwoord op die mees fundamentele vraag wat daar is."*
 
@@ -114,9 +114,9 @@
 
 **Sessie 5 – Die raaisel van bewussyn**
 
-*"Sluit jou oë vir 'n oomblik en dink aan die kleur rooi. Jy sien dit in jou gedagtes, jy kan dit amper voel. Of dink aan die geur van vars brood – jy kan dit ruik sonder dat daar brood in die kamer is. Hierdie vermoë om te ervaar, te dink, te onthou en te sê 'ek' – dit noem ons **bewussyn**. Maar wat is dit, en hoekom het ons dit?*
+*"Sluit jou oë vir 'n oomblik en dink aan die kleur rooi. Jy sien dit in jou gedagtes, jy kan dit amper voel. Of dink aan die geur van vars brood – jy kan dit ruik sonder dat daar brood in die kamer is. Hierdie vermoë om te ervaar, te dink, te onthou en te sê ‘ek’ – dit noem ons **bewussyn**. Maar wat is dit, en hoekom het ons dit?*
 
-*Materialiste sê: dis net die brein, net neurone en chemikalieë. Maar hier's die raaisel: Jy kan elke neurale verbinding karteer, elke elektriese sein meet – en jy sal nog steeds nie die ervaring van 'rooi' of 'broodgeur' daarin vind nie. Dis wat filosowe die **hard problem of consciousness** noem. Thomas Nagel het dit treffend gevra: *'Wat is dit soos om 'n vlermuis te wees?'* – iets wat geen hoeveelheid breindata kan verduidelik nie.*
+*Materialiste sê: dis net die brein, net neurone en chemikalieë. Maar hier's die raaisel: Jy kan elke neurale verbinding karteer, elke elektriese sein meet – en jy sal nog steeds nie die ervaring van ‘rooi’ of ‘broodgeur’ daarin vind nie. Dis wat filosowe die **hard problem of consciousness** noem. Thomas Nagel het dit treffend gevra: *'Wat is dit soos om 'n vlermuis te wees?'* – iets wat geen hoeveelheid breindata kan verduidelik nie.*
 
 *In hierdie sessie gaan ons kyk hoekom bewussyn 'n uitdaging is vir 'n wêreldbeskouing wat net materie erken. Ons gaan praat oor **intensionaliteit** – dat ons gedagtes oor iets kan wees, soos om oor 'n boom of 'n herinnering te dink – iets wat nie in 'n fisiese voorwerp opgesluit lê nie. Ons gaan kyk na **rede en vrye wil**, en hoekom dit moeilik is om te sê ons denke is net 'n toevallige produk van evolusie as ons glo ons denke is betroubaar.*
 
@@ -126,7 +126,7 @@
 
 **Sessie 6 – Gerigtheid, moraliteit en doel**
 
-*"Het jy al gewonder hoekom ons gedagtes altyd oor íéts gaan? Jy dink aan jou huis, jy droom van 'n vakansie, jy beplan môre se werk – jou denke is altyd gerig op 'n voorwerp, 'n idee, 'n doel. Filosowe noem dit **intensionaliteit** – die 'oor'- of 'na'-aard van ons gedagtes. Maar hier's die vraag: hoe kan blote materie, soos 'n neuron of 'n rots, ooit 'oor' iets wees? 'n Rots is net 'n rots – hy dink nie oor jou nie. Tog kan jy oor die rots dink.*
+*"Het jy al gewonder hoekom ons gedagtes altyd oor íéts gaan? Jy dink aan jou huis, jy droom van 'n vakansie, jy beplan môre se werk – jou denke is altyd gerig op 'n voorwerp, 'n idee, 'n doel. Filosowe noem dit **intensionaliteit** – die 'oor'- of 'na'-aard van ons gedagtes. Maar hier's die vraag: hoe kan blote materie, soos 'n neuron of 'n rots, ooit ‘oor’ iets wees? 'n Rots is net 'n rots – hy dink nie oor jou nie. Tog kan jy oor die rots dink.*
 
 *Net so is daar iets diep in ons wat sê sekere dinge is reg en ander verkeerd – nie net vir my of vir nou nie, maar vir almal en altyd. Ons noem dit **moraliteit**. Jy weet dat geregtigheid goed is en kindermishandeling verkeerd is – nie omdat jou kultuur dit sê nie, maar omdat dit werklik waar is. Die Bybel sê dis omdat God Sy wet op ons harte geskryf het (Romeine 2:15).*
 
@@ -186,7 +186,7 @@
 
 *"Friends, I want to welcome you on a journey that will not only challenge our minds, but will touch our hearts. Together we are going to pause at questions that humanity has been asking from the very beginning: Who is God really? Why does something exist rather than nothing? And why do we all carry a longing for more than this world can offer?*
 
-*Our theme is 'The Reality of God'. That means we will not be satisfied with superficial answers. We will delve into the depths of faith and reason, we will listen to the wisdom of the Bible, we will learn from great thinkers through the ages, and we will honestly wrestle together with the questions that sometimes shake our faith. My hope is that by the end of this series you will not only have more answers, but also a greater sense of wonder at who God is — and perhaps even a deeper encounter with Him.*
+*Our theme is ‘The Reality of God’. That means we will not be satisfied with superficial answers. We will delve into the depths of faith and reason, we will listen to the wisdom of the Bible, we will learn from great thinkers through the ages, and we will honestly wrestle together with the questions that sometimes shake our faith. My hope is that by the end of this series you will not only have more answers, but also a greater sense of wonder at who God is — and perhaps even a deeper encounter with Him.*
 
 *So, let us begin — the journey lies before us."*
 
@@ -224,7 +224,7 @@
 
 *"Our journey has eight main steps — eight themes that stand like beacons along a path. Each one takes us deeper into our understanding of God and of ourselves.*
 
-**Session 1:** *What do we mean by 'God'?* — We begin at the core. Not a vague idea or a caricature, but the God of the Bible, the Source of all existence. Here we lay the foundation for everything that follows.
+**Session 1:** *What do we mean by ‘God’?* — We begin at the core. Not a vague idea or a caricature, but the God of the Bible, the Source of all existence. Here we lay the foundation for everything that follows.
 
 **Session 2:** *Modern misconceptions about God* — We tackle the myths. From the "old man in the clouds" to the "God of the gaps" — we break down false images and restore the true picture.
 
@@ -244,27 +244,27 @@
 
 ---
 
-**Session 1 – What do we mean by 'God'?**
+**Session 1 – What do we mean by ‘God’?**
 
-*"We begin where every good journey ought to begin — at the question that shapes everything: When we say 'God', what do we really mean? Because if we are not clear here, we are building the whole structure on a shaky foundation.*
+*"We begin where every good journey ought to begin — at the question that shapes everything: When we say ‘God’, what do we really mean? Because if we are not clear here, we are building the whole structure on a shaky foundation.*
 
 *In this session we will see that the God of the Bible is not a superhero in heaven who intervenes now and then to fix things. He is not merely the greatest or most powerful being among many. No — He is the Source of all existence. He is, as the great thinkers have said, *Being itself* — the One through whom and in whom all things exist.*
 
 *We will talk about His essential attributes: that He is eternal, without beginning or end; infinite, not constrained by space or time; immutable, perfect in wisdom, power, holiness, justice, goodness and truth. As the catechism puts it: *"God is a Spirit, infinite, eternal, and unchangeable in his being, wisdom, power, holiness, justice, goodness, and truth."*
 
-*And we will see why it is so important to hold on to this vision of God — because much of the doubt, confusion and even attacks on the faith are actually aimed at a very different 'god' than the one proclaimed in Scripture. If we begin rightly, we build rightly. And if we build rightly, we can withstand the storms."*
+*And we will see why it is so important to hold on to this vision of God — because much of the doubt, confusion and even attacks on the faith are actually aimed at a very different ‘god’ than the one proclaimed in Scripture. If we begin rightly, we build rightly. And if we build rightly, we can withstand the storms."*
 
 ---
 
 **Session 2 – Modern misconceptions about God**
 
-*"If I were to ask ten different people today to describe who or what they think 'God' is, I would probably get ten different answers — and some of them would have nothing to do with the God of the Bible.*
+*"If I were to ask ten different people today to describe who or what they think ‘God’ is, I would probably get ten different answers — and some of them would have nothing to do with the God of the Bible.*
 
-*We live in a world full of memes, cartoons and jokes about an 'old man in the clouds', or an 'invisible friend' for grown-ups, or some kind of cosmic mechanic who only intervenes now and then when something breaks down. Many people reject a caricature — a straw man — and think they have refuted the God of the Christian faith. But the truth is: that 'god' indeed does not exist... and we do not believe in him either.*
+*We live in a world full of memes, cartoons and jokes about an ‘old man in the clouds’, or an ‘invisible friend’ for grown-ups, or some kind of cosmic mechanic who only intervenes now and then when something breaks down. Many people reject a caricature — a straw man — and think they have refuted the God of the Christian faith. But the truth is: that ‘god’ indeed does not exist... and we do not believe in him either.*
 
-*In this session we will systematically dismantle these false images. We will see why it is easy to mock such a caricature — but that it says nothing about the true God. We will listen to philosophers like Alvin Plantinga who show how many of the most popular atheistic arguments aim at a distorted target. Together with C.S. Lewis we will distinguish between 'gods' that people create in their own image, and the living God whom we meet in Christ. And we will see that true faith does not cling to a 'god of the gaps' — a God who only exists where we do not yet have a scientific explanation — but a God who sustains the entire creation at every moment.*
+*In this session we will systematically dismantle these false images. We will see why it is easy to mock such a caricature — but that it says nothing about the true God. We will listen to philosophers like Alvin Plantinga who show how many of the most popular atheistic arguments aim at a distorted target. Together with C.S. Lewis we will distinguish between ‘gods’ that people create in their own image, and the living God whom we meet in Christ. And we will see that true faith does not cling to a ‘god of the gaps’ — a God who only exists where we do not yet have a scientific explanation — but a God who sustains the entire creation at every moment.*
 
-*By the end of this session you will not only know the difference between false and true images of God — you will also be ready to respond with kindness and clarity when someone tells you about a 'god' in whom you also do not believe."*
+*By the end of this session you will not only know the difference between false and true images of God — you will also be ready to respond with kindness and clarity when someone tells you about a ‘god’ in whom you also do not believe."*
 
 ---
 
@@ -272,11 +272,11 @@
 
 *"Imagine: Everything you know — every star, every tree, every breath — disappears. No space, no time, no matter... just nothing. And then you ask: Why is there not still just nothing today? Why is there a universe, and us inside it?*
 
-*This question — 'Why is there something rather than nothing?' — is one of the deepest questions a person can ask. It is not just for philosophers in ivory towers; it is for every one of us who has ever stood on a quiet evening under the stars and wondered: Where does it all come from?*
+*This question — ‘Why is there something rather than nothing?’ — is one of the deepest questions a person can ask. It is not just for philosophers in ivory towers; it is for every one of us who has ever stood on a quiet evening under the stars and wondered: Where does it all come from?*
 
-*In this session we will discover the idea of **contingency** — that everything we see depends on something else for its existence. The universe itself is such a 'dependent thing'. Then we will get to know the principle of sufficient reason, as Leibniz formulated it: Everything that exists has a reason why it exists. And if we follow that reason far enough back, we arrive at a Cause that itself has no cause — a Necessary Being who exists simply because He is the Source of existence.*
+*In this session we will discover the idea of **contingency** — that everything we see depends on something else for its existence. The universe itself is such a ‘dependent thing’. Then we will get to know the principle of sufficient reason, as Leibniz formulated it: Everything that exists has a reason why it exists. And if we follow that reason far enough back, we arrive at a Cause that itself has no cause — a Necessary Being who exists simply because He is the Source of existence.*
 
-*We will also see why science cannot exhaust this question. Even if science could one day explain everything about how the universe works, the question remains: Why is there a universe to explain? And there, we believe, the traces point to God — the 'I AM WHO I AM' of Exodus 3:14 — the One who has life in Himself.*
+*We will also see why science cannot exhaust this question. Even if science could one day explain everything about how the universe works, the question remains: Why is there a universe to explain? And there, we believe, the traces point to God — the ‘I AM WHO I AM’ of Exodus 3:14 — the One who has life in Himself.*
 
 *This session will equip you to see that faith in God is not a flight from reason, but a sustained journey towards the most rational answer to the most fundamental question there is."*
 
@@ -296,9 +296,9 @@
 
 **Session 5 – The riddle of consciousness**
 
-*"Close your eyes for a moment and think of the colour red. You see it in your thoughts, you can almost feel it. Or think of the smell of fresh bread — you can smell it without any bread being in the room. This ability to experience, to think, to remember and to say 'I' — this is what we call **consciousness**. But what is it, and why do we have it?*
+*"Close your eyes for a moment and think of the colour red. You see it in your thoughts, you can almost feel it. Or think of the smell of fresh bread — you can smell it without any bread being in the room. This ability to experience, to think, to remember and to say ‘I’ — this is what we call **consciousness**. But what is it, and why do we have it?*
 
-*Materialists say: it is just the brain, just neurons and chemicals. But here is the riddle: You can map every neural connection, measure every electrical signal — and you still will not find the experience of 'red' or 'bread smell' in it. This is what philosophers call the **hard problem of consciousness**. Thomas Nagel posed it strikingly: *'What is it like to be a bat?'* — something that no amount of brain data can explain.*
+*Materialists say: it is just the brain, just neurons and chemicals. But here is the riddle: You can map every neural connection, measure every electrical signal — and you still will not find the experience of ‘red’ or ‘bread smell’ in it. This is what philosophers call the **hard problem of consciousness**. Thomas Nagel posed it strikingly: *'What is it like to be a bat?'* — something that no amount of brain data can explain.*
 
 *In this session we will look at why consciousness is a challenge for a worldview that recognises only matter. We will talk about **intentionality** — that our thoughts can be about something, like thinking about a tree or a memory — something that does not reside in a physical object. We will look at **reason and free will**, and why it is difficult to say that our thinking is merely an accidental product of evolution if we believe our thinking is reliable.*
 
@@ -308,7 +308,7 @@
 
 **Session 6 – Intentionality, morality and purpose**
 
-*"Have you ever wondered why our thoughts are always about something? You think about your house, you dream of a holiday, you plan tomorrow's work — your thinking is always directed at an object, an idea, a goal. Philosophers call this **intentionality** — the 'about' or 'towards' nature of our thoughts. But here is the question: how can mere matter, like a neuron or a rock, ever be 'about' something? A rock is just a rock — it does not think about you. Yet you can think about the rock.*
+*"Have you ever wondered why our thoughts are always about something? You think about your house, you dream of a holiday, you plan tomorrow's work — your thinking is always directed at an object, an idea, a goal. Philosophers call this **intentionality** — the ‘about’ or ‘towards’ nature of our thoughts. But here is the question: how can mere matter, like a neuron or a rock, ever be ‘about’ something? A rock is just a rock — it does not think about you. Yet you can think about the rock.*
 
 *In the same way there is something deep within us that says certain things are right and others wrong — not just for me or for now, but for everyone and always. We call this **morality**. You know that justice is good and child abuse is wrong — not because your culture says so, but because it is truly the case. The Bible says it is because God has written His law on our hearts (Romans 2:15).*
 

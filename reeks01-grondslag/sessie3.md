@@ -432,7 +432,7 @@ The psalmist's wonder at creation leads him not to mere admiration of the cosmos
 
 Here Paul sums up the entire biblical worldview: God is the source ("from him"), the means ("through him") and the goal ("to him") of all things. This verse connects perfectly with the metaphysical argument that God is not just the first cause but the ongoing ground and purpose of all existence.
 
-> **Exodus 3:14** — "God said to Moses, 'I AM WHO I AM.' And he said, 'Say this to the people of Israel: "I AM has sent me to you."'" (ESV)
+> **Exodus 3:14** — "God said to Moses, ‘I AM WHO I AM.’ And he said, ‘Say this to the people of Israel: "I AM has sent me to you."’" (ESV)
 
 God's self-revelation as "I AM" points to His self-existent nature. He is not dependent on anything else for His existence. This self-identification forms the foundation of the biblical understanding of God as the necessary reality from which all things flow.
 

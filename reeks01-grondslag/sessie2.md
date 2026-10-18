@@ -367,7 +367,7 @@ Our task, then, is to invite sceptics to look beyond shallow dismissals and to c
 
 There is something out there to see — if we are willing to look.
 
-## Myth 2: "Believers think God is a big man up there who intervenes occasionally (a 'god of the gaps')."
+## Myth 2: "Believers think God is a big man up there who intervenes occasionally (a ‘god of the gaps’)."
 
 Another common misconception is that Christians picture God as an enlarged human being — a "big man upstairs" who mostly stays away, except when He occasionally intervenes with a miracle when something needs fixing. Critics like Richard Dawkins have attacked this idea, describing God as merely a super-powerful being or *"a petty, unjust, unforgiving control-freak"* in the sky.
 
@@ -595,7 +595,7 @@ Paul makes clear that God is not dependent on creation, but that everything in c
 
 ## Bibliography
 
-* **Plantinga, Alvin.** "The Dawkins Confusion: Naturalism 'ad absurdum'." *Books & Culture*, Mar/Apr 2007.
+* **Plantinga, Alvin.** "The Dawkins Confusion: Naturalism ‘ad absurdum’." *Books & Culture*, Mar/Apr 2007.
   *(Plantinga offers a logically structured critique of Richard Dawkins's superficial understanding of God and the nature of faith. He shows how Dawkins attacks a straw man that does not represent the true God of classical theism.)*
 
 * **Stonestreet, John & Morris, G. Shane.** "So, What God Do You Not Believe In?" *Breakpoint*, 29 July 2024.

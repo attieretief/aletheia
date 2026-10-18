@@ -18,7 +18,7 @@ author: Attie Retief
 
 > **Kort antwoord:** Die neurowetenskap wys dat elke gedagte en gevoel saamgaan met iets in die brein. Dit wys nie dat die gedagte *niks anders* is as die chemie nie. En as al ons denke net chemie was, sou ons geen rede hê om enige gedagte te vertrou nie, ook nie dié een nie.
 
-Jy luister na 'n gewilde podcast. Die gas is 'n neurowetenskaplike. "Verliefdheid is dopamien en oksitosien," sê hy. "Jou geloof is 'n patroon in jou temporale lob. Daar is geen siel nie, net 'n brein wat die storie van 'n 'ek' vertel."
+Jy luister na 'n gewilde podcast. Die gas is 'n neurowetenskaplike. "Verliefdheid is dopamien en oksitosien," sê hy. "Jou geloof is 'n patroon in jou temporale lob. Daar is geen siel nie, net 'n brein wat die storie van 'n ‘ek’ vertel."
 
 En jy sit met die vraag: as dit waar is, wie luister nou eintlik na die podcast?
 
@@ -62,7 +62,7 @@ Sy brein sal antwoord. Maar hy sal dit bedoel.
 
 > **Short answer:** Neuroscience shows that every thought and feeling goes together with something in the brain. It does not show that the thought is *nothing but* the chemistry. And if all our thinking were just chemistry, we would have no reason to trust any thought, this one included.
 
-You are listening to a popular podcast. The guest is a neuroscientist. "Falling in love is dopamine and oxytocin," he says. "Your faith is a pattern in your temporal lobe. There is no soul, just a brain telling itself the story of an 'I'."
+You are listening to a popular podcast. The guest is a neuroscientist. "Falling in love is dopamine and oxytocin," he says. "Your faith is a pattern in your temporal lobe. There is no soul, just a brain telling itself the story of an ‘I’."
 
 And you are left with the question: if that is true, who is actually listening to the podcast?
 

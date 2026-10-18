@@ -161,6 +161,34 @@ layout: default
     </script>
   {% endif %}
 
+  {% if page.course == "vrae" %}
+  {% assign ka_af = content | split: 'Kort antwoord:</strong>' | last | split: '</p>' | first | strip_html | replace: "&#8217;", "’" | replace: "&rsquo;", "’" | replace: "&ldquo;", "“" | replace: "&rdquo;", "”" | strip %}
+  {% assign ka_en = content | split: 'Short answer:</strong>' | last | split: '</p>' | first | strip_html | replace: "&#8217;", "’" | replace: "&rsquo;", "’" | replace: "&ldquo;", "“" | replace: "&rdquo;", "”" | strip %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "url": {{ page.url | absolute_url | jsonify }},
+    "author": { "@type": "Person", "name": {{ page.author | default: site.author.name | jsonify }} },
+    "isPartOf": { "@type": "WebSite", "name": "Aletheia", "url": {{ site.url | jsonify }} },
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "inLanguage": "af",
+        "name": {{ page.vraag | jsonify }},
+        "acceptedAnswer": { "@type": "Answer", "inLanguage": "af", "text": {{ ka_af | jsonify }}, "url": {{ page.url | absolute_url | jsonify }} }
+      },
+      {
+        "@type": "Question",
+        "inLanguage": "en",
+        "name": {{ page.vraag_en | jsonify }},
+        "acceptedAnswer": { "@type": "Answer", "inLanguage": "en", "text": {{ ka_en | jsonify }}, "url": {{ page.url | absolute_url | jsonify }} }
+      }
+    ]
+  }
+  </script>
+  {% endif %}
+
   {% if page.youtubeurl %}
   {% assign vid_id = page.youtubeurl | split: '/' | last | split: '?' | first %}
   <script type="application/ld+json">

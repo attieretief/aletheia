@@ -55,7 +55,7 @@ Dit is nie 'n mislukking van die wetenskap nie. Dit is 'n *eienskap* daarvan, so
 
 Peter Medawar, die Nobelpryswenner vir geneeskunde, het dit duidelik gestel in sy boek *The Limits of Science* (1984):
 
-> *"The existence of a limit to science is, however, made clear by its inability to answer childlike elementary questions having to do with first and last things — questions such as 'How did everything begin?' 'What are we all here for?' 'What is the point of living?'"*
+> *"The existence of a limit to science is, however, made clear by its inability to answer childlike elementary questions having to do with first and last things — questions such as ‘How did everything begin?’ ‘What are we all here for?’ ‘What is the point of living?’"*
 
 Medawar was nie 'n teoloog nie. Hy was een van die twintigste eeu se voorste wetenskaplikes. Maar hy het verstaan dat die wetenskap se krag presies lê in sy beperktheid. Deur te erken wat dit *nie* kan doen nie, beskerm ons ook wat dit *wel* kan doen.
 
@@ -345,7 +345,7 @@ Vanuit hierdie Bybelse raamwerk kan ons sê dat die wetenskaplike onderneming ni
 
 Dit beteken nie dat elke wetenskaplike 'n gelowige is of moet wees nie. Baie uitstekende wetenskaplikes is nie gelowiges nie, en hulle wetenskaplike werk is nie daardeur minder geldig nie. Die punt is eerder dat die *moontlikheid* van wetenskap, die feit dat die natuur bestudeerbaar is, dat die menslike verstand in staat is om dit te begryp, dat daar orde is om te ontdek, die meeste sin maak binne 'n teïstiese raamwerk.
 
-Abraham Kuyper het dit so gestel in sy *Stone Lectures* (1898): die Calvinisme het die wetenskap bevry deur te leer dat die natuur geskep is (en dus bestudeerbaar), dat die menslike verstand na God se beeld gemaak is (en dus betroubaar), en dat alle lewensterreine onder God se heerskappy staan. Kuyper het geen twyfel gelaat nie: *"There is not a square inch in the whole domain of our human existence over which Christ, who is Sovereign over all, does not cry: 'Mine!'"* Dit sluit die laboratorium in.
+Abraham Kuyper het dit so gestel in sy *Stone Lectures* (1898): die Calvinisme het die wetenskap bevry deur te leer dat die natuur geskep is (en dus bestudeerbaar), dat die menslike verstand na God se beeld gemaak is (en dus betroubaar), en dat alle lewensterreine onder God se heerskappy staan. Kuyper het geen twyfel gelaat nie: *"There is not a square inch in the whole domain of our human existence over which Christ, who is Sovereign over all, does not cry: ‘Mine!’"* Dit sluit die laboratorium in.
 
 ## 7. Praktiese Implikasies: Hoe om te Reageer
 
@@ -355,7 +355,7 @@ Hoe word hierdie insigte prakties? Hier is 'n paar situasies wat gelowiges geree
 
 Hierdie stelling klink aanvanklik redelik. Maar vra jouself af: kan die wetenskap *hierdie stelling self* bewys? Is daar 'n eksperiment wat kan aantoon dat slegs wetenskaplik-bewysbare dinge waar is? Nee. Hierdie stelling is 'n *filosofiese* oortuiging, presies die soort ding wat dit sê jy nie kan glo nie.
 
-Die vriendelikste antwoord is iets soos: "Ek het groot respek vir die wetenskap. Maar die stelling 'slegs wetenskaplike kennis is geldig' is self nie 'n wetenskaplike bevinding nie. Dit is 'n filosofiese posisie. So ons filosofeer al klaar saam. Die vraag is net: watter filosofie het die beste gronde?"
+Die vriendelikste antwoord is iets soos: "Ek het groot respek vir die wetenskap. Maar die stelling ‘slegs wetenskaplike kennis is geldig’ is self nie 'n wetenskaplike bevinding nie. Dit is 'n filosofiese posisie. So ons filosofeer al klaar saam. Die vraag is net: watter filosofie het die beste gronde?"
 
 Hierdie benadering is nie aggressief nie. Dit erken die waarde van die wetenskap. Dit wys net vriendelik uit dat die ander persoon reeds 'n filosofiese stap geneem het wat hy dalk nie besef het nie.
 
@@ -451,7 +451,7 @@ This is not a failure of science. It is a *feature* of science — just as the f
 
 Peter Medawar, the Nobel Prize winner for medicine, put it clearly in his book *The Limits of Science* (1984):
 
-> *"The existence of a limit to science is, however, made clear by its inability to answer childlike elementary questions having to do with first and last things — questions such as 'How did everything begin?' 'What are we all here for?' 'What is the point of living?'"*
+> *"The existence of a limit to science is, however, made clear by its inability to answer childlike elementary questions having to do with first and last things — questions such as ‘How did everything begin?’ ‘What are we all here for?’ ‘What is the point of living?’"*
 
 Medawar was not a theologian. He was one of the twentieth century's leading scientists. But he understood that the power of science lies precisely in its limitedness. By acknowledging what it *cannot* do, we also protect what it *can* do.
 
@@ -741,7 +741,7 @@ From this biblical framework we can say that the scientific enterprise is not me
 
 This does not mean that every scientist is or must be a believer. Many excellent scientists are not believers, and their scientific work is no less valid for it. The point is rather that the *possibility* of science — the fact that nature is studyable, that the human mind is able to comprehend it, that there is order to discover — makes the most sense within a theistic framework.
 
-Abraham Kuyper put it this way in his *Stone Lectures* (1898): Calvinism liberated science by teaching that nature is created (and therefore studyable), that the human mind is made in God's image (and therefore reliable), and that all domains of life stand under God's lordship. Kuyper left no doubt: *"There is not a square inch in the whole domain of our human existence over which Christ, who is Sovereign over all, does not cry: 'Mine!'"* That includes the laboratory.
+Abraham Kuyper put it this way in his *Stone Lectures* (1898): Calvinism liberated science by teaching that nature is created (and therefore studyable), that the human mind is made in God's image (and therefore reliable), and that all domains of life stand under God's lordship. Kuyper left no doubt: *"There is not a square inch in the whole domain of our human existence over which Christ, who is Sovereign over all, does not cry: ‘Mine!’"* That includes the laboratory.
 
 ## 7. Practical Implications: How to Respond
 
@@ -751,7 +751,7 @@ How do these insights become practical? Here are a few situations that believers
 
 This statement initially sounds reasonable. But ask yourself: can science *prove this statement itself*? Is there an experiment that can demonstrate that only scientifically provable things are true? No. This statement is a *philosophical* conviction — precisely the kind of thing it says you cannot believe.
 
-The kindest answer is something like: "I have great respect for science. But the statement 'only scientific knowledge is valid' is itself not a scientific finding. It is a philosophical position. So we are already philosophising together. The question is simply: which philosophy has the best grounds?"
+The kindest answer is something like: "I have great respect for science. But the statement ‘only scientific knowledge is valid’ is itself not a scientific finding. It is a philosophical position. So we are already philosophising together. The question is simply: which philosophy has the best grounds?"
 
 This approach is not aggressive. It acknowledges the value of science. It simply points out kindly that the other person has already taken a philosophical step they may not have realised.
 

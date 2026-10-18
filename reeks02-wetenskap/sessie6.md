@@ -23,7 +23,7 @@ Nou gaan ons dieper.
 
 Die neurowetenskappe het die afgelope dekades ver gevorder. Ons kan die brein bestudeer met instrumente wat 'n geslag gelede ondenkbaar was: funksionele magnetiese resonansbeelding (fMRI), elektro-enkefalografie (EEG), positronemissietomografie (PET), en ander tegnologieë wat ons toelaat om die brein se aktiwiteit in werklike tyd waar te neem. Hierdie vordering het ons verstaan van die brein as orgaan verdiep, en dit het ook 'n kulturele narratief gevoed wat al hoe luider word:
 
-*"Die brein is alles wat jy is. Jou gedagtes, jou gevoelens, jou keuses, jou bewussyn: dit is alles net neuronale aktiwiteit. Daar is geen siel, geen gees, geen 'jy' bo en behalwe jou brein nie."*
+*"Die brein is alles wat jy is. Jou gedagtes, jou gevoelens, jou keuses, jou bewussyn: dit is alles net neuronale aktiwiteit. Daar is geen siel, geen gees, geen ‘jy’ bo en behalwe jou brein nie."*
 
 Hierdie bewering word dikwels met die gesag van die wetenskap aangebied, asof dit 'n onbetwiste feit is. Vir baie gelowiges skep dit ongemak. As die neurowetenskappe kan wys *watter* breindele aktief word wanneer ons bid, liefhê, of oor God nadink, beteken dit dan dat gebed net 'n breinproses is? Dat liefde net chemie is? Dat die siel 'n verouderde illusie is?
 
@@ -215,7 +215,7 @@ Libet het proefpersone gevra om 'n eenvoudige handbeweging te maak wanneer hulle
 
 Die resultaat was opspraakwekkend: die gereedheidspotensiaal, die brein se voorbereiding vir die beweging, het *ongeveer 550 millisekonde vóór* die beweging begin, en sowat 350 millisekonde vóór die bewuste besluit. Die brein was reeds aan die voorberei voordat die persoon bewustelik "besluit" het om te beweeg.
 
-Die populêre interpretasie was vinnig: "Die brein besluit vir jou. Jou bewuste 'keuse' is net 'n nagedagte wat die brein genereer nadat die werklike besluit reeds onbewus geneem is. Vrye wil bestaan nie."
+Die populêre interpretasie was vinnig: "Die brein besluit vir jou. Jou bewuste ‘keuse’ is net 'n nagedagte wat die brein genereer nadat die werklike besluit reeds onbewus geneem is. Vrye wil bestaan nie."
 
 Hierdie interpretasie word dikwels in populêre wetenskap, boeke, en media aangebied asof dit 'n bewese feit is. Maar die werklikheid is aansienlik meer genuanseerd.
 
@@ -596,7 +596,7 @@ Now we go deeper.
 
 The neurosciences have advanced far in recent decades. We can study the brain with instruments that a generation ago were unthinkable: functional magnetic resonance imaging (fMRI), electroencephalography (EEG), positron emission tomography (PET), and other technologies that allow us to observe the brain's activity in real time. This progress has deepened our understanding of the brain as an organ, and it has also fed a cultural narrative that is growing ever louder:
 
-*"The brain is all you are. Your thoughts, your feelings, your choices, your consciousness: it is all just neuronal activity. There is no soul, no spirit, no 'you' above and beyond your brain."*
+*"The brain is all you are. Your thoughts, your feelings, your choices, your consciousness: it is all just neuronal activity. There is no soul, no spirit, no ‘you’ above and beyond your brain."*
 
 This claim is often presented with the authority of science, as though it were an undisputed fact. For many believers it creates discomfort. If the neurosciences can show *which* brain regions become active when we pray, love, or think about God, does that mean that prayer is just a brain process? That love is just chemistry? That the soul is an outdated illusion?
 
@@ -788,7 +788,7 @@ Libet asked test subjects to make a simple hand movement whenever they wished. H
 
 The result was sensational: the readiness potential — the brain's preparation for the movement — began *approximately 550 milliseconds before* the movement, and about 350 milliseconds before the conscious decision. The brain was already preparing before the person consciously "decided" to move.
 
-The popular interpretation was swift: "The brain decides for you. Your conscious 'choice' is just an afterthought the brain generates after the real decision has already been made unconsciously. Free will does not exist."
+The popular interpretation was swift: "The brain decides for you. Your conscious ‘choice’ is just an afterthought the brain generates after the real decision has already been made unconsciously. Free will does not exist."
 
 This interpretation is often presented in popular science, books, and media as though it were a proven fact. But the reality is considerably more nuanced.
 

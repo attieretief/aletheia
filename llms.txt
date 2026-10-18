@@ -1,0 +1,28 @@
+---
+layout: null
+permalink: /llms.txt
+---
+{%- assign course_pages = site.pages | where: "layout", "course" | sort: "order" -%}
+# Aletheia
+
+> Aletheia is an Afrikaans Reformed (GKSA tradition) study site by Attie Retief that brings faith, philosophy and science together for thinking believers. Every page is bilingual: Afrikaans first, then English. It is grounded in classical theism and the Reformed confessions (Heidelberg Catechism, Belgic Confession, Canons of Dort), engages modern objections honestly, and does not use Intelligent Design or creationist framing.
+
+- Site: {{ site.url }}
+- Language: Afrikaans (af) with parallel English (en) on every page
+- Author: Attie Retief
+- Full plain text of the series and answers: {{ site.url }}/llms-full.txt
+{% for c in course_pages %}{% if c.order < 90 %}
+## {{ c.title }} / {{ c.title_en }}
+
+{{ c.description_en }}
+
+- [{{ c.title }} / {{ c.title_en }}]({{ site.url }}{{ c.url }}): series overview
+{%- assign lessons = site.pages | where: "course", c.course_name | where_exp: "item", "item.lesson != nil" | sort: "lesson" %}
+{%- for l in lessons %}
+- [{% if c.course_name == "vrae" %}{{ l.vraag_en }} / {{ l.vraag }}{% else %}{{ l.title }} / {{ l.title_en }}{% endif %}]({{ site.url }}{{ l.url }}): {% if c.course_name == "vrae" %}{{ l.title_en }}. {% endif %}{{ l.description_en }}
+{%- endfor %}
+{% endif %}{% endfor %}
+## Optional
+
+{% for c in course_pages %}{% if c.order >= 90 %}- [{{ c.title }} / {{ c.title_en }}]({{ site.url }}{{ c.url }}): {{ c.description_en | default: c.description }}
+{% endif %}{% endfor %}

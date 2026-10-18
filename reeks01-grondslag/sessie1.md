@@ -318,7 +318,7 @@ Besides an ordered world we also experience our own inner life of mind, reason a
 
 Here it aligns with Plato (timeless truths point to a higher spiritual reality) and Aristotle (there must be an Unmoved Mover who is Thought itself). John 1 describes God as the *Logos* (Word or Reason) through whom all things were made. In the classical view, God is infinite consciousness — the perfect Mind who is the source of all rational minds.
 
-He makes the point that no computer is "conscious" merely because it computes: *"software no more 'thinks' than a clock's minute hand knows the time."* Our rationality and inner life make sense if reality itself is grounded in a supreme Intellect. Plantinga adds: if our minds were merely the product of purposeless evolution, we would have little reason to trust our thinking — which means a divine Mind is a better explanation.
+He makes the point that no computer is "conscious" merely because it computes: *"software no more ‘thinks’ than a clock's minute hand knows the time."* Our rationality and inner life make sense if reality itself is grounded in a supreme Intellect. Plantinga adds: if our minds were merely the product of purposeless evolution, we would have little reason to trust our thinking — which means a divine Mind is a better explanation.
 
 ### Bliss / Fulfilment
 
@@ -386,11 +386,11 @@ Here follow quotations from relevant thinkers about God as understood in classic
 — **David Bentley Hart (Orthodox theologian)**
 - (God is not, in any of the great theistic traditions, merely a rational agent outside the order of the physical universe. He is not a discrete being somewhere "out there." He is himself the logical order of all reality — the ground of the subjective rationality of mind, as well as the objective rationality of being.)
 
-> *"Hurling flak at a deity who inhabits the same circle of existence as everything else is fair game — but it isn't significant with regards to **the God... who is the independent Source of all contingent being**. Confronted by so constrained a concept of God, the village atheist can still ask, 'Who made God?'"*
+> *"Hurling flak at a deity who inhabits the same circle of existence as everything else is fair game — but it isn't significant with regards to **the God... who is the independent Source of all contingent being**. Confronted by so constrained a concept of God, the village atheist can still ask, ‘Who made God?’"*
 — **David Bentley Hart** — (on the wrong atheistic caricature of God)
 - (To hurl criticism at a deity who lives on the same level of existence as everything else is an easy target — but it says nothing about the God who is the independent Source of all contingent being. Against so constrained an idea of God, even the most ordinary atheist can still ask: "Who made God?")
 
-> *"All things that exist, exist by having being. A thing whose essence is not its own being exists only by participation in something else — namely, in **Being itself**. But the first cause (God), having nothing prior to Him, must have as His essence **His very act of being**... Thus when God told Moses 'I AM WHO I AM' (Exod. 3:14), He revealed **His proper name** to be 'He Who Is'."*
+> *"All things that exist, exist by having being. A thing whose essence is not its own being exists only by participation in something else — namely, in **Being itself**. But the first cause (God), having nothing prior to Him, must have as His essence **His very act of being**... Thus when God told Moses ‘I AM WHO I AM’ (Exod. 3:14), He revealed **His proper name** to be ‘He Who Is’."*
 — **St. Thomas Aquinas (13th century, theologian)**
 - (Everything that exists, exists by having being. If a thing's essence is not its own existence, it exists only by participation in something else — namely, in Being itself. But the first cause, God, who has nothing before Him, must have His own act of being as His essence. Therefore, when God said to Moses "I AM WHO I AM", He revealed His proper Name as "He Who Is.")
 
@@ -411,7 +411,7 @@ Here follow quotations from relevant thinkers about God as understood in classic
 — **John Calvin**
 - ("In Him we live and move and have our being" — Paul's meaning is that we are in a manner enclosed in God's power... for it belongs to God alone to be; all other things have their being in Him.)
 
-> *"**God is defined as a maximally great being**, i.e., a being that has all qualities that would make Him maximally great. One quality such a being must have is **necessary existence**. A 'God' who could *not* exist or could be one among others would not be maximally great."*
+> *"**God is defined as a maximally great being**, i.e., a being that has all qualities that would make Him maximally great. One quality such a being must have is **necessary existence**. A ‘God’ who could *not* exist or could be one among others would not be maximally great."*
 — **Alvin Plantinga (21st century, philosopher)**
 - (God is defined as a maximally great Being — one who has all properties that would make Him as great as possible. One of those properties is necessary existence. A "God" who possibly could not have existed, or who was merely one among many, would not truly be maximally great.)
 
@@ -419,7 +419,7 @@ Here follow quotations from relevant thinkers about God as understood in classic
 — **C.S. Lewis (20th century, writer)**
 - (If I find in myself a desire which no experience in this world can satisfy, the most probable explanation is that I was made for another world.)
 
-> *"The classical theist starts from the idea that God is **that reality which is absolutely ultimate or fundamental, the source of all other reality**... He is not 'a being' alongside other beings; rather, **His essence just is existence**... He does not *have* intellect and will; rather He just **is** infinite intellect and will."*
+> *"The classical theist starts from the idea that God is **that reality which is absolutely ultimate or fundamental, the source of all other reality**... He is not ‘a being’ alongside other beings; rather, **His essence just is existence**... He does not *have* intellect and will; rather He just **is** infinite intellect and will."*
 — **Edward Feser (Thomistic philosopher)**
 - (The classical theist starts from the idea that God is the reality that is absolutely ultimate and fundamental — the source of all other reality. He is not merely a being alongside other beings; His essence is existence itself. He does not merely have intellect and will — He *is* infinite intellect and will.)
 
@@ -457,9 +457,9 @@ Let us ground our discussion in Scripture by looking at two key Bible verses rel
 
 > **Exodus 3:14** — "I am who I am." (ESV)
 
-This is a key verse for understanding who God is. In this scene Moses asks God His Name, and God answers: *"I AM WHO I AM... Say this to the people of Israel: 'I AM has sent me to you.'"* (In Hebrew *YHWH* is related to the verb "to be.") The Greek translation (Septuagint) renders this as *"I am He Who Is"*, and the Latin Vulgate similarly has *Ego sum qui sum* ("I am who I am").
+This is a key verse for understanding who God is. In this scene Moses asks God His Name, and God answers: *"I AM WHO I AM... Say this to the people of Israel: ‘I AM has sent me to you.’"* (In Hebrew *YHWH* is related to the verb "to be.") The Greek translation (Septuagint) renders this as *"I am He Who Is"*, and the Latin Vulgate similarly has *Ego sum qui sum* ("I am who I am").
 
-**What does it mean?** At first it may sound mysterious, but the classical understanding is that God hereby expresses *self-existence and eternal being*. Church Fathers such as St. **Gregory of Nazianzus** pointed out that God chose this name *"as most appropriate, for it bespeaks absolute existence, independent of anything else."* In other words, only God can in the ultimate sense say "**I AM**" — His existence is not derived from a higher reality. St. **Jerome** explained that when God says "I AM", He claims that He is *"the one whose nature alone truly is... all things else, although they appear to be, are not \[truly independent], for they began and may cease. **God alone**, having no beginning, **really deserves to be called 'Being' or 'Essence.'**"*
+**What does it mean?** At first it may sound mysterious, but the classical understanding is that God hereby expresses *self-existence and eternal being*. Church Fathers such as St. **Gregory of Nazianzus** pointed out that God chose this name *"as most appropriate, for it bespeaks absolute existence, independent of anything else."* In other words, only God can in the ultimate sense say "**I AM**" — His existence is not derived from a higher reality. St. **Jerome** explained that when God says "I AM", He claims that He is *"the one whose nature alone truly is... all things else, although they appear to be, are not \[truly independent], for they began and may cease. **God alone**, having no beginning, **really deserves to be called ‘Being’ or 'Essence.'**"*
 
 It is remarkable: already in Moses's time God reveals that His "Name" is *Being itself*. Thomas Aquinas built on this by saying that God's essence is to exist, and that no created being shares this unique Name "He who IS." For our faith, Exodus 3:14 means that God is not just another being in the universe, but the foundational Being beneath the universe. It also implies God's immutable, eternal nature — as Gregory puts it: for God there is no "was" or "will be", but only an eternal Now of existence.
 
