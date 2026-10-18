@@ -3,7 +3,7 @@
 ## Positioning & pedagogy
 - **Implicit apologetics, never branded as such** — the apologetic function shapes the substance (real objections, philosophical rigour, honest treatment) but never the tone or branding. The tone stays "a congregation studying together," not a fortress under siege.
 - **Series organised by live pressure points, not the systematic-theology syllabus** — the traditional order (Theology → Revelation → Anthropology → …) is inward-facing; Aletheia follows the questions real people actually meet in an atheistic world. Each series answers the question the previous one leaves open. Master plan in `ROADMAP.md`.
-- **Dual authorship maintained** — Attie Retief (philosophical/systematic) + Douw Kruger (pastoral/practical). The two-voice design is intentional.
+- **Attie writes everything (2026-10-18)** — Attie Retief is sole author of all series content, systematic and pastoral; Douw Kruger is a podcast guest only. Supersedes the earlier dual-authorship decision.
 
 ## Theology / content
 - **Never use Intelligent Design or creationist framing** — ID makes God a competing cause (a demiurge/engineer) and relies on god-of-the-gaps reasoning, which undermines the classical theism Reeks 1 establishes and weakens faith as gaps close. Reformed providence works *through* natural processes (HC Q27, NGB Art 13). Practically: no Behe/Dembski/irreducible-complexity as a Reformed position; no necessity/chance/design trilemma; frame fine-tuning as deepening the contingency argument, not evidence for a "Designer"; engage evolution honestly (enemy = philosophical naturalism, not the science); treat YEC briefly/respectfully but not as mainstream Reformed. `ontwerp` is fine ordinarily, risky where it echoes ID "design detection."

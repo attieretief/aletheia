@@ -33,7 +33,7 @@ Aletheia is an Afrikaans Reformed theological education site — a course series
 ## Positioning & voice (important)
 
 - **Implicit apologetics.** The apologetic function shapes the *substance* (rigorous engagement with real objections) but never the branding or tone. The tone is a congregation studying together, not a fortress under siege. Never advertise the site as "apologetics".
-- **Dual authorship is intentional**: Attie Retief (philosophical/systematic) and Douw Kruger (pastoral/practical). Maintain both voices.
+- **Attie Retief writes all series content** — systematic and pastoral alike. Douw Kruger appears only as a podcast guest, not as a co-author.
 - **Ground everything in the classical tradition** (Augustine, Aquinas, the Cappadocians, Bavinck, Kuyper, Warfield), not single modern sources.
 - **Never use Intelligent Design or creationist framing.** Classical theism and Reformed providence do not lean ID/YEC. God works through natural processes (HC Q27, NGB Art 13), not by filling gaps. Do NOT use the necessity/chance/design trilemma. Frame fine-tuning as deepening the contingency argument, not as evidence for a "Designer". Engage evolution honestly — the enemy is philosophical naturalism, not the science. Treat YEC briefly and respectfully but not as a mainstream Reformed position. `ontwerp` is fine in ordinary use but dangerous where it echoes ID "design detection".
 - **Writing craft**: aim for the refined humanisation discipline of Attie's parallel book project (warm, unhurried, precise, honest about uncertainty). Avoid AI tells — no em-dash overuse, no hollow intensifiers, no reflexive tricolons. Read-aloud tested.
