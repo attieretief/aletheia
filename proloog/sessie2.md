@@ -177,7 +177,7 @@ stem nie saam oor *hoe* ons by die geloof in God uitkom nie, en die verskil is n
 Aletheia staan die naaste aan Herman Bavinck, in wie se werk elkeen van hierdie stemme iets van homself herken. Ons gebruik argumente,
 soos Reeks 1 sal wys, maar as wegwysers en nie as bewyse wat geen eerlike mens kan weerstaan nie. Ons glo
 nie ons begin op neutrale grond nie. En ons glo dat die geloof uiteindelik deur die Gees gewerk word,
-nie deur ons argumente nie. Ons gaan in Reeks 5 breedvoeriger op hierdie gesprek in.
+nie deur ons argumente nie. Ons gaan in Reeks 4 breedvoeriger op hierdie gesprek in.
 
 ## 8. Terug na die familiegroep
 
@@ -422,7 +422,7 @@ not agree about *how* we come to believe in God, and the difference matters.
 Aletheia stands closest to Herman Bavinck, in whose work each of these voices recognises something of its own. We use arguments, as
 Series 1 will show, but as signposts and not as proofs no honest person can resist. We don't believe we start
 on neutral ground. And we believe faith is finally the Spirit's work, not the work of our arguments.
-Series 5 goes into this conversation more fully.
+Series 4 goes into this conversation more fully.
 
 ## 8. Back to the family group
 

@@ -10,7 +10,7 @@
 - Spotify upload stays manual (no API); the analyst pastes any non-API stats by hand.
 
 ## Roadmap / content
-- **Reeks 3–9 unwritten.** Next up is Reeks 3 — Mens & Betekenis. Lyding & Kwaad moved to Reeks 5 (2026-10-18). See `ROADMAP.md`.
+- **Reeks 3 in draft** (`_werk/reeks03/`): landing + Sessie 1 drafted 2026-10-18, awaiting Attie's read. Integration also fixes Reeks 2 slot.md:127 + draaiboek:169/343 (still promise "Reeks 3: Lyding"). Reeks 4–9 unwritten. Lyding & Kwaad moved to Reeks 5 (2026-10-18). See `ROADMAP.md`.
 - Continue applying the refined *Cosmic Wonder* humanisation discipline to existing Reeks 1–2 content going forward.
 
 ## Distribution / platform notes to revisit

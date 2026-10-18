@@ -215,7 +215,7 @@ Hierdie opstel het net een vraag beantwoord: wat is waarheid? Die moeiliker vrae
 As waarheid by God se verstand begin, kan ons swak en gevalle verstand dit dan werklik ken? Dis die
 vraag van [die tweede opstel]({{ site.baseurl }}/proloog/sessie2.html). En as daar net een werklikheid is, waarom lyk dit vandag of elkeen sy
 eie waarheid het? Dis die derde. Die vierde vra wat dit beteken om die waarheid te *doen*, en nie
-net te weet nie. (Die volle vraag oor *hoe* ons ken, met al sy tegniese kante, kom eers in Reeks 5
+net te weet nie. (Die volle vraag oor *hoe* ons ken, met al sy tegniese kante, kom eers in Reeks 4
 aan die beurt.)
 
 Intussen gaan ons terug na die hofsaal. Die getuie het nog nooit Aristoteles of Thomas gelees nie,
@@ -505,7 +505,7 @@ This essay has answered one question: what is truth? It has left the harder ones
 If truth begins in God's mind, can our weak, fallen minds really know it? That is the question of
 [the second essay]({{ site.baseurl }}/proloog/sessie2.html). And if there is only one reality, why does it look today as if everyone has their
 own truth? That is the third. The fourth asks what it means to *do* the truth, not only to know it.
-(The full question of *how* we know, with all its technical sides, waits for Series 5.)
+(The full question of *how* we know, with all its technical sides, waits for Series 4.)
 
 Meanwhile we can go back to the courtroom. The witness has never read Aristotle or Aquinas, and he
 doesn't need to. He promises to make his words fit what happened. Then he says four more words that
