@@ -72,3 +72,27 @@ dieper" line then points to the Reeks 1–3 material that exists, plus "Reeks N 
 - **2026-10-18 published:** 15 answers live (#1–15) at /vrae.html; files in `vrae/`, landing `vrae.md`.
   12 drafted by three parallel writers and edited by me. Open ⚠️: AF Bible wording in #4 (Joh 14:8–9),
   #12 (Mk 8:29) vs 1983; Warfield paraphrase in #7. Next: #16–30.
+
+## Variations from written content (Attie 2026-10-18: offer every phrasing; overlap is fine)
+
+| # | Tema | Vraag soos jy dit hoor | Diepte |
+|---|---|---|---|
+| 31 | God | "Ek glo net in een god minder as jy." | R1 S1–2 |
+| 32 | God | "Die vlieënde spaghettimonster is net so waarskynlik soos God." | R1 S1 |
+| 33 | God | "Kan God 'n klip maak wat te swaar is vir Hom om op te tel?" | R1 S2 |
+| 34 | God | "Wie het die oerknal veroorsaak? Niemand nie." / Hawking: "die heelal het God nie nodig nie" | R2 S3; R1 S4 |
+| 35 | God | "Godsdiens is vir mense wat bang is vir die dood." | R1 S6 |
+| 36 | Wetenskap | "Wetenskaplikes glo nie in God nie." | R2 S2 |
+| 37 | Wetenskap | "Wonderwerke breek die natuurwette, so hulle is onmoontlik." | R1 S3; R2 |
+| 38 | Wetenskap | "Die Bybel sê die aarde is 6 000 jaar oud." | R2 S5, S8 |
+| 39 | Wetenskap | "Liefde is net chemie." | R2 S6 |
+| 40 | Wetenskap | "Vrye wil is 'n illusie. Jou brein besluit voor jy dit weet." | R2 S6 |
+| 41 | Waarheid | "Geloof is om te glo sonder bewyse." | Proloog 2 |
+| 42 | Waarheid | "Jy kan van niks seker wees nie." | Proloog 2 |
+| 43 | Waarheid | "Wie is jy om te sê iemand anders is verkeerd?" | Proloog 3 |
+| 44 | Waarheid | "Dis arrogant om te sê Jesus is die enigste weg." | Proloog 3; R1 S8 |
+| 45 | Mens | "Ons is 'n spikkel stof in 'n reuse heelal. Ons beteken niks." | R3 S1 |
+| 46 | Mens | "Moraliteit is net evolusie, 'n oorlewingstrategie." | R1 S5–6 |
+| 47 | Mens | "Reg en verkeerd is net wat jou kultuur sê." | R1 S6; Proloog 3 |
+
+Before #37, #38 and #40, check exactly how far R1–R2 go, so the answer doesn't overreach.
