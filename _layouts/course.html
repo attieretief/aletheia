@@ -74,6 +74,7 @@ layout: page
 </div>
 
 <div class="container mx-auto">
+  {% unless course_name == "vrae" %}
   {% if course_name == "woordelys" %}
     {% assign lessons = site.pages | where: "course", course_name | where_exp: "item", "item.lesson != nil" | sort: "title" %}
   {% else %}
@@ -82,4 +83,5 @@ layout: page
   {% for page in lessons %}
     {% include lesson_block.html %}
   {% endfor %}
+  {% endunless %}
 </div>
