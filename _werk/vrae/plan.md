@@ -96,3 +96,6 @@ dieper" line then points to the Reeks 1–3 material that exists, plus "Reeks N 
 | 47 | Mens | "Reg en verkeerd is net wat jou kultuur sê." | R1 S6; Proloog 3 |
 
 Before #37, #38 and #40, check exactly how far R1–R2 go, so the answer doesn't overreach.
+- **2026-10-18 published #31–47:** 32 answers live, grouped by theme on the landing page. Fixed in passing:
+  Reeks 2 S6 Libet timing (the readiness potential comes ~550 ms before the *movement* and ~350 ms before awareness).
+  Open ⚠️: Heb 11:11 subject (Sara vs Abraham across translations); Lewis "drawer" paraphrase.

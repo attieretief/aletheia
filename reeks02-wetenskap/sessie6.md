@@ -213,7 +213,7 @@ Hierdie deterministiese siening van die menslike gees word dikwels gesteun deur 
 
 Libet het proefpersone gevra om 'n eenvoudige handbeweging te maak wanneer hulle wou. Hy het drie dinge gemeet: die tyd van die werklike handbeweging, die tyd wanneer die proefpersoon *bewustelik* besluit het om te beweeg (soos aangedui deur 'n klok), en die elektriese breinaktiwiteit (die sogenaamde "gereedheidspotensiaal" of *Bereitschaftspotential*).
 
-Die resultaat was opspraakwekkend: die gereedheidspotensiaal, die brein se voorbereiding vir die beweging, het *ongeveer 550 millisekonde vóór* die bewuste besluit begin. Die brein was reeds aan die voorberei voordat die persoon bewustelik "besluit" het om te beweeg.
+Die resultaat was opspraakwekkend: die gereedheidspotensiaal, die brein se voorbereiding vir die beweging, het *ongeveer 550 millisekonde vóór* die beweging begin, en sowat 350 millisekonde vóór die bewuste besluit. Die brein was reeds aan die voorberei voordat die persoon bewustelik "besluit" het om te beweeg.
 
 Die populêre interpretasie was vinnig: "Die brein besluit vir jou. Jou bewuste 'keuse' is net 'n nagedagte wat die brein genereer nadat die werklike besluit reeds onbewus geneem is. Vrye wil bestaan nie."
 
@@ -786,7 +786,7 @@ This deterministic view of the human mind is often supported by reference to the
 
 Libet asked test subjects to make a simple hand movement whenever they wished. He measured three things: the time of the actual hand movement, the time when the subject *consciously* decided to move (as indicated by a clock), and the electrical brain activity (the so-called "readiness potential" or *Bereitschaftspotential*).
 
-The result was sensational: the readiness potential — the brain's preparation for the movement — began *approximately 550 milliseconds before* the conscious decision. The brain was already preparing before the person consciously "decided" to move.
+The result was sensational: the readiness potential — the brain's preparation for the movement — began *approximately 550 milliseconds before* the movement, and about 350 milliseconds before the conscious decision. The brain was already preparing before the person consciously "decided" to move.
 
 The popular interpretation was swift: "The brain decides for you. Your conscious 'choice' is just an afterthought the brain generates after the real decision has already been made unconsciously. Free will does not exist."
 
