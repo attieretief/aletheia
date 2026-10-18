@@ -37,7 +37,9 @@
     {%- unless first %},{% endunless -%}{%- assign first = false -%}
     {"url": {{ l.url | prepend: site.baseurl | jsonify }},
      "af": {{ audio_dir | append: lslug | append: ".af.mp3" | prepend: site.baseurl | jsonify }},
-     "en": {{ audio_dir | append: lslug | append: ".en.mp3" | prepend: site.baseurl | jsonify }},
+     {%- assign lpath_en = audio_dir | append: lslug | append: ".en.mp3" -%}
+     {%- assign lhit_en = site.static_files | where: "path", lpath_en | first %}
+     "en": {% if lhit_en %}{{ lpath_en | prepend: site.baseurl | jsonify }}{% else %}null{% endif %},
      "title_af": {{ l.vraag | default: l.title | jsonify }},
      "title_en": {{ l.vraag_en | default: l.title_en | default: l.title | jsonify }}}
     {%- endif -%}
@@ -80,7 +82,7 @@ body.ap-open { padding-bottom: 160px; }
     var frac = keepFraction && audio.duration ? audio.currentTime / audio.duration : 0;
     i = idx;
     var t = list[i];
-    audio.src = t[lang()];
+    audio.src = t[lang()] || t.af;
     audio.playbackRate = speeds[s];
     if (frac) audio.addEventListener('loadedmetadata', function once() { audio.currentTime = frac * audio.duration; audio.removeEventListener('loadedmetadata', once); });
     $('ap-title').textContent = lang() === 'en' ? t.title_en : t.title_af;
