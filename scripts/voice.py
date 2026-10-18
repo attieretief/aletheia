@@ -9,8 +9,7 @@ Writes assets/audio/<course>/<slug>.<af|en>.mp3. The site's player finds them by
 Skips a file whose spoken text has not changed (hashes in assets/audio/manifest.json).
 
 The API key is never stored in the repo. It comes from $ELEVENLABS_API_KEY, or from the
-macOS Keychain item "elevenlabs-api-key":
-    security add-generic-password -s elevenlabs-api-key -a "$USER" -w
+macOS Keychain item service "elevenlabs", account "attie" (shared with hub/voice).
 Voice and model come from $ELEVENLABS_VOICE_ID / $ELEVENLABS_MODEL (default eleven_v3).
 """
 import hashlib
@@ -37,10 +36,10 @@ def api_key():
         return key
     try:
         return subprocess.check_output(
-            ["security", "find-generic-password", "-s", "elevenlabs-api-key", "-w"],
+            ["security", "find-generic-password", "-s", "elevenlabs", "-a", "attie", "-w"],
             text=True, stderr=subprocess.DEVNULL).strip()
     except (subprocess.CalledProcessError, FileNotFoundError):
-        sys.exit("No ElevenLabs key: set $ELEVENLABS_API_KEY or add Keychain item 'elevenlabs-api-key'.")
+        sys.exit("No ElevenLabs key: set $ELEVENLABS_API_KEY or add Keychain item service 'elevenlabs', account 'attie'.")
 
 
 def front_matter(text):
