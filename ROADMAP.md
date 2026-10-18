@@ -49,7 +49,7 @@ Elke reeks beantwoord die vraag wat die vorige een ooplaat.
 ### Reeks 5 — Waarheid & Kennis
 **Kernvraag:** Kan ons enigiets met sekerheid weet? Wie se waarheid is "die" waarheid?
 **Drukpunt:** Relativisme, pluralisme, "alle godsdienste is basies dieselfde." Verdraagsaamheid as hoogste deug.
-**Benadering:** Epistemologie — wat ken ons, hoe ken ons dit, en hoekom maak dit saak. Volg logies op Mens & Betekenis: as jy gevestig het wat die mens ís, vra jy wat die mens kan wéét.
+**Benadering:** Epistemologie met **getuienis** as spil: die meeste van wat ons weet, weet ons omdat ons iemand vertrou. Volg op Mens & Betekenis: die mens is na God se beeld geskep en dus geskape om te ken. Die vraag is hoe ons ken en wie ons kan vertrou. Dit lei reguit na Reeks 6, want die Skrif is getuienis.
 **Grens met die Proloog:** Die Proloog ("Wat is Waarheid?") vestig *dat* waarheid werklik, persoonlik en (nederig) kenbaar is. Reeks 5 doen *hoe* ons ken: begronding, getuienis, pluralisme en die volle metode-debat (klassiek / presupposisioneel / Gereformeerde epistemologie).
 **Status:** Beplan
 
@@ -98,8 +98,8 @@ Elke reeks beantwoord die vraag wat die vorige een ooplaat:
 - As God bestaan (1), wat van die fisiese wêreld? (2)
 - As God werklik is én die wêreld Syne is, hoekom die lyding? (3)
 - As ons lyding kan verwerk, wie ís ons dan? (4)
-- As ons weet wie ons is, wat kan ons wéét? (5)
-- As ons kan ken, is hierdie Boek betroubaar? (6)
+- As die mens na God se beeld geskep is, is hy geskape om te ken. Hoe ken ons, en wie kan ons vertrou? (5)
+- As ons deur getuienis ken, is hierdie getuienis betroubaar? (6)
 - As die Skrif betroubaar is, het hierdie Man werklik opgestaan? (7)
 - As Christus opgestaan het, wat het die kruis bereik en wat wag aan die einde? (8)
 - En wat beteken dit alles vir môre? (9)
