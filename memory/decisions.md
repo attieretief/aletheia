@@ -20,7 +20,7 @@
 
 ## Prologue "Wat is Waarheid?" (2026-10-16)
 - **Four essays (~3k words each), Attie only** — each hooks, teaches one thing and maps to one podcast episode.
-- **Prologue does *that*, Reeks 5 does *how*** — avoids hollowing out Reeks 5 (Waarheid & Kennis).
+- **Prologue does *that*, Reeks 4 does *how*** — avoids hollowing out Reeks 4 (Waarheid & Kennis).
 - **Method = the *Reasonable Wonder* line** (realist about truth, arguments as pointers, method disagreement named openly) — the site currently contradicts itself (Reeks 2 s7:444-460 says Bavinck, Calvin, Van Til agree); that passage gets corrected.
 - **No print copies bought** — quote only verified free text; paraphrase Bavinck, Schaeffer's "true truth", Frankfurt, Geisler.
 
@@ -30,3 +30,4 @@
 - **The Prologue precedes every series — refer forward, never back (Attie, 2026-10-16).** No "soos ons in Reeks 1 gesien het"; write "Reeks 1 gaan verder hierop in" / "ons kom in Reeks 2 weer hierby uit".
 - **Stay out of party politics and inter-church differences (Attie, 2026-10-16).** No named political episodes (e.g. apartheid) and no naming of denominations against each other; make the point about "the church" or "Christians" generally, or personally. Doctrinal disagreement between *thinkers* (Bavinck/Van Til) is fine; between *churches* is not.
 - **Audience widened beyond the congregation (Attie, 2026-10-17).** Aletheia is for anyone willing to think, ask and grow: believers going deeper and seekers wanting honest answers, with 18–35 in mind. The origin story (a congregation's honest wrestling) stays; the "gemeentelede" framing goes. Homepage updated.
+- **Order is Mens (3) → Kennis (4) → Lyding & Kwaad (5) → Skrif (6) (Attie, 2026-10-18).** Evil needs the anthropology (fall, bound will) and the limits of knowing (Job 38–42) in place, and lament leads into Scripture. Cost: the #1 emotional objection waits until 5, so earlier series must point ahead to it honestly.

@@ -5,7 +5,7 @@ agtergrondmateriaal te dien. Nie inhoud wat direk gepubliseer word nie — rou n
 in 'n sessie se voorbereiding ingespan word. Merk `[x]` of skuif na 'n reeks se notas wanneer
 dit verwerk is.
 
-## Bewussyn, idealisme & die "hard problem" (hoofsaaklik → Reeks 4: Mens & Betekenis)
+## Bewussyn, idealisme & die "hard problem" (hoofsaaklik → Reeks 3: Mens & Betekenis)
 
 Gemeenskaplike draad: die sekulêre debat oor bewussyn loop weg van suiwer materialisme —
 idealisme (Kastrup), Integrated Information Theory (Koch/Tononi), kwantum-bewussyn
@@ -30,18 +30,18 @@ panpsigisties/idealisties, nie Christelik nie — gebruik as gespreksgenoot, nie
 ## Godsleer / natuurlike teologie (→ Reeks 1 & 5)
 
 - [ ] **Is This the New Theory for God? — Alex O'Connor**
-  https://youtube.com/watch?v=wpVsXw4aqEY — sekulêre stem wat 'n "teorie vir God" oorweeg; nuttig vir toon/drukpunt in Reeks 1 (Wie is God?) en Reeks 5 (Waarheid & Kennis).
+  https://youtube.com/watch?v=wpVsXw4aqEY — sekulêre stem wat 'n "teorie vir God" oorweeg; nuttig vir toon/drukpunt in Reeks 1 (Wie is God?) en Reeks 4 (Waarheid & Kennis).
 
 ## Terugvoer na bestaande reekse
 
 - Die neurowetenskap-hoeke (Koch, IIT, Friston) versterk ook **Reeks 2 (Wetenskap & Werklikheid)**
   se neurowetenskap-argument indien later hersien.
 
-## Waarheid & kennis (→ Reeks 5)
+## Waarheid & kennis (→ Reeks 4)
 
 - [ ] **Chris Venter — "Logic and Test for Truth: Extracts B"** (rev 2, 10 Oct 2026; Attie's copy in
   `~/Downloads`, not for distribution, don't quote). Uittreksels uit Geisler & Turek (hfst. 1) en Geisler &
-  Bocchino, *Unshakable Foundations* (pp. 19–53). Bruikbaar vir Reeks 5:
+  Bocchino, *Unshakable Foundations* (pp. 19–53). Bruikbaar vir Reeks 4:
   - logika as *negatiewe* toets: dit vind foute, nie waarheid nie ("wat waar is, is logies; wat logies is,
     is nie noodwendig waar nie" — die kabouter-voorbeeld);
   - die drie wette (nie-teenstrydigheid, identiteit, uitgeslote derde) in gewone taal;
@@ -51,4 +51,4 @@ panpsigisties/idealisties, nie Christelik nie — gebruik as gespreksgenoot, nie
   - Let wel: Geisler se kumulatiewe wêreldbeskouingstoets is die metode wat *Reasonable Wonder* opsy
     gesit het; gebruik die helderheid, nie die metode nie.
 - Chris Venter (L'Abri SA) het 'n besondere belangstelling in die "Wat is waarheid?"-vraag — 'n goeie
-  leser vir Reeks 5 se konsepte.
+  leser vir Reeks 4 se konsepte.

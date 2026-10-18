@@ -30,7 +30,7 @@ moontlik om ernstig oor God, die wetenskap of die mens te praat as ons nie eers 
 "waar" bedoel nie.
 
 Hierdie proloog is korter as die reekse wat volg. Dit lê die grondslag. Die volle vraag oor *hoe* ons
-ken, met al sy tegniese kante, kom later in Reeks 5 aan die beurt.
+ken, met al sy tegniese kante, kom later in Reeks 4 aan die beurt.
 
 ## Vier Opstelle
 
@@ -80,7 +80,7 @@ often matters less than whether it gets attention. It is not possible to talk se
 science or the human person until we know what we mean by "true".
 
 This prologue is shorter than the series that follow. It lays the ground. The full question of *how*
-we know, with all its technical sides, comes later in Series 5.
+we know, with all its technical sides, comes later in Series 4.
 
 ## Four Essays
 

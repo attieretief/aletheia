@@ -30,15 +30,7 @@ Elke reeks beantwoord die vraag wat die vorige een ooplaat.
 
 ---
 
-### Reeks 3 — Lyding & Kwaad
-**Kernvraag:** As God bestaan én goed is, hoekom ly ons?
-**Drukpunt:** Die probleem van kwaad — die #1 emosionele beswaar. Sosiale media maak globale lyding meer sigbaar as ooit.
-**Benadering:** Moet vroeg kom omdat dit die emosionele blokkade is. Mense luister nie na verdere argumente as hierdie nie eerlik hanteer word nie. Sluit in: die logiese probleem, die evidensiële probleem, teodisee, en die Bybelse tradisie van klag (Job, Psalms). **Skarnier:** hier moet ons die weiering om lyding deur 'n "groter goed" te regverdig (Ivan Karamazof by Dostojefski se klassieke stem) eerlik hanteer en ons Gereformeerde posisie — God se soewereiniteit, kwaad as privasie, voorsienigheid — daarteen besluit en verdedig. Let wel: die probleem van kwaad loop reguit oor op die vrae van hel en universele verlossing; dié word ten volle in die nuwe **Reeks 8 (Die Kruis & die Laaste Dinge)** hanteer.
-**Status:** Beplan
-
----
-
-### Reeks 4 — Mens & Betekenis
+### Reeks 3 — Mens & Betekenis
 **Kernvraag:** Wie is die mens? Waar kom moraliteit vandaan? Het die lewe betekenis?
 **Drukpunt:** Sekulêre humanisme beweer moraliteit het nie God nodig nie — en dat godsdiens morele vooruitgang belemmer. Identiteitspolitiek, relativisme.
 **Benadering:** Bewussyn, die siel, morele intuïsie, doel. Bou op die metafisika (Reeks 1) en die fisiese werklikheid (Reeks 2) om te vra wat die mens uniek maak.
@@ -46,11 +38,19 @@ Elke reeks beantwoord die vraag wat die vorige een ooplaat.
 
 ---
 
-### Reeks 5 — Waarheid & Kennis
+### Reeks 4 — Waarheid & Kennis
 **Kernvraag:** Kan ons enigiets met sekerheid weet? Wie se waarheid is "die" waarheid?
 **Drukpunt:** Relativisme, pluralisme, "alle godsdienste is basies dieselfde." Verdraagsaamheid as hoogste deug.
-**Benadering:** Epistemologie met **getuienis** as spil: die meeste van wat ons weet, weet ons omdat ons iemand vertrou. Volg op Mens & Betekenis: die mens is na God se beeld geskep en dus geskape om te ken. Die vraag is hoe ons ken en wie ons kan vertrou. Dit lei reguit na Reeks 6, want die Skrif is getuienis.
-**Grens met die Proloog:** Die Proloog ("Wat is Waarheid?") vestig *dat* waarheid werklik, persoonlik en (nederig) kenbaar is. Reeks 5 doen *hoe* ons ken: begronding, getuienis, pluralisme en die volle metode-debat (klassiek / presupposisioneel / Gereformeerde epistemologie).
+**Benadering:** Epistemologie met **getuienis** as spil: die meeste van wat ons weet, weet ons omdat ons iemand vertrou. Volg op Mens & Betekenis: die mens is na God se beeld geskep en dus geskape om te ken. Die vraag is hoe ons ken en wie ons kan vertrou. Dit berei Reeks 6 voor, want die Skrif is getuienis; en dit leer die grense van ons kennis, wat Reeks 5 nodig het.
+**Grens met die Proloog:** Die Proloog ("Wat is Waarheid?") vestig *dat* waarheid werklik, persoonlik en (nederig) kenbaar is. Reeks 4 doen *hoe* ons ken: begronding, getuienis, pluralisme en die volle metode-debat (klassiek / presupposisioneel / Gereformeerde epistemologie).
+**Status:** Beplan
+
+---
+
+### Reeks 5 — Lyding & Kwaad
+**Kernvraag:** As God bestaan én goed is, hoekom ly ons?
+**Drukpunt:** Die probleem van kwaad — die #1 emosionele beswaar. Sosiale media maak globale lyding meer sigbaar as ooit.
+**Benadering:** Kom ná Mens (3) en Kennis (4), want die sterkste antwoorde het albei nodig: wat die mens is (skepping, val, die gebonde wil) en hoe ver ons kennis strek (Job 38–42: God antwoord nie met 'n verklaring nie, maar met Homself). Die emosionele gewig bly; daarom moet die Proloog en Reeks 1–2 eerlik vooruit wys dat die vraag kom. Die klagtradisie (Job, Psalms) lei reguit na die Skrif (6). Sluit in: die logiese probleem, die evidensiële probleem, teodisee, en die Bybelse tradisie van klag (Job, Psalms). **Skarnier:** hier moet ons die weiering om lyding deur 'n "groter goed" te regverdig (Ivan Karamazof by Dostojefski se klassieke stem) eerlik hanteer en ons Gereformeerde posisie — God se soewereiniteit, kwaad as privasie, voorsienigheid — daarteen besluit en verdedig. Let wel: die probleem van kwaad loop reguit oor op die vrae van hel en universele verlossing; dié word ten volle in die nuwe **Reeks 8 (Die Kruis & die Laaste Dinge)** hanteer.
 **Status:** Beplan
 
 ---
@@ -90,16 +90,16 @@ Elke reeks beantwoord die vraag wat die vorige een ooplaat.
 ## Progressielogika
 
 ```
-Metafisika → Fisiese werklikheid → Die probleem van kwaad → Wat is die mens →
-Wat kan ons weet → Die Skrif → Christus → Die kruis & laaste dinge → Die toekoms
+Metafisika → Fisiese werklikheid → Wat is die mens → Wat kan ons weet →
+Die probleem van kwaad → Die Skrif → Christus → Die kruis & laaste dinge → Die toekoms
 ```
 
 Elke reeks beantwoord die vraag wat die vorige een ooplaat:
 - As God bestaan (1), wat van die fisiese wêreld? (2)
-- As God werklik is én die wêreld Syne is, hoekom die lyding? (3)
-- As ons lyding kan verwerk, wie ís ons dan? (4)
-- As die mens na God se beeld geskep is, is hy geskape om te ken. Hoe ken ons, en wie kan ons vertrou? (5)
-- As ons deur getuienis ken, is hierdie getuienis betroubaar? (6)
+- As God werklik is én die wêreld Syne is, wie is die mens daarin? (3)
+- As die mens na God se beeld geskep is, is hy geskape om te ken. Hoe ken ons, en wie kan ons vertrou? (4)
+- As ons kan ken, maar nie alles nie, hoekom die lyding? (5)
+- As God in die lyding praat (Job, Psalms), is hierdie Boek se getuienis betroubaar? (6)
 - As die Skrif betroubaar is, het hierdie Man werklik opgestaan? (7)
 - As Christus opgestaan het, wat het die kruis bereik en wat wag aan die einde? (8)
 - En wat beteken dit alles vir môre? (9)
@@ -118,10 +118,10 @@ Vier studies dra die skerpste breukvlakke op navorsingsvlak en voed die gemeente
 
 | Vraestel | Breukvlak | Voed |
 |---|---|---|
-| **A — Universalisme & die Laaste Dinge** | apokatastasis, ewige hel, die trilemma, die morele betekenis van *creatio ex nihilo* | Reeks 3 (vooruit) + Reeks 8 |
+| **A — Universalisme & die Laaste Dinge** | apokatastasis, ewige hel, die trilemma, die morele betekenis van *creatio ex nihilo* | Reeks 5 (vooruit) + Reeks 8 |
 | **B — Versoening: Losprys én Plaasvervanging** | strafplaasvervanging vs losprys / *Christus Victor* | Reeks 8 |
-| **C — Soewereiniteit, Vrye Wil & Verkiesing** | Calvinistiese soewereiniteit, die gebonde wil, verkiesing | Reeks 3/4 + Reeks 8 |
-| **D — Natuur, Genade & Vergoddeliking** | natuur/genade, theosis-grammatika (die konvergente paar) | Reeks 1 (kontroversie) + Reeks 4 |
+| **C — Soewereiniteit, Vrye Wil & Verkiesing** | Calvinistiese soewereiniteit, die gebonde wil, verkiesing | Reeks 3/5 + Reeks 8 |
+| **D — Natuur, Genade & Vergoddeliking** | natuur/genade, theosis-grammatika (die konvergente paar) | Reeks 1 (kontroversie) + Reeks 3 |
 
 ## Notas
 

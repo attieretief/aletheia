@@ -10,7 +10,7 @@
 - Spotify upload stays manual (no API); the analyst pastes any non-API stats by hand.
 
 ## Roadmap / content
-- **Reeks 3–8 unwritten.** Next up is Reeks 3 — Lyding & Kwaad (problem of evil), placed early because it is the #1 emotional blocker. See `ROADMAP.md` for the full plan and per-series notes (including the "Hart" anti-theodicy hinge to engage in Reeks 3).
+- **Reeks 3–9 unwritten.** Next up is Reeks 3 — Mens & Betekenis. Lyding & Kwaad moved to Reeks 5 (2026-10-18). See `ROADMAP.md`.
 - Continue applying the refined *Cosmic Wonder* humanisation discipline to existing Reeks 1–2 content going forward.
 
 ## Distribution / platform notes to revisit
