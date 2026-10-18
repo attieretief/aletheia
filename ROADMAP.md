@@ -33,7 +33,7 @@ Elke reeks beantwoord die vraag wat die vorige een ooplaat.
 ### Reeks 3 — Lyding & Kwaad
 **Kernvraag:** As God bestaan én goed is, hoekom ly ons?
 **Drukpunt:** Die probleem van kwaad — die #1 emosionele beswaar. Sosiale media maak globale lyding meer sigbaar as ooit.
-**Benadering:** Moet vroeg kom omdat dit die emosionele blokkade is. Mense luister nie na verdere argumente as hierdie nie eerlik hanteer word nie. Sluit in: die logiese probleem, die evidensiële probleem, teodisee, en die Bybelse tradisie van klag (Job, Psalms). **Hart-skarnier:** hier moet ons Hart se *anti-teodisee* (sy weiering om lyding deur 'n "groter goed" te regverdig) eerlik hanteer en ons eie Gereformeerde posisie — God se soewereiniteit, kwaad as privasie, voorsienigheid — daarteen besluit en verdedig. Let wel: die probleem van kwaad loop reguit oor op die vrae van hel en universele verlossing; dié word ten volle in die nuwe **Reeks 8 (Die Kruis & die Laaste Dinge)** hanteer.
+**Benadering:** Moet vroeg kom omdat dit die emosionele blokkade is. Mense luister nie na verdere argumente as hierdie nie eerlik hanteer word nie. Sluit in: die logiese probleem, die evidensiële probleem, teodisee, en die Bybelse tradisie van klag (Job, Psalms). **Skarnier:** hier moet ons die weiering om lyding deur 'n "groter goed" te regverdig (Ivan Karamazof by Dostojefski se klassieke stem) eerlik hanteer en ons Gereformeerde posisie — God se soewereiniteit, kwaad as privasie, voorsienigheid — daarteen besluit en verdedig. Let wel: die probleem van kwaad loop reguit oor op die vrae van hel en universele verlossing; dié word ten volle in die nuwe **Reeks 8 (Die Kruis & die Laaste Dinge)** hanteer.
 **Status:** Beplan
 
 ---
@@ -71,10 +71,10 @@ Elke reeks beantwoord die vraag wat die vorige een ooplaat.
 
 ---
 
-### Reeks 8 — Die Kruis & die Laaste Dinge  ⟵ *nuut (Hart-assessering 2026)*
+### Reeks 8 — Die Kruis & die Laaste Dinge  ⟵ *nuut (2026)*
 **Kernvraag:** Wat het die kruis bereik, en wat wag aan die einde — oordeel, hemel, hel, hoop?
-**Drukpunt:** Die skerpste teologiese provokasies van ons tyd (veral by David Bentley Hart): is 'n ewige hel met God se goedheid versoenbaar? Is strafplaasvervanging "wreed"? Sal almal uiteindelik gered word?
-**Benadering:** Hier kom drie van die ses skerpste Hart-breukvlakke tuis: **universele verlossing** (apokatastasis), **versoening** (strafplaasvervanging *én* losprys / *Christus Victor*), en die hel-kant van **soewereiniteit/verkiesing**. Gereformeerd, in die drie-beweging-styl (gee toe wat waar is → antwoord op die belydenis se sterkste → benoem die oorblywende verskil eerlik), met NGB Art. 37, DL 1.15 en HK Sondag 19 as anker. Gevoed deur Vraestelle A, B en C (sien onder). Land ná Christologie/opstanding (Reeks 7), want die kruis en die laaste dinge volg logies op Wie Christus is.
+**Drukpunt:** Die skerpste teologiese provokasies van ons tyd: is 'n ewige hel met God se goedheid versoenbaar? Is strafplaasvervanging "wreed"? Sal almal uiteindelik gered word?
+**Benadering:** Hier kom drie breukvlakke tuis: **universele verlossing** (apokatastasis, terug na Origenes en Gregorius van Nyssa), **versoening** (strafplaasvervanging *én* losprys / *Christus Victor*; die "wreedheid"-beswaar terug na Socinus), en die hel-kant van **soewereiniteit/verkiesing**. Gereformeerd, in die drie-beweging-styl (gee toe wat waar is → antwoord op die belydenis se sterkste → benoem die oorblywende verskil eerlik), met NGB Art. 37, DL 1.15 en HK Sondag 19 as anker. Gevoed deur Vraestelle A, B en C (sien onder). Land ná Christologie/opstanding (Reeks 7), want die kruis en die laaste dinge volg logies op Wie Christus is.
 **Status:** Beplan (nuut)
 
 ---
@@ -114,7 +114,7 @@ Elke reeks beantwoord die vraag wat die vorige een ooplaat:
 
 ## Gerigte vraestelle (akademiese ruggraat)
 
-Vier studies dra die skerpste Hart-breukvlakke op navorsingsvlak en voed die gemeente-reekse (en die Cosmic Wonder-boek). Elkeen volg die drie-beweging-styl.
+Vier studies dra die skerpste breukvlakke op navorsingsvlak en voed die gemeente-reekse (en die Cosmic Wonder-boek). Elkeen volg die drie-beweging-styl.
 
 | Vraestel | Breukvlak | Voed |
 |---|---|---|
