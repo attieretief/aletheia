@@ -260,7 +260,21 @@ class DefinitionsTooltips {
             card.innerHTML = content;
 
             term.appendChild(card);
-            
+
+            // Keep the card clear of the fixed sidebar and the viewport edges
+            const sidebar = document.querySelector('.site-logo');
+            const sb = sidebar && getComputedStyle(sidebar).display !== 'none'
+                ? sidebar.getBoundingClientRect().right : 0;
+            const margin = 12;
+            const minLeft = sb + margin;
+            const maxRight = document.documentElement.clientWidth - margin;
+            card.style.maxWidth = Math.min(640, maxRight - minLeft) + 'px';
+            const r = card.getBoundingClientRect();
+            let shift = 0;
+            if (r.left < minLeft) shift = minLeft - r.left;
+            else if (r.right > maxRight) shift = maxRight - r.right;
+            if (shift) card.style.transform = `translateX(calc(-50% + ${shift}px))`;
+
             // Show the card
             setTimeout(() => {
                 card.style.opacity = '1';
