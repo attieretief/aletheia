@@ -50,6 +50,7 @@ Die naam **Aletheia** (ἀλήθεια) is die Griekse woord vir *waarheid* — 
 
 Ons materiaal is in **studiereekse** georganiseer wat jy alleen of saam met 'n groep kan deurwerk. Elke reeks handel oor 'n spesifieke tema wat vandag op gelowiges se harte druk:
 
+- **[Goeie Vrae]({{ site.baseurl }}/vrae.html)** — Die vrae wat jy in die klas, aanlyn en by die braai hoor, elkeen in vyf minute eerlik beantwoord, met 'n pad na die dieper gesprek.
 - **[Proloog: Wat is Waarheid?]({{ site.baseurl }}/proloog.html)** — Wat bedoel ons as ons sê iets is waar, kan ons dit ken, en wie se waarheid is dit? Vier kort opstelle wat die grondslag lê.
 - **[Grondslag]({{ site.baseurl }}/reeks01-grondslag.html)** (Reeks 1) — Wat bedoel ons met "God"? Hoekom is daar iets eerder as niks? Die diep filosofiese fondament van ons geloof.
 - **[Wetenskap & Werklikheid]({{ site.baseurl }}/reeks02-wetenskap.html)** (Reeks 2) — Is geloof en wetenskap vyande? Die werklike geskiedenis en die werklike vrae.
@@ -73,6 +74,7 @@ The name **Aletheia** (ἀλήθεια) is the Greek word for *truth* — the sa
 
 Our material is organised into **study series** that you can work through on your own or with a group. Each series addresses a specific theme that weighs on believers' hearts today:
 
+- **[Good Questions]({{ site.baseurl }}/vrae.html)** — The questions you hear in class, online and round the braai, each answered honestly in five minutes, with a way into the deeper conversation.
 - **[Prologue: What Is Truth?]({{ site.baseurl }}/proloog.html)** — What do we mean when we say something is true, can we know it, and whose truth is it? Four short essays that lay the groundwork.
 - **[Foundation]({{ site.baseurl }}/reeks01-grondslag.html)** (Series 1) — What do we mean by "God"? Why is there something rather than nothing? The deep philosophical groundwork of our faith.
 - **[Science & Reality]({{ site.baseurl }}/reeks02-wetenskap.html)** (Series 2) — Are faith and science enemies? The real history and the real questions.

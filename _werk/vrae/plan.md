@@ -69,3 +69,6 @@ dieper" line then points to the Reeks 1–3 material that exists, plus "Reeks N 
   for `course_name == "vrae"`, because the landing page draws its own cards.
 - Noticed in passing: `_werk/kortvideo/01-road-runner.md` opens on "my neef" at a braai. The content
   recipe forbids invented anecdotes; it needs either Attie's real story or `[AUTHOR: INSERT]`.
+- **2026-10-18 published:** 15 answers live (#1–15) at /vrae.html; files in `vrae/`, landing `vrae.md`.
+  12 drafted by three parallel writers and edited by me. Open ⚠️: AF Bible wording in #4 (Joh 14:8–9),
+  #12 (Mk 8:29) vs 1983; Warfield paraphrase in #7. Next: #16–30.
