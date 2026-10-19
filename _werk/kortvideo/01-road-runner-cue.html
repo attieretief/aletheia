@@ -13,12 +13,22 @@
   #text .w { color: #9fd3ff; }
   #meta { position: absolute; top: 2vh; left: 6vw; right: 6vw; display: flex; justify-content: space-between; color: #555; font-size: 2.4vh; }
   #help { position: absolute; bottom: 2vh; left: 6vw; color: #333; font-size: 2vh; }
+  body.cam #card { bottom: 50vh; padding-top: 7vh; padding-bottom: 2vh; }
+  #cam { display: none; position: absolute; left: 0; right: 0; bottom: 4vh; height: 45vh; justify-content: center; }
+  body.cam #cam { display: flex; }
+  #cam .frame { position: relative; height: 100%; aspect-ratio: 16/9; overflow: hidden; border-radius: 6px; }
+  #cam video { width: 100%; height: 100%; object-fit: cover; transform: scaleX(-1); }
+  #cam .guide { position: absolute; top: 0; bottom: 0; left: 50%; transform: translateX(-50%); aspect-ratio: 9/16; outline: 2px dashed rgba(255,255,255,.5); box-shadow: 0 0 0 999px rgba(0,0,0,.45); }
+  #rec { position: absolute; top: 1.5vh; left: 1.5vh; padding: .3em .7em; border-radius: 1em; font-size: 2.2vh; background: #333; color: #aaa; }
+  #rec.on { background: #d00; color: #fff; }
+  #cam select { position: absolute; right: 1vh; bottom: 1vh; font-size: 1.6vh; background: #111; color: #888; border: 0; }
 </style>
 </head>
 <body>
 <div id="meta"><span id="num"></span><span id="name"></span></div>
 <div id="card"><div id="dir"></div><div id="text"></div></div>
-<div id="help">← → or space · L language · F fullscreen</div>
+<div id="cam"><div class="frame"><video id="vid" autoplay muted playsinline></video><div class="guide"></div><span id="rec">● R to record</span><select id="dev"></select></div></div>
+<div id="help">← → or space · L language · F fullscreen · C camera · R record/stop (saves a clip to Downloads)</div>
 <script>
 // w: true = whispered (shown in pale blue)
 const S = {
@@ -113,6 +123,45 @@ document.addEventListener("keydown", e => {
 document.addEventListener("click", e => { i += e.clientX < innerWidth / 3 ? -1 : 1; render(); });
 addEventListener("resize", fit);
 render();
+
+// Camera mode: cue sits right under the webcam; R records the current scene and downloads it.
+let stream = null, rec = null, chunks = [], takes = {};
+async function startCam(deviceId) {
+  if (stream) stream.getTracks().forEach(tr => tr.stop());
+  stream = await navigator.mediaDevices.getUserMedia({
+    video: { deviceId: deviceId ? { exact: deviceId } : undefined, width: { ideal: 1920 }, height: { ideal: 1080 } },
+    audio: { echoCancellation: false, noiseSuppression: true, autoGainControl: false } });
+  $("vid").srcObject = stream;
+  const devs = (await navigator.mediaDevices.enumerateDevices()).filter(d => d.kind === "videoinput");
+  const cur = stream.getVideoTracks()[0].getSettings().deviceId;
+  $("dev").innerHTML = devs.map(d => `<option value="${d.deviceId}" ${d.deviceId === cur ? "selected" : ""}>${d.label || "camera"}</option>`).join("");
+}
+$("dev").addEventListener("change", e => startCam(e.target.value));
+$("dev").addEventListener("click", e => e.stopPropagation());
+function toggleRec() {
+  if (!stream) return;
+  if (rec && rec.state === "recording") { rec.stop(); return; }
+  const type = ["video/mp4;codecs=avc1", "video/mp4", "video/webm;codecs=vp9", "video/webm"].find(m => MediaRecorder.isTypeSupported(m));
+  rec = new MediaRecorder(stream, { mimeType: type, videoBitsPerSecond: 12e6 });
+  chunks = [];
+  const scene = i + 1, key = lang + scene;
+  takes[key] = (takes[key] || 0) + 1;
+  rec.ondataavailable = e => e.data.size && chunks.push(e.data);
+  rec.onstop = () => {
+    const a = document.createElement("a");
+    a.href = URL.createObjectURL(new Blob(chunks, { type }));
+    a.download = `rr-${lang}-${String(scene).padStart(2, "0")}-take${takes[key]}.${type.includes("mp4") ? "mp4" : "webm"}`;
+    a.click();
+    $("rec").className = ""; $("rec").textContent = `✓ saved ${a.download}`;
+  };
+  rec.start(1000);
+  $("rec").className = "on"; $("rec").textContent = `● REC scene ${scene}`;
+}
+document.addEventListener("keydown", async e => {
+  const k = e.key.toLowerCase();
+  if (k === "c") { document.body.classList.toggle("cam"); if (document.body.classList.contains("cam") && !stream) { try { await startCam(); } catch (err) { $("rec").textContent = "camera blocked: " + err.name; } } render(); }
+  else if (k === "r") { e.preventDefault(); toggleRec(); }
+});
 </script>
 </body>
 </html>
