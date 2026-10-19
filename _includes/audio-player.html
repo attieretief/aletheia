@@ -122,6 +122,15 @@ body.ap-open { padding-bottom: 160px; }
   new MutationObserver(function () { if (audio.src) { var playing = !audio.paused; load(i, true); if (playing) audio.play(); } })
     .observe(document.documentElement, { attributes: true, attributeFilter: ['class'] });
 
+  // Keep the bar clear of the fixed desktop sidebar (a tall column on the left)
+  function clearSidebar() {
+    var sb = document.querySelector('.site-logo');
+    var r = sb && getComputedStyle(sb).display !== 'none' ? sb.getBoundingClientRect() : null;
+    root.style.left = r && r.height > innerHeight / 2 && r.right < innerWidth / 2 ? r.right + 'px' : '0';
+  }
+  clearSidebar();
+  addEventListener('resize', clearSidebar);
+
   root.hidden = false;
   document.body.classList.add('ap-ready');
 })();
