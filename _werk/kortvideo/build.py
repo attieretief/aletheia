@@ -18,7 +18,7 @@ def build(segs, out, title_at):
     inputs=[]; fc=[]; n=0
     for src,a,b in segs:
         inputs+=["-ss",str(a),"-to",str(b),"-i",D+src]
-        fc.append(f"[{n}:v]fps=30,crop=608:1080:626:0,scale=1080:1920:flags=lanczos,setsar=1,format=yuv420p[v{n}];[{n}:a]aresample=48000,afade=t=in:d=0.04,afade=t=out:st={b-a-0.06:.2f}:d=0.06[a{n}]")
+        fc.append(f"[{n}:v]fps=30,crop=608:1080:626:0,scale=1080:1920:flags=lanczos,setsar=1,format=yuv420p[v{n}];[{n}:a]aresample=48000,afade=t=in:d=0.015,afade=t=out:st={b-a-0.02:.3f}:d=0.02[a{n}]")
         n+=1
     inputs+=["-loop","1","-t","3","-i","end.png","-f","lavfi","-t","3","-i","anullsrc=r=48000:cl=mono","-loop","1","-i","title.png"]
     fc.append(f"[{n}:v]fps=30,format=yuv420p,setsar=1[v{n}]"); fc.append(f"[{n+1}:a]aresample=48000[a{n}]")
