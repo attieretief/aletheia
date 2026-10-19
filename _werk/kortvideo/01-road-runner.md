@@ -6,15 +6,28 @@ Titelkaart aan die einde: *aletheia.attieretief.com*
 
 ---
 
-**[Koue opening. Geen groet nie. Tang in die hand.]**
+**[Koue opening. Fluister. Foon baie naby. Kyk vinnig oor die skouer na die vuur. Tang laag.]**
 
-Jy was al by hierdie braai. Iemand sit sy bier neer en sê: "Kyk, ek het niks teen jou geloof
-nie. As dit vir jou werk, is dit jou waarheid. Ek het myne. *You do you.*"
+Psst. Kom nader.
 
-Almal knik. Dit klink gaaf. Dit klink verdraagsaam. En niemand wil die een wees wat die aand
-bederf nie.
+**[Kyk weer om.]**
 
-Maar die vraag bly by my. As elkeen sy eie waarheid het, is daar dan nog iets soos *die* waarheid?
+Ek gaan jou iets vertel wat 'n mens nie by 'n braai sê nie.
+
+Jy ken die ou. Hy sit sy bier neer en sê: "Kyk, ek het niks teen jou geloof nie. As dit vir jou
+werk, is dit jou waarheid. Ek het myne. *You do you.*"
+
+Almal knik. Dit klink gaaf. Niemand wil die een wees wat die aand bederf nie.
+
+Hier's die geheim...
+
+**[Pouse.]**
+
+...niemand leef eintlik so nie.
+
+**[Normale stem. Tree terug van die foon af.]**
+
+As elkeen sy eie waarheid het, is daar dan nog iets soos *die* waarheid? Kom ek wys jou.
 
 **[Titelkaart: "Daar is geen waarheid nie" is nie waar nie]**
 
@@ -67,7 +80,7 @@ met 'n vurk en frons.
 
 Niemand antwoord: "Dit hang af van jou waarheid."
 
-**[Lig die tang effens.]**
+**[Leun weer naby die foon. Fluister. Kyk oor die skouer.]**
 
 Oor die hoender wil niemand sy eie waarheid hê nie.
 
@@ -92,16 +105,28 @@ End title card: *aletheia.attieretief.com*
 
 ---
 
-**[Cold open. No greeting. Tongs in hand.]**
+**[Cold open. Whisper. Phone very close. Quick glance over the shoulder toward the fire. Tongs held low.]**
 
-You've been at this braai. Someone puts down his beer and says: "Look, I've got nothing against
-your faith. If it works for you, it's your truth. I've got mine. You do you."
+Psst. Come closer.
 
-Everyone nods. It sounds kind. It sounds tolerant. And nobody wants to be the one who spoils the
-evening.
+**[Glance again.]**
 
-But the question stays with me. If everyone has their own truth, is there still such a thing as
-*the* truth?
+I'm going to tell you something you're not supposed to say at a braai.
+
+You know the guy. He puts down his beer and says: "Look, I've got nothing against your faith. If it
+works for you, it's your truth. I've got mine. You do you."
+
+Everyone nods. It sounds kind. Nobody wants to be the one who spoils the evening.
+
+Here's the secret...
+
+**[Pause.]**
+
+...nobody actually lives like that.
+
+**[Normal voice. Step back from the phone.]**
+
+If everyone has their own truth, is there still such a thing as *the* truth? Let me show you.
 
 **[Title card: "There's no truth" isn't true]**
 
@@ -154,7 +179,7 @@ chicken with a fork and frowns.
 
 Nobody answers, "That depends on your truth."
 
-**[Raise the tongs slightly.]**
+**[Lean back in close. Whisper. Glance over the shoulder.]**
 
 When it comes to the chicken, nobody wants their own truth.
 
