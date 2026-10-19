@@ -161,3 +161,23 @@ I let it go.
 When it comes to the chicken, I've noticed, nobody wants their own truth.
 
 **[Title card: aletheia.attieretief.com]**
+
+---
+
+## Posting (Buffer, Wed 21 Oct 18:00 SAST, IG reel + YT short)
+
+**IG caption**
+"If it works for you, it's your truth." Sounds kind. But is *that* true?
+
+The full essay, Whose Truth?: aletheia.attieretief.com/proloog/sessie3/?ref=ig
+
+#philosophy #truth #faith #apologetics
+
+**YT description**
+"There is no truth." Is that true? A braai, a cousin, and Wile E. Coyote.
+
+Read the essay: https://aletheia.attieretief.com/proloog/sessie3/?ref=yt
+
+#Shorts #philosophy #truth #faith
+
+YT Shorts limit is 3:00: the ±2:50 cut fits. Pin a question comment on YT: "Have you heard 'that's your truth' at a braai? What did you say?"
