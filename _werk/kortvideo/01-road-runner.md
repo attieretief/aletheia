@@ -8,7 +8,7 @@ Titelkaart aan die einde: *aletheia.attieretief.com*
 
 **[Koue opening. Geen groet nie. Tang in die hand.]**
 
-Verlede Saterdag by die braai sit my neef sy bier neer en sê: "Kyk, ek het niks teen jou geloof
+Jy was al by hierdie braai. Iemand sit sy bier neer en sê: "Kyk, ek het niks teen jou geloof
 nie. As dit vir jou werk, is dit jou waarheid. Ek het myne. *You do you.*"
 
 Almal knik. Dit klink gaaf. Dit klink verdraagsaam. En niemand wil die een wees wat die aand
@@ -44,7 +44,7 @@ niemand afkyk nie.
 
 **[Leun nader. Die draai.]**
 
-Maar hier moet ek eerlik wees. Dié argument slaan die *slagspreuk* plat. Dit slaan nie my neef plat
+Maar hier moet ek eerlik wees. Dié argument slaan die *slagspreuk* plat. Dit slaan nie die man by die vuur plat
 nie.
 
 Want wat hy eintlik bedoel, is nie 'n filosofiese teorie nie. Hy bedoel: waar jy staan, bepaal wat
@@ -60,17 +60,16 @@ As ek met die Road Runner-taktiek wen en dan dink die gesprek is verby, het ek n
 
 **[Klein einde.]**
 
-Later was die vleis klaar. My neef staan op, prik die hoender met 'n vurk en frons.
+En kyk wat gebeur later dieselfde aand. Die vleis is amper klaar. Dieselfde man prik die hoender
+met 'n vurk en frons.
 
 "Is hierdie ding gaar?"
 
-Ek het vir 'n oomblik daaraan gedink om te sê: "Dit hang af van jou waarheid."
-
-Ek het dit maar laat staan.
+Niemand antwoord: "Dit hang af van jou waarheid."
 
 **[Lig die tang effens.]**
 
-Oor die hoender, het ek agtergekom, wil niemand sy eie waarheid hê nie.
+Oor die hoender wil niemand sy eie waarheid hê nie.
 
 **[Titelkaart: aletheia.attieretief.com]**
 
@@ -95,7 +94,7 @@ End title card: *aletheia.attieretief.com*
 
 **[Cold open. No greeting. Tongs in hand.]**
 
-Last Saturday at the braai my cousin puts down his beer and says: "Look, I've got nothing against
+You've been at this braai. Someone puts down his beer and says: "Look, I've got nothing against
 your faith. If it works for you, it's your truth. I've got mine. You do you."
 
 Everyone nods. It sounds kind. It sounds tolerant. And nobody wants to be the one who spoils the
@@ -132,8 +131,8 @@ nobody looks down.
 
 **[Lean in. The turn.]**
 
-But I have to be honest here. This argument knocks down the *slogan*. It doesn't knock down my
-cousin.
+But I have to be honest here. This argument knocks down the *slogan*. It doesn't knock down the man
+by the fire.
 
 Because what he really means isn't a philosophical theory. He means: where you stand shapes what you
 see. And that's true. A farmer in the Karoo and a banker in Sandton look at the same drought
@@ -148,17 +147,16 @@ If I win with the Road Runner tactic and think the conversation is over, I haven
 
 **[Small ending.]**
 
-The meat was done later. My cousin gets up, prods the chicken with a fork and frowns.
+And watch what happens later that same evening. The meat's nearly done. The same man prods the
+chicken with a fork and frowns.
 
 "Is this thing cooked?"
 
-For a moment I thought of saying, "That depends on your truth."
-
-I let it go.
+Nobody answers, "That depends on your truth."
 
 **[Raise the tongs slightly.]**
 
-When it comes to the chicken, I've noticed, nobody wants their own truth.
+When it comes to the chicken, nobody wants their own truth.
 
 **[Title card: aletheia.attieretief.com]**
 
@@ -174,7 +172,7 @@ The full essay, Whose Truth?: aletheia.attieretief.com/proloog/sessie3/?ref=ig
 #philosophy #truth #faith #apologetics
 
 **YT description**
-"There is no truth." Is that true? A braai, a cousin, and Wile E. Coyote.
+"There is no truth." Is that true? A braai, a slogan, and Wile E. Coyote.
 
 Read the essay: https://aletheia.attieretief.com/proloog/sessie3/?ref=yt
 
