@@ -20,8 +20,14 @@
     applyLang(newLang);
   }
 
+  // ?lang=en|af in the URL wins (links from English social posts), and is remembered.
+  var param = new URLSearchParams(location.search).get('lang');
+  if (param === 'en' || param === 'af') {
+    try { localStorage.setItem(STORAGE_KEY, param); } catch (e) {}
+  }
+
   // Apply saved preference immediately (before DOMContentLoaded to avoid flash)
-  var saved = localStorage.getItem(STORAGE_KEY);
+  var saved = param || localStorage.getItem(STORAGE_KEY);
   if (saved) {
     applyLang(saved);
   }

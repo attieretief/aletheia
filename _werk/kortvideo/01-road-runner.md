@@ -192,14 +192,14 @@ When it comes to the chicken, nobody wants their own truth.
 **IG caption**
 "If it works for you, it's your truth." Sounds kind. But is *that* true?
 
-The full essay, Whose Truth?: aletheia.attieretief.com/proloog/sessie3/?ref=ig
+The full essay, Whose Truth?: aletheia.attieretief.com/proloog/sessie3/?lang=en&ref=ig
 
 #philosophy #truth #faith #apologetics
 
 **YT description**
 "There is no truth." Is that true? A braai, a slogan, and Wile E. Coyote.
 
-Read the essay: https://aletheia.attieretief.com/proloog/sessie3/?ref=yt
+Read the essay: https://aletheia.attieretief.com/proloog/sessie3/?lang=en&ref=yt
 
 #Shorts #philosophy #truth #faith
 

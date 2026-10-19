@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Road Runner Cues</title>
+<style>
+  html, body { margin: 0; height: 100%; background: #000; color: #fff; font-family: -apple-system, "Helvetica Neue", sans-serif; overflow: hidden; cursor: none; }
+  #card { position: absolute; inset: 0; padding: 9vh 6vw 6vh; display: flex; flex-direction: column; justify-content: center; box-sizing: border-box; }
+  #dir { color: #8a8a8a; font-style: italic; font-size: 3.2vh; margin-bottom: 3vh; }
+  #text { line-height: 1.3; font-weight: 500; }
+  #text p { margin: 0 0 0.6em; }
+  #text .w { color: #9fd3ff; }
+  #meta { position: absolute; top: 2vh; left: 6vw; right: 6vw; display: flex; justify-content: space-between; color: #555; font-size: 2.4vh; }
+  #help { position: absolute; bottom: 2vh; left: 6vw; color: #333; font-size: 2vh; }
+</style>
+</head>
+<body>
+<div id="meta"><span id="num"></span><span id="name"></span></div>
+<div id="card"><div id="dir"></div><div id="text"></div></div>
+<div id="help">← → or space · L language · F fullscreen</div>
+<script>
+// w: true = whispered (shown in pale blue)
+const S = {
+en: [
+ { n: "Whisper open", d: "WHISPER. Phone very close. Glance over shoulder at the fire. Tongs low.", w: true,
+   t: ["Psst. Come closer.", "[glance again]", "I'm going to tell you something you're not supposed to say at a braai."] },
+ { n: "The guy", d: "Still whispering.", w: true,
+   t: ["You know the guy. He puts down his beer and says:", "“Look, I've got nothing against your faith. If it works for you, it's your truth. I've got mine. You do you.”", "Everyone nods. It sounds kind. Nobody wants to be the one who spoils the evening."] },
+ { n: "The secret", d: "Whisper. Hold the pause.", w: true,
+   t: ["Here's the secret…", "[pause]", "…nobody actually lives like that."] },
+ { n: "Step back", d: "NORMAL VOICE. Step back from the phone.",
+   t: ["If everyone has their own truth, is there still such a thing as the truth?", "Let me show you."] },
+ { n: "The mechanism", d: "Slower.",
+   t: ["Let's take the sharpest version of what he's saying, and see what happens when we take it seriously.", "“There is no truth.”", "Is that true?", "If it is, then there is at least one truth. And then it's false.", "If it isn't true, we needn't worry about it."] },
+ { n: "The softer one", d: "",
+   t: ["Or try the softer one: “All truth is relative.”", "Does that hold for everyone, everywhere, always?", "Then it's an absolute truth. And the statement refutes itself."] },
+ { n: "Road Runner", d: "Smile.",
+   t: ["The American apologists Norman Geisler and Frank Turek call this the Road Runner tactic.", "Remember the cartoon? Wile E. Coyote chases the bird, runs straight off the edge of a cliff, and just hangs there in mid-air.", "He only falls when he looks down and sees there's nothing underneath him."] },
+ { n: "Hangs in the air", d: "",
+   t: ["A statement that fails its own standard hangs in the air just like that.", "It holds only as long as nobody looks down."] },
+ { n: "The turn", d: "Lean in.",
+   t: ["But I have to be honest here.", "This argument knocks down the slogan. It doesn't knock down the man by the fire.", "Because what he really means isn't a philosophical theory. He means: where you stand shapes what you see. And that's true."] },
+ { n: "One mountain", d: "",
+   t: ["A farmer in the Karoo and a banker in Sandton look at the same drought differently. We all see from somewhere.", "Only: if we all see from somewhere, there is something to see.", "Two people looking at the same mountain from different sides don't see two mountains. They see one mountain, from two sides."] },
+ { n: "Not listening", d: "Then pause. Look away, as if at the fire.",
+   t: ["If I win with the Road Runner tactic and think the conversation is over, I haven't been listening."] },
+ { n: "The chicken", d: "Lighter.",
+   t: ["And watch what happens later that same evening. The meat's nearly done.", "The same man prods the chicken with a fork and frowns.", "“Is this thing cooked?”", "Nobody answers, “That depends on your truth.”"] },
+ { n: "Whisper close", d: "WHISPER. Lean back in close. Glance over shoulder.", w: true,
+   t: ["When it comes to the chicken, nobody wants their own truth."] },
+],
+af: [
+ { n: "Fluister-opening", d: "FLUISTER. Foon baie naby. Kyk oor die skouer na die vuur. Tang laag.", w: true,
+   t: ["Psst. Kom nader.", "[kyk weer om]", "Ek gaan jou iets vertel wat 'n mens nie by 'n braai sê nie."] },
+ { n: "Die ou", d: "Steeds fluister.", w: true,
+   t: ["Jy ken die ou. Hy sit sy bier neer en sê:", "“Kyk, ek het niks teen jou geloof nie. As dit vir jou werk, is dit jou waarheid. Ek het myne. You do you.”", "Almal knik. Dit klink gaaf. Niemand wil die een wees wat die aand bederf nie."] },
+ { n: "Die geheim", d: "Fluister. Hou die pouse.", w: true,
+   t: ["Hier's die geheim…", "[pouse]", "…niemand leef eintlik so nie."] },
+ { n: "Tree terug", d: "NORMALE STEM. Tree terug van die foon af.",
+   t: ["As elkeen sy eie waarheid het, is daar dan nog iets soos die waarheid?", "Kom ek wys jou."] },
+ { n: "Die meganisme", d: "Stadiger.",
+   t: ["Kom ons vat die skerpste weergawe van wat hy sê, en kyk wat gebeur as ons dit ernstig opneem.", "“Daar is geen waarheid nie.”", "Is dit waar?", "As dit waar is, is daar ten minste een waarheid. En dan is dit vals.", "As dit nie waar is nie, hoef ons ons nie daaraan te steur nie."] },
+ { n: "Die sagter een", d: "",
+   t: ["Of probeer die sagter een: “Alle waarheid is relatief.”", "Geld dit vir almal, oral, altyd?", "Dan is dit 'n absolute waarheid. En die stelling weerlê homself."] },
+ { n: "Road Runner", d: "Glimlag.",
+   t: ["Die Amerikaanse apologete Norman Geisler en Frank Turek noem dit die Road Runner-taktiek.", "Onthou jy die tekenprent? Wile E. Coyote jaag die voël, hardloop reguit oor die rand van 'n krans, en bly net daar in die lug hang.", "Hy val eers wanneer hy afkyk en sien daar is niks onder hom nie."] },
+ { n: "In die lug", d: "",
+   t: ["'n Stelling wat nie aan sy eie maatstaf voldoen nie, hang net so in die lug.", "Dit hou solank niemand afkyk nie."] },
+ { n: "Die draai", d: "Leun nader.",
+   t: ["Maar hier moet ek eerlik wees.", "Dié argument slaan die slagspreuk plat. Dit slaan nie die man by die vuur plat nie.", "Want wat hy eintlik bedoel, is nie 'n filosofiese teorie nie. Hy bedoel: waar jy staan, bepaal wat jy sien. En dit is waar."] },
+ { n: "Een berg", d: "",
+   t: ["'n Boer in die Karoo en 'n bankier in Sandton kyk anders na dieselfde droogte. Ons kyk almal van êrens af.", "Maar onthou: as ons almal van êrens af kyk, is daar iets om na te kyk.", "Twee mense wat van verskillende kante na dieselfde berg kyk, sien nie twee berge nie. Hulle sien een berg, van twee kante."] },
+ { n: "Nie geluister nie", d: "Dan pouse. Kyk weg, asof na die vuur.",
+   t: ["As ek met die Road Runner-taktiek wen en dan dink die gesprek is verby, het ek nie geluister nie."] },
+ { n: "Die hoender", d: "Ligter.",
+   t: ["En kyk wat gebeur later dieselfde aand. Die vleis is amper klaar.", "Dieselfde man prik die hoender met 'n vurk en frons.", "“Is hierdie ding gaar?”", "Niemand antwoord: “Dit hang af van jou waarheid.”"] },
+ { n: "Fluister-slot", d: "FLUISTER. Leun weer naby. Kyk oor die skouer.", w: true,
+   t: ["Oor die hoender wil niemand sy eie waarheid hê nie."] },
+]};
+let lang = "en", i = 0;
+try { lang = localStorage.getItem("rr-lang") || "en"; i = +localStorage.getItem("rr-i") || 0; } catch (e) {}
+const $ = id => document.getElementById(id);
+function fit() {
+  const box = $("card"), txt = $("text");
+  let lo = 2, hi = 12;
+  for (let k = 0; k < 14; k++) {
+    const mid = (lo + hi) / 2;
+    txt.style.fontSize = mid + "vh";
+    (box.scrollHeight <= box.clientHeight && box.scrollWidth <= box.clientWidth) ? lo = mid : hi = mid;
+  }
+  txt.style.fontSize = lo + "vh";
+}
+function render() {
+  const s = S[lang]; i = Math.max(0, Math.min(i, s.length - 1)); const c = s[i];
+  $("num").textContent = (i + 1) + " / " + s.length + "  ·  " + lang.toUpperCase();
+  $("name").textContent = c.n;
+  $("dir").textContent = c.d;
+  $("text").innerHTML = c.t.map(p => `<p class="${c.w ? "w" : ""}">${p.replace(/^\[(.*)\]$/, '<span style="color:#666;font-style:italic">[$1]</span>')}</p>`).join("");
+  fit();
+  try { localStorage.setItem("rr-lang", lang); localStorage.setItem("rr-i", i); } catch (e) {}
+}
+document.addEventListener("keydown", e => {
+  if (["ArrowRight", " ", "PageDown", "Enter"].includes(e.key)) i++;
+  else if (["ArrowLeft", "PageUp", "Backspace"].includes(e.key)) i--;
+  else if (e.key.toLowerCase() === "l") lang = lang === "en" ? "af" : "en";
+  else if (e.key.toLowerCase() === "f") { document.fullscreenElement ? document.exitFullscreen() : document.documentElement.requestFullscreen(); return; }
+  else return;
+  e.preventDefault(); render();
+});
+document.addEventListener("click", e => { i += e.clientX < innerWidth / 3 ? -1 : 1; render(); });
+addEventListener("resize", fit);
+render();
+</script>
+</body>
+</html>
