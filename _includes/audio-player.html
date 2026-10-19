@@ -91,11 +91,33 @@ body.ap-open { padding-bottom: 160px; }
       navigator.mediaSession.metadata = new MediaMetadata({ title: $('ap-title').textContent, artist: 'Aletheia', album: lang() === 'en' ? 'Good Questions' : 'Goeie Vrae' });
     }
   }
+  // Keep the page in step with the audio: swap in the next question's page without
+  // reloading, so the same <audio> element (and the user's tap that started it) carries on.
+  function follow(t) {
+    if (t.url === location.pathname) return;
+    fetch(t.url).then(function (r) { return r.text(); }).then(function (html) {
+      var doc = new DOMParser().parseFromString(html, 'text/html');
+      var oldArt = document.querySelector('article'), newArt = doc.querySelector('article');
+      if (!oldArt || !newArt) { return; }
+      var oldTop = oldArt.previousElementSibling, newTop = newArt.previousElementSibling;
+      var oldBottom = root.nextElementSibling, newBottom = doc.getElementById('ap') && doc.getElementById('ap').nextElementSibling;
+      oldArt.replaceWith(document.importNode(newArt, true));
+      if (oldTop && newTop) oldTop.replaceWith(document.importNode(newTop, true));
+      if (oldBottom && newBottom) oldBottom.replaceWith(document.importNode(newBottom, true));
+      document.title = doc.title;
+      history.pushState({ ap: true }, '', t.url);
+      root.dataset.current = t.url;
+      window.scrollTo(0, 0);
+      if (typeof DefinitionsTooltips === 'function') { try { new DefinitionsTooltips(); } catch (e) {} }
+    }).catch(function () {});
+  }
+  addEventListener('popstate', function () { location.reload(); });
+
   function fmt(x) { x = Math.floor(x || 0); return Math.floor(x / 60) + ':' + ('0' + x % 60).slice(-2); }
   function open() { $('ap-pill').hidden = true; $('ap-bar').hidden = false; document.body.classList.add('ap-open'); }
   function play() { if (!audio.src) load(i); open(); audio.play(); }
-  function next() { if (i < list.length - 1) { load(i + 1); audio.play(); } }
-  function prev() { if (audio.currentTime > 5 || i === 0) { audio.currentTime = 0; } else { load(i - 1); audio.play(); } }
+  function next() { if (i < list.length - 1) { load(i + 1); audio.play(); follow(list[i]); } }
+  function prev() { if (audio.currentTime > 5 || i === 0) { audio.currentTime = 0; } else { load(i - 1); audio.play(); follow(list[i]); } }
 
   $('ap-pill').addEventListener('click', play);
   $('ap-play').addEventListener('click', function () { audio.paused ? play() : audio.pause(); });
