@@ -56,3 +56,4 @@ spec/failures.txt
 __pycache__/
 *.pyc
 _werk/stem-toets/
+_werk/luister/

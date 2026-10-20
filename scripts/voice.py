@@ -5,6 +5,8 @@
     python3 scripts/voice.py vrae/galileo.md  # one page
     python3 scripts/voice.py vrae --dry-run   # print the spoken text, no API calls
     python3 scripts/voice.py vrae --lang=af   # one language only
+    python3 scripts/voice.py _werk/reeks03/sessie1.md --lang=af --out=_werk/luister
+                                              # read a draft aloud for review (not published)
 
 Writes assets/audio/<course>/<slug>.<af|en>.mp3. The site's player finds them by path.
 Skips a file whose spoken text has not changed (hashes in assets/audio/manifest.json).
@@ -20,6 +22,7 @@ import os
 import re
 import subprocess
 import sys
+import urllib.error
 import urllib.request
 from pathlib import Path
 
@@ -85,7 +88,37 @@ def to_speech(md, question):
     return "\n\n".join(([question] if question else []) + out)
 
 
+MAX_CHARS = 4500   # eleven_v3 caps a request at ~5000 characters
+
+
+def chunks(text):
+    out, cur = [], ""
+    for para in text.split("\n\n"):
+        if cur and len(cur) + len(para) + 2 > MAX_CHARS:
+            out.append(cur)
+            cur = ""
+        cur = (cur + "\n\n" + para) if cur else para
+    return out + ([cur] if cur else [])
+
+
 def speak(text, lang, dest, key):
+    parts = chunks(text)
+    if len(parts) == 1:
+        return speak_one(text, lang, dest, key)
+    tmp = []
+    for n, part in enumerate(parts):
+        p = dest.with_suffix(f".part{n}.mp3")
+        speak_one(part, lang, p, key)
+        tmp.append(p)
+    listfile = dest.with_suffix(".txt")
+    listfile.write_text("".join(f"file '{p.name}'\n" for p in tmp))
+    subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-f", "concat", "-safe", "0",
+                    "-i", str(listfile), "-c", "copy", str(dest)], check=True, cwd=dest.parent)
+    for p in tmp + [listfile]:
+        p.unlink()
+
+
+def speak_one(text, lang, dest, key):
     voice, model, hint = VOICES[lang]
     payload = {"text": text, "model_id": model}
     if hint:
@@ -94,8 +127,11 @@ def speak(text, lang, dest, key):
         f"https://api.elevenlabs.io/v1/text-to-speech/{voice}?output_format={FORMAT_BY_LANG.get(lang, FORMAT)}",
         data=json.dumps(payload).encode(),
         headers={"xi-api-key": key, "Content-Type": "application/json", "Accept": "audio/mpeg"})
-    with urllib.request.urlopen(req, timeout=600) as r:
-        dest.write_bytes(r.read())
+    try:
+        with urllib.request.urlopen(req, timeout=600) as r:
+            dest.write_bytes(r.read())
+    except urllib.error.HTTPError as e:
+        sys.exit(f"ElevenLabs {e.code}: {e.read().decode(errors='replace')[:300]}")
 
 
 def pages(args):
@@ -109,6 +145,7 @@ def main():
     dry = "--dry-run" in sys.argv
     rebuild = "--rebuild-manifest" in sys.argv   # trust existing files, record their hashes
     langs = [a.split("=", 1)[1] for a in sys.argv if a.startswith("--lang=")] or ["af", "en"]
+    out_dir = next((Path(a.split("=", 1)[1]) for a in sys.argv if a.startswith("--out=")), None)
     if not args:
         sys.exit(__doc__)
     manifest = json.loads(MANIFEST.read_text()) if MANIFEST.exists() else {}
@@ -128,17 +165,20 @@ def main():
             if dry:
                 print(f"\n===== {rel} ({len(text)} chars)\n{text}")
                 continue
-            dest = AUDIO / rel
+            dest = (ROOT / out_dir / f"{page.stem}.{lang}.mp3") if out_dir else AUDIO / rel
             if rebuild:
                 if dest.exists():
                     manifest[rel] = digest
                 continue
-            if dest.exists() and manifest.get(rel) == digest:
+            if not out_dir and dest.exists() and manifest.get(rel) == digest:
                 print(f"skip  {rel}")
                 continue
             key = key or api_key()
             dest.parent.mkdir(parents=True, exist_ok=True)
             speak(text, lang, dest, key)
+            if out_dir:
+                print(f"wrote {dest.relative_to(ROOT)} ({dest.stat().st_size // 1024} KB)")
+                continue
             if MANIFEST.exists():   # another run may have written meanwhile
                 manifest = {**json.loads(MANIFEST.read_text()), **manifest}
             manifest[rel] = digest
