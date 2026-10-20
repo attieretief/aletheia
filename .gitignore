@@ -54,4 +54,5 @@ spec/failures.txt
 # Python
 .venv/
 __pycache__/
-*.pyc_werk/stem-toets/
+*.pyc
+_werk/stem-toets/
